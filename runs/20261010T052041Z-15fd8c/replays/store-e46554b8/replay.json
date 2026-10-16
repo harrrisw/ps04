@@ -1,0 +1,46 @@
+{
+  "mode": "replay",
+  "description": "Replay of exactly the saved live-run items; not a new live run",
+  "executed_at": "2026-10-10T05:28:51.713597Z",
+  "input_path": "runs/20261010T052041Z-15fd8c/items.jsonl",
+  "before_coverage": {
+    "distinct_items": 28,
+    "independent_publishers": 7,
+    "by_kind": {
+      "feed": 24,
+      "podcast": 2,
+      "youtube": 2
+    },
+    "by_publisher": {
+      "crayon": 2,
+      "greenbook": 2,
+      "insight-platforms": 1,
+      "marketing-ai-institute": 10,
+      "quantilope": 2,
+      "strat7": 1,
+      "techcrunch": 10
+    },
+    "duplicate_observations": 0
+  },
+  "after_coverage": {
+    "distinct_items": 28,
+    "independent_publishers": 7,
+    "by_kind": {
+      "feed": 24,
+      "podcast": 2,
+      "youtube": 2
+    },
+    "by_publisher": {
+      "crayon": 2,
+      "greenbook": 2,
+      "insight-platforms": 1,
+      "marketing-ai-institute": 10,
+      "quantilope": 2,
+      "strat7": 1,
+      "techcrunch": 10
+    },
+    "duplicate_observations": 0
+  },
+  "all_unchanged": true,
+  "same_latest_versions": true
+}

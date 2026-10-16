@@ -1,0 +1,22 @@
+{
+  "item_id": "podcast:f74782bc5c344427a5c6c1ec",
+  "source_id": "greenbook-podcast",
+  "publisher_id": "greenbook",
+  "kind": "podcast",
+  "title": "181 - IIEX AI Recap: What’s Next for Research with Sarah Snudden",
+  "url": "https://greenbookgbb.wpengine.com/181-iiex-ai-recap-whats-next-for-research-with-sarah-snudden",
+  "published_at": "2026-09-28T23:00:00Z",
+  "retrieved_at": "2026-10-10T05:20:55Z",
+  "media_url": "https://episodes.captivate.fm/episode/32110488-8b6d-48ad-a52b-47d0f5034006.mp3",
+  "native_id": "32110488-8b6d-48ad-a52b-47d0f5034006",
+  "underlying_id": "podcast:f74782bc5c344427a5c6c1ec",
+  "original_publication_basis": "feed published field",
+  "transcript_url": null,
+  "transcript_type": null,
+  "transcript_basis": "local speech recognition; manually verify quoted segments against audio",
+  "media_path": "data/media/3758150674395065a4e51d5c.audio",
+  "content_hash": "a63c08c6b00fd010d138c60a7b14d630d9979c45676e7015023428ef7f19f4ad",
+  "version_id": "76701011e6dfa0bf2bd3d6d070262bd7ad4e3d90d2c9bc6512a37d61044ed22e",
+  "text_path": "data/assets/b74876876d65ea9b9a5bd16b/76701011e6dfa0bf2bd3d6d070262bd7ad4e3d90d2c9bc6512a37d61044ed22e/text.txt",
+  "segments_path": "data/assets/b74876876d65ea9b9a5bd16b/76701011e6dfa0bf2bd3d6d070262bd7ad4e3d90d2c9bc6512a37d61044ed22e/segments.json"
+}

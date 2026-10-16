@@ -1,0 +1,20 @@
+{
+  "item_id": "youtube:Z4Coq_GIcpo",
+  "source_id": "insight-platforms-video",
+  "publisher_id": "insight-platforms",
+  "kind": "youtube",
+  "title": "Episode 23: Mpho Mpofu, Founder of Masutane – SOUTH AFRICA",
+  "url": "https://www.youtube.com/watch?v=Z4Coq_GIcpo",
+  "published_at": "2026-09-14T14:25:16Z",
+  "retrieved_at": "2026-10-10T05:17:42Z",
+  "media_url": null,
+  "native_id": "Z4Coq_GIcpo",
+  "underlying_id": "youtube:Z4Coq_GIcpo",
+  "original_publication_basis": "YouTube release/upload metadata",
+  "transcript_basis": "YouTube captions; manually verify quoted segments against audio",
+  "media_path": "data/media/bc6f3e00c8aa57a65eb5df93/Z4Coq_GIcpo.m4a",
+  "content_hash": "87bf7c93e7f6bcd04c680149c523cf3fc4ea31f9b448a83bc5376c32ba6b0846",
+  "version_id": "8d9dce70ceb9a10dffe7ea6f0223c8788829e28c0b3cd6e39438748f45cf52cc",
+  "text_path": "data/assets/bc6f3e00c8aa57a65eb5df93/8d9dce70ceb9a10dffe7ea6f0223c8788829e28c0b3cd6e39438748f45cf52cc/text.txt",
+  "segments_path": "data/assets/bc6f3e00c8aa57a65eb5df93/8d9dce70ceb9a10dffe7ea6f0223c8788829e28c0b3cd6e39438748f45cf52cc/segments.json"
+}

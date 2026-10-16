@@ -1,0 +1,22 @@
+{
+  "stage": "extract_content",
+  "status": "completed",
+  "input_count": 69,
+  "output_count": 39,
+  "started_at": "2026-10-16T15:32:07.456378Z",
+  "finished_at": "2026-10-16T15:32:59.935278Z",
+  "tools": [
+    "python",
+    "trafilatura"
+  ],
+  "models": [],
+  "cost_usd": 0,
+  "cost_is_estimate": false,
+  "errors": [],
+  "notes": [
+    "Reused saved media evidence for youtube:XH1u09pL0Hk",
+    "Reused saved media evidence for podcast:95a7820fb4dff4d6701109d0",
+    "Reused saved media evidence for podcast:f74782bc5c344427a5c6c1ec"
+  ],
+  "elapsed_seconds": 52.469
+}

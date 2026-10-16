@@ -1,0 +1,21 @@
+{
+  "item_id": "feed:c7506eddf63043533f132661",
+  "source_id": "marketing-ai-written",
+  "publisher_id": "marketing-ai-institute",
+  "kind": "feed",
+  "title": "How to Use AI Agents to Fact-Check and Copy Edit Your Content",
+  "url": "https://www.marketingaiinstitute.com/blog/ai-agents-as-fact-checkers",
+  "published_at": "2026-09-23T13:30:00Z",
+  "retrieved_at": "2026-10-10T05:17:36Z",
+  "media_url": null,
+  "native_id": "https://www.marketingaiinstitute.com/blog/ai-agents-as-fact-checkers",
+  "underlying_id": "feed:c7506eddf63043533f132661",
+  "original_publication_basis": "feed published field",
+  "transcript_url": null,
+  "transcript_type": null,
+  "download_hash": "b786ccd7594334cbfa1782576700c058de16d45be4bb5a31c8e4201604ac3ac3",
+  "content_hash": "0544a013e699a6336415a9fe9f73d7b71aa0978d1ec7b4d453b286b0e62fb1a2",
+  "version_id": "456f27b7529baa4ebdd5fc671074bb44bec587ce8b82870eab382332d7280e04",
+  "text_path": "data/assets/e511a94502b73ac7c1e95a08/456f27b7529baa4ebdd5fc671074bb44bec587ce8b82870eab382332d7280e04/text.txt",
+  "segments_path": null
+}

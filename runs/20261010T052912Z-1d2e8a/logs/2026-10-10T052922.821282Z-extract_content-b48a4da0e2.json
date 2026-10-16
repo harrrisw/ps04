@@ -1,0 +1,23 @@
+{
+  "stage": "extract_content",
+  "status": "completed",
+  "input_count": 69,
+  "output_count": 39,
+  "started_at": "2026-10-10T05:29:22.821282Z",
+  "finished_at": "2026-10-10T05:29:34.541592Z",
+  "tools": [
+    "python",
+    "trafilatura"
+  ],
+  "models": [],
+  "cost_usd": 0,
+  "cost_is_estimate": false,
+  "errors": [],
+  "notes": [
+    "Reused saved media evidence for youtube:Z4Coq_GIcpo",
+    "Reused saved media evidence for youtube:X-JA9VVnUBs",
+    "Reused saved media evidence for podcast:f74782bc5c344427a5c6c1ec",
+    "Reused saved media evidence for podcast:d829c12f888603de39b8f1bd"
+  ],
+  "elapsed_seconds": 11.718
+}

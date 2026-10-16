@@ -1,0 +1,35 @@
+{
+  "decisions": [
+    {
+      "item_id": "feed:b22689fdda57414e5b30cba0",
+      "version_id": "8a207c485426c60b72907c6e97153db69b8303d22d8d6e3342485ed4ac29f314",
+      "decision": "reject",
+      "reason": "Relevant only tangentially: it covers AI agents and infrastructure, not customer/competitor/market research workflows for small businesses. Credibility is limited because this is a TechCrunch podcast promo/feed item with no transcript, no inspectable methods, and no independent evidence behind the brief claims. It is also commercially oriented (promoting the podcast and conference) and provides no verifiable basis for research guidance.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:b3e89044c195d6f66141c957",
+      "version_id": "afdc0399b0f8a0499c3d10210002de491266d5781a9ff9a905236381818f5bb3",
+      "decision": "accept",
+      "reason": "Relevant to market research because it concerns brand-health tracking, category benchmarks, and how norms can be used to interpret survey tracking data—directly related to assessing evidence quality and practical research use on a budget. Credibility is mixed but usable: it is a vendor announcement, so the claims about the new norms are attributed rather than independently proven, yet the page includes concrete methodological details such as benchmark categories, regions, data volume, and update cadence. Uncertainty remains because the piece is promotional and does not provide an external validation study; its ROI and strategic advice should be treated as vendor claims, not proven outcomes.",
+      "piece_ids": [
+        "02",
+        "03"
+      ]
+    },
+    {
+      "item_id": "feed:b77c06d27f9c36f780a08714",
+      "version_id": "e811fcc0197d4f3de24593c1179eb9de3dc4d5c32dc91b839dc551b82de90b60",
+      "decision": "defer",
+      "reason": "Potentially relevant as a cautionary example of marketing-driven growth, but it is not about research tools or evidence workflows for small businesses. Credibility is insufficient for the revenue and acquisition claims because the item is a conference recap with no methodology, source documents, or way to verify the figures; the influencer-success story is an attributed speaker account, not audited evidence. Because it is also tied to a likely promotional event appearance and may overlap with broader AI startup publicity, the underlying claims should be treated as unverified and cross-post-like until better evidence exists.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:be7d32557d6f2583c9fe2942",
+      "version_id": "46c2224ee51604f79bf459904bd6dbd488ade884ec657a097c887aecaace1130",
+      "decision": "reject",
+      "reason": "Too generic and only loosely related to the brief: it is a marketing conference preview about AI and work roles, not an inspectable workflow for customer, competitor, or market research. Credibility is weak for decision use because it is promotional content from a conference organizer and offers no methods, data, or tested outcomes. The piece adds no reliable evidence about research-tool performance, cost, or small-business applicability.",
+      "piece_ids": []
+    }
+  ]
+}

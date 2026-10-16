@@ -1,0 +1,21 @@
+{
+  "item_id": "feed:3dc6f0279abe1142a7abbedd",
+  "source_id": "techcrunch-ai-written",
+  "publisher_id": "techcrunch",
+  "kind": "feed",
+  "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+  "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch",
+  "published_at": "2026-10-09T21:41:29Z",
+  "retrieved_at": "2026-10-10T05:20:44Z",
+  "media_url": null,
+  "native_id": "https://techcrunch.com/?p=3176290",
+  "underlying_id": "feed:3dc6f0279abe1142a7abbedd",
+  "original_publication_basis": "feed published field",
+  "transcript_url": null,
+  "transcript_type": null,
+  "download_hash": "13f654e8da12878e2f47439085cd8fc05c3b11268949b1f6be8ad00bee4900bc",
+  "content_hash": "62ca082dfe348ccec14a1ff3fd5a887586f87301b29bceb87726ae374e7d3a62",
+  "version_id": "b430cd74d9f76b8a3b925a9683820a4c9bae22ff94c2da30dc6fa70706e3387b",
+  "text_path": "data/assets/b5d2963cd59c421d916bdf28/b430cd74d9f76b8a3b925a9683820a4c9bae22ff94c2da30dc6fa70706e3387b/text.txt",
+  "segments_path": null
+}

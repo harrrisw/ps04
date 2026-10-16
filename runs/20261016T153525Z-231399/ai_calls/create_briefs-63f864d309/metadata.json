@@ -1,0 +1,7 @@
+{
+  "provider": "parley",
+  "model": "gpt-5.4-mini",
+  "prompt_sha256": "595d46ae6d224ffaf91431b2b92ced530a4de7a2353853505bd8b1a87367138f",
+  "cost_usd": 0,
+  "reused_from": "runs/20261016T153525Z-231399/ai_calls/create_briefs-aa0897f94e"
+}

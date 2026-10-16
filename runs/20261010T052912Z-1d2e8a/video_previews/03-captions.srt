@@ -1,0 +1,159 @@
+1
+00:00:00,000 --> 00:00:05,743
+If you run research for a small business, the useful AI question is
+
+2
+00:00:05,743 --> 00:00:11,487
+practical: can it help you answer one business question, with evidence you can
+
+3
+00:00:11,487 --> 00:00:17,230
+check, at an effort you can afford? This brief proposes a bounded customer-synthesis
+
+4
+00:00:17,230 --> 00:00:22,974
+pilot. Start with research material you already hold, name the person responsible for
+
+5
+00:00:22,974 --> 00:00:28,717
+interpretation, and compare the full workload with your current manual process. This is
+
+6
+00:00:28,717 --> 00:00:34,019
+an editorial proposal, not a tested intervention or a promise of savings.
+
+7
+00:00:36,019 --> 00:00:42,168
+Nielsen Norman Group makes a useful distinction: asking AI to organize research you
+
+8
+00:00:42,168 --> 00:00:48,318
+have is different from asking it to generate evidence you do not possess.
+
+9
+00:00:48,318 --> 00:00:54,467
+For a pilot, that means working from retained interview notes, survey responses, or
+
+10
+00:00:54,467 --> 00:01:00,617
+support tickets. Every proposed finding should point back to its source. If you
+
+11
+00:01:00,617 --> 00:01:06,766
+cannot locate that support, label the finding as an assumption. A polished summary
+
+12
+00:01:06,766 --> 00:01:12,916
+is not enough. Check whether its themes preserve what participants actually said, including
+
+13
+00:01:12,916 --> 00:01:19,065
+contradictions and outliers. Synthetic customer statements cannot stand in for observed customer evidence.
+
+14
+00:01:21,065 --> 00:01:27,343
+What counts as success? In Greenbook’s interview, Wex practitioner Nadine van Rooyen argues
+
+15
+00:01:27,343 --> 00:01:33,621
+that an insight’s success should not depend solely on whether its recommendation gets
+
+16
+00:01:33,621 --> 00:01:39,899
+implemented. That gives a small-business pilot a useful question: did the checked findings
+
+17
+00:01:39,899 --> 00:01:46,177
+improve understanding of the decision, even if the business chose to wait? But
+
+18
+00:01:46,177 --> 00:01:52,455
+Wex is a global enterprise with specialist roles. This practitioner account does not
+
+19
+00:01:52,455 --> 00:01:57,284
+establish small-business return on investment, staffing requirements, or AI effectiveness.
+
+20
+00:01:59,284 --> 00:02:06,095
+Context also takes work. In Insight Platforms’ interview, South African researcher Mpho Mpofu
+
+21
+00:02:06,095 --> 00:02:12,906
+calls for budgets to accommodate language and cultural context. For your pilot, identify
+
+22
+00:02:12,906 --> 00:02:19,717
+who can check local meaning, and include that effort in the comparison. Do
+
+23
+00:02:19,717 --> 00:02:26,527
+not assume an English summary captures every nuance. Mpofu’s perspective concerns varied African
+
+24
+00:02:26,527 --> 00:02:33,338
+markets. It should not become a single regional customer profile. These English-language interviews
+
+25
+00:02:33,338 --> 00:02:39,101
+also do not directly represent non-English customers or small-business AI deployments.
+
+26
+00:02:41,101 --> 00:02:48,459
+Together, these sources support our inference: assess traceability and contextual fit before treating
+
+27
+00:02:48,459 --> 00:02:55,817
+AI outputs as decision evidence. Producing a recommendation, or getting it implemented, is
+
+28
+00:02:55,817 --> 00:03:03,175
+insufficient by itself. Keep the pilot narrow. Record preparation, AI-assisted organization, human checking,
+
+29
+00:03:03,175 --> 00:03:10,532
+corrections, and later maintenance. Compare those tasks with the current manual process, using
+
+30
+00:03:10,532 --> 00:03:17,890
+the same question and material. Record actual costs rather than assuming savings. Name
+
+31
+00:03:17,890 --> 00:03:25,248
+an interpretation owner. Preserve unresolved questions. Customer-data handling and consent need separate evidence
+
+32
+00:03:25,248 --> 00:03:32,606
+before disclosure to a tool. Expand only if the comparison supports it. The
+
+33
+00:03:32,606 --> 00:03:38,832
+sources reviewed here do not demonstrate that this pilot design works.
+
+34
+00:03:40,832 --> 00:03:47,689
+Watch for independent small-business evaluations that disclose manual baselines, total costs, source coverage,
+
+35
+00:03:47,689 --> 00:03:54,546
+multilingual checks, and failures. Those results are missing here, as are customers’ views
+
+36
+00:03:54,546 --> 00:04:01,403
+on data use and documented unsuccessful small-business deployments. Read these perspectives with their
+
+37
+00:04:01,403 --> 00:04:08,261
+incentives in mind: Mpofu has book, research-business, and training interests; Greenbook promotes conferences;
+
+38
+00:04:08,261 --> 00:04:15,118
+Insight Platforms operates a directory and conferences. The next step is a small,
+
+39
+00:04:15,118 --> 00:04:21,975
+reviewable comparison. Keep the evidence, count the checking, and judge whether the work
+
+40
+00:04:21,975 --> 00:04:28,833
+helps the decision. Codex assisted with drafting this script from the cited sources.

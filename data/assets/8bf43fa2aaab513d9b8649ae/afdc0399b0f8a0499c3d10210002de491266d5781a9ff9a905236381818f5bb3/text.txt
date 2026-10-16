@@ -1,0 +1,64 @@
+Tracking brand health over time gives insights teams solid visibility into their category—and their brand’s place within it.
+Specifically, quantilope’s approach to tracking lets brands know what brings consumers to shop in their category (Category Entry Points), and which brands come to consumers’ minds in those buying moments (Mental Availability) — two proven concepts based on research out of the Ehrenberg-Bass Institute (EBI).
+To further maximize the impact of brand health tracking and Mental Availability metrics, quantilope has launched Mental Availability Norms.
+Key Takeaways:
+- Gain crucial brand context: quantilope’s Mental Availability Norms provide average scores and quintile thresholds for three key Mental Availability metrics, helping brands understand where they sit within a broader category landscape and what “good” looks like.
+- Understand your specific market: At launch, quantilope’s Mental Availability Norms provide benchmarks for six industries (CPG, Food&Beverage, Fashion, Durables, Services, Retail) and 4 regions (North America, Europe, APAC, LATAM) — some with the option to combine industry/region filters.
+- Translate insights to action: (example) If your brand’s Mental Penetration is in the bottom 40% of category brands, it’s struggling to reach non-buyers. Adapting your media plan by shifting budget toward broader-reach campaigns that prioritize reach over frequency will help build Mental Availability and set the brand up for growth.
+Table of Contents:
+A new perspective for brand health data
+Mental Availability Norms allow brands to compare their core metrics against category benchmarks across the CPG, Food & Beverage, Fashion, Consumer Durables, Retail/E-Commerce, and Services industries. Brands can also compare their data against regional Norms for North America, Europe, APAC, and LATAM, or select category/regional-specific Norms (e.g., Food & Beverage in North America or Food & Beverage). Some norm categories (like Food & Beverage) are even further filterable (e.g. Fresh Food, Non-Alcoholic beverages, etc.).
+Powered by the proven methodology of the Ehrenberg-Bass Institute for Marketing Science (EBI), Mental Availability Norms allow brands to understand what “good” looks like for metrics that are proven to correlate with business success.
+Back to Table of Contents
+Why external context changes the game for brand health tracking
+When brands run a Mental Availability tracker on quantilope’s platform, they always receive a correlation analysis. This analysis compares Mental Availability metrics to real sales/buying data so brands can fairly interpret their scores against brand size expectations.
+Mental Availability Norms complement quantilope’s correlation analysis, adding category context to brand-specific findings through industry average and quintile scores. This industry context is important when making strategic business decisions.
+While brand health tracking tells you where your brand stands, contextual norms tell you whether or not that standing is good or bad. For example, if you’re heavily investing in an area that’s already significantly ahead of industry norms, your budget might be of better use elsewhere.
+"We know from scientific, peer-reviewed research as well as our own experience in applied market research that Mental Availability and actual business outcomes are strongly correlated. These Norms provide critical context for marketers helping them understand 'what good looks like' for their broader category and how to set realistic targets for these new metrics. Mental Availability Norms help brands effectively link their tracking metrics to marketing planning and goal-setting and drive actual growth and business success."
+- Madita Brandhorst, Associate Director of Tracking Solutions at quantilope.
+The difference external context makes:
+| Example tracking metric | Example tracking metric with external context | Strategic impact | 
+|---|---|---|
+| 15% Mental Market Share | Top 20% of brands rank 13.2% or higher; you rank within the top 20% of brands. | Your brand comfortably sits within the top 20% of brands across the industry. In order to grow, you should focus on removing category barriers and/or innovating. It’s unlikely for the market leader to grow by ‘stealing share’ from competitors. | 
+| 55% Mental Penetration | Top 20% of brands have 80% or higher; you rank within the bottom 40% of brands. | Your brand is within the bottom 40% of brands across the industry and has significant room to improve MPen. In order to grow Mental Availability, adapting your media plan in favor of broader reach channels and lower frequency of exposures is your biggest lever. | 
+| 9.2 Network Size | Top 20% of brands have 10.3 or higher; you rank within the top 40% of brands. | Despite a strong position in the top 40% of brands, there’s still room to grow through expanding your brand’s mental network. Reallocate investments to whitespace opportunities (Category Entry Points where no brand currently dominates) and create a new campaign to further build Mental Availability. | 
+By anchoring brand metrics to industry baselines, insights teams know what counts as a "good" score and can confidently walk into executive meetings saying, "We're in the top 20% of all brands tested across the industry."
+Four ways Mental Availability Norms guide brand growth
+quantilope’s Mental Availability Norms are available to clients running a Better Brand Health Tracking project or any tracking study that leverages Mental Availability analysis.
+Media strategy: broaden reach when Mental Penetration lags
+- The signal: Your brand’s Mental Penetration sits below industry benchmarks.
+- The implication: Your brand is struggling to connect with non-buyers.
+- The action: Shift budget away from hyper-targeted campaigns and toward broad-reach campaigns that introduce the brand to light and non-category buyers.
+Campaign development: expand CEPs when Network Size lags
+- The signal: Your brand’s Mental Penetration is strong, but Network Size is below the normative baseline for your region.
+- The implication: Consumers recognize your brand, but only think of it in a narrow set of situations.
+- The action: Build regional-focused creative briefs around under-served Category Entry Points (CEPs), giving buyers more reasons and occasions to choose you.
+Creative portfolio: defend brand equity when aligned with norms
+- The signal: Your brand’s Mental Penetration and Network Size match industry norms.
+- The implication: Your brand messaging is balanced and effective.
+- The action: Avoid overhauling what already works. Instead, marketing teams should maintain their campaign portfolio, systematically rotating assets to protect existing mental associations across key CEPs.
+Innovation & new product development (NPD): stretch into new categories when outperforming norms
+- The signal: Your brand’s Mental Penetration and Network Size significantly beat industry standards; so does your Mental Market Share.
+- The implication: Core brand health is exceptionally strong and has established a strong mental footprint.
+- The action: Focus efforts on launching new products or expanding into adjacent categories.
+What makes quantilope’s Mental Availability Norms unique?
+quantilope's Brand Growth System connects research across three core pillars: Exploratory (identifying opportunities), Activation (testing creative and messaging), and Monitoring (tracking long-term impact). Mental Availability Norms fall within the Monitoring pillar, turning tracking data into a contextual feedback loop to validate strategic decisions.
+quantilope’s Mental Availability tracking is not only fast, but rooted in proven behavioral science. Mental Availability Norms add one more layer of confidence to these insights. By grouping scores into quintiles, Mental Availability Norms gives research teams clarity on whether performance is genuinely strong or falling behind where it should be.
+The quantilope advantage
+quantilope Norms are built on close to 8,000 data points from thousands of brands across 35 countries, using the proven methodology of the Ehrenberg-Bass Institute for Marketing Science (EBI). Other industry options leave brands with limited information, context, and actionability:
+- "Black box" brand health metrics: Opaque metrics limit growth and actionability. If brands don't know how a score is calculated, they can't effectively improve it. Mental Availability Norms are built on fully transparent, peer-reviewed methodologies, giving brands a clear blueprint to actively drive performance.
+- Non-validated brand health metrics: Easy-to-measure metrics like Brand Consideration seem like a quick alternative for black-box metrics, but convenience should never replace value. Unless a metric scientifically correlates with real business outcomes—as Mental Market Share does—it shouldn't dictate marketing strategy.
+Learn more about quantilope’s valuable Mental Availability Norms by requesting a demo below!
+Frequently Asked Questions (FAQs)
+Which metrics are included in Mental Availability Norms?
+quantilope’s Mental Availability Norms include Mental Market Share (MMS), Mental Penetration (MPen), and Network Size (NS): three key Mental Availability metrics that tell brands their overall mental presence, their mental “reach,” and their association versatility (respectively).
+What does a Mental Availability Norm output look like?
+Platform users that leverage quantilope’s Mental Availability Norms will see a dotted line on their Mental Market Share (MMS), Mental Penetration (MPen), and Network Size (NS) charts, indicating average industry performance. They’ll also see quintiles, breaking each chart up into 5 parts to highlight the bottom 20%, bottom 40%, mid 20%, top 40% and top 20%.
+How is client data kept private within quantilope’s norm pools?
+All data is anonymized and blended into aggregated statistical distributions under strict data density guardrails. No individual client metrics or brand names are ever visible to other users.
+How is quantilope affiliated with the Ehrenberg-Bass Institute?
+quantilope is not officially affiliated with or endorsed by the Ehrenberg-Bass Institute (EBI), but has automated their approach to Mental Availability tracking within their Consumer Intelligence Platform. Applying the proven scientific research from EBI Professors Jenni Romaniuk and Byron Sharp, quantilope provides users with modernized and actionable brand health tracking metrics like Mental Availability and Mental Advantage Analysis.
+Who can access quantilope’s Mental Availability Norms?
+quantilope’s Mental Availability Norms are accessible to clients using quantilope’s automated Better Brand Health Tracking solution or running a custom tracking study structured on Ehrenberg-Bass principles (i.e., tracking Mental Availability analysis).
+How often are quantilope Norms updated?
+quantilope’s Norms are updated bi-annually, in the fall and spring, whereas most providers update theirs just once a year. This reflects quantilope’s continuously growing Mental Availability database, allowing us to provide more and more relevant norms for clients of all industries and sizes.

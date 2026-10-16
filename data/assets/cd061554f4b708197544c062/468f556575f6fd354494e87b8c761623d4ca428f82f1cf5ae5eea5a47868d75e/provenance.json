@@ -1,0 +1,21 @@
+{
+  "item_id": "feed:0d6c44b4136d0fce300ef42b",
+  "source_id": "techcrunch-ai-written",
+  "publisher_id": "techcrunch",
+  "kind": "feed",
+  "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+  "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police",
+  "published_at": "2026-10-09T19:36:56Z",
+  "retrieved_at": "2026-10-10T05:20:44Z",
+  "media_url": null,
+  "native_id": "https://techcrunch.com/?p=3176212",
+  "underlying_id": "feed:0d6c44b4136d0fce300ef42b",
+  "original_publication_basis": "feed published field",
+  "transcript_url": null,
+  "transcript_type": null,
+  "download_hash": "12a0b238c67a5c6cbec9a1653fb6855704f0441e671dd87c13a36c336d20df6f",
+  "content_hash": "4c7178a6db930c04fb8697a8cafde4d9645adfc6667608819234238cadbe01ba",
+  "version_id": "468f556575f6fd354494e87b8c761623d4ca428f82f1cf5ae5eea5a47868d75e",
+  "text_path": "data/assets/cd061554f4b708197544c062/468f556575f6fd354494e87b8c761623d4ca428f82f1cf5ae5eea5a47868d75e/text.txt",
+  "segments_path": null
+}

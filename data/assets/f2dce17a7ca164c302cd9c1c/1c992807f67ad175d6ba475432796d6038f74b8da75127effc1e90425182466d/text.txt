@@ -1,0 +1,22 @@
+Crayon now connects to SharePoint, joining our Google Drive integration. Point it at the libraries or folders where your team keeps competitive content, and Crayon turns those documents into insights for your battlecards.
+Your team already has a workflow for this content
+Your team's best competitive thinking often lives in documents you've invested in for months, or even years. Getting that work into your CI program has often meant uploading it by hand, every time it changes.
+Now Crayon goes to work where it already lives.
+Your team's documents, working alongside everything Crayon tracks
+Each document becomes an insight, within minutes, and links back to the original file so anyone can check the source.
+Those insights feed Sparks, Crayon's AI-powered research and analysis tool. Sparks analyzes the intel Crayon collects on each competitor and turns it into ready-to-use content, which it can publish straight into your battlecards. Your battlecards end up combining what Crayon tracks across the market with what your own team has written down.
+Documents that work well
+Anything your team writes about competing is a good candidate. Good places to start include:
+- Positioning and messaging docs
+- Pricing comparisons
+- Objection guides and battlecards in progress
+- Competitor teardowns and feature comparisons
+- Win/loss write-ups and deal reviews
+- RFP responses and consultant reports
+And any other competitive document your team keeps current in SharePoint.
+You choose exactly what Crayon reads
+Connect a whole site, specific libraries or a single folder. Your Microsoft admin signs off during setup, and Crayon takes it from there. Start with one folder that holds your core competitive content, then add more.
+Your reps get your team's latest thinking
+When product marketing updates a pricing comparison, Crayon picks up the edit, and the next Spark on that competitor works from the new numbers. So the battlecard a rep opens before a competitive call can reflect what your team decided this week, not what was true the last time someone remembered to upload a file. The work your team put months into finally reaches the people using it in deals, and nobody has to be the one person who knows where the latest version lives.
+Turn your team's documents into competitive intel
+See how it works in a walkthrough with our team.

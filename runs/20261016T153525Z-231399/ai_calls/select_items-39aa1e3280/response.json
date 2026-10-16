@@ -1,0 +1,41 @@
+{
+  "decisions": [
+    {
+      "item_id": "feed:be7d32557d6f2583c9fe2942",
+      "version_id": "46c2224ee51604f79bf459904bd6dbd488ade884ec657a097c887aecaace1130",
+      "decision": "reject",
+      "reason": "This is a promotional conference announcement about a keynote and personal framework, not evidence about AI tools for customer, competitor, or market research. Credibility is limited because it is a vendor-owned marketing channel describing attributed capabilities and mission claims rather than a method, benchmark, or inspectable workflow; no research methods or performance data are provided. It may be useful only as background on AI-in-work rhetoric, but it does not materially address the central question, and there is no reliable evidence to salvage for this brief.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:c7506eddf63043533f132661",
+      "version_id": "456f27b7529baa4ebdd5fc671074bb44bec587ce8b82870eab382332d7280e04",
+      "decision": "accept",
+      "reason": "Relevant to the workflow question because it describes a concrete, inspectable process for using multiple AI agents to fact-check content against source material, including parallel checks, cross-checking, and human review. Credibility is moderate but bounded: it is a first-person vendor account from the publisher’s own content workflow, so it supports an attributed practitioner claim and a pilot idea, not independent proof of speed or accuracy gains. The post itself flags uncertainty by noting agents can agree on wrong answers and that human judgment remains necessary; that limitation is material and should be carried into the brief. Potential commercial incentive is present because the piece explicitly funnels readers to the publisher’s AI Academy and related products.",
+      "piece_ids": [
+        "02",
+        "03"
+      ]
+    },
+    {
+      "item_id": "feed:cd459d1a697b39bdaddeaa11",
+      "version_id": "d773e2d1d032f2599d9b20f877c1ccd53e0c2cbdc60c155f5b119b37a1584521",
+      "decision": "accept",
+      "reason": "Relevant as a skeptical counterclaim about AI visibility tools and a concrete alternative data source for competitor/market monitoring: Google Search Console and Bing Webmaster Tools. Credibility is limited by the source being a personal blog post from a commercial consultant with strong language and no documented comparison method, but the post does supply a specific observation from Search Console and identifies a plausible manipulation risk in AI visibility tools. Because the claim is not a worked benchmark, the evidence supports a qualified takeaway only: use first-party search data before paying for visibility products, while treating the alleged tool bias as an unverified but material concern. The author’s commercial interests in consulting/courses make overstatement possible, so conclusions should remain cautious.",
+      "piece_ids": [
+        "02",
+        "03"
+      ]
+    },
+    {
+      "item_id": "feed:cef868a2ca35f25b510b9dfc",
+      "version_id": "82238ba8d615ae707a3f14a0dd44a88fe0811f48e1b48173694842d2eca286ab",
+      "decision": "accept",
+      "reason": "Relevant because it reports a recent, attributed vendor disclosure about agent failures in internet-connected evaluations, which is directly pertinent to whether AI agents can be trusted for research workflows. Credibility is mixed: the core facts are sourced to Anthropic’s own blog post and TechCrunch’s reporting, but the item still depends on vendor disclosure rather than independent testing, so it should not be read as a universal performance study. The material uncertainty is important: it shows current agents can behave unpredictably and that live internet access complicates control and evaluation, which is a practical warning for small-business research use. This is a cross-post risk only in the sense that it relays a company disclosure through TechCrunch, but TechCrunch is a distinct publisher adding reporting context.",
+      "piece_ids": [
+        "02",
+        "03"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "item_id": "feed:532ec74f5c214f3259a765fe",
+  "source_id": "techcrunch-ai-written",
+  "publisher_id": "techcrunch",
+  "kind": "feed",
+  "title": "Danu Robotics’ fight to build a better recycling robot",
+  "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot",
+  "published_at": "2026-10-09T16:45:00Z",
+  "retrieved_at": "2026-10-10T05:20:44Z",
+  "media_url": null,
+  "native_id": "https://techcrunch.com/?p=3174693",
+  "underlying_id": "feed:532ec74f5c214f3259a765fe",
+  "original_publication_basis": "feed published field",
+  "transcript_url": null,
+  "transcript_type": null,
+  "download_hash": "10e490633cde21987d6dba7dc6afc4206e0f8ecedd795b7832b2b28ff7653bdf",
+  "content_hash": "c9db31530cae60e11582828cbe97c0174539c64f735466700e1742d18b72ef65",
+  "version_id": "ea6be83ea71c74d35fe92289b60d2365f77a8945e3525a3d73723e11ceb9911a",
+  "text_path": "data/assets/b353a0a5f4bbbc95749bb172/ea6be83ea71c74d35fe92289b60d2365f77a8945e3525a3d73723e11ceb9911a/text.txt",
+  "segments_path": null
+}

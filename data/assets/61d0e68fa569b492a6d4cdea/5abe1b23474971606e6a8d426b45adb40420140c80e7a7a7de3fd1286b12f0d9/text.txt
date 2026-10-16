@@ -1,0 +1,52 @@
+Your competitive intelligence program produces great content. Your reps don't use it. This gap between intel quality and actual adoption is the quiet failure at the center of many CI programs. The issue isn't the data or the analysis. It's how and when that intel reaches the people who need it.
+Competitive enablement solves this by focusing on delivery, timing, and workflow integration. Instead of asking reps to search for intel, effective programs bring insights directly into the tools and moments where deals get won.
+Below are seven practices that separate programs with strong adoption from those still wondering why their battlecards go unread.
+Key Takeaways: 7 Ways Competitive Enablement Boosts Intel Adoption
+- Competitive enablement bridges the gap between great intel and actual rep usage by delivering insights in existing workflows.
+- Teams that share competitive intelligence weekly or faster achieve revenue impact at nearly double the rate of monthly programs.
+- Push-based delivery removes the friction of searching, getting intel to reps before they know they need it.
+- AI agents deployed in the sales motion help teams achieve revenue impact at 2× the rate of those not using them.
+- Crayon's competitive enablement platform captures, analyzes, and delivers intel to reps in the exact moments that influence deals.
+How Competitive Enablement Drives Sales Rep Adoption of Intel
+1. Embed Intel Where Reps Already Work
+The fastest path to adoption is invisible access. When competitive intel lives inside Salesforce, Slack, Microsoft Teams, and your enablement tools, reps find it without changing their behavior.
+Intel that requires a separate login, a new tab, or a search through a portal rarely gets used mid-deal. The teams pulling ahead integrate competitive insights directly into the CRM record, the messaging channel, and the enablement platform where sellers spend their day.
+2. Shift From Pull to Push Delivery
+Findable intel fails reps mid-call. When a competitor comes up unexpectedly, there's no time to search. Push-based delivery solves this by routing relevant insights to reps before the moment arrives.
+Compete Hub alerts, deal-triggered notifications, and automated battlecard recommendations put intel in front of reps proactively. This shift from "go find it" to "here it is" is where adoption rates climb.
+3. Make Intel Deal-Specific and Contextual
+Generic battlecards get skipped. Reps ignore content that doesn't map to the competitor, deal stage, or objection they're facing right now.
+The programs with strong adoption surface intel tied to specific accounts, territories, and competitive scenarios. When a rep sees positioning against the exact competitor in their pipeline, engagement follows. Delivering intel in context changes the math on whether it gets read.
+4. Capture Field Intel at the Moment of Close
+The people who hold your richest competitive intel are too busy selling to document it later. Post-call surveys and quarterly interviews ask for the story long after it stopped being top of mind.
+Voice notes submitted in Slack, quick-capture forms triggered at deal close, and integrations with call recording tools meet reps where they are. Capture that fits the moment gets done. Capture that feels like a chore does not.
+5. Create a Weekly Intel Rhythm
+Frequency beats format. According to Crayon's 2026 State of Competitive Intelligence report, teams that share intel weekly or faster achieve revenue impact at 79%, compared to 41% for those on a monthly or slower cadence.
+The practice is straightforward: pick one weekly ritual and automate it into the places sellers already live. A competitor update in the team channel, a battlecard refresh, a deal alert. Consistency compounds.
+6. Use AI Agents to Surface Intel in Live Deals
+Using AI to draft content is now table stakes. The teams pulling ahead deploy AI agents directly in the sales motion: meeting prep, battlecard recommendations, and post-call follow-up.
+Teams running AI agents in production or pilot achieve revenue impact at 82%, compared to 42% for those not using them. That's nearly 2× the rate, and among the widest gaps in the survey.
+7. Close the Feedback Loop
+Adoption rises when reps see their input reflected back in the assets they use. A feedback loop where field insights update battlecards, refine talk tracks, and inform product marketing builds trust.
+The programs that solicit sales feedback weekly see strong adoption at 69%, compared to 22% for those that don't. Reps use intel they helped create. Measuring these KPIs helps you track progress over time.
+How to Build a Competitive Enablement Program That Reps Actually Use
+Competitive enablement isn't about creating more content. It's about delivering the right intel, in the right place, at the right moment. The programs achieving revenue impact share a pattern: they measure with real KPIs, get intel to sales on a weekly clock, and put AI to work in the sales motion.
+Crayon's competitive enablement platform captures intel from across your competitive landscape, automatically analyzes it, and delivers insights where your reps already work. From battlecards in Salesforce to Crayon Answers in Slack, the intel reaches reps in the exact moments that influence deals.
+If you're ready to close the adoption gap and turn competitive intelligence into competitive wins, request a demo to see how Crayon can help your team pull ahead.
+FAQs about Competitive Enablement and Sales Rep Adoption
+What is competitive enablement?
+Competitive enablement is the practice of delivering competitive intelligence to sales teams in ways they can immediately act on. It focuses on getting the right intel to reps at the right time, through the tools they already use, rather than creating content they have to search for.
+Why do sales reps ignore competitive intelligence?
+Reps ignore intel that requires extra steps to find. When battlecards live in a separate portal or aren't tied to specific deals, they get skipped. Push-based delivery and workflow integrations solve this by bringing intel to reps proactively.
+How often should competitive intelligence be shared with sales?
+Weekly or faster. Teams that share intel weekly achieve revenue impact at nearly double the rate of those on monthly cadences. A consistent rhythm builds the habit of checking and trusting competitive content.
+What role do AI agents play in competitive enablement?
+AI agents automate the delivery of intel in live deals. They handle meeting prep, recommend relevant battlecards, and generate post-call follow-ups. Teams using agents in their sales motion achieve revenue impact at 2× the rate of those that don't.
+How can I measure competitive enablement adoption?
+Track battlecard views per competitive deal, win rate changes, and how often sales requests competitive help. Programs with real KPIs see rising win rates at 66%, compared to 24% for those that don't measure.
+What's the difference between competitive intelligence and competitive enablement?
+Competitive intelligence is the process of gathering and analyzing competitor data. Competitive enablement is what happens next: packaging that intel and delivering it to sales in actionable, timely formats that influence deals.
+See it on your competitors
+Close the gap between the intel you produce and the intel your reps use
+Crayon captures intel from across your competitive landscape, analyzes it automatically, and delivers it into Salesforce, Slack, Teams and the AI tools your sellers already work in. Book 30 minutes and we'll map what your program could look like.
+Get a demo →

@@ -1,0 +1,21 @@
+{
+  "item_id": "feed:54c849e0b3cea3f17b20dfd0",
+  "source_id": "nngroup-written",
+  "publisher_id": "nielsen-norman-group",
+  "kind": "feed",
+  "title": "When Should You Disclose AI Use? The PACED Framework",
+  "url": "https://www.nngroup.com/articles/disclose-ai-paced",
+  "published_at": "2026-09-25T17:00:00Z",
+  "retrieved_at": "2026-10-10T05:29:13.118013Z",
+  "media_url": null,
+  "native_id": "/articles/disclose-ai-paced/?1790355600",
+  "underlying_id": "feed:54c849e0b3cea3f17b20dfd0",
+  "original_publication_basis": "feed published field",
+  "transcript_url": null,
+  "transcript_type": null,
+  "download_hash": "fa0ce2c9350e7c466f04dcb852106d7da3e515a085d6bafa7f59df099fd81be5",
+  "content_hash": "351ac5aec9b93035bb8ae5a84036c45ee508c63c149c78ce05f9ebd77a2392f1",
+  "version_id": "da1c161a51d71ac1c86e6063cc3187a9656765dc00085b5aed728c611f4ebdaa",
+  "text_path": "data/assets/8523323607fa352396cc8f67/da1c161a51d71ac1c86e6063cc3187a9656765dc00085b5aed728c611f4ebdaa/text.txt",
+  "segments_path": null
+}

@@ -1,0 +1,21 @@
+{
+  "item_id": "feed:1b23b3b736faaab8fbc15bbd",
+  "source_id": "techcrunch-ai-written",
+  "publisher_id": "techcrunch",
+  "kind": "feed",
+  "title": "Jev is Vercel’s fastest-adopted AI model ever",
+  "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever",
+  "published_at": "2026-10-16T15:33:49Z",
+  "retrieved_at": "2026-10-16T15:35:29.947130Z",
+  "media_url": null,
+  "native_id": "https://techcrunch.com/?p=3178711",
+  "underlying_id": "feed:1b23b3b736faaab8fbc15bbd",
+  "original_publication_basis": "feed published field",
+  "transcript_url": null,
+  "transcript_type": null,
+  "download_hash": "87d1349761d72db85125d7beac1cab5c740064ec6b1e7640040e77995585ae7b",
+  "content_hash": "ef039b36eabb1b2fc0c65377c58c4456a72f35b2a3923a487515792cf1b56185",
+  "version_id": "4849dab88b2256da7a513c704ec0e3e3f4636dc2f2f64e60aaf81e12eee62d61",
+  "text_path": "data/assets/50d1fd48d00761d5d0294d3e/4849dab88b2256da7a513c704ec0e3e3f4636dc2f2f64e60aaf81e12eee62d61/text.txt",
+  "segments_path": null
+}

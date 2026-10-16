@@ -1,0 +1,32 @@
+{
+  "decisions": [
+    {
+      "item_id": "feed:b0a8086cf13c4b186b995202",
+      "version_id": "eabf7f3ac465815c5c0c40e78394ae1c21e6639c77d966fafb4c9859c9a17f69",
+      "decision": "defer",
+      "reason": "Relevant to the brief only at a high level: it warns that agentic AI systems become fragile and hard to maintain, which could inform pilot risk for small-business workflows. Credibility is moderate because it is a Nielsen Norman Group article with attributed participant quotes, but the evidence is a qualitative study and the excerpt does not provide sample size, recruitment, or full method details. Uncertainty remains high about transferability to small-business research tasks, and the piece is about AI system maintenance rather than customer/competitor/market research specifically. No clear commercial incentive is stated in the excerpt, but the claim set is limited to practitioner observations; retain as a cautionary methodology-adjacent source, not a validated effectiveness result.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:b22689fdda57414e5b30cba0",
+      "version_id": "8a207c485426c60b72907c6e97153db69b8303d22d8d6e3342485ed4ac29f314",
+      "decision": "reject",
+      "reason": "Not sufficiently relevant: this is a TechCrunch podcast promo about data-center NDAs, AI-agent credit-card access, and startup financing, not evidence about AI tools for customer, competitor, or market research. Credibility is weak for our purpose because it is a promotional episode summary with no transcript, no inspectable method, and multiple unsourced market claims. Commercial incentives are material: the item promotes TechCrunch content and includes ad-like ticket code language, so it is not a reliable basis for research guidance. Flag as a cross-post/podcast distribution item rather than independent reporting.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:b3e89044c195d6f66141c957",
+      "version_id": "afdc0399b0f8a0499c3d10210002de491266d5781a9ff9a905236381818f5bb3",
+      "decision": "defer",
+      "reason": "Topically relevant because it concerns brand-health tracking and benchmarking, which can affect how small businesses interpret market-research metrics. Credibility is mixed: quantilope is the vendor announcing its own feature, and the page relies on claims about EBI methods and correlation with sales, but the excerpt does not show a worked comparison against a named baseline or independent validation of the new norms. Important uncertainty remains about methodology, sample composition, and whether the benchmarks transfer to a small-business context; commercial incentive is substantial because this is clearly a product-marketing page requesting a demo. Useful as a vendor-announced capability, but not strong enough to accept as proven performance evidence.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:b77c06d27f9c36f780a08714",
+      "version_id": "e811fcc0197d4f3de24593c1179eb9de3dc4d5c32dc91b839dc551b82de90b60",
+      "decision": "reject",
+      "reason": "Irrelevant to the editorial question: it is a profile of a consumer calorie-tracking app founder and influencer marketing for app growth, not an AI research tool for customer, competitor, or market research. The revenue and acquisition claims are attributed to a conference talk without inspectable supporting method, and the piece leans on promotional success narrative rather than evidence about research workflows or validation. Commercial incentives are material because the founder is pitching a startup and a new agent product, so the item is best treated as marketing-oriented coverage. This is not a useful source for small-business research tooling decisions.",
+      "piece_ids": []
+    }
+  ]
+}

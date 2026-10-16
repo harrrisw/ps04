@@ -1,0 +1,29 @@
+{
+  "stage": "extract_content",
+  "status": "completed",
+  "input_count": 70,
+  "output_count": 40,
+  "started_at": "2026-10-16T15:35:41.302265Z",
+  "finished_at": "2026-10-16T15:40:57.001191Z",
+  "tools": [
+    "deno",
+    "faster-whisper",
+    "ffmpeg",
+    "python",
+    "trafilatura",
+    "yt-dlp"
+  ],
+  "models": [
+    "base.en"
+  ],
+  "cost_usd": 0,
+  "cost_is_estimate": false,
+  "errors": [],
+  "notes": [
+    "Reused saved media evidence for youtube:XH1u09pL0Hk",
+    "Using local YouTube transcription; no caption endpoint requested: youtube:XCmsCJcD0Kw",
+    "Reused saved media evidence for podcast:95a7820fb4dff4d6701109d0",
+    "Reused saved media evidence for podcast:f74782bc5c344427a5c6c1ec"
+  ],
+  "elapsed_seconds": 315.703
+}

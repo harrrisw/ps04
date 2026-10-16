@@ -1,0 +1,20 @@
+{
+  "item_id": "youtube:X-JA9VVnUBs",
+  "source_id": "marketing-ai-video",
+  "publisher_id": "marketing-ai-institute",
+  "kind": "youtube",
+  "title": "Ep. 245: OpenAI DevDay + Dots + Safety Crisis, Trump Renames AI & Anthropic Pre-Thanksgiving IPO",
+  "url": "https://www.youtube.com/watch?v=X-JA9VVnUBs",
+  "published_at": "2026-10-06T09:00:37Z",
+  "retrieved_at": "2026-10-10T05:20:51Z",
+  "media_url": null,
+  "native_id": "X-JA9VVnUBs",
+  "underlying_id": "youtube:X-JA9VVnUBs",
+  "original_publication_basis": "YouTube release/upload metadata",
+  "transcript_basis": "YouTube captions; manually verify quoted segments against audio",
+  "media_path": "data/media/868afaf4de7cfa9dedd60097/X-JA9VVnUBs.m4a",
+  "content_hash": "ae72c1fd58f347a2be772d706694e485948c74ad2eef6eda750cf1c20762536b",
+  "version_id": "46d01e611e9acd7192a39a42ae0e3d0320c251b0747f58dd348fdda1b81a2a3c",
+  "text_path": "data/assets/868afaf4de7cfa9dedd60097/46d01e611e9acd7192a39a42ae0e3d0320c251b0747f58dd348fdda1b81a2a3c/text.txt",
+  "segments_path": "data/assets/868afaf4de7cfa9dedd60097/46d01e611e9acd7192a39a42ae0e3d0320c251b0747f58dd348fdda1b81a2a3c/segments.json"
+}

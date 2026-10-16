@@ -1,0 +1,4 @@
+# Optional CPU transcription when a publisher does not provide timed captions.
+faster-whisper>=1.2,<2
+av==16.0.1
+imageio-ffmpeg>=0.6,<1

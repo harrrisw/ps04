@@ -1,0 +1,35 @@
+{
+  "decisions": [
+    {
+      "item_id": "feed:48efe71c79575654d983f408",
+      "version_id": "6e238d0d5a039854473bcba99f683e3c49fd5a7c759e782323c029fbd8825396",
+      "decision": "defer",
+      "reason": "Relevant only indirectly: this interview discusses consumer AI monetization and category gaps, not small-business customer/competitor/market research workflows. Credibility is limited because it is a single edited interview with an a16z partner and cites Moore’s report without inspectable methods, samples, or baseline. Uncertainty is high about transfer to small-business research; there is also a commercial incentive context because the source is a venture-firm executive discussing a report that may reflect investment-category framing. Potentially useful as background on market direction, but not enough evidence for an evidence-based brief.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:4db68c2469ea7a1408d3b0cc",
+      "version_id": "9a323abf43a54c0581fdb3997cd83be821eeeb4429f3931fcd87e3dcbfee03f6",
+      "decision": "defer",
+      "reason": "Topically relevant to customer research and retention, but the article is largely marketing commentary for UK financial services, not an inspectable AI research workflow for small businesses. Credibility is weakened by unsupported percentages and claims presented as 'our research' without visible methods, sample, geography details, or baseline; the author also has a clear commercial incentive as a research agency representative promoting a report and services. Uncertainty remains about whether the cited findings are independent, reproducible, or transferable beyond UK financial brands. Flag as a possible cross-post/promotion tied to a report rather than original evidence.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:50ace4c9fd0d401184f71554",
+      "version_id": "76f965a4fb8297c8476052004b9848a4bfa0ac1a5322b1fea1bea5549943f2d6",
+      "decision": "accept",
+      "reason": "This is substantively relevant because it describes a concrete AI workflow for document-heavy research: combining lexical and semantic search with reciprocal rank fusion to reduce token use and improve result quality. Credibility is moderate, not definitive: the piece clearly distinguishes the method from generative AI and names tools, but it provides no worked comparison, no named baseline test, no measurements of setup/processing/human-checking cost, and no independent validation of the claimed savings; it also comes from a consultant with an obvious commercial incentive to promote AI tooling and services. Still, it offers inspectable methodological guidance that could change how a small business searches internal documents or research corpora, with uncertainty appropriately limited to unverified performance claims. Intended piece_ids: 02, 03.",
+      "piece_ids": [
+        "02",
+        "03"
+      ]
+    },
+    {
+      "item_id": "feed:50ef6ec07302679e7aa7d5d0",
+      "version_id": "3371e6cce9b0502e5adb06f6b0a386e3673ab525c36e18109e66f1d53fab7bc7",
+      "decision": "defer",
+      "reason": "Only tangentially relevant: it is a brand-strategy essay about consumer preferences, not AI tools for customer, competitor, or market research. Credibility is limited because the piece is a high-level opinion article with illustrative examples but no inspectable research methods, sample, or evidence trail, and the call-to-action suggests commercial intent. The claims about value signals are plausible but too generic and too disconnected from the brief’s central question to support a decision; uncertainty remains high, and this could also overlap conceptually with other STRAT7 thought-leadership pieces without adding new evidence.",
+      "piece_ids": []
+    }
+  ]
+}

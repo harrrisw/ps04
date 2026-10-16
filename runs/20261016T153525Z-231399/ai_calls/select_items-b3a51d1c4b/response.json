@@ -1,0 +1,32 @@
+{
+  "decisions": [
+    {
+      "item_id": "feed:6ae2be6a27254cfe4127bbbf",
+      "version_id": "5b8c222e05a15bb76b0727cb3aadf6da4a387b287c39a1a77108077bf600b304",
+      "decision": "reject",
+      "reason": "Irrelevant to the brief’s question about AI tools for customer, competitor, and market research: this is a consumer shopping-product launch, not a research workflow or evidence source for small-business market/competitor analysis. Credibility is acceptable as a TechCrunch report on Google’s announcement, but there is no inspectable method, benchmark, or research relevance beyond generic AI commerce messaging. No meaningful uncertainty issue matters because the topic is out of scope. No cross-post signal evident.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:72a535417aa3ffbf6b976a17",
+      "version_id": "efa13cdcc746af3b1d00a66d786eb45f26ef72dd89e6f26ff28f13735b9c1ba0",
+      "decision": "reject",
+      "reason": "Mostly irrelevant to the brief: it concerns AI agents in Rivian vehicles, not tools for customer, competitor, or market research. The article is a conference report quoting the CEO, so it is credible for the attributed claim that Rivian discussed future integrations, but it provides no methods, baseline, or inspectable evidence relevant to research workflows. No commercial-incentive concern beyond standard product promotion, and no useful small-business research implication is supported.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:73628fb048a721e338800457",
+      "version_id": "6fe9c7df354692bac6864eb91826b27d6737c648a009d3c233424184418f7c2e",
+      "decision": "reject",
+      "reason": "Irrelevant to the central question: it is a celebrity interview about AI in filmmaking and likeness licensing, not market, customer, or competitor research for small businesses. TechCrunch is a credible publisher for the quoted remarks, but the piece is an opinionated event interview with no research method, no evidence about effectiveness, and a clear commercial/PR context around an AI likeness topic. Uncertainty is high for any extrapolation to the brief’s scope.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:752965c8de66da66e5df2ad5",
+      "version_id": "5abe1b23474971606e6a8d426b45adb40420140c80e7a7a7de3fd1286b12f0d9",
+      "decision": "defer",
+      "reason": "Topically relevant because it concerns competitive-intel delivery and workflow adoption, which could affect how small businesses monitor competitors and use research outputs. However, credibility is limited by strong commercial incentives: this is a vendor blog promoting Crayon’s platform and quoting Crayon’s own 2026 report, with no independent corroboration or inspectable methodology in the supplied text. The key performance claims (79% vs 41%, 82% vs 42%, 69% vs 22%, etc.) lack sample, baseline, survey design, and definitions, so the speed/ROI claims cannot be validated here. This is useful only as a vendor-claimed workflow idea; the underlying comparative evidence remains uncertain and the item may also overlap with the same underlying Crayon report if surfaced elsewhere.",
+      "piece_ids": []
+    }
+  ]
+}

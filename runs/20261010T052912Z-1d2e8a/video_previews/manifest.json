@@ -1,0 +1,32 @@
+[
+  {
+    "piece_id": "01",
+    "file": "01-video.mp4",
+    "duration_seconds": 283.29,
+    "bytes": 6407273,
+    "sha256": "4ea7d511f2a11b2eeeeee05f167762d3547d5c10f61783b44d480787b3197f84",
+    "narration": "Microsoft Zira Desktop; synthetic voice",
+    "captions": "Word-weighted scene timing; verify in final video editor",
+    "status": "local_review_copy; Google Vids/HeyGen production pending"
+  },
+  {
+    "piece_id": "02",
+    "file": "02-video.mp4",
+    "duration_seconds": 252.0,
+    "bytes": 6162595,
+    "sha256": "609ad79ed5fb1a2f6528d19e3c626582cd58d03905d4721e576d5f51accbfaff",
+    "narration": "Microsoft Zira Desktop; synthetic voice",
+    "captions": "Word-weighted scene timing; verify in final video editor",
+    "status": "local_review_copy; Google Vids/HeyGen production pending"
+  },
+  {
+    "piece_id": "03",
+    "file": "03-video.mp4",
+    "duration_seconds": 270.83,
+    "bytes": 6372315,
+    "sha256": "2d312a55d15328cf6a8784652bcd6742430b59360e6202446080405fa87f933c",
+    "narration": "Microsoft Zira Desktop; synthetic voice",
+    "captions": "Word-weighted scene timing; verify in final video editor",
+    "status": "local_review_copy; Google Vids/HeyGen production pending"
+  }
+]

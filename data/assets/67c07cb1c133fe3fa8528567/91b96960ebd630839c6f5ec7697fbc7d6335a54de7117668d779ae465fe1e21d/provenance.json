@@ -1,0 +1,21 @@
+{
+  "item_id": "feed:47caddd09131f10546842b2b",
+  "source_id": "nngroup-written",
+  "publisher_id": "nielsen-norman-group",
+  "kind": "feed",
+  "title": "The New Siri’s Biggest Strength Is Not Intelligence",
+  "url": "https://www.nngroup.com/articles/ai-assistant-context",
+  "published_at": "2026-10-09T17:00:00Z",
+  "retrieved_at": "2026-10-10T05:29:13.118013Z",
+  "media_url": null,
+  "native_id": "/articles/ai-assistant-context/?1791565200",
+  "underlying_id": "feed:47caddd09131f10546842b2b",
+  "original_publication_basis": "feed published field",
+  "transcript_url": null,
+  "transcript_type": null,
+  "download_hash": "8938f875f5dc89652fee2f4a9d5a7cd0c98c25103acf6660d835bd0dd717aa91",
+  "content_hash": "05d816f770ddd733715286b89f933e753c4db85f0b09294180dade0f7520a4c4",
+  "version_id": "91b96960ebd630839c6f5ec7697fbc7d6335a54de7117668d779ae465fe1e21d",
+  "text_path": "data/assets/67c07cb1c133fe3fa8528567/91b96960ebd630839c6f5ec7697fbc7d6335a54de7117668d779ae465fe1e21d/text.txt",
+  "segments_path": null
+}

@@ -1,0 +1,21 @@
+{
+  "item_id": "feed:e3536a2078a19512bfe2a637",
+  "source_id": "techcrunch-ai-written",
+  "publisher_id": "techcrunch",
+  "kind": "feed",
+  "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+  "url": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website",
+  "published_at": "2026-10-08T21:00:00Z",
+  "retrieved_at": "2026-10-10T05:20:44Z",
+  "media_url": null,
+  "native_id": "https://techcrunch.com/?p=3175918",
+  "underlying_id": "feed:e3536a2078a19512bfe2a637",
+  "original_publication_basis": "feed published field",
+  "transcript_url": null,
+  "transcript_type": null,
+  "download_hash": "6319d07b3177efb54e3ff0eb3bb33cf1b4fb3159f1b31d4c9fd3a5acfc236dd8",
+  "content_hash": "ec3ddfe7f2fc01bdb84ff683364ff02e0b3e30322408245f6994ba10275b50ca",
+  "version_id": "a9fb4a4160007d323de6b8c8dcc02ea8a0510f1e29c9e51addb1124687959622",
+  "text_path": "data/assets/7b450401b142da6358db26e6/a9fb4a4160007d323de6b8c8dcc02ea8a0510f1e29c9e51addb1124687959622/text.txt",
+  "segments_path": null
+}

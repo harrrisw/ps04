@@ -1,0 +1,35 @@
+{
+  "decisions": [
+    {
+      "item_id": "feed:3bb2052fded1b227f2c8091a",
+      "version_id": "bd3299c6efcffdaf267d7034e2a889765c861113a267b328b80e48e84fb01c1a",
+      "decision": "reject",
+      "reason": "This is an event-style tech-news item about Amazon hardware ambitions and ambient devices, not a development that helps small businesses gather, validate, or use customer/competitor/market research. Credibility is fine as a reported conference piece, but the evidence is mostly quoted product vision and marketing language from an Amazon executive, with no research workflow, methods, costs, or performance data. Uncertainty is high and there are clear commercial incentives behind the announcement, so it does not support the brief’s central question.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:3dc6f0279abe1142a7abbedd",
+      "version_id": "b430cd74d9f76b8a3b925a9683820a4c9bae22ff94c2da30dc6fa70706e3387b",
+      "decision": "reject",
+      "reason": "This is a funding/valuation story about an enterprise AI model, not a concrete tool or method for small-business research on customer, competitor, or market evidence. The main claims are sourced to the company and investors, with no independent evaluation, no worked comparison, and no method for the reported speed or token-efficiency claims; the commercial incentive to overstate adoption and performance is material. The company’s claim that a third of Fortune 500 companies use it is especially unverified in the passage, so the item is too promotional and too uncertain for inclusion.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:3e4b2bb785365a0f4d2f5c33",
+      "version_id": "3ba5885426c01d6e011607eb1887958395a1caede359264032947d2f34de76a0",
+      "decision": "reject",
+      "reason": "This announces broader no-code/AI creation features for Bluesky, but it is about making websites, games, and social experiences, not research methods for market, customer, or competitor evidence. The piece is a vendor announcement with no inspectable workflow, no measurement, and no relevance to research traceability or validation; the AI capability is presented as a product demo rather than a tested research tool. Commercial incentives are obvious, and the underlying claim is not about research use, so it should be excluded.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:47caddd09131f10546842b2b",
+      "version_id": "91b96960ebd630839c6f5ec7697fbc7d6335a54de7117668d779ae465fe1e21d",
+      "decision": "accept",
+      "reason": "This is relevant because it gives a concrete, inspectable UX and workflow argument about AI assistants needing access to relevant context, source transparency, and task preservation—points that translate directly to research assistants used for customer-feedback analysis, interview synthesis, and desk research. Credibility is moderate: it is a Nielsen Norman Group practitioner analysis with explicit first-person examples and stated test conditions, but it is not a controlled comparative study, so its claims should be read as qualified observations rather than general proof. Uncertainty remains about generalizability and exact performance, yet the source usefully identifies missing methods and transparency gaps, including that a comparison cannot separate the model from retrieval and that source search labels need explanation. piece_ids should cover the argument about what changed in assistant behavior and the practical implications.",
+      "piece_ids": [
+        "01",
+        "03"
+      ]
+    }
+  ]
+}

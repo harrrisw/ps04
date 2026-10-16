@@ -1,0 +1,36 @@
+Marketing teams are being told to do more with AI: Draft faster. Publish more. Automate the busywork. But what if the real opportunity isn't using AI to do your job faster, but turning parts of your job into tools that keep doing the work for you?
+That's the shift Andy Crestodina will examine at MAICON 2026.
+Crestodina, Co-founder and CMO of Orbit Media, will lead "From Process to Prompt to Automation: How a Marketing Job Becomes a Marketing Tool." His session is built for marketers who have started experimenting with AI but haven't yet made the leap from one-off prompts to systems that scale.
+Marketing Workflows Evolve in a Specific Sequence
+"The work of marketing has changed,” Crestodina says. “Modern marketing workflows evolve in a specific sequence from 100% done-by-human-hands to 100% done by assistants … and then reviewed by humans."
+The progression only works if teams do the work beforehand:
+- If you've never done a process manually, you aren't well-suited to automate it.
+- If you haven't put your thinking into initial prompts, you aren't well-suited to build better prompts.
+- If you haven't tested your prompts, you aren't well-suited to build an assistant based on them.
+"My most powerful assistants evolved gradually," Crestodina says. "I don't think you can one-shot a great AI worker bee."
+The Experts Are the Best Builders
+For Crestodina, the biggest missed opportunity in AI-powered marketing isn't which tools teams pick. It's who's building them.
+"The best assistants are built by people who already do that job well," he says, adding, "The expert at the job is the best suited to evaluate AI's output, judge it, and make improvements."
+AI is the world's most powerful skill-transfer tool, and experts should use it not just to complete tasks but to build tools that help with them. They can be a big help to less-skilled professionals.
+It's Simple: Your Prompts Are Code
+Stop chasing new tools, and start building your own, Crestodina advises.
+He points to a line from Andrej Karpathy, co-founder of OpenAI: "The hot new programming language is English."
+"In other words, your prompts are code. They are functions. They are tools. Work hard on them," Crestodina says. "Look for novel new inputs to combine with them. Look carefully at the outputs. Test them. Iterate and improve them."
+When prompts do real work, he adds, teams should share them, keep them in a central location, combine them with prompts from other team members, and build full workflows around them.
+"Don't look for new tools. Make your own tools," Crestodina says. "The only gap is our own imaginations."
+What Crestodina Will Explore at MAICON
+Drawing on 25 years of working with businesses, Crestodina's session will walk marketers through:
+- The specific sequence workflows follow as they evolve from manual to AI-powered
+- How to spot which parts of a job are ready to become a prompt and eventually a tool
+- Why the experts in a task should lead tool-building on the team
+- A real example of a prompt-driven content strategy prototype built from decades of expertise
+What You'll Gain from Crestodina’s Session
+Attendees will leave with a clear framework for moving marketing processes from manual work to prompt-driven prototypes to repeatable AI assistants. He’ll provide insight to help attendees identify which workflows on the team are ripe for the shift.
+In addition, attendees will receive practical guidance on turning individual expertise into reusable prompts and tools to shift your mindset from shopping for tools to building your own.
+Join Us at MAICON 2026
+Crestodina will present at MAICON 2026 as part of a lineup focused on real-world AI strategy, implementation, and leadership.
+His work is grounded in a single conviction: most websites do not consistently drive qualified leads. His presentations give marketers the frameworks for performance and the evidence to prove marketing is working, which is why his book, “Content Chemistry,” remains so relevant.
+Follow Andy before MAICON 2026:
+Join us at MAICON 2026 to hear Crestodina and 50+ other AI and business leaders. Register today.
+Cathy McPhillips
+Cathy McPhillips is the Chief Marketing Officer at SmarterX and Marketing AI Institute

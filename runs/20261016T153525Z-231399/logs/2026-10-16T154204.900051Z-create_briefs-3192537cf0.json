@@ -1,0 +1,32 @@
+{
+  "stage": "create_briefs",
+  "status": "failed",
+  "input_count": 60,
+  "output_count": 0,
+  "started_at": "2026-10-16T15:42:04.900051Z",
+  "finished_at": "2026-10-16T15:42:29.966505Z",
+  "tools": [
+    "python",
+    "parley"
+  ],
+  "models": [
+    "gpt-5.4-mini",
+    "gpt-5.4-mini"
+  ],
+  "cost_usd": null,
+  "cost_is_estimate": false,
+  "errors": [
+    "Invalid briefs: [{'artifact': '01-c4', 'severity': 'error', 'explanation': 'Exact quoted passage does not occur in retained text'}, {'artifact': '02-c1', 'severity': 'error', 'explanation': 'Exact quoted passage does not occur in retained text'}, {'artifact': '02-c6', 'severity': 'error', 'explanation': 'Exact quoted passage does not occur in retained text'}, {'artifact': '03-c1', 'severity': 'error', 'explanation': 'Exact quoted passage does not occur in retained text'}, {'artifact': '03-c4', 'severity': 'error', 'explanation': 'Exact quoted passage does not occur in retained text'}, {'artifact': '03-c5', 'severity': 'error', 'explanation': 'Exact quoted passage does not occur in retained text'}]"
+  ],
+  "notes": [
+    "MIT Parley account credits; dollar cost not reported. No automatic retries."
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 99961,
+      "completion_tokens": 5913,
+      "total_tokens": 105874
+    }
+  ],
+  "elapsed_seconds": 25.062
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "piece_id": "01",
+    "scene": 1,
+    "text": "Can AI make competitor research faster while leaving you with evidence you can actually check? For a small business, that is the useful question behind the latest connected research tools. Getting material into an AI workflow may become easier. But access is only one part of dependable research. Three recent sources point toward a practical response: try a bounded pilot, and evaluate retrieval, source inspection, maintenance, and human control together.",
+    "wav": "C:\\Users\\hp\\Documents\\GitHub\\ps04\\runs\\20261010T052912Z-1d2e8a\\video_previews\\audio\\01-01.wav",
+    "frame": "frames/01-01.png"
+  },
+  {
+    "piece_id": "01",
+    "scene": 2,
+    "text": "Crayon says its announced Insights API makes competitor insights available to AI tools or developers. Alongside details such as titles, summaries, dates, and competitor tags, it says users can request underlying text and source links. That matters because a researcher could inspect the material behind a summary.\n\nBut this is a commercial capability claim from the company selling it. The evidence reviewed here does not establish accuracy, pricing, eligibility, geographic coverage, or how much implementation work a small business would face. Treat the announcement as a capability to investigate, with affordability and usefulness still open.",
+    "wav": "C:\\Users\\hp\\Documents\\GitHub\\ps04\\runs\\20261010T052912Z-1d2e8a\\video_previews\\audio\\01-02.wav",
+    "frame": "frames/01-02.png"
+  },
+  {
+    "piece_id": "01",
+    "scene": 3,
+    "text": "Nielsen Norman Group adds a constraint. In its study of expert Claude users, participants reportedly spent more effort engineering context libraries than crafting prompts. Files became stale or went missing. One participant’s task-list connection repeatedly expired and needed manual reconnection.\n\nFor research, that raises a practical question: will the right background material still be available and current next week? The supplied study text gives neither sample size nor geography. These expert-user experiences identify problems worth testing; they do not tell us how often small businesses will encounter them, or how much time maintenance will take.",
+    "wav": "C:\\Users\\hp\\Documents\\GitHub\\ps04\\runs\\20261010T052912Z-1d2e8a\\video_previews\\audio\\01-03.wav",
+    "frame": "frames/01-03.png"
+  },
+  {
+    "piece_id": "01",
+    "scene": 4,
+    "text": "A different setting supplies another caution. TechCrunch reports that Anthropic said it turned off live internet access for its internal evaluations until it could confidently monitor and control its agents.\n\nThat establishes a reported company disclosure. It is not independent verification of the incidents, and it gives us no failure rate for deployed research products. Frontier-lab evaluations also differ substantially from a small firm’s research work. Still, the disclosure makes human oversight a relevant question when considering connected agents. These sources address different settings; together, they are not a comparative tool test.",
+    "wav": "C:\\Users\\hp\\Documents\\GitHub\\ps04\\runs\\20261010T052912Z-1d2e8a\\video_previews\\audio\\01-04.wav",
+    "frame": "frames/01-04.png"
+  },
+  {
+    "piece_id": "01",
+    "scene": 5,
+    "text": "Our inference is to test the whole workflow over repeated runs. Choose one competitor question and a limited set of public sources. Check whether summaries match the underlying passages, whether links remain usable, and whether dates and competitor labels are correct. Record verification time and connection repairs alongside any time saved. Establish actual access costs and setup effort before expanding.\n\nA source link helps you investigate an answer. It does not establish that the workflow stays usable. Decide in advance what evidence would justify continuing, and what errors or maintenance burden would make you stop. Keep the final research judgment with a person. This is a proposed pilot, not a reported result.",
+    "wav": "C:\\Users\\hp\\Documents\\GitHub\\ps04\\runs\\20261010T052912Z-1d2e8a\\video_previews\\audio\\01-05.wav",
+    "frame": "frames/01-05.png"
+  },
+  {
+    "piece_id": "01",
+    "scene": 6,
+    "text": "The evidence leaves important gaps. We lack direct accounts from small-business users, unsuccessful deployments, and customers whose data is analyzed. These English-language sources do not establish performance in non-English markets. They also support no conclusion about customer-data handling or consent. Customer-feedback, interview, and survey workflows therefore need separate assessment.\n\nThe opportunity is easier access to research material. Whether that becomes affordable, dependable research depends on what your pilot reveals about checking sources, maintaining connections, and retaining control.\n\nCodex assisted with drafting this script from the cited sources.",
+    "wav": "C:\\Users\\hp\\Documents\\GitHub\\ps04\\runs\\20261010T052912Z-1d2e8a\\video_previews\\audio\\01-06.wav",
+    "frame": "frames/01-06.png"
+  },
+  {
+    "piece_id": "02",
+    "scene": 1,
+    "text": "If you run research for a small business, AI offers an appealing possibility: less time sorting customer comments, organizing interviews, or checking a research memo. But what makes the output reliable enough to guide a decision?\n\nAcross three sources, the strongest case is for practices that keep evidence inspectable. These sources do not establish comparative accuracy, lower total cost, or reliable time savings. The question is whether automation leaves you with useful findings—and enough time to check them.",
+    "wav": "C:\\Users\\hp\\Documents\\GitHub\\ps04\\runs\\20261010T052912Z-1d2e8a\\video_previews\\audio\\02-01.wav",
+    "frame": "frames/02-01.png"
+  },
+  {
+    "piece_id": "02",
+    "scene": 2,
+    "text": "Christopher Penn describes lightweight models that classify text into categories, scores, or yes-or-no answers. For customer feedback, that could mean assigning comments to categories you define.\n\nHis key constraint: you supply the data and context. The model does not gather that foundation for you.\n\nPenn reports better accuracy after tuning his own model on his own data. That is an attributed personal account, without a benchmark, sample, or measured cost comparison. It does not establish that small models generally replace frontier models. Penn also promotes consulting and training, which matters when weighing his claims.",
+    "wav": "C:\\Users\\hp\\Documents\\GitHub\\ps04\\runs\\20261010T052912Z-1d2e8a\\video_previews\\audio\\02-02.wav",
+    "frame": "frames/02-02.png"
+  },
+  {
+    "piece_id": "02",
+    "scene": 3,
+    "text": "Nielsen Norman Group provides a useful rule for empathy maps: every note should connect to a specific research artifact, such as a transcript passage, recording moment, or observation. Without that connection, label the note as an assumption.\n\nThat distinction matters when AI helps organize interviews or open-ended survey answers. A plausible summary can still outrun the underlying evidence. Keep the connection between the proposed theme and the material supporting it.\n\nThis is methodological guidance. It is not evidence that AI improves synthesis, and generated customer statements cannot substitute for observed customer evidence.",
+    "wav": "C:\\Users\\hp\\Documents\\GitHub\\ps04\\runs\\20261010T052912Z-1d2e8a\\video_previews\\audio\\02-03.wav",
+    "frame": "frames/02-03.png"
+  },
+  {
+    "piece_id": "02",
+    "scene": 4,
+    "text": "Marketing AI Institute describes using agents to flag claims, suggest corrections, and supply source links for human review. It also explicitly warns that multiple agents can agree on the same wrong answer.\n\nSo a second AI agreeing with the first is not a substitute for inspecting the source. A proposed correction still needs checking.\n\nThe Institute reports time savings, but supplies no controlled evaluation of this workflow. It also promotes commercial education. Treat the account as a workflow to consider, with benefits that remain unmeasured for your business.",
+    "wav": "C:\\Users\\hp\\Documents\\GitHub\\ps04\\runs\\20261010T052912Z-1d2e8a\\video_previews\\audio\\02-04.wav",
+    "frame": "frames/02-04.png"
+  },
+  {
+    "piece_id": "02",
+    "scene": 5,
+    "text": "Together, these sources support an editorial inference: for interview or survey synthesis, checking a finding against its original research artifact is a stronger acceptance rule than relying on agreement between agents. This is our synthesis, not a measured comparison of tools.\n\nFor a small pilot, choose one bounded task. Define the categories or research question, retain source references, and inspect the proposed findings before using them.\n\nTrack preparation and review effort alongside processing time. Watch for unsupported conclusions and missed exceptions. This is a proposed evaluation approach, not a tested result. The counterargument deserves attention: checking the work consumes scarce time too. These sources cannot tell us whether the complete workflow saves time for a small firm.",
+    "wav": "C:\\Users\\hp\\Documents\\GitHub\\ps04\\runs\\20261010T052912Z-1d2e8a\\video_previews\\audio\\02-05.wav",
+    "frame": "frames/02-05.png"
+  },
+  {
+    "piece_id": "02",
+    "scene": 6,
+    "text": "Transfer to your business remains uncertain. Document volume, specialist expertise, and staffing may differ substantially. Geographic applicability is unspecified, and non-English performance is untested. Direct small-business users, unsuccessful deployments, and the customers whose data gets analyzed are missing perspectives. Nothing here establishes that disclosing customer data to a tool is harmless.\n\nThe practical takeaway: pilot a specific task where you can inspect the evidence, then judge the complete effort. Traceability gives you something concrete to check; broad performance promises still need validation.\n\nCodex assisted with drafting this script from the cited sources.",
+    "wav": "C:\\Users\\hp\\Documents\\GitHub\\ps04\\runs\\20261010T052912Z-1d2e8a\\video_previews\\audio\\02-06.wav",
+    "frame": "frames/02-06.png"
+  },
+  {
+    "piece_id": "03",
+    "scene": 1,
+    "text": "If you run research for a small business, the useful AI question is practical: can it help you answer one business question, with evidence you can check, at an effort you can afford?\n\nThis brief proposes a bounded customer-synthesis pilot. Start with research material you already hold, name the person responsible for interpretation, and compare the full workload with your current manual process. This is an editorial proposal, not a tested intervention or a promise of savings.",
+    "wav": "C:\\Users\\hp\\Documents\\GitHub\\ps04\\runs\\20261010T052912Z-1d2e8a\\video_previews\\audio\\03-01.wav",
+    "frame": "frames/03-01.png"
+  },
+  {
+    "piece_id": "03",
+    "scene": 2,
+    "text": "Nielsen Norman Group makes a useful distinction: asking AI to organize research you have is different from asking it to generate evidence you do not possess.\n\nFor a pilot, that means working from retained interview notes, survey responses, or support tickets. Every proposed finding should point back to its source. If you cannot locate that support, label the finding as an assumption.\n\nA polished summary is not enough. Check whether its themes preserve what participants actually said, including contradictions and outliers. Synthetic customer statements cannot stand in for observed customer evidence.",
+    "wav": "C:\\Users\\hp\\Documents\\GitHub\\ps04\\runs\\20261010T052912Z-1d2e8a\\video_previews\\audio\\03-02.wav",
+    "frame": "frames/03-02.png"
+  },
+  {
+    "piece_id": "03",
+    "scene": 3,
+    "text": "What counts as success? In Greenbook’s interview, Wex practitioner Nadine van Rooyen argues that an insight’s success should not depend solely on whether its recommendation gets implemented.\n\nThat gives a small-business pilot a useful question: did the checked findings improve understanding of the decision, even if the business chose to wait?\n\nBut Wex is a global enterprise with specialist roles. This practitioner account does not establish small-business return on investment, staffing requirements, or AI effectiveness.",
+    "wav": "C:\\Users\\hp\\Documents\\GitHub\\ps04\\runs\\20261010T052912Z-1d2e8a\\video_previews\\audio\\03-03.wav",
+    "frame": "frames/03-03.png"
+  },
+  {
+    "piece_id": "03",
+    "scene": 4,
+    "text": "Context also takes work. In Insight Platforms’ interview, South African researcher Mpho Mpofu calls for budgets to accommodate language and cultural context.\n\nFor your pilot, identify who can check local meaning, and include that effort in the comparison. Do not assume an English summary captures every nuance.\n\nMpofu’s perspective concerns varied African markets. It should not become a single regional customer profile. These English-language interviews also do not directly represent non-English customers or small-business AI deployments.",
+    "wav": "C:\\Users\\hp\\Documents\\GitHub\\ps04\\runs\\20261010T052912Z-1d2e8a\\video_previews\\audio\\03-04.wav",
+    "frame": "frames/03-04.png"
+  },
+  {
+    "piece_id": "03",
+    "scene": 5,
+    "text": "Together, these sources support our inference: assess traceability and contextual fit before treating AI outputs as decision evidence. Producing a recommendation, or getting it implemented, is insufficient by itself.\n\nKeep the pilot narrow. Record preparation, AI-assisted organization, human checking, corrections, and later maintenance. Compare those tasks with the current manual process, using the same question and material. Record actual costs rather than assuming savings.\n\nName an interpretation owner. Preserve unresolved questions. Customer-data handling and consent need separate evidence before disclosure to a tool.\n\nExpand only if the comparison supports it. The sources reviewed here do not demonstrate that this pilot design works.",
+    "wav": "C:\\Users\\hp\\Documents\\GitHub\\ps04\\runs\\20261010T052912Z-1d2e8a\\video_previews\\audio\\03-05.wav",
+    "frame": "frames/03-05.png"
+  },
+  {
+    "piece_id": "03",
+    "scene": 6,
+    "text": "Watch for independent small-business evaluations that disclose manual baselines, total costs, source coverage, multilingual checks, and failures. Those results are missing here, as are customers’ views on data use and documented unsuccessful small-business deployments.\n\nRead these perspectives with their incentives in mind: Mpofu has book, research-business, and training interests; Greenbook promotes conferences; Insight Platforms operates a directory and conferences.\n\nThe next step is a small, reviewable comparison. Keep the evidence, count the checking, and judge whether the work helps the decision.\n\nCodex assisted with drafting this script from the cited sources.",
+    "wav": "C:\\Users\\hp\\Documents\\GitHub\\ps04\\runs\\20261010T052912Z-1d2e8a\\video_previews\\audio\\03-06.wav",
+    "frame": "frames/03-06.png"
+  }
+]

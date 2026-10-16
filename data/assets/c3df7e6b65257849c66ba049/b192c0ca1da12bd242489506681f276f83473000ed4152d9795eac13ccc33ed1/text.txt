@@ -1,0 +1,19 @@
+You have probably had an idea for something you wished you could build with your competitive data, something that only really makes sense inside your organization. Maybe it gets a rep exactly what they need before a competitive call, shaped to how your team actually sells. Maybe it puts the right update in front of the product manager who owns that competitor. Whatever it is, it's specific to you, and specific is exactly what nobody else can build.
+Acting on that idea was never fully in your hands. A vendor had to put it on a roadmap and wait to see whether enough other customers wanted the same thing, or your own engineering team had to pick it up and prioritize it over everything else in their sprint. Neither is a queue you control, and the more specific your idea, the further back in line it sits.
+Now you can just build it yourself.
+Every insight in Crayon, ready for whatever you build
+The Insights API makes every insight Crayon collects for you available to your AI tools or your development team. It's the same data layer that runs Crayon. What you do with it is up to you.
+You also get the full detail behind each insight, not just a headline. Every insight comes back with its title, summary, date and the competitors it's tagged to. Ask for more and you get the full text and source link, plus the specifics for that kind of insight: a review's rating, pros, cons and reviewer role, a call clip's date and quote, or a win/loss record's opportunity, amount, owner and the competitor you lost to.
+The part that takes years is already done
+Putting a summary on top of clean data takes a weekend. Getting that data clean takes years. Someone has to watch competitor websites, pull in your calls, read the reviews, capture win/loss, and then figure out what's new and what actually matters against a specific competitor. Then keep all of it running.
+That's the work Crayon already does every day. We'd rather hand you the years and let you keep the weekend.
+Two places to start
+Ask your AI tool. Connect the Insights API to the AI tools your team already uses, so the next time leadership asks what a competitor has been up to, your answer is one question away, built on your own Crayon insights.
+Build something of your own. One of our beta customers built an assistant that writes each rep a brief before a competitive call, matched to the deal that rep is actually working. Another created a workflow that puts competitor product updates in front of their product managers ahead of every roadmap meeting. Another built a competitive news checklist app for their CEO using a combination of Crayon and Monday.com.
+None of these look alike, because the build that works is usually the one that only makes sense inside your company.
+Getting started takes minutes
+An admin creates a read-only API key in Crayon and can see live data come back right away. From there, it's a matter of pointing the feed wherever your team already works. The AI tools you already use can help write most of that connection, so it rarely turns into an engineering project.
+Already a Crayon customer? Your CSM can help you get set up today.
+Go dig that idea back out
+The idea you've been sitting on finally has a way forward. It's time to revisit it, so your compete program becomes part of how the rest of your company already works.
+So, what will you build?

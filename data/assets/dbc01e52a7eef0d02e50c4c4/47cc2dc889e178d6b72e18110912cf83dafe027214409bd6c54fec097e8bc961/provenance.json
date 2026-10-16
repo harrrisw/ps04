@@ -1,0 +1,20 @@
+{
+  "item_id": "youtube:XH1u09pL0Hk",
+  "source_id": "marketing-ai-video",
+  "publisher_id": "marketing-ai-institute",
+  "kind": "youtube",
+  "title": "Ep. 246: AI Answers - Live from MAICON 2026: AGI, AI Costs, and the End of GPTs",
+  "url": "https://www.youtube.com/watch?v=XH1u09pL0Hk",
+  "published_at": "2026-10-15T09:00:16Z",
+  "retrieved_at": "2026-10-16T04:31:25.067003Z",
+  "media_url": null,
+  "native_id": "XH1u09pL0Hk",
+  "underlying_id": "youtube:XH1u09pL0Hk",
+  "original_publication_basis": "YouTube release/upload metadata",
+  "transcript_basis": "local speech recognition; manually verify quoted segments against audio",
+  "media_path": "data/media/dbc01e52a7eef0d02e50c4c4/XH1u09pL0Hk.m4a",
+  "content_hash": "a0be45e1418480f8e8be57020e31fc91019d87a34c96f9dc7c40e5a145c3b841",
+  "version_id": "47cc2dc889e178d6b72e18110912cf83dafe027214409bd6c54fec097e8bc961",
+  "text_path": "data/assets/dbc01e52a7eef0d02e50c4c4/47cc2dc889e178d6b72e18110912cf83dafe027214409bd6c54fec097e8bc961/text.txt",
+  "segments_path": "data/assets/dbc01e52a7eef0d02e50c4c4/47cc2dc889e178d6b72e18110912cf83dafe027214409bd6c54fec097e8bc961/segments.json"
+}

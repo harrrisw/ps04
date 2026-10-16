@@ -1,0 +1,21 @@
+{
+  "item_id": "feed:32944883b9dff85a7148008d",
+  "source_id": "crayon-written",
+  "publisher_id": "crayon",
+  "kind": "feed",
+  "title": "Insights API Blog",
+  "url": "https://www.crayon.co/blog/insights-api",
+  "published_at": "2026-10-01T10:00:00Z",
+  "retrieved_at": "2026-10-10T05:17:37Z",
+  "media_url": null,
+  "native_id": "https://www.crayon.co/blog/insights-api",
+  "underlying_id": "feed:32944883b9dff85a7148008d",
+  "original_publication_basis": "feed published field",
+  "transcript_url": null,
+  "transcript_type": null,
+  "download_hash": "ae3079d8f64a3a034d85db8727ec8d86cd3788ad814bff827402d9485d6077d7",
+  "content_hash": "e705e3c4bc7db740546ea20812131d076e5983262f857405fdbc1d511017709c",
+  "version_id": "b192c0ca1da12bd242489506681f276f83473000ed4152d9795eac13ccc33ed1",
+  "text_path": "data/assets/c3df7e6b65257849c66ba049/b192c0ca1da12bd242489506681f276f83473000ed4152d9795eac13ccc33ed1/text.txt",
+  "segments_path": null
+}

@@ -1,0 +1,19 @@
+{
+  "stage": "create_briefs",
+  "status": "failed",
+  "input_count": 0,
+  "output_count": 0,
+  "started_at": "2026-10-16T15:34:21.983227Z",
+  "finished_at": "2026-10-16T15:34:21.984228Z",
+  "tools": [
+    "python"
+  ],
+  "models": [],
+  "cost_usd": 0,
+  "cost_is_estimate": false,
+  "errors": [
+    "Accepted evidence lacks three publishers or all required input kinds"
+  ],
+  "notes": [],
+  "elapsed_seconds": 0.015
+}

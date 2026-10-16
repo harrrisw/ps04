@@ -1,0 +1,21 @@
+{
+  "item_id": "feed:5287e3546947811570948bf7",
+  "source_id": "techcrunch-ai-written",
+  "publisher_id": "techcrunch",
+  "kind": "feed",
+  "title": "TechCrunch Disrupt 2026: Last day",
+  "url": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day",
+  "published_at": "2026-10-15T14:00:00Z",
+  "retrieved_at": "2026-10-16T04:25:06.378152Z",
+  "media_url": null,
+  "native_id": "https://techcrunch.com/?p=3178027",
+  "underlying_id": "feed:5287e3546947811570948bf7",
+  "original_publication_basis": "feed published field",
+  "transcript_url": null,
+  "transcript_type": null,
+  "download_hash": "a5cba30575871ee6a81c4a685ae51df2d2065a7ac5708337a3a488c2b6da751f",
+  "content_hash": "33276f4888a182ea4c0caa793fe1796413e54270ec6b9ff8063cdb599a24f60f",
+  "version_id": "41a2b9788cb81469d5e54592faa4275d53d1dd2bc9d2051a62ea6be8eaacc5b7",
+  "text_path": "data/assets/975956d116b3a41f342f7fce/41a2b9788cb81469d5e54592faa4275d53d1dd2bc9d2051a62ea6be8eaacc5b7/text.txt",
+  "segments_path": null
+}

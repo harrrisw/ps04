@@ -1,0 +1,35 @@
+{
+  "decisions": [
+    {
+      "item_id": "feed:4db68c2469ea7a1408d3b0cc",
+      "version_id": "9a323abf43a54c0581fdb3997cd83be821eeeb4429f3931fcd87e3dcbfee03f6",
+      "decision": "defer",
+      "reason": "Relevant to customer research only indirectly: it discusses a UK financial-services brand study about loyalty, generational attitudes, and AI use in finance questions, but it does not address small-business research workflows or tool evaluation. Credibility is limited because the core claims are attributed to the publisher’s own research without methods, sample size, field dates, or an inspectable baseline, so the reported percentages cannot be validated from the passage. Uncertainty is high about transferability outside UK financial services; this may be useful as context, but the commercial publisher’s incentives and missing methodology mean it should not be treated as decision-grade evidence. Potential cross-post/branding ambiguity is low but the piece is a branded thought-leadership article, not independent corroboration.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:50ace4c9fd0d401184f71554",
+      "version_id": "76f965a4fb8297c8476052004b9848a4bfa0ac1a5322b1fea1bea5549943f2d6",
+      "decision": "accept",
+      "reason": "Relevant because it offers an inspectable research workflow for reducing cost and improving retrieval in large document collections: pairing lexical search with semantic search via reciprocal rank fusion, plus practical tools (zvec-grep, QMD) that could help small businesses search internal docs or research libraries more efficiently. Credibility is moderate but not strong: the piece explains the method and tool behavior, yet gives no benchmarks, same-question comparison against a named baseline, or reproducible evaluation of accuracy/cost savings, so performance claims remain unverified. The author has clear commercial incentives (newsletter/course/slack promotions and strong self-promotion), so the article should be used as a method idea and tool lead, not as proof of effectiveness. Potential repeated underlying claim: it echoes the common “AI search can cut token usage and improve results” theme found in other AI-optimization posts, so it should be linked as a supporting method rather than a unique outcome claim.",
+      "piece_ids": [
+        "02",
+        "03"
+      ]
+    },
+    {
+      "item_id": "feed:50ef6ec07302679e7aa7d5d0",
+      "version_id": "3371e6cce9b0502e5adb06f6b0a386e3673ab525c36e18109e66f1d53fab7bc7",
+      "decision": "defer",
+      "reason": "Only weakly relevant: it is a branding/consumer-insight essay about tensions in product positioning, not a development in AI tools for customer, competitor, or market research. The credibility is limited because it is a thought-leadership post with illustrative brand examples and no methods, datasets, or validation of the general claims. Uncertainty is high about applicability to small-business research, and the commercial consulting incentive is material because the page ends with a lead-generation invitation. It does not provide evidence for the central question, so it should be deferred rather than forced into a brief. Potential cross-post or repeated-claim risk is moderate because it uses the same generic “insight-led strategy” framing common across branded consultancy content.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:51cb8a799f9ac10833e347d2",
+      "version_id": "8e2ccb0557a3e908224d0c1570a505f7149a8d85f35a5c74ca60f605a4463b62",
+      "decision": "reject",
+      "reason": "Not relevant to the brief’s central question: this is a conference promotion and podcast roundup for MAICON, not an evidence-based report on AI research tools or methods for customer/competitor/market research. Credibility is low for the specific claim space because it is promotional event copy with no methods, no findings, and no inspectable comparison or research workflow. The commercial incentive is direct—driving attendance and podcast listenership—so it cannot support conclusions about tool effectiveness or small-business research value. It also appears to recycle a standard event-marketing template, so there is no distinct new evidence to retain.",
+      "piece_ids": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "item_id": "feed:aaa748520b768d551a2cc477",
+  "source_id": "marketing-ai-written",
+  "publisher_id": "marketing-ai-institute",
+  "kind": "feed",
+  "title": "How OpenAI’s GPT-6 Astra Can Help You Build Presentations",
+  "url": "https://www.marketingaiinstitute.com/blog/gpt-6-astra-builds-presentations",
+  "published_at": "2026-09-16T17:00:00Z",
+  "retrieved_at": "2026-10-10T05:17:36Z",
+  "media_url": null,
+  "native_id": "https://www.marketingaiinstitute.com/blog/gpt-6-astra-builds-presentations",
+  "underlying_id": "feed:aaa748520b768d551a2cc477",
+  "original_publication_basis": "feed published field",
+  "transcript_url": null,
+  "transcript_type": null,
+  "download_hash": "8820201f763dfb1cad0a80712f6a5540ffb59015ccb03277506c70a866e96551",
+  "content_hash": "5d33eddac22bb81a813833897316c32f537f5c674cd1766ef543897dec803b71",
+  "version_id": "60995190c3f305fd3305d2f89b47dd3c2a89f0a45024504014655bc8fa268e27",
+  "text_path": "data/assets/61d2348a9d7abb2a855f1bfd/60995190c3f305fd3305d2f89b47dd3c2a89f0a45024504014655bc8fa268e27/text.txt",
+  "segments_path": null
+}

@@ -1,0 +1,44 @@
+{
+  "decisions": [
+    {
+      "item_id": "podcast:f74782bc5c344427a5c6c1ec",
+      "version_id": "76701011e6dfa0bf2bd3d6d070262bd7ad4e3d90d2c9bc6512a37d61044ed22e",
+      "decision": "accept",
+      "reason": "Relevant to the brief because it captures a recent practitioner debrief on an AI research conference, with concrete claims about workflow design, accountability, and where AI may help small-business research tasks. Credibility is moderate: the source is a publisher-branded podcast, but the transcript is locally generated and explicitly marked for manual verification, so quoted details should be treated as attributed, not independently validated. Uncertainty remains about exact wording and whether all named sessions were accurately recalled. Flag cross-post/duplication risk: this is a debrief of the same event and underlying claims recur in the other Green Book item, so use it mainly for synthesis and avoid double-counting repeated points.",
+      "piece_ids": [
+        "01",
+        "02",
+        "03"
+      ]
+    },
+    {
+      "item_id": "youtube:X-JA9VVnUBs",
+      "version_id": "46d01e611e9acd7192a39a42ae0e3d0320c251b0747f58dd348fdda1b81a2a3c",
+      "decision": "accept",
+      "reason": "Relevant because it reports recent product changes affecting AI assistants and automation workflows, including always-on agents, shared workspaces, pricing changes, and privacy features that could affect how small businesses research customers and competitors. Credibility is limited to a vendor-affiliated commentary show plus release metadata; several claims are paraphrased from announcements and one speaker notes the response was 'meh,' indicating skepticism rather than proof of effectiveness. Uncertainty is material because the transcript is only captions and several capabilities are described as demos or coming soon; commercial incentives are strong given the sponsor/promotional context, so treat these as announced capabilities, not validated results.",
+      "piece_ids": [
+        "01",
+        "02",
+        "03"
+      ]
+    },
+    {
+      "item_id": "youtube:XCmsCJcD0Kw",
+      "version_id": "cdf2165e5187d9286f30a7e19df7210cc82a7de41dd8071d5acb3fc7998796ce",
+      "decision": "accept",
+      "reason": "Relevant and practical: it gives inspectable workflow advice for using AI in research-like tasks—finding context, using sources and citations, triggers, human review, and checking data before story development. Credibility is limited because this is a tutorial from a named publisher, not an independent evaluation, and the speaker relies on personal examples rather than comparative testing. Uncertainty remains around tool-specific behavior and the accuracy of the narrated examples, but the methods are explicit and transferable to small-business desk research and interview/survey synthesis. Commercial incentive is present through sponsor mentions, so treat the recommendations as practitioner guidance rather than neutral benchmarks.",
+      "piece_ids": [
+        "01",
+        "02",
+        "03"
+      ]
+    },
+    {
+      "item_id": "youtube:XH1u09pL0Hk",
+      "version_id": "47cc2dc889e178d6b72e18110912cf83dafe027214409bd6c54fec097e8bc961",
+      "decision": "defer",
+      "reason": "Topically relevant because it discusses AI capability thresholds, personalization, and workflow design for business users, which could inform how a small business pilots AI for research. However, reliability is insufficient for a firm editorial decision: it is a live event Q&A with highly promotional framing, no methods, no independent verification, and several claims are broad judgments or audience impressions rather than evidence. Uncertainty is high about what is newly learned versus event recap, and there is substantial overlap with the other Marketing AI Institute item on similar themes, so this should not be treated as a distinct, fully dependable source until corroborated. Flag as a potential cross-post/repeated underlying claims item.",
+      "piece_ids": []
+    }
+  ]
+}

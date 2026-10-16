@@ -1,0 +1,36 @@
+{
+  "stage": "create_briefs",
+  "status": "failed",
+  "input_count": 60,
+  "output_count": 0,
+  "started_at": "2026-10-16T15:43:18.062995Z",
+  "finished_at": "2026-10-16T15:43:41.876460Z",
+  "tools": [
+    "python",
+    "parley",
+    "parley"
+  ],
+  "models": [
+    "gpt-5.4-mini",
+    "gpt-5.4-mini",
+    "gpt-5.4-mini"
+  ],
+  "cost_usd": null,
+  "cost_is_estimate": false,
+  "errors": [
+    "Invalid briefs after one correction attempt: [{'artifact': '01-c4', 'severity': 'error', 'explanation': 'Exact quoted passage does not occur in retained text'}, {'artifact': '02-c1', 'severity': 'error', 'explanation': 'Exact quoted passage does not occur in retained text'}, {'artifact': '02-c6', 'severity': 'error', 'explanation': 'Exact quoted passage does not occur in retained text'}, {'artifact': '03-c1', 'severity': 'error', 'explanation': 'Exact quoted passage does not occur in retained text'}, {'artifact': '03-c4', 'severity': 'error', 'explanation': 'Exact quoted passage does not occur in retained text'}, {'artifact': '03-c5', 'severity': 'error', 'explanation': 'Exact quoted passage does not occur in retained text'}]"
+  ],
+  "notes": [
+    "Reused exact saved model response: runs/20261016T153525Z-231399/ai_calls/create_briefs-a08f66102d",
+    "Initial brief validation failed; one evidence-grounded correction requested. Errors: [{'artifact': '01-c4', 'severity': 'error', 'explanation': 'Exact quoted passage does not occur in retained text'}, {'artifact': '02-c1', 'severity': 'error', 'explanation': 'Exact quoted passage does not occur in retained text'}, {'artifact': '02-c6', 'severity': 'error', 'explanation': 'Exact quoted passage does not occur in retained text'}, {'artifact': '03-c1', 'severity': 'error', 'explanation': 'Exact quoted passage does not occur in retained text'}, {'artifact': '03-c4', 'severity': 'error', 'explanation': 'Exact quoted passage does not occur in retained text'}, {'artifact': '03-c5', 'severity': 'error', 'explanation': 'Exact quoted passage does not occur in retained text'}]",
+    "MIT Parley account credits; dollar cost not reported. No automatic retries."
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 106690,
+      "completion_tokens": 5907,
+      "total_tokens": 112597
+    }
+  ],
+  "elapsed_seconds": 23.813
+}

@@ -1,0 +1,3200 @@
+[
+  {
+    "segment_id": "s00001",
+    "start_seconds": 0.0,
+    "end_seconds": 14.64,
+    "text": "So, from prompting to delegating five AI tips, here are our wonderful sponsors, please do"
+  },
+  {
+    "segment_id": "s00002",
+    "start_seconds": 14.64,
+    "end_seconds": 18.12,
+    "text": "visit them when you get a chance."
+  },
+  {
+    "segment_id": "s00003",
+    "start_seconds": 18.12,
+    "end_seconds": 23.92,
+    "text": "Here are the June tips that we covered, so they're useful to keep in your mind before"
+  },
+  {
+    "segment_id": "s00004",
+    "start_seconds": 23.92,
+    "end_seconds": 33.86,
+    "text": "we move into the September tips, using AI to help create better prompts, make sure that"
+  },
+  {
+    "segment_id": "s00005",
+    "start_seconds": 33.86,
+    "end_seconds": 38.92,
+    "text": "if you're trying to get something to work, it's not working, take a screenshot, post"
+  },
+  {
+    "segment_id": "s00006",
+    "start_seconds": 38.92,
+    "end_seconds": 43.160000000000004,
+    "text": "that into the AI and say, how should I do this?"
+  },
+  {
+    "segment_id": "s00007",
+    "start_seconds": 43.160000000000004,
+    "end_seconds": 48.540000000000006,
+    "text": "Or here's an image of something, maybe you've just taken a photocopy of an Ikea builder"
+  },
+  {
+    "segment_id": "s00008",
+    "start_seconds": 48.54,
+    "end_seconds": 53.94,
+    "text": "at home wardrobe, and you can put that in and ask AI to help you."
+  },
+  {
+    "segment_id": "s00009",
+    "start_seconds": 53.94,
+    "end_seconds": 59.379999999999995,
+    "text": "Using two models to verify your analysis, so you run the analysis in one program, and"
+  },
+  {
+    "segment_id": "s00010",
+    "start_seconds": 59.379999999999995,
+    "end_seconds": 66.14,
+    "text": "then you test it in a second model, Claude testing co-pilot, Gemini testing chat GPT,"
+  },
+  {
+    "segment_id": "s00011",
+    "start_seconds": 66.14,
+    "end_seconds": 68.22,
+    "text": "for example."
+  },
+  {
+    "segment_id": "s00012",
+    "start_seconds": 68.22,
+    "end_seconds": 74.68,
+    "text": "Using the AI that's built into your regular programs is really a key step, and scheduling"
+  },
+  {
+    "segment_id": "s00013",
+    "start_seconds": 74.68,
+    "end_seconds": 80.80000000000001,
+    "text": "prompts, so every Friday it's going to do you a summary of all your meetings for next"
+  },
+  {
+    "segment_id": "s00014",
+    "start_seconds": 80.80000000000001,
+    "end_seconds": 81.80000000000001,
+    "text": "week."
+  },
+  {
+    "segment_id": "s00015",
+    "start_seconds": 81.80000000000001,
+    "end_seconds": 88.60000000000001,
+    "text": "For example, and you can see the recordings of all of those from the June broadcast, they're"
+  },
+  {
+    "segment_id": "s00016",
+    "start_seconds": 88.60000000000001,
+    "end_seconds": 91.16000000000001,
+    "text": "up on the No My website."
+  },
+  {
+    "segment_id": "s00017",
+    "start_seconds": 91.16000000000001,
+    "end_seconds": 96.44000000000001,
+    "text": "Today, the theme is going to be moving from prompting to delegating."
+  },
+  {
+    "segment_id": "s00018",
+    "start_seconds": 96.44000000000001,
+    "end_seconds": 101.88000000000001,
+    "text": "Prompting was all about asking one question at a time, and then you keep iterating through"
+  },
+  {
+    "segment_id": "s00019",
+    "start_seconds": 101.88,
+    "end_seconds": 108.96,
+    "text": "steering the AI, you get great results, but it's quite labour-intensive, quite slow."
+  },
+  {
+    "segment_id": "s00020",
+    "start_seconds": 108.96,
+    "end_seconds": 114.88,
+    "text": "Now we want to think about how can we delegate that, so get a whole piece of work, provide"
+  },
+  {
+    "segment_id": "s00021",
+    "start_seconds": 114.88,
+    "end_seconds": 123.16,
+    "text": "sources, rules and checks, and ask the AI to stop when the human judgment is required."
+  },
+  {
+    "segment_id": "s00022",
+    "start_seconds": 123.16,
+    "end_seconds": 131.04,
+    "text": "So tip zero, I did a tip zero last time around as well, to cheat on the number five a little"
+  },
+  {
+    "segment_id": "s00023",
+    "start_seconds": 131.04,
+    "end_seconds": 132.04,
+    "text": "bit."
+  },
+  {
+    "segment_id": "s00024",
+    "start_seconds": 132.04,
+    "end_seconds": 138.79999999999998,
+    "text": "This time I want you to think about how can AI make you brighter and avoiding ways that"
+  },
+  {
+    "segment_id": "s00025",
+    "start_seconds": 138.79999999999998,
+    "end_seconds": 140.6,
+    "text": "it makes you dumber."
+  },
+  {
+    "segment_id": "s00026",
+    "start_seconds": 140.6,
+    "end_seconds": 148.16,
+    "text": "So if you ask AI to write your email for you, you will get less good at writing emails."
+  },
+  {
+    "segment_id": "s00027",
+    "start_seconds": 148.16,
+    "end_seconds": 156.12,
+    "text": "If you ask it to write proposals for you, you ask it to take your report and correct it,"
+  },
+  {
+    "segment_id": "s00028",
+    "start_seconds": 156.12,
+    "end_seconds": 163.08,
+    "text": "it's going to make you less good in the way that most of us started using calculators"
+  },
+  {
+    "segment_id": "s00029",
+    "start_seconds": 163.08,
+    "end_seconds": 166.72,
+    "text": "and our arithmetic became less good."
+  },
+  {
+    "segment_id": "s00030",
+    "start_seconds": 166.72,
+    "end_seconds": 173.92000000000002,
+    "text": "But if you ask AI to tell you how to improve the email, it will make you better at writing"
+  },
+  {
+    "segment_id": "s00031",
+    "start_seconds": 173.92000000000002,
+    "end_seconds": 175.22,
+    "text": "emails."
+  },
+  {
+    "segment_id": "s00032",
+    "start_seconds": 175.22,
+    "end_seconds": 181.4,
+    "text": "If you ask it, what are the main problems with this report, then it's going to make you brighter."
+  },
+  {
+    "segment_id": "s00033",
+    "start_seconds": 181.4,
+    "end_seconds": 188.52,
+    "text": "So a lot of what we're looking at today is designed to improve your skills, not replace"
+  },
+  {
+    "segment_id": "s00034",
+    "start_seconds": 188.52,
+    "end_seconds": 192.8,
+    "text": "you with the AI."
+  },
+  {
+    "segment_id": "s00035",
+    "start_seconds": 192.8,
+    "end_seconds": 196.72,
+    "text": "So we're going to ask AI to find the context."
+  },
+  {
+    "segment_id": "s00036",
+    "start_seconds": 196.72,
+    "end_seconds": 199.92000000000002,
+    "text": "We're going to move from schedules to triggers."
+  },
+  {
+    "segment_id": "s00037",
+    "start_seconds": 199.92000000000002,
+    "end_seconds": 205.6,
+    "text": "I'm going to tell you to do the story finding first."
+  },
+  {
+    "segment_id": "s00038",
+    "start_seconds": 205.6,
+    "end_seconds": 208.8,
+    "text": "Use AI as a hostile reviewer."
+  },
+  {
+    "segment_id": "s00039",
+    "start_seconds": 208.8,
+    "end_seconds": 218.44,
+    "text": "And then you want to spend the AI intelligence tokens or money where it matters most."
+  },
+  {
+    "segment_id": "s00040",
+    "start_seconds": 218.44,
+    "end_seconds": 220.20000000000002,
+    "text": "So this is the first one."
+  },
+  {
+    "segment_id": "s00041",
+    "start_seconds": 220.20000000000002,
+    "end_seconds": 223.4,
+    "text": "Fight netting AI find the context."
+  },
+  {
+    "segment_id": "s00042",
+    "start_seconds": 223.4,
+    "end_seconds": 229.52,
+    "text": "So what you often do is you want to work on a document, a report or something like this,"
+  },
+  {
+    "segment_id": "s00043",
+    "start_seconds": 229.52,
+    "end_seconds": 231.28,
+    "text": "so you upload it."
+  },
+  {
+    "segment_id": "s00044",
+    "start_seconds": 231.28,
+    "end_seconds": 236.4,
+    "text": "You want it to have a look at two or three emails you've received to try to create a"
+  },
+  {
+    "segment_id": "s00045",
+    "start_seconds": 236.4,
+    "end_seconds": 244.44,
+    "text": "new outcome, so you paste copies of those emails into the AI."
+  },
+  {
+    "segment_id": "s00046",
+    "start_seconds": 244.44,
+    "end_seconds": 251.68,
+    "text": "Instead of that, what I would like you to try to do within the realms of what your IT department"
+  },
+  {
+    "segment_id": "s00047",
+    "start_seconds": 251.68,
+    "end_seconds": 260.08,
+    "text": "will permit is point the AI at the relevant files, ask it to have a look in the right"
+  },
+  {
+    "segment_id": "s00048",
+    "start_seconds": 260.08,
+    "end_seconds": 268.44,
+    "text": "section of SharePoint or OneDrive or Google Drive or on your hard disk, ask it to read"
+  },
+  {
+    "segment_id": "s00049",
+    "start_seconds": 268.44,
+    "end_seconds": 274.8,
+    "text": "your outlook or read your Gmail in order to call this information, ask it to reconstruct"
+  },
+  {
+    "segment_id": "s00050",
+    "start_seconds": 274.8,
+    "end_seconds": 279.84,
+    "text": "decisions, find open questions, gather background from those."
+  },
+  {
+    "segment_id": "s00051",
+    "start_seconds": 279.84,
+    "end_seconds": 285.28,
+    "text": "And then when it works with you, ask it to tell you where it got that information from,"
+  },
+  {
+    "segment_id": "s00052",
+    "start_seconds": 285.28000000000003,
+    "end_seconds": 291.28000000000003,
+    "text": "ask it about any gaps in coverage, where was it not able to read something?"
+  },
+  {
+    "segment_id": "s00053",
+    "start_seconds": 291.28000000000003,
+    "end_seconds": 297.04,
+    "text": "So here's one example, and I use this one a lot I actually talked about in LinkedIn recently."
+  },
+  {
+    "segment_id": "s00054",
+    "start_seconds": 297.04,
+    "end_seconds": 304.56000000000006,
+    "text": "When I have a meeting, like all of us, I record the transcript, but when I'm asking for an"
+  },
+  {
+    "segment_id": "s00055",
+    "start_seconds": 304.56000000000006,
+    "end_seconds": 311.44000000000005,
+    "text": "analysis of the meeting, I actually ask it to grab the materials that were supplied to"
+  },
+  {
+    "segment_id": "s00056",
+    "start_seconds": 311.44000000000005,
+    "end_seconds": 312.44000000000005,
+    "text": "the meeting."
+  },
+  {
+    "segment_id": "s00057",
+    "start_seconds": 312.44,
+    "end_seconds": 320.04,
+    "text": "I ask it to review my emails on this topic and then create a summary of what was decided,"
+  },
+  {
+    "segment_id": "s00058",
+    "start_seconds": 320.04,
+    "end_seconds": 325.08,
+    "text": "what the action points were, who's going to be doing them, highlight anything we plan"
+  },
+  {
+    "segment_id": "s00059",
+    "start_seconds": 325.08,
+    "end_seconds": 327.2,
+    "text": "to discuss and did not cover."
+  },
+  {
+    "segment_id": "s00060",
+    "start_seconds": 327.2,
+    "end_seconds": 333.04,
+    "text": "So it's got the agenda and it's got the email discussions before the meeting happened."
+  },
+  {
+    "segment_id": "s00061",
+    "start_seconds": 333.04,
+    "end_seconds": 337.24,
+    "text": "So it can tell me about things which did not happen in the meeting."
+  },
+  {
+    "segment_id": "s00062",
+    "start_seconds": 337.24,
+    "end_seconds": 343.08,
+    "text": "If I only use the transcript to the meeting, I won't know about that unless somebody piked"
+  },
+  {
+    "segment_id": "s00063",
+    "start_seconds": 343.08,
+    "end_seconds": 348.84000000000003,
+    "text": "up and joined the meeting and said, you know that we didn't talk about A, B and C."
+  },
+  {
+    "segment_id": "s00064",
+    "start_seconds": 348.84000000000003,
+    "end_seconds": 354.72,
+    "text": "And then ask it to indicate anything that's a contradiction or a problem within that."
+  },
+  {
+    "segment_id": "s00065",
+    "start_seconds": 354.72,
+    "end_seconds": 360.48,
+    "text": "So maybe there is somebody who couldn't attend the meeting but had a very different opinion"
+  },
+  {
+    "segment_id": "s00066",
+    "start_seconds": 360.48,
+    "end_seconds": 362.88,
+    "text": "in the emails in the run up to it."
+  },
+  {
+    "segment_id": "s00067",
+    "start_seconds": 362.88,
+    "end_seconds": 365.68,
+    "text": "It can highlight that."
+  },
+  {
+    "segment_id": "s00068",
+    "start_seconds": 365.68,
+    "end_seconds": 373.08,
+    "text": "So this webinar, I asked it, CHATCHPT on this occasion, I want you to access the slides"
+  },
+  {
+    "segment_id": "s00069",
+    "start_seconds": 373.08,
+    "end_seconds": 378.16,
+    "text": "in the recordings of the June tips course, I want you to look at the marketing for the"
+  },
+  {
+    "segment_id": "s00070",
+    "start_seconds": 378.16,
+    "end_seconds": 385.0,
+    "text": "September course, I want you to look at my recent post and articles on AI and also my"
+  },
+  {
+    "segment_id": "s00071",
+    "start_seconds": 385.0,
+    "end_seconds": 388.04,
+    "text": "emails over the last three months."
+  },
+  {
+    "segment_id": "s00072",
+    "start_seconds": 388.04,
+    "end_seconds": 394.72,
+    "text": "Recommend 10 possible topics for the September webinar so I can choose and tweak five of them."
+  },
+  {
+    "segment_id": "s00073",
+    "start_seconds": 394.72,
+    "end_seconds": 401.24,
+    "text": "And this is like a bonus tip, whenever you want to do something like find five topics,"
+  },
+  {
+    "segment_id": "s00074",
+    "start_seconds": 401.24,
+    "end_seconds": 410.88000000000005,
+    "text": "ask it to generate 10, if you're trying to find a best solution, ask it to generate three."
+  },
+  {
+    "segment_id": "s00075",
+    "start_seconds": 410.88000000000005,
+    "end_seconds": 414.56,
+    "text": "If you ask it to generate one, it will normally come up with the same ideas as you."
+  },
+  {
+    "segment_id": "s00076",
+    "start_seconds": 414.56,
+    "end_seconds": 419.08000000000004,
+    "text": "If you ask it to generate five, it's probably going to come up with the four of the same"
+  },
+  {
+    "segment_id": "s00077",
+    "start_seconds": 419.08000000000004,
+    "end_seconds": 423.24,
+    "text": "five that you would do is not taking you anywhere extra."
+  },
+  {
+    "segment_id": "s00078",
+    "start_seconds": 423.24,
+    "end_seconds": 428.16,
+    "text": "So ask for a bigger number and then look at what they have in common."
+  },
+  {
+    "segment_id": "s00079",
+    "start_seconds": 428.16,
+    "end_seconds": 431.88,
+    "text": "See if it can give you a new perspective."
+  },
+  {
+    "segment_id": "s00080",
+    "start_seconds": 431.88,
+    "end_seconds": 435.68,
+    "text": "This slide is not for reading right now on the screen, you'll be glad to know."
+  },
+  {
+    "segment_id": "s00081",
+    "start_seconds": 435.68,
+    "end_seconds": 441.52,
+    "text": "This is a reference slide when you download a copy of my slides and it tells you what the"
+  },
+  {
+    "segment_id": "s00082",
+    "start_seconds": 441.52,
+    "end_seconds": 447.72,
+    "text": "rules are today in terms of being able to ask things to do."
+  },
+  {
+    "segment_id": "s00083",
+    "start_seconds": 447.72,
+    "end_seconds": 454.88000000000005,
+    "text": "So if we take chat GPT, it can connect to all the Microsoft stuff so I can read all of"
+  },
+  {
+    "segment_id": "s00084",
+    "start_seconds": 454.88000000000005,
+    "end_seconds": 461.68,
+    "text": "my outlook and things like that, which at GPT, I can look at my calendars, it can look"
+  },
+  {
+    "segment_id": "s00085",
+    "start_seconds": 461.68,
+    "end_seconds": 469.32000000000005,
+    "text": "at my Gmail, and when I'm using the codecs desktop version, I can very happily read the"
+  },
+  {
+    "segment_id": "s00086",
+    "start_seconds": 469.32000000000005,
+    "end_seconds": 471.48,
+    "text": "stuff that's on my desktop too."
+  },
+  {
+    "segment_id": "s00087",
+    "start_seconds": 471.48,
+    "end_seconds": 477.44000000000005,
+    "text": "And there's a slightly different configuration available for all of them, but most of them"
+  },
+  {
+    "segment_id": "s00088",
+    "start_seconds": 477.44,
+    "end_seconds": 479.28,
+    "text": "have a lot of power."
+  },
+  {
+    "segment_id": "s00089",
+    "start_seconds": 479.28,
+    "end_seconds": 483.04,
+    "text": "It changes a bit depending on which license you have."
+  },
+  {
+    "segment_id": "s00090",
+    "start_seconds": 483.04,
+    "end_seconds": 489.92,
+    "text": "It changes nearly every week and your IT department will have some rules about what can"
+  },
+  {
+    "segment_id": "s00091",
+    "start_seconds": 489.92,
+    "end_seconds": 490.92,
+    "text": "be done."
+  },
+  {
+    "segment_id": "s00092",
+    "start_seconds": 490.92,
+    "end_seconds": 492.52,
+    "text": "So you'll need to check that."
+  },
+  {
+    "segment_id": "s00093",
+    "start_seconds": 492.52,
+    "end_seconds": 501.64,
+    "text": "But really, all of this process of asking it to read the background, read the context, it's"
+  },
+  {
+    "segment_id": "s00094",
+    "start_seconds": 501.64,
+    "end_seconds": 505.04,
+    "text": "better at not missing something that you are."
+  },
+  {
+    "segment_id": "s00095",
+    "start_seconds": 505.04,
+    "end_seconds": 508.16,
+    "text": "So I talked about being brighter and being dumber."
+  },
+  {
+    "segment_id": "s00096",
+    "start_seconds": 508.16,
+    "end_seconds": 510.20000000000005,
+    "text": "Most of us will tend to forget things."
+  },
+  {
+    "segment_id": "s00097",
+    "start_seconds": 510.20000000000005,
+    "end_seconds": 516.48,
+    "text": "So having this in addition to pull in the information is a great way of doing it."
+  },
+  {
+    "segment_id": "s00098",
+    "start_seconds": 516.48,
+    "end_seconds": 518.9200000000001,
+    "text": "So here's a work to example."
+  },
+  {
+    "segment_id": "s00099",
+    "start_seconds": 518.9200000000001,
+    "end_seconds": 526.76,
+    "text": "I asked Gemini to have a look at my Gmail account and create a list of the running event"
+  },
+  {
+    "segment_id": "s00100",
+    "start_seconds": 526.76,
+    "end_seconds": 528.52,
+    "text": "organizations I tend to deal with."
+  },
+  {
+    "segment_id": "s00101",
+    "start_seconds": 528.52,
+    "end_seconds": 530.24,
+    "text": "I do a lot of races."
+  },
+  {
+    "segment_id": "s00102",
+    "start_seconds": 530.24,
+    "end_seconds": 537.16,
+    "text": "I do park runs, 10Ks, half-marathons, marathons, ultra-racers."
+  },
+  {
+    "segment_id": "s00103",
+    "start_seconds": 537.16,
+    "end_seconds": 543.36,
+    "text": "And in 2027, I want to do at least one major event each month, ranging from half-marathons"
+  },
+  {
+    "segment_id": "s00104",
+    "start_seconds": 543.36,
+    "end_seconds": 545.48,
+    "text": "to multi-stage altars."
+  },
+  {
+    "segment_id": "s00105",
+    "start_seconds": 545.48,
+    "end_seconds": 550.1999999999999,
+    "text": "So look at my Google calendar to find out which months don't already haven't invented"
+  },
+  {
+    "segment_id": "s00106",
+    "start_seconds": 550.1999999999999,
+    "end_seconds": 551.1999999999999,
+    "text": "them."
+  },
+  {
+    "segment_id": "s00107",
+    "start_seconds": 551.1999999999999,
+    "end_seconds": 556.52,
+    "text": "And then use the list of sources to suggest three or four for each month without a key"
+  },
+  {
+    "segment_id": "s00108",
+    "start_seconds": 556.52,
+    "end_seconds": 557.52,
+    "text": "race."
+  },
+  {
+    "segment_id": "s00109",
+    "start_seconds": 557.52,
+    "end_seconds": 562.48,
+    "text": "Make the three or four varied, say, two to three in the UK, one or two overseas."
+  },
+  {
+    "segment_id": "s00110",
+    "start_seconds": 562.48,
+    "end_seconds": 564.12,
+    "text": "So I've got some scope."
+  },
+  {
+    "segment_id": "s00111",
+    "start_seconds": 564.12,
+    "end_seconds": 569.84,
+    "text": "I've asked it to go and search for the organizations it should be using."
+  },
+  {
+    "segment_id": "s00112",
+    "start_seconds": 569.84,
+    "end_seconds": 574.16,
+    "text": "I don't just want to list if everybody advertises organizations."
+  },
+  {
+    "segment_id": "s00113",
+    "start_seconds": 574.16,
+    "end_seconds": 578.1999999999999,
+    "text": "I want the ones I've already fairly comfortable with."
+  },
+  {
+    "segment_id": "s00114",
+    "start_seconds": 578.1999999999999,
+    "end_seconds": 582.52,
+    "text": "It comes back and it says, right, here are the companies that you tend to associate"
+  },
+  {
+    "segment_id": "s00115",
+    "start_seconds": 582.52,
+    "end_seconds": 589.24,
+    "text": "with, MDS, Spine, and so on, the Fell Running Association."
+  },
+  {
+    "segment_id": "s00116",
+    "start_seconds": 589.24,
+    "end_seconds": 592.76,
+    "text": "Then it comes back and it starts to go through the year for me."
+  },
+  {
+    "segment_id": "s00117",
+    "start_seconds": 592.76,
+    "end_seconds": 597.6,
+    "text": "Here are some ideas for February, here's some ideas for March, and so on."
+  },
+  {
+    "segment_id": "s00118",
+    "start_seconds": 597.6,
+    "end_seconds": 604.28,
+    "text": "And then I could go through and find out various criteria and start booking things through."
+  },
+  {
+    "segment_id": "s00119",
+    "start_seconds": 604.28,
+    "end_seconds": 607.04,
+    "text": "And I can run that on a regular basis."
+  },
+  {
+    "segment_id": "s00120",
+    "start_seconds": 607.04,
+    "end_seconds": 612.9599999999999,
+    "text": "And that's what I mean by asking it to access the material we already have."
+  },
+  {
+    "segment_id": "s00121",
+    "start_seconds": 612.9599999999999,
+    "end_seconds": 617.36,
+    "text": "The takeaway, use a narrow project scope."
+  },
+  {
+    "segment_id": "s00122",
+    "start_seconds": 617.36,
+    "end_seconds": 622.36,
+    "text": "Don't ask it to search all your emails for things that are interesting or anything like"
+  },
+  {
+    "segment_id": "s00123",
+    "start_seconds": 622.36,
+    "end_seconds": 623.52,
+    "text": "that."
+  },
+  {
+    "segment_id": "s00124",
+    "start_seconds": 623.52,
+    "end_seconds": 629.48,
+    "text": "Allow the AI to roam across a wide range of sources, including the internet and things"
+  },
+  {
+    "segment_id": "s00125",
+    "start_seconds": 629.48,
+    "end_seconds": 632.04,
+    "text": "like that quite often."
+  },
+  {
+    "segment_id": "s00126",
+    "start_seconds": 632.04,
+    "end_seconds": 641.3199999999999,
+    "text": "But make sure that the AI access is in place and consistent with your organization's rules."
+  },
+  {
+    "segment_id": "s00127",
+    "start_seconds": 641.3199999999999,
+    "end_seconds": 644.28,
+    "text": "Ask it where it's getting its information from."
+  },
+  {
+    "segment_id": "s00128",
+    "start_seconds": 644.28,
+    "end_seconds": 646.92,
+    "text": "Is it citing sources?"
+  },
+  {
+    "segment_id": "s00129",
+    "start_seconds": 646.92,
+    "end_seconds": 653.36,
+    "text": "Ask for any gaps or uncertainty, very straightforward guess, is anything missing?"
+  },
+  {
+    "segment_id": "s00130",
+    "start_seconds": 653.36,
+    "end_seconds": 659.4,
+    "text": "You get in the AI to do the prep and then you are interacting at the smart stuff, the critical"
+  },
+  {
+    "segment_id": "s00131",
+    "start_seconds": 659.4,
+    "end_seconds": 662.12,
+    "text": "decision making."
+  },
+  {
+    "segment_id": "s00132",
+    "start_seconds": 662.12,
+    "end_seconds": 665.8,
+    "text": "Tip number two is to move from schedules to triggers."
+  },
+  {
+    "segment_id": "s00133",
+    "start_seconds": 665.8,
+    "end_seconds": 670.8,
+    "text": "So in June we covered a prompt that runs at a fixed time."
+  },
+  {
+    "segment_id": "s00134",
+    "start_seconds": 670.8,
+    "end_seconds": 674.8,
+    "text": "So the next thing is we want to run when something happens."
+  },
+  {
+    "segment_id": "s00135",
+    "start_seconds": 674.8,
+    "end_seconds": 681.56,
+    "text": "So if a brief comes in, a transcript, a data set, a client email arrives."
+  },
+  {
+    "segment_id": "s00136",
+    "start_seconds": 681.56,
+    "end_seconds": 688.4,
+    "text": "And when you're learning how to do this, start with drafting things, extracting things, classifying"
+  },
+  {
+    "segment_id": "s00137",
+    "start_seconds": 688.4,
+    "end_seconds": 695.1999999999999,
+    "text": "things, do not start with automatically sending replies, do not start with automatically"
+  },
+  {
+    "segment_id": "s00138",
+    "start_seconds": 695.1999999999999,
+    "end_seconds": 700.1999999999999,
+    "text": "deleting files, that's super advanced."
+  },
+  {
+    "segment_id": "s00139",
+    "start_seconds": 700.1999999999999,
+    "end_seconds": 707.4399999999999,
+    "text": "And define the trigger narrowly and include checks before anything leaves the organization."
+  },
+  {
+    "segment_id": "s00140",
+    "start_seconds": 707.4399999999999,
+    "end_seconds": 711.68,
+    "text": "One of those checks needs to be a human check."
+  },
+  {
+    "segment_id": "s00141",
+    "start_seconds": 711.68,
+    "end_seconds": 714.1999999999999,
+    "text": "So we could have a new brief triage."
+  },
+  {
+    "segment_id": "s00142",
+    "start_seconds": 714.2,
+    "end_seconds": 721.0400000000001,
+    "text": "When a brief arrives, an email request or something like that, AI could extract the objective,"
+  },
+  {
+    "segment_id": "s00143",
+    "start_seconds": 721.0400000000001,
+    "end_seconds": 726.6800000000001,
+    "text": "the audience, the method, the deadline, miss information and risks, then draft a clarification"
+  },
+  {
+    "segment_id": "s00144",
+    "start_seconds": 726.6800000000001,
+    "end_seconds": 734.32,
+    "text": "email for review, but it wouldn't send that email and it might well share this information"
+  },
+  {
+    "segment_id": "s00145",
+    "start_seconds": 734.32,
+    "end_seconds": 740.6,
+    "text": "relatively widely inside your organization with the people who need to be consulted."
+  },
+  {
+    "segment_id": "s00146",
+    "start_seconds": 740.6,
+    "end_seconds": 742.4,
+    "text": "A transcript follower."
+  },
+  {
+    "segment_id": "s00147",
+    "start_seconds": 742.4,
+    "end_seconds": 748.72,
+    "text": "So when a webinar meeting transcript becomes available, the AI can summarize the key questions,"
+  },
+  {
+    "segment_id": "s00148",
+    "start_seconds": 748.72,
+    "end_seconds": 751.9200000000001,
+    "text": "action points, possible follow-up content."
+  },
+  {
+    "segment_id": "s00149",
+    "start_seconds": 751.9200000000001,
+    "end_seconds": 762.5600000000001,
+    "text": "If any of you have used N8, N8, N8, N8, N, sorry, or Zapier, Zapier is the one I use,"
+  },
+  {
+    "segment_id": "s00150",
+    "start_seconds": 762.5600000000001,
+    "end_seconds": 768.9200000000001,
+    "text": "you'll know that you can do these things there as well, but you can do them inside most of the"
+  },
+  {
+    "segment_id": "s00151",
+    "start_seconds": 768.9200000000001,
+    "end_seconds": 770.7600000000001,
+    "text": "LLMs."
+  },
+  {
+    "segment_id": "s00152",
+    "start_seconds": 770.7600000000001,
+    "end_seconds": 775.4000000000001,
+    "text": "So here's a specific example that I set up, which I use."
+  },
+  {
+    "segment_id": "s00153",
+    "start_seconds": 775.4000000000001,
+    "end_seconds": 782.84,
+    "text": "I told chat GPT, whenever a new email arrives in my connected Gmail account, decide whether"
+  },
+  {
+    "segment_id": "s00154",
+    "start_seconds": 782.84,
+    "end_seconds": 790.2800000000001,
+    "text": "it's a genuine inquiry about tickets or registration for a new MR event or webinar or course, ignore"
+  },
+  {
+    "segment_id": "s00155",
+    "start_seconds": 790.2800000000001,
+    "end_seconds": 795.4000000000001,
+    "text": "automated ticket confirmations, receipts, marketing emails, spam messages that mainly mention"
+  },
+  {
+    "segment_id": "s00156",
+    "start_seconds": 795.4000000000001,
+    "end_seconds": 798.2400000000001,
+    "text": "tickets without asking a question."
+  },
+  {
+    "segment_id": "s00157",
+    "start_seconds": 798.24,
+    "end_seconds": 806.16,
+    "text": "If it is a ticket inquiry, then I want you to email Ray at new MR, use subject ticket inquiry"
+  },
+  {
+    "segment_id": "s00158",
+    "start_seconds": 806.16,
+    "end_seconds": 812.96,
+    "text": "and then whatever their original subject was, include from sender name and email, original"
+  },
+  {
+    "segment_id": "s00159",
+    "start_seconds": 812.96,
+    "end_seconds": 821.36,
+    "text": "copy, the incoming inquiry verbatim, and then I want you to suggest a reply, but do not"
+  },
+  {
+    "segment_id": "s00160",
+    "start_seconds": 821.36,
+    "end_seconds": 828.48,
+    "text": "send it to the sender, only send it to rayatnewemr.com."
+  },
+  {
+    "segment_id": "s00161",
+    "start_seconds": 828.48,
+    "end_seconds": 835.48,
+    "text": "Now I said never send things outside your organization, so this is coming into my Gmail account and"
+  },
+  {
+    "segment_id": "s00162",
+    "start_seconds": 835.48,
+    "end_seconds": 842.6800000000001,
+    "text": "I'm sending it to my new MR account, this is staying inside my organization."
+  },
+  {
+    "segment_id": "s00163",
+    "start_seconds": 842.6800000000001,
+    "end_seconds": 849.4,
+    "text": "What I received when I did a, actually what I sent, here is the dummy email that I sent"
+  },
+  {
+    "segment_id": "s00164",
+    "start_seconds": 849.4,
+    "end_seconds": 853.92,
+    "text": "to that Gmail account, D&O MR, I want to attend a training course on AI, can you tell"
+  },
+  {
+    "segment_id": "s00165",
+    "start_seconds": 853.92,
+    "end_seconds": 860.36,
+    "text": "me what courses you're offering this year, how I buy a ticket and what the costs are."
+  },
+  {
+    "segment_id": "s00166",
+    "start_seconds": 860.36,
+    "end_seconds": 868.1999999999999,
+    "text": "And so it forwarded that to my new MR account and it says, here's the original inquiry,"
+  },
+  {
+    "segment_id": "s00167",
+    "start_seconds": 868.1999999999999,
+    "end_seconds": 871.36,
+    "text": "and here's it suggested reply."
+  },
+  {
+    "segment_id": "s00168",
+    "start_seconds": 871.36,
+    "end_seconds": 877.92,
+    "text": "So we're currently offering two AI-focused courses, story tending with AI and data insight,"
+  },
+  {
+    "segment_id": "s00169",
+    "start_seconds": 877.9200000000001,
+    "end_seconds": 882.8000000000001,
+    "text": "you can see the courses on these links, if you have a particular time zone or question"
+  },
+  {
+    "segment_id": "s00170",
+    "start_seconds": 882.8000000000001,
+    "end_seconds": 885.96,
+    "text": "about which course is the better fit, please let me know."
+  },
+  {
+    "segment_id": "s00171",
+    "start_seconds": 885.96,
+    "end_seconds": 892.84,
+    "text": "So the AI searched my information for me, it didn't just say thank you for contacting"
+  },
+  {
+    "segment_id": "s00172",
+    "start_seconds": 892.84,
+    "end_seconds": 897.9200000000001,
+    "text": "it, it actually pulled a good solution, I can look at this, I can then make a decision do"
+  },
+  {
+    "segment_id": "s00173",
+    "start_seconds": 897.9200000000001,
+    "end_seconds": 904.0000000000001,
+    "text": "I want to add in prices at this level, or do I want to let them read the prices when"
+  },
+  {
+    "segment_id": "s00174",
+    "start_seconds": 904.0000000000001,
+    "end_seconds": 907.2400000000001,
+    "text": "they click on these links."
+  },
+  {
+    "segment_id": "s00175",
+    "start_seconds": 907.24,
+    "end_seconds": 911.72,
+    "text": "So what are the takeaways, I can see that there's something in the chat stream, so I'll"
+  },
+  {
+    "segment_id": "s00176",
+    "start_seconds": 911.72,
+    "end_seconds": 914.16,
+    "text": "have a look at that in a second."
+  },
+  {
+    "segment_id": "s00177",
+    "start_seconds": 914.16,
+    "end_seconds": 919.48,
+    "text": "The takeaway from this tip, think about moving away from schedules to triggers, you should"
+  },
+  {
+    "segment_id": "s00178",
+    "start_seconds": 919.48,
+    "end_seconds": 926.76,
+    "text": "use schedules for some things, I use them a lot, but a trigger says run this when X happens,"
+  },
+  {
+    "segment_id": "s00179",
+    "start_seconds": 926.76,
+    "end_seconds": 933.32,
+    "text": "so we're brief transcripts support, keep the first version really narrow and it should"
+  },
+  {
+    "segment_id": "s00180",
+    "start_seconds": 933.32,
+    "end_seconds": 940.2800000000001,
+    "text": "be reversible, if it's fired on the wrong stuff, you don't want whatever it did to cause"
+  },
+  {
+    "segment_id": "s00181",
+    "start_seconds": 940.2800000000001,
+    "end_seconds": 948.12,
+    "text": "a sequence that can't be under and human approval should remain the default for sending publishing"
+  },
+  {
+    "segment_id": "s00182",
+    "start_seconds": 948.12,
+    "end_seconds": 953.8000000000001,
+    "text": "and deleting."
+  },
+  {
+    "segment_id": "s00183",
+    "start_seconds": 953.8000000000001,
+    "end_seconds": 959.44,
+    "text": "So do not use AI to write emails, but then state AI to set up draft emails for you, your"
+  },
+  {
+    "segment_id": "s00184",
+    "start_seconds": 959.44,
+    "end_seconds": 961.0,
+    "text": "ticketing system."
+  },
+  {
+    "segment_id": "s00185",
+    "start_seconds": 961.0,
+    "end_seconds": 967.96,
+    "text": "So when do you use AI to draft emails, and when do you think we shouldn't?"
+  },
+  {
+    "segment_id": "s00186",
+    "start_seconds": 967.96,
+    "end_seconds": 977.08,
+    "text": "I'm going to be quite clear on this, I don't ask an AI to rewrite my email without finding"
+  },
+  {
+    "segment_id": "s00187",
+    "start_seconds": 977.08,
+    "end_seconds": 981.08,
+    "text": "out what is wrong with my email, that is the key set there."
+  },
+  {
+    "segment_id": "s00188",
+    "start_seconds": 981.08,
+    "end_seconds": 990.9200000000001,
+    "text": "I will quite often ask AI from all of this information, suggest an email."
+  },
+  {
+    "segment_id": "s00189",
+    "start_seconds": 990.9200000000001,
+    "end_seconds": 996.4000000000001,
+    "text": "And here is a case where we would do this, I'm asking it to automatically suggest a response"
+  },
+  {
+    "segment_id": "s00190",
+    "start_seconds": 996.4000000000001,
+    "end_seconds": 1002.36,
+    "text": "to a ticketing query, I am then going to read that and edit it."
+  },
+  {
+    "segment_id": "s00191",
+    "start_seconds": 1002.36,
+    "end_seconds": 1012.64,
+    "text": "I also extensively write an email and then ask the AI to critically review it and you're"
+  },
+  {
+    "segment_id": "s00192",
+    "start_seconds": 1012.64,
+    "end_seconds": 1018.28,
+    "text": "going to see a good example of that in one of the other tips."
+  },
+  {
+    "segment_id": "s00193",
+    "start_seconds": 1018.28,
+    "end_seconds": 1025.88,
+    "text": "My real objection is when it's end to end, if you're using AI to write it and then it"
+  },
+  {
+    "segment_id": "s00194",
+    "start_seconds": 1025.88,
+    "end_seconds": 1032.68,
+    "text": "sends it, that is the fundamental weakness I think."
+  },
+  {
+    "segment_id": "s00195",
+    "start_seconds": 1032.68,
+    "end_seconds": 1037.3600000000001,
+    "text": "Do the story finding first, and this is something I see people doing a lot."
+  },
+  {
+    "segment_id": "s00196",
+    "start_seconds": 1037.3600000000001,
+    "end_seconds": 1041.72,
+    "text": "They will get a hold of some data, they've got a lot of some transcripts or some survey"
+  },
+  {
+    "segment_id": "s00197",
+    "start_seconds": 1041.72,
+    "end_seconds": 1048.3200000000002,
+    "text": "data, and they're jumping into write this as a report, or they have a workshop meeting"
+  },
+  {
+    "segment_id": "s00198",
+    "start_seconds": 1048.3200000000002,
+    "end_seconds": 1053.72,
+    "text": "and then they say now write this as a proposal."
+  },
+  {
+    "segment_id": "s00199",
+    "start_seconds": 1053.72,
+    "end_seconds": 1058.68,
+    "text": "I think that is usually too soon, you need to build the context."
+  },
+  {
+    "segment_id": "s00200",
+    "start_seconds": 1058.68,
+    "end_seconds": 1069.32,
+    "text": "So ask the AI to search and load up the brief, the proposal, the project plan, the raw data,"
+  },
+  {
+    "segment_id": "s00201",
+    "start_seconds": 1069.32,
+    "end_seconds": 1074.16,
+    "text": "previous reports, emails on this topic."
+  },
+  {
+    "segment_id": "s00202",
+    "start_seconds": 1074.16,
+    "end_seconds": 1081.72,
+    "text": "Then ask the AI to tell you what seems to matter in this new data, what surprises are"
+  },
+  {
+    "segment_id": "s00203",
+    "start_seconds": 1081.72,
+    "end_seconds": 1085.68,
+    "text": "there, what contradictions can we see."
+  },
+  {
+    "segment_id": "s00204",
+    "start_seconds": 1085.68,
+    "end_seconds": 1092.1200000000001,
+    "text": "As for evidence, not just themes or fluent summaries, make the AI show you the numbers,"
+  },
+  {
+    "segment_id": "s00205",
+    "start_seconds": 1092.1200000000001,
+    "end_seconds": 1099.64,
+    "text": "the basis, quotes and uncertainty before you decide on which story to focus on."
+  },
+  {
+    "segment_id": "s00206",
+    "start_seconds": 1099.64,
+    "end_seconds": 1102.28,
+    "text": "So we've got some survey data coming in."
+  },
+  {
+    "segment_id": "s00207",
+    "start_seconds": 1102.28,
+    "end_seconds": 1108.52,
+    "text": "Before we ask the report, ask the AI to identify candidate findings, surprising numbers, subgroup"
+  },
+  {
+    "segment_id": "s00208",
+    "start_seconds": 1108.52,
+    "end_seconds": 1116.04,
+    "text": "differences, weak bases, tensions in the story, which cross breaks are worth running next."
+  },
+  {
+    "segment_id": "s00209",
+    "start_seconds": 1116.04,
+    "end_seconds": 1121.28,
+    "text": "And when you're asking it to look at subgroup differences, don't say, are there differences"
+  },
+  {
+    "segment_id": "s00210",
+    "start_seconds": 1121.28,
+    "end_seconds": 1125.92,
+    "text": "between men and women, are there differences between younger people and older people, are"
+  },
+  {
+    "segment_id": "s00211",
+    "start_seconds": 1125.92,
+    "end_seconds": 1131.0,
+    "text": "there differences between people in the south and people in the north."
+  },
+  {
+    "segment_id": "s00212",
+    "start_seconds": 1131.0,
+    "end_seconds": 1140.08,
+    "text": "Are there groups of people who have a different view or a different set of answers to other"
+  },
+  {
+    "segment_id": "s00213",
+    "start_seconds": 1140.08,
+    "end_seconds": 1149.16,
+    "text": "groups of people and please look at all possible types of groups, not just simple demographics."
+  },
+  {
+    "segment_id": "s00214",
+    "start_seconds": 1149.16,
+    "end_seconds": 1156.72,
+    "text": "So you don't want it to replicate your sort of step by step trawling but missing the big"
+  },
+  {
+    "segment_id": "s00215",
+    "start_seconds": 1156.72,
+    "end_seconds": 1158.6000000000001,
+    "text": "fish sort of approach."
+  },
+  {
+    "segment_id": "s00216",
+    "start_seconds": 1158.6000000000001,
+    "end_seconds": 1164.24,
+    "text": "You want it to look at are there groups with differences and if so, what are they."
+  },
+  {
+    "segment_id": "s00217",
+    "start_seconds": 1164.24,
+    "end_seconds": 1170.68,
+    "text": "Qual extract, give AI interview notes, open ends and ask for possible findings with exact"
+  },
+  {
+    "segment_id": "s00218",
+    "start_seconds": 1170.68,
+    "end_seconds": 1178.32,
+    "text": "supporting quotes, alternative explanations, weak spots and the client decision that each"
+  },
+  {
+    "segment_id": "s00219",
+    "start_seconds": 1178.32,
+    "end_seconds": 1182.64,
+    "text": "one of these might help inform."
+  },
+  {
+    "segment_id": "s00220",
+    "start_seconds": 1182.64,
+    "end_seconds": 1189.2800000000002,
+    "text": "So let's think about the case, maybe we've done a customer satisfaction study for a hotel."
+  },
+  {
+    "segment_id": "s00221",
+    "start_seconds": 1189.2800000000002,
+    "end_seconds": 1194.72,
+    "text": "So we're going to ask the AI to access the questionnaire, the RFQ, the proposal, the research"
+  },
+  {
+    "segment_id": "s00222",
+    "start_seconds": 1194.72,
+    "end_seconds": 1202.2800000000002,
+    "text": "plan, highlight what the business and research questions are and what the implicit assumptions"
+  },
+  {
+    "segment_id": "s00223",
+    "start_seconds": 1202.2800000000002,
+    "end_seconds": 1206.0400000000002,
+    "text": "are that the client is making."
+  },
+  {
+    "segment_id": "s00224",
+    "start_seconds": 1206.0400000000002,
+    "end_seconds": 1209.5600000000002,
+    "text": "Access the data and ask the AI to check it."
+  },
+  {
+    "segment_id": "s00225",
+    "start_seconds": 1209.5600000000002,
+    "end_seconds": 1210.5600000000002,
+    "text": "Is it right?"
+  },
+  {
+    "segment_id": "s00226",
+    "start_seconds": 1210.5600000000002,
+    "end_seconds": 1211.5600000000002,
+    "text": "Are there problems?"
+  },
+  {
+    "segment_id": "s00227",
+    "start_seconds": 1211.56,
+    "end_seconds": 1218.04,
+    "text": "We're going to do that before we find the story and then evaluate whether this data can"
+  },
+  {
+    "segment_id": "s00228",
+    "start_seconds": 1218.04,
+    "end_seconds": 1223.9199999999998,
+    "text": "even answer those business questions because if it doesn't, we're going to want to start"
+  },
+  {
+    "segment_id": "s00229",
+    "start_seconds": 1223.9199999999998,
+    "end_seconds": 1229.28,
+    "text": "gathering some more data, some more information, some cross-references before we get too deep"
+  },
+  {
+    "segment_id": "s00230",
+    "start_seconds": 1229.28,
+    "end_seconds": 1230.28,
+    "text": "into it."
+  },
+  {
+    "segment_id": "s00231",
+    "start_seconds": 1230.28,
+    "end_seconds": 1233.6799999999998,
+    "text": "We've got a framing issue."
+  },
+  {
+    "segment_id": "s00232",
+    "start_seconds": 1233.6799999999998,
+    "end_seconds": 1237.56,
+    "text": "Then we can ask you, what are the main trends and patterns in the data?"
+  },
+  {
+    "segment_id": "s00233",
+    "start_seconds": 1237.56,
+    "end_seconds": 1243.28,
+    "text": "What are the main contradictions, curiosities, correlations and clusters?"
+  },
+  {
+    "segment_id": "s00234",
+    "start_seconds": 1243.28,
+    "end_seconds": 1250.8799999999999,
+    "text": "Then maybe give me 10 ideas for using this data to answer the client's needs."
+  },
+  {
+    "segment_id": "s00235",
+    "start_seconds": 1250.8799999999999,
+    "end_seconds": 1258.52,
+    "text": "Review and iterate these to find the best story and then this is one of those cases where massively"
+  },
+  {
+    "segment_id": "s00236",
+    "start_seconds": 1258.52,
+    "end_seconds": 1260.76,
+    "text": "test it with a second model."
+  },
+  {
+    "segment_id": "s00237",
+    "start_seconds": 1260.76,
+    "end_seconds": 1269.68,
+    "text": "So give Gemini the same data and background information as you gave Claude and give Gemini"
+  },
+  {
+    "segment_id": "s00238",
+    "start_seconds": 1269.68,
+    "end_seconds": 1279.16,
+    "text": "Claude's answer and ask it questions like, is this a valid interpretation of this data?"
+  },
+  {
+    "segment_id": "s00239",
+    "start_seconds": 1279.16,
+    "end_seconds": 1287.16,
+    "text": "Are there any flaws in the approach taken and are there better solutions it could have"
+  },
+  {
+    "segment_id": "s00240",
+    "start_seconds": 1287.16,
+    "end_seconds": 1288.16,
+    "text": "looked at?"
+  },
+  {
+    "segment_id": "s00241",
+    "start_seconds": 1288.16,
+    "end_seconds": 1290.8000000000002,
+    "text": "So don't ask it to generate the same."
+  },
+  {
+    "segment_id": "s00242",
+    "start_seconds": 1290.8000000000002,
+    "end_seconds": 1298.16,
+    "text": "It's generative AI, it mostly won't and unless you're using a deterministic piece of software,"
+  },
+  {
+    "segment_id": "s00243",
+    "start_seconds": 1298.16,
+    "end_seconds": 1300.2,
+    "text": "it will generate different answers."
+  },
+  {
+    "segment_id": "s00244",
+    "start_seconds": 1300.2,
+    "end_seconds": 1305.88,
+    "text": "So a deterministic piece of software is the mean, for example, will always give you the"
+  },
+  {
+    "segment_id": "s00245",
+    "start_seconds": 1305.88,
+    "end_seconds": 1310.0400000000002,
+    "text": "same answer, should always give you the same answer, cluster analysis is going to give"
+  },
+  {
+    "segment_id": "s00246",
+    "start_seconds": 1310.0400000000002,
+    "end_seconds": 1311.5600000000002,
+    "text": "you different answers."
+  },
+  {
+    "segment_id": "s00247",
+    "start_seconds": 1311.5600000000002,
+    "end_seconds": 1317.0400000000002,
+    "text": "So we're asking, is it valid, is it appropriate?"
+  },
+  {
+    "segment_id": "s00248",
+    "start_seconds": 1317.04,
+    "end_seconds": 1324.56,
+    "text": "So take away, do the story finding first, ask what is going on here, before you even"
+  },
+  {
+    "segment_id": "s00249",
+    "start_seconds": 1324.56,
+    "end_seconds": 1331.32,
+    "text": "think about, write me a report, separate candidate findings from the final claims."
+  },
+  {
+    "segment_id": "s00250",
+    "start_seconds": 1331.32,
+    "end_seconds": 1337.68,
+    "text": "Look for surprises, contrast tensions, missing explanations, make the AI show evidence and"
+  },
+  {
+    "segment_id": "s00251",
+    "start_seconds": 1337.68,
+    "end_seconds": 1344.68,
+    "text": "uncertainty and then use your judgment to choose the story and then we're going to use"
+  },
+  {
+    "segment_id": "s00252",
+    "start_seconds": 1344.68,
+    "end_seconds": 1347.3200000000002,
+    "text": "AI to help tell that story."
+  },
+  {
+    "segment_id": "s00253",
+    "start_seconds": 1347.3200000000002,
+    "end_seconds": 1352.1200000000001,
+    "text": "So we're using AI to help us check the information that we've got everything there, that we understand"
+  },
+  {
+    "segment_id": "s00254",
+    "start_seconds": 1352.1200000000001,
+    "end_seconds": 1353.8400000000001,
+    "text": "the client's questions."
+  },
+  {
+    "segment_id": "s00255",
+    "start_seconds": 1353.8400000000001,
+    "end_seconds": 1360.2,
+    "text": "We're using AI then to say, here are all the relevant nuggets of information that you might"
+  },
+  {
+    "segment_id": "s00256",
+    "start_seconds": 1360.2,
+    "end_seconds": 1369.8400000000001,
+    "text": "find in there, we're asking AI to help us identify what the answer is and only then, once we know"
+  },
+  {
+    "segment_id": "s00257",
+    "start_seconds": 1369.84,
+    "end_seconds": 1376.6,
+    "text": "what the answer is in terms of actual steps and pieces of information, would we start"
+  },
+  {
+    "segment_id": "s00258",
+    "start_seconds": 1376.6,
+    "end_seconds": 1379.4399999999998,
+    "text": "to say now, what is the story?"
+  },
+  {
+    "segment_id": "s00259",
+    "start_seconds": 1379.4399999999998,
+    "end_seconds": 1381.52,
+    "text": "How do we string all this together?"
+  },
+  {
+    "segment_id": "s00260",
+    "start_seconds": 1381.52,
+    "end_seconds": 1388.6,
+    "text": "So it's a coherent message."
+  },
+  {
+    "segment_id": "s00261",
+    "start_seconds": 1388.6,
+    "end_seconds": 1393.9599999999998,
+    "text": "So yeah, interesting question here, are there any tips for identifying or preventing AI from"
+  },
+  {
+    "segment_id": "s00262",
+    "start_seconds": 1393.9599999999998,
+    "end_seconds": 1398.4399999999998,
+    "text": "making hallucinations or inherent bias?"
+  },
+  {
+    "segment_id": "s00263",
+    "start_seconds": 1398.44,
+    "end_seconds": 1402.64,
+    "text": "So there are a lot of things we can do."
+  },
+  {
+    "segment_id": "s00264",
+    "start_seconds": 1402.64,
+    "end_seconds": 1407.64,
+    "text": "The first thing to say is hallucinations now are much rarer than they used to be."
+  },
+  {
+    "segment_id": "s00265",
+    "start_seconds": 1407.64,
+    "end_seconds": 1415.88,
+    "text": "If you're using the top-end models, for example, the incidence rate is way lower."
+  },
+  {
+    "segment_id": "s00266",
+    "start_seconds": 1415.88,
+    "end_seconds": 1423.8400000000001,
+    "text": "You can reduce it still further by telling it, do not make up quotes, do this in a, only"
+  },
+  {
+    "segment_id": "s00267",
+    "start_seconds": 1423.8400000000001,
+    "end_seconds": 1426.76,
+    "text": "use things that are evidenced and so on."
+  },
+  {
+    "segment_id": "s00268",
+    "start_seconds": 1426.76,
+    "end_seconds": 1432.56,
+    "text": "There is still the Western bias, these are more Western capitalist societies, if you are"
+  },
+  {
+    "segment_id": "s00269",
+    "start_seconds": 1432.56,
+    "end_seconds": 1440.44,
+    "text": "doing a piece of analysis on data from Nigeria, that's probably going to be a little bit more"
+  },
+  {
+    "segment_id": "s00270",
+    "start_seconds": 1440.44,
+    "end_seconds": 1448.8,
+    "text": "risky than using analysis on Australia, the United Kingdom, France, USA, etc."
+  },
+  {
+    "segment_id": "s00271",
+    "start_seconds": 1448.8,
+    "end_seconds": 1454.8799999999999,
+    "text": "So all of that is going to help, giving it context is going to help, but then the final"
+  },
+  {
+    "segment_id": "s00272",
+    "start_seconds": 1454.88,
+    "end_seconds": 1458.2,
+    "text": "step is this two-model stage."
+  },
+  {
+    "segment_id": "s00273",
+    "start_seconds": 1458.2,
+    "end_seconds": 1465.2800000000002,
+    "text": "You want to ask it to check whether or not this information is right by getting another model"
+  },
+  {
+    "segment_id": "s00274",
+    "start_seconds": 1465.2800000000002,
+    "end_seconds": 1469.5600000000002,
+    "text": "to check it."
+  },
+  {
+    "segment_id": "s00275",
+    "start_seconds": 1469.5600000000002,
+    "end_seconds": 1474.44,
+    "text": "So very interestingly, how reliable is using AI for statistical analysis?"
+  },
+  {
+    "segment_id": "s00276",
+    "start_seconds": 1474.44,
+    "end_seconds": 1478.96,
+    "text": "I think using SPSS or SaaS is more trustworthy."
+  },
+  {
+    "segment_id": "s00277",
+    "start_seconds": 1478.96,
+    "end_seconds": 1484.68,
+    "text": "I would always use display for stuff that needs to be right."
+  },
+  {
+    "segment_id": "s00278",
+    "start_seconds": 1484.68,
+    "end_seconds": 1490.0,
+    "text": "I'm getting very good analysis because I do a lot of side-by-side analysis and that is"
+  },
+  {
+    "segment_id": "s00279",
+    "start_seconds": 1490.0,
+    "end_seconds": 1493.6000000000001,
+    "text": "where asking the second model to come into play."
+  },
+  {
+    "segment_id": "s00280",
+    "start_seconds": 1493.6000000000001,
+    "end_seconds": 1497.72,
+    "text": "You need to make sure, and this is really the part of a second course, not what we're"
+  },
+  {
+    "segment_id": "s00281",
+    "start_seconds": 1497.72,
+    "end_seconds": 1503.16,
+    "text": "covering today, but you want to know that it's running Python and you want to know, you want"
+  },
+  {
+    "segment_id": "s00282",
+    "start_seconds": 1503.16,
+    "end_seconds": 1509.28,
+    "text": "to look, ask to look at the Python it's running to see what sort of choices it's making, but"
+  },
+  {
+    "segment_id": "s00283",
+    "start_seconds": 1509.28,
+    "end_seconds": 1515.4,
+    "text": "it can certainly do a very good cluster analysis, factor analysis, it can calculate all of the"
+  },
+  {
+    "segment_id": "s00284",
+    "start_seconds": 1515.4,
+    "end_seconds": 1523.0400000000002,
+    "text": "means, standard deviations, it can search for differences within groups, and then ask you"
+  },
+  {
+    "segment_id": "s00285",
+    "start_seconds": 1523.0400000000002,
+    "end_seconds": 1529.76,
+    "text": "whether you've got things like multi-coloniality problems and one of the VIF statistics."
+  },
+  {
+    "segment_id": "s00286",
+    "start_seconds": 1529.76,
+    "end_seconds": 1533.1200000000001,
+    "text": "It's pretty happy with all of that now."
+  },
+  {
+    "segment_id": "s00287",
+    "start_seconds": 1533.1200000000001,
+    "end_seconds": 1540.64,
+    "text": "It's the better end of the pay models if they're in a thinking mode and if they are not the"
+  },
+  {
+    "segment_id": "s00288",
+    "start_seconds": 1540.64,
+    "end_seconds": 1543.68,
+    "text": "free versions, et cetera."
+  },
+  {
+    "segment_id": "s00289",
+    "start_seconds": 1543.68,
+    "end_seconds": 1549.0400000000002,
+    "text": "But then you attest that with another model."
+  },
+  {
+    "segment_id": "s00290",
+    "start_seconds": 1549.0400000000002,
+    "end_seconds": 1554.2,
+    "text": "Clustral analysis found the Python AI generates is inconsistent, so in Gemini Networks I fixed"
+  },
+  {
+    "segment_id": "s00291",
+    "start_seconds": 1554.2,
+    "end_seconds": 1558.8400000000001,
+    "text": "Python to get the same answer, wondered what you think."
+  },
+  {
+    "segment_id": "s00292",
+    "start_seconds": 1559.4800000000002,
+    "end_seconds": 1566.8400000000001,
+    "text": "Clustral analysis should give you a different answer every time you run it, and the way that"
+  },
+  {
+    "segment_id": "s00293",
+    "start_seconds": 1566.8400000000001,
+    "end_seconds": 1574.0800000000002,
+    "text": "the statistical packages like SPSS deal with it is they budge the algorithm, so it will"
+  },
+  {
+    "segment_id": "s00294",
+    "start_seconds": 1574.0800000000002,
+    "end_seconds": 1581.2400000000002,
+    "text": "always give you the same answer, so if you are looking for two random seeds out of a data set"
+  },
+  {
+    "segment_id": "s00295",
+    "start_seconds": 1581.32,
+    "end_seconds": 1589.56,
+    "text": "of a thousand, well obviously every time you run it you would get in all probability two"
+  },
+  {
+    "segment_id": "s00296",
+    "start_seconds": 1589.56,
+    "end_seconds": 1594.2,
+    "text": "different start points, that would give you two different solutions, two different clusters."
+  },
+  {
+    "segment_id": "s00297",
+    "start_seconds": 1594.2,
+    "end_seconds": 1600.32,
+    "text": "So you can use a technique like say, pick two random start positions, we'll have the first"
+  },
+  {
+    "segment_id": "s00298",
+    "start_seconds": 1600.32,
+    "end_seconds": 1606.72,
+    "text": "and the second record please, and if you shuffle a data file that goes into most statistical"
+  },
+  {
+    "segment_id": "s00299",
+    "start_seconds": 1606.72,
+    "end_seconds": 1615.04,
+    "text": "packages, it will give you a different cluster solution, clustering is unstable, so if you're"
+  },
+  {
+    "segment_id": "s00300",
+    "start_seconds": 1615.04,
+    "end_seconds": 1622.72,
+    "text": "trying to evaluate a cluster solution, what you're asking the AI to do, say your second"
+  },
+  {
+    "segment_id": "s00301",
+    "start_seconds": 1622.72,
+    "end_seconds": 1631.3600000000001,
+    "text": "AI that's a referee, is this a good solution, not is this the best solution, because the"
+  },
+  {
+    "segment_id": "s00302",
+    "start_seconds": 1631.3600000000001,
+    "end_seconds": 1638.16,
+    "text": "best solution is not knowable with the type of iterative techniques that we use for cluster"
+  },
+  {
+    "segment_id": "s00303",
+    "start_seconds": 1638.16,
+    "end_seconds": 1642.3200000000002,
+    "text": "analysis, unless you've got a trivially short amount of data."
+  },
+  {
+    "segment_id": "s00304",
+    "start_seconds": 1645.8400000000001,
+    "end_seconds": 1650.8000000000002,
+    "text": "Now in terms of story finding and courting, I'll just do a quick bit of advertising, we do have"
+  },
+  {
+    "segment_id": "s00305",
+    "start_seconds": 1650.8000000000002,
+    "end_seconds": 1657.6000000000001,
+    "text": "two courses coming up in October, one on story finding with AI, one we're sort of telling with AI,"
+  },
+  {
+    "segment_id": "s00306",
+    "start_seconds": 1657.6000000000001,
+    "end_seconds": 1662.96,
+    "text": "they're both about 90 minutes, they're platform agnostic, and they go into much greater depth"
+  },
+  {
+    "segment_id": "s00307",
+    "start_seconds": 1662.96,
+    "end_seconds": 1674.3200000000002,
+    "text": "on these sort of things. Use AI as a hostile reviewer is the fourth tip, so don't just ask AI"
+  },
+  {
+    "segment_id": "s00308",
+    "start_seconds": 1674.3200000000002,
+    "end_seconds": 1680.88,
+    "text": "to polish something you created, ask it to look for significant problems and likely client objections,"
+  },
+  {
+    "segment_id": "s00309",
+    "start_seconds": 1681.6000000000001,
+    "end_seconds": 1688.64,
+    "text": "let it build a context from the brief proposals emails, and then ask it to focus on unsupport"
+  },
+  {
+    "segment_id": "s00310",
+    "start_seconds": 1688.64,
+    "end_seconds": 1695.8400000000001,
+    "text": "a claims, inconsistent numbers, missing caveats, tell it not to rewrite things, you actually want to"
+  },
+  {
+    "segment_id": "s00311",
+    "start_seconds": 1695.8400000000001,
+    "end_seconds": 1704.72,
+    "text": "know what's good and bad in terms of your proposal if it's a report, and then separate genuine problems"
+  },
+  {
+    "segment_id": "s00312",
+    "start_seconds": 1704.72,
+    "end_seconds": 1712.08,
+    "text": "from style preferences. So client report check, give the AI the source tables, a draft report,"
+  },
+  {
+    "segment_id": "s00313",
+    "start_seconds": 1712.08,
+    "end_seconds": 1719.2,
+    "text": "ask it to find mismatch numbers and sporty claims, missing caveats. Now this check is in addition to"
+  },
+  {
+    "segment_id": "s00314",
+    "start_seconds": 1719.2,
+    "end_seconds": 1727.2,
+    "text": "your check, it can only be good news, propose stress tests, so you're going to write a proposal"
+  },
+  {
+    "segment_id": "s00315",
+    "start_seconds": 1727.2,
+    "end_seconds": 1733.6000000000001,
+    "text": "to a client, give the AI the proposal you're preparing, and ask where a client data protection"
+  },
+  {
+    "segment_id": "s00316",
+    "start_seconds": 1733.6000000000001,
+    "end_seconds": 1739.92,
+    "text": "reviewer operations team would push back, build the context, ask it to review the RFQ,"
+  },
+  {
+    "segment_id": "s00317",
+    "start_seconds": 1740.5600000000002,
+    "end_seconds": 1746.72,
+    "text": "the emails, the transcripts, all of those bits and pieces, ask it to instead of things like"
+  },
+  {
+    "segment_id": "s00318",
+    "start_seconds": 1746.72,
+    "end_seconds": 1752.96,
+    "text": "vague scope and realistic timing. So this is wall gaming, and this has become a major"
+  },
+  {
+    "segment_id": "s00319",
+    "start_seconds": 1753.8400000000001,
+    "end_seconds": 1760.16,
+    "text": "tool in most of the big clients that I talk to now, they will take a proposal and they're"
+  },
+  {
+    "segment_id": "s00320",
+    "start_seconds": 1760.16,
+    "end_seconds": 1765.28,
+    "text": "wall gaming it, they're red teaming it to see what questions might they be asked."
+  },
+  {
+    "segment_id": "s00321",
+    "start_seconds": 1766.72,
+    "end_seconds": 1774.72,
+    "text": "So here is an example of using this approach, but now with emails. Let's assume that I'm a bit"
+  },
+  {
+    "segment_id": "s00322",
+    "start_seconds": 1774.72,
+    "end_seconds": 1781.1200000000001,
+    "text": "clunky with emails. So here is a whole stream of emails between me and my colleagues in the ACME"
+  },
+  {
+    "segment_id": "s00323",
+    "start_seconds": 1781.1200000000001,
+    "end_seconds": 1789.1200000000001,
+    "text": "research company, and this is purely fictional data. And I'm about to write this email, thanks all,"
+  },
+  {
+    "segment_id": "s00324",
+    "start_seconds": 1789.1200000000001,
+    "end_seconds": 1794.64,
+    "text": "I think we're in danger of watering this down, where the churn ends up at 16%, or 80%, the"
+  },
+  {
+    "segment_id": "s00325",
+    "start_seconds": 1794.64,
+    "end_seconds": 1800.96,
+    "text": "evidence still points to a serious problem. 1.4 million is clearly an estimate, not an audited number."
+  },
+  {
+    "segment_id": "s00326",
+    "start_seconds": 1802.24,
+    "end_seconds": 1808.0800000000002,
+    "text": "The Burming commentary are particularly bad, but customers elsewhere raise service issues. I don't"
+  },
+  {
+    "segment_id": "s00327",
+    "start_seconds": 1808.0800000000002,
+    "end_seconds": 1813.3600000000001,
+    "text": "think that operational failure is unreasonable simply because operations dislike the wording."
+  },
+  {
+    "segment_id": "s00328",
+    "start_seconds": 1814.0000000000002,
+    "end_seconds": 1817.68,
+    "text": "Several people also told me these issues have been raised before, including one who said"
+  },
+  {
+    "segment_id": "s00329",
+    "start_seconds": 1817.68,
+    "end_seconds": 1822.48,
+    "text": "market had been warned about the Burmingam last year. Daniel, yes, the quote is Johnson"
+  },
+  {
+    "segment_id": "s00330",
+    "start_seconds": 1822.48,
+    "end_seconds": 1828.0800000000002,
+    "text": "hotels. Everyone here knows we lost them, so I'm not sure confidentiality is really an issue"
+  },
+  {
+    "segment_id": "s00331",
+    "start_seconds": 1828.0800000000002,
+    "end_seconds": 1832.8,
+    "text": "internally. The procurement director was clear that poor service was a major factor."
+  },
+  {
+    "segment_id": "s00332",
+    "start_seconds": 1833.44,
+    "end_seconds": 1837.92,
+    "text": "Laura, the regional managers, obviously Steve, I can remove the clues, but we shouldn't let HR"
+  },
+  {
+    "segment_id": "s00333",
+    "start_seconds": 1837.92,
+    "end_seconds": 1845.3600000000001,
+    "text": "sensitivities obscure the management issue. Nothing in the report, it, whoops, has been shared outside"
+  },
+  {
+    "segment_id": "s00334",
+    "start_seconds": 1845.3600000000001,
+    "end_seconds": 1851.3600000000001,
+    "text": "Acme. I propose to make a few wording changes, send the final version of the board on Friday."
+  },
+  {
+    "segment_id": "s00335",
+    "start_seconds": 1851.3600000000001,
+    "end_seconds": 1856.5600000000002,
+    "text": "If there's something genuinely wrong, rather than merely uncomfortable, please tell me by midday"
+  },
+  {
+    "segment_id": "s00336",
+    "start_seconds": 1856.5600000000002,
+    "end_seconds": 1866.64,
+    "text": "tomorrow. And so I then asked AI to review my email, and here's the sort of things that I"
+  },
+  {
+    "segment_id": "s00337",
+    "start_seconds": 1866.64,
+    "end_seconds": 1871.8400000000001,
+    "text": "asked it to do. You can see those when you down at the slides, but you would tweak it differently"
+  },
+  {
+    "segment_id": "s00338",
+    "start_seconds": 1871.8400000000001,
+    "end_seconds": 1878.16,
+    "text": "anyway. And it came back and said, well, there's some major issues, 16% or 18% serious."
+  },
+  {
+    "segment_id": "s00339",
+    "start_seconds": 1879.44,
+    "end_seconds": 1887.2800000000002,
+    "text": "Turn data are not yet reconciled. Your conclusion is too definite. 1.4 million is clearly an estimate."
+  },
+  {
+    "segment_id": "s00340",
+    "start_seconds": 1887.2800000000002,
+    "end_seconds": 1893.44,
+    "text": "Actually, the email chain says the underlying inputs are wrong, not merely an approximation."
+  },
+  {
+    "segment_id": "s00341",
+    "start_seconds": 1894.3200000000002,
+    "end_seconds": 1898.96,
+    "text": "Operations dislikes the wording. Dismiss the legitimate challenge about extrapolating from"
+  },
+  {
+    "segment_id": "s00342",
+    "start_seconds": 1898.96,
+    "end_seconds": 1906.32,
+    "text": "two locations. Yes, the quote is Johnson Hotales identifies a customer who specifically asks not"
+  },
+  {
+    "segment_id": "s00343",
+    "start_seconds": 1906.32,
+    "end_seconds": 1914.16,
+    "text": "to be attributed. The regional managers, obviously Steve, explicitly identifies an employee who HR"
+  },
+  {
+    "segment_id": "s00344",
+    "start_seconds": 1914.16,
+    "end_seconds": 1922.24,
+    "text": "said should not be identifiable. And then next, the bottom in the list, send the final version of"
+  },
+  {
+    "segment_id": "s00345",
+    "start_seconds": 1922.24,
+    "end_seconds": 1928.0,
+    "text": "the board on Friday, conflicts with the CEO's instructions not to circulate it beyond this group."
+  },
+  {
+    "segment_id": "s00346",
+    "start_seconds": 1928.96,
+    "end_seconds": 1936.08,
+    "text": "And then it's willing to go through and pull up medium issues. I do this with my problematic"
+  },
+  {
+    "segment_id": "s00347",
+    "start_seconds": 1936.08,
+    "end_seconds": 1943.6000000000001,
+    "text": "clients, and I do it in some of the other work that I do. It keeps finding stuff in my emails"
+  },
+  {
+    "segment_id": "s00348",
+    "start_seconds": 1944.16,
+    "end_seconds": 1953.3600000000001,
+    "text": "that changes where I am setting the agenda. And my intention is to give people choices,"
+  },
+  {
+    "segment_id": "s00349",
+    "start_seconds": 1953.44,
+    "end_seconds": 1959.44,
+    "text": "but actually I have given choices amongst things that I think are OK. And little bits like that."
+  },
+  {
+    "segment_id": "s00350",
+    "start_seconds": 1960.0000000000002,
+    "end_seconds": 1966.72,
+    "text": "Or, hey Ray, that's passive aggressive again. We'll come back in that feedback. So we can use this"
+  },
+  {
+    "segment_id": "s00351",
+    "start_seconds": 1966.72,
+    "end_seconds": 1975.5200000000002,
+    "text": "hostile reviewer in all sorts of ways. As for suggested next steps, don't just ask for a rewrite."
+  },
+  {
+    "segment_id": "s00352",
+    "start_seconds": 1976.2400000000002,
+    "end_seconds": 1982.96,
+    "text": "So what is it said about my email? Okay, well, first thing is don't send it yet. That's the top"
+  },
+  {
+    "segment_id": "s00353",
+    "start_seconds": 1983.04,
+    "end_seconds": 1988.88,
+    "text": "advice given to me. Validate the evidence because it looks like I don't have great evidence."
+  },
+  {
+    "segment_id": "s00354",
+    "start_seconds": 1989.6000000000001,
+    "end_seconds": 1995.68,
+    "text": "Check those serious allegations. So either remove the allegation about Mark or back it up."
+  },
+  {
+    "segment_id": "s00355",
+    "start_seconds": 1996.96,
+    "end_seconds": 2002.88,
+    "text": "Fix the confidentiality. Be honest that you've shared this with beta retail."
+  },
+  {
+    "segment_id": "s00356",
+    "start_seconds": 2004.48,
+    "end_seconds": 2007.28,
+    "text": "If it's in the email stream, it's going to come out."
+  },
+  {
+    "segment_id": "s00357",
+    "start_seconds": 2008.16,
+    "end_seconds": 2015.28,
+    "text": "So the takeaway, use AI to challenge, not flatter or polish. This comes back a little bit to the"
+  },
+  {
+    "segment_id": "s00358",
+    "start_seconds": 2015.28,
+    "end_seconds": 2023.28,
+    "text": "questionnaire about hallucinations. You can prime your AI to take a particular role. So you are a"
+  },
+  {
+    "segment_id": "s00359",
+    "start_seconds": 2023.28,
+    "end_seconds": 2032.0,
+    "text": "cynical and thorough member of the red team. Your job is defined fault if fault can be found."
+  },
+  {
+    "segment_id": "s00360",
+    "start_seconds": 2032.48,
+    "end_seconds": 2039.6,
+    "text": "And setting things up that way. You want to ask material problems, not just a general rewrite."
+  },
+  {
+    "segment_id": "s00361",
+    "start_seconds": 2040.8,
+    "end_seconds": 2044.32,
+    "text": "Make it quote the problem and identify the source of the problem."
+  },
+  {
+    "segment_id": "s00362",
+    "start_seconds": 2045.2,
+    "end_seconds": 2052.24,
+    "text": "And then treat the review as a useful challenge, not as independent truth. So as I said, I use this"
+  },
+  {
+    "segment_id": "s00363",
+    "start_seconds": 2052.24,
+    "end_seconds": 2061.28,
+    "text": "a lot with my reports, my presentations, very much with my emails. I probably accept two thirds"
+  },
+  {
+    "segment_id": "s00364",
+    "start_seconds": 2062.0,
+    "end_seconds": 2067.76,
+    "text": "of the complaints AI has about my material. So it is simply my preference and my style."
+  },
+  {
+    "segment_id": "s00365",
+    "start_seconds": 2069.84,
+    "end_seconds": 2074.88,
+    "text": "So I'm just going to go a quick look at the chat stream. We've got a few bits and pieces."
+  },
+  {
+    "segment_id": "s00366",
+    "start_seconds": 2076.0,
+    "end_seconds": 2081.36,
+    "text": "This one goes back to the stats. Can AI be used to design CBC and max diff studies?"
+  },
+  {
+    "segment_id": "s00367",
+    "start_seconds": 2082.72,
+    "end_seconds": 2089.28,
+    "text": "I've not tried it with CBC, so I would want to experiment. In max diff, yes, it's pretty"
+  },
+  {
+    "segment_id": "s00368",
+    "start_seconds": 2089.28,
+    "end_seconds": 2096.0,
+    "text": "straightforward and I've certainly done that. All the number crunching ASCII analysis is done"
+  },
+  {
+    "segment_id": "s00369",
+    "start_seconds": 2096.0,
+    "end_seconds": 2101.28,
+    "text": "in the product itself. The AI simply chooses the approximate variables and tests them."
+  },
+  {
+    "segment_id": "s00370",
+    "start_seconds": 2102.2400000000002,
+    "end_seconds": 2107.52,
+    "text": "So one of the really fascinating things about using AI and this is ASCII here and display"
+  },
+  {
+    "segment_id": "s00371",
+    "start_seconds": 2107.52,
+    "end_seconds": 2114.5600000000004,
+    "text": "is most of these programs have great AI in them. And if you are already in the program, that is"
+  },
+  {
+    "segment_id": "s00372",
+    "start_seconds": 2114.64,
+    "end_seconds": 2118.32,
+    "text": "going to be a stronger way of doing it."
+  },
+  {
+    "segment_id": "s00373",
+    "start_seconds": 2127.2799999999997,
+    "end_seconds": 2135.12,
+    "text": "Yeah, so we have to talk a lot more about using AI for clustering. I think you need to know a lot"
+  },
+  {
+    "segment_id": "s00374",
+    "start_seconds": 2135.12,
+    "end_seconds": 2141.36,
+    "text": "about clustering before you are likely to get a good solution from AI. But that is also true"
+  },
+  {
+    "segment_id": "s00375",
+    "start_seconds": 2141.36,
+    "end_seconds": 2144.8,
+    "text": "if you're using Displayer or SPSS or latent class."
+  },
+  {
+    "segment_id": "s00376",
+    "start_seconds": 2149.1200000000003,
+    "end_seconds": 2158.32,
+    "text": "So the fifth and final tip, spend intelligence where it matters. So don't always use the same model."
+  },
+  {
+    "segment_id": "s00377",
+    "start_seconds": 2158.32,
+    "end_seconds": 2166.08,
+    "text": "Certainly don't use the one that is auto setting because it will be right sometimes but not all the"
+  },
+  {
+    "segment_id": "s00378",
+    "start_seconds": 2166.16,
+    "end_seconds": 2175.6,
+    "text": "time. More power could be costing you or your employer more money and it will usually take longer."
+  },
+  {
+    "segment_id": "s00379",
+    "start_seconds": 2176.24,
+    "end_seconds": 2182.3199999999997,
+    "text": "So routine work needs different effort from analysis or advice. Use stronger reasoning"
+  },
+  {
+    "segment_id": "s00380",
+    "start_seconds": 2182.3199999999997,
+    "end_seconds": 2190.7999999999997,
+    "text": "where an error would matter using to the two models tip from the June. So I would always use a really"
+  },
+  {
+    "segment_id": "s00381",
+    "start_seconds": 2190.8,
+    "end_seconds": 2197.6000000000004,
+    "text": "high level of awareness in my checking model. I might have something quicker for the generation"
+  },
+  {
+    "segment_id": "s00382",
+    "start_seconds": 2198.7200000000003,
+    "end_seconds": 2205.84,
+    "text": "depending on what the generation was. So routine reformatting. If we just want a rough summary"
+  },
+  {
+    "segment_id": "s00383",
+    "start_seconds": 2205.84,
+    "end_seconds": 2213.36,
+    "text": "into a clean email slide outline meeting note that we are going to check, then we can use a quite"
+  },
+  {
+    "segment_id": "s00384",
+    "start_seconds": 2214.0,
+    "end_seconds": 2220.7200000000003,
+    "text": "cheap, inefficient, fast, not inefficient, not thinking mode type model."
+  },
+  {
+    "segment_id": "s00385",
+    "start_seconds": 2222.2400000000002,
+    "end_seconds": 2226.7200000000003,
+    "text": "As it changed the medium, as it introduced anything that wasn't there. But if we've got"
+  },
+  {
+    "segment_id": "s00386",
+    "start_seconds": 2226.7200000000003,
+    "end_seconds": 2231.92,
+    "text": "something consequential, we're going to use one the strongest workflow to interpret it,"
+  },
+  {
+    "segment_id": "s00387",
+    "start_seconds": 2232.48,
+    "end_seconds": 2241.84,
+    "text": "to identify what is happening. And we want it to help us find that things that need the human judgment."
+  },
+  {
+    "segment_id": "s00388",
+    "start_seconds": 2242.56,
+    "end_seconds": 2252.2400000000002,
+    "text": "So just a quick look at it in co-pilot, then I would look at the model here and say, well,"
+  },
+  {
+    "segment_id": "s00389",
+    "start_seconds": 2252.2400000000002,
+    "end_seconds": 2261.6800000000003,
+    "text": "we've got choices. We can use sonnet or opus. We can use GPT open AI inside co-pilot. We can have"
+  },
+  {
+    "segment_id": "s00390",
+    "start_seconds": 2261.6800000000003,
+    "end_seconds": 2269.76,
+    "text": "quick response. We can have think deeper. I looked at one of the blogs I wrote and I asked it to"
+  },
+  {
+    "segment_id": "s00391",
+    "start_seconds": 2269.84,
+    "end_seconds": 2277.84,
+    "text": "summarize the blog and the quick response was fine. It was, I had everything that I really needed to"
+  },
+  {
+    "segment_id": "s00392",
+    "start_seconds": 2277.84,
+    "end_seconds": 2287.0400000000004,
+    "text": "see there. The think deeper was a bit slower and it was a little bit better. I then asked them to say,"
+  },
+  {
+    "segment_id": "s00393",
+    "start_seconds": 2287.0400000000004,
+    "end_seconds": 2292.5600000000004,
+    "text": "review what's happened in the world in the last six months since I wrote this blog and give me a"
+  },
+  {
+    "segment_id": "s00394",
+    "start_seconds": 2292.5600000000004,
+    "end_seconds": 2298.96,
+    "text": "list of things that might need updating this article. And the quick response was really quick"
+  },
+  {
+    "segment_id": "s00395",
+    "start_seconds": 2298.96,
+    "end_seconds": 2303.12,
+    "text": "and it wasn't good enough to use it. It got something in there that was fundamentally"
+  },
+  {
+    "segment_id": "s00396",
+    "start_seconds": 2303.92,
+    "end_seconds": 2313.36,
+    "text": "poor. Think deeper was slower and it was really good. So experimenting with this level of brightness"
+  },
+  {
+    "segment_id": "s00397",
+    "start_seconds": 2313.36,
+    "end_seconds": 2323.04,
+    "text": "to be able to move forwards and backwards. So all of that is going to be harder to see."
+  },
+  {
+    "segment_id": "s00398",
+    "start_seconds": 2323.04,
+    "end_seconds": 2327.44,
+    "text": "And we've got some questions, variations in the chat stream. I'll take those at the end because they're"
+  },
+  {
+    "segment_id": "s00399",
+    "start_seconds": 2327.76,
+    "end_seconds": 2336.16,
+    "text": "quite useful at that point. Differences. This issue about choosing a model is more important for"
+  },
+  {
+    "segment_id": "s00400",
+    "start_seconds": 2336.16,
+    "end_seconds": 2344.0,
+    "text": "Claude than the others. Then it's more important for GPT than Gemini and it's at the moment least"
+  },
+  {
+    "segment_id": "s00401",
+    "start_seconds": 2344.0,
+    "end_seconds": 2354.7200000000003,
+    "text": "impactful for co-pilot. When you are using APIs, codecs, Claude co-work, then the cost of tokens"
+  },
+  {
+    "segment_id": "s00402",
+    "start_seconds": 2354.8,
+    "end_seconds": 2361.92,
+    "text": "and credits can really rock it up. If you start using loops to control your agents"
+  },
+  {
+    "segment_id": "s00403",
+    "start_seconds": 2363.1200000000003,
+    "end_seconds": 2370.7200000000003,
+    "text": "in Claude and if you haven't told it not to use top-end models for every sub-agent,"
+  },
+  {
+    "segment_id": "s00404",
+    "start_seconds": 2370.7200000000003,
+    "end_seconds": 2377.2000000000003,
+    "text": "you'll find that you've run out of your week or months credit really quickly. Higher models,"
+  },
+  {
+    "segment_id": "s00405",
+    "start_seconds": 2377.2000000000003,
+    "end_seconds": 2384.6400000000003,
+    "text": "higher effort, cost more. And the more agentic your solutions, the more it is. So this is"
+  },
+  {
+    "segment_id": "s00406",
+    "start_seconds": 2384.64,
+    "end_seconds": 2391.12,
+    "text": "something that we are going to be thinking about more in the future. How do we optimize our token"
+  },
+  {
+    "segment_id": "s00407",
+    "start_seconds": 2391.12,
+    "end_seconds": 2399.92,
+    "text": "usage? And that means using the right models for the right purposes. Take away low-risk work,"
+  },
+  {
+    "segment_id": "s00408",
+    "start_seconds": 2399.92,
+    "end_seconds": 2406.64,
+    "text": "use fast-to-chip models, simple checks by you are enough because you want to be able to,"
+  },
+  {
+    "segment_id": "s00409",
+    "start_seconds": 2406.64,
+    "end_seconds": 2411.68,
+    "text": "if you're going to get the results quickly, you want to see that wrong quickly. Medium risk work,"
+  },
+  {
+    "segment_id": "s00410",
+    "start_seconds": 2411.7599999999998,
+    "end_seconds": 2418.48,
+    "text": "then you're going to ask it to check the sources, structure, a second level checking there. And"
+  },
+  {
+    "segment_id": "s00411",
+    "start_seconds": 2418.48,
+    "end_seconds": 2424.16,
+    "text": "once we're into the higher risk stuff, we want to use the strongest reasoning and calculations"
+  },
+  {
+    "segment_id": "s00412",
+    "start_seconds": 2424.16,
+    "end_seconds": 2429.6,
+    "text": "that we can afford and then we want good human judgment coming in there. And then we might want"
+  },
+  {
+    "segment_id": "s00413",
+    "start_seconds": 2429.6,
+    "end_seconds": 2438.08,
+    "text": "to use a power model as a final check in the process. So the key reminders from this,"
+  },
+  {
+    "segment_id": "s00414",
+    "start_seconds": 2438.88,
+    "end_seconds": 2445.44,
+    "text": "what outcome do I need is what you need to think about before you delegate. Which sources and tools"
+  },
+  {
+    "segment_id": "s00415",
+    "start_seconds": 2445.44,
+    "end_seconds": 2453.04,
+    "text": "may AI use is really important. I own my company, so I make the decision consistent with my contracts"
+  },
+  {
+    "segment_id": "s00416",
+    "start_seconds": 2453.04,
+    "end_seconds": 2462.0,
+    "text": "with my clients about what AI can access. I also only use paid accounts so that they do not"
+  },
+  {
+    "segment_id": "s00417",
+    "start_seconds": 2462.08,
+    "end_seconds": 2468.72,
+    "text": "record any of my information. It's one of the reasons that I didn't try fable when it came out"
+  },
+  {
+    "segment_id": "s00418",
+    "start_seconds": 2468.72,
+    "end_seconds": 2475.52,
+    "text": "because anthropics store your data for a period of time after that. And that was inconsistent with"
+  },
+  {
+    "segment_id": "s00419",
+    "start_seconds": 2475.52,
+    "end_seconds": 2481.92,
+    "text": "how I operate. You need to make sure that you've got rules and checks that it must follow when you're"
+  },
+  {
+    "segment_id": "s00420",
+    "start_seconds": 2481.92,
+    "end_seconds": 2488.24,
+    "text": "delegating to it. You need to make sure it knows when it has to stop and ask you. And then you"
+  },
+  {
+    "segment_id": "s00421",
+    "start_seconds": 2488.4,
+    "end_seconds": 2496.8,
+    "text": "think about how well I know the result is good enough. Let's say you wanted to code"
+  },
+  {
+    "segment_id": "s00422",
+    "start_seconds": 2497.36,
+    "end_seconds": 2503.1200000000003,
+    "text": "a thousand open-ended responses and you think, oh, well, let's pick up quite a cheap"
+  },
+  {
+    "segment_id": "s00423",
+    "start_seconds": 2504.1600000000003,
+    "end_seconds": 2511.36,
+    "text": "algorithm for doing that. If you checked a thousand responses, it would have been quicker to done"
+  },
+  {
+    "segment_id": "s00424",
+    "start_seconds": 2511.36,
+    "end_seconds": 2518.96,
+    "text": "it by hemp. So you've got to have a strategy, a way of thinking about it that will deal with it."
+  },
+  {
+    "segment_id": "s00425",
+    "start_seconds": 2518.96,
+    "end_seconds": 2526.8,
+    "text": "Now you might use a media model to do the coding and then a second model on a higher level to just say,"
+  },
+  {
+    "segment_id": "s00426",
+    "start_seconds": 2527.84,
+    "end_seconds": 2535.6800000000003,
+    "text": "is each one of these representations a valid match back to the first one? And give it some leeway"
+  },
+  {
+    "segment_id": "s00427",
+    "start_seconds": 2535.68,
+    "end_seconds": 2544.3199999999997,
+    "text": "about what a valid match is. So I've done this in a device agnostic way. I've not really spelled"
+  },
+  {
+    "segment_id": "s00428",
+    "start_seconds": 2544.3199999999997,
+    "end_seconds": 2552.16,
+    "text": "out how it's different in Gemini and Japanese UBT. So how do you do this? Ask AI how to achieve it,"
+  },
+  {
+    "segment_id": "s00429",
+    "start_seconds": 2552.16,
+    "end_seconds": 2560.16,
+    "text": "your AI. You're using Gemini. You say, okay, using Gemini. How do I do this? Keep the question focused"
+  },
+  {
+    "segment_id": "s00430",
+    "start_seconds": 2560.16,
+    "end_seconds": 2569.44,
+    "text": "on what you want to happen. Don't tell it how it should do it. So you might say, when an email"
+  },
+  {
+    "segment_id": "s00431",
+    "start_seconds": 2569.44,
+    "end_seconds": 2576.64,
+    "text": "arrives talking about X, I want to add a record to an Excel file. Tell me how best to do that."
+  },
+  {
+    "segment_id": "s00432",
+    "start_seconds": 2577.6,
+    "end_seconds": 2586.16,
+    "text": "Don't say, I want you to use a trigger event and then create agent tasks that will lose such"
+  },
+  {
+    "segment_id": "s00433",
+    "start_seconds": 2586.24,
+    "end_seconds": 2594.8799999999997,
+    "text": "and such. You'll get a better answer by telling it, what have you got? What do you want the result to"
+  },
+  {
+    "segment_id": "s00434",
+    "start_seconds": 2594.8799999999997,
+    "end_seconds": 2602.0,
+    "text": "be? And asking how to get there. And then if you don't like its best solution, you might say,"
+  },
+  {
+    "segment_id": "s00435",
+    "start_seconds": 2602.0,
+    "end_seconds": 2607.8399999999997,
+    "text": "show me three ways that I could achieve this because one of those may be better for you."
+  },
+  {
+    "segment_id": "s00436",
+    "start_seconds": 2608.8,
+    "end_seconds": 2614.6400000000003,
+    "text": "So let's go to Q&A and I'm going to look at the questions."
+  },
+  {
+    "segment_id": "s00437",
+    "start_seconds": 2619.28,
+    "end_seconds": 2626.4,
+    "text": "So I, when I'm using Cloud, I will tend to use Optus, but then you've got the level of thinking and"
+  },
+  {
+    "segment_id": "s00438",
+    "start_seconds": 2626.4,
+    "end_seconds": 2635.6800000000003,
+    "text": "depth with Copilot. I tend to use Think Deeper. I will tend to be more Jet GPT, but other people"
+  },
+  {
+    "segment_id": "s00439",
+    "start_seconds": 2635.68,
+    "end_seconds": 2645.52,
+    "text": "are more Claude. I use somebody else saying, I use Python clustering, I use AI to help interpret"
+  },
+  {
+    "segment_id": "s00440",
+    "start_seconds": 2645.52,
+    "end_seconds": 2651.68,
+    "text": "the factors, persona profiles. I use a generic hypothetical segmentation, how much stress tests"
+  },
+  {
+    "segment_id": "s00441",
+    "start_seconds": 2651.68,
+    "end_seconds": 2661.2,
+    "text": "the numbers. I think those are all good ideas. Somebody else is using late in gold,"
+  },
+  {
+    "segment_id": "s00442",
+    "start_seconds": 2661.28,
+    "end_seconds": 2669.1200000000003,
+    "text": "yeah, an excellent clustering program. Late in class analysis has got some real advantages."
+  },
+  {
+    "segment_id": "s00443",
+    "start_seconds": 2669.76,
+    "end_seconds": 2679.0400000000004,
+    "text": "You can find, if you ask AI to do the segmentation, it's using K means, which is kind of a bit primitive"
+  },
+  {
+    "segment_id": "s00444",
+    "start_seconds": 2679.0400000000004,
+    "end_seconds": 2687.92,
+    "text": "and old-fashioned. So you might want to move on. A bit of interaction there, but somebody else"
+  },
+  {
+    "segment_id": "s00445",
+    "start_seconds": 2687.92,
+    "end_seconds": 2693.6,
+    "text": "is using late in class in display a quite a lot. Yeah, there is late in class in there. It's an"
+  },
+  {
+    "segment_id": "s00446",
+    "start_seconds": 2693.6,
+    "end_seconds": 2702.0,
+    "text": "excellent set of programs in Q display. Everybody who's not familiar, Q and display are effectively"
+  },
+  {
+    "segment_id": "s00447",
+    "start_seconds": 2702.56,
+    "end_seconds": 2709.6,
+    "text": "the same program. If I remember correctly, Q is the app and display is the online version."
+  },
+  {
+    "segment_id": "s00448",
+    "start_seconds": 2710.7200000000003,
+    "end_seconds": 2715.04,
+    "text": "And I think the usage base is very much towards display these days."
+  },
+  {
+    "segment_id": "s00449",
+    "start_seconds": 2715.68,
+    "end_seconds": 2721.92,
+    "text": "So there are five tips. I'd love to hear if you've got any questions about those five."
+  },
+  {
+    "segment_id": "s00450",
+    "start_seconds": 2722.48,
+    "end_seconds": 2727.2,
+    "text": "If you've got any suggestions for about what you'd like me to cover in November,"
+  },
+  {
+    "segment_id": "s00451",
+    "start_seconds": 2727.84,
+    "end_seconds": 2735.52,
+    "text": "then that would be great because it will help shape the way the thinking is going."
+  },
+  {
+    "segment_id": "s00452",
+    "start_seconds": 2746.0,
+    "end_seconds": 2756.32,
+    "text": "That's okay. So just while I give you a little bit long to see if any more questions come in,"
+  },
+  {
+    "segment_id": "s00453",
+    "start_seconds": 2757.7599999999998,
+    "end_seconds": 2762.4,
+    "text": "I'd be interested to know which of these things that I've talked about today. Do you think you"
+  },
+  {
+    "segment_id": "s00454",
+    "start_seconds": 2762.4,
+    "end_seconds": 2768.0,
+    "text": "are going to, that you haven't thought about this way before and you will start using soon?"
+  },
+  {
+    "segment_id": "s00455",
+    "start_seconds": 2769.2799999999997,
+    "end_seconds": 2774.8,
+    "text": "The next episode of this series is on the 70th of November. We've got those two training courses."
+  },
+  {
+    "segment_id": "s00456",
+    "start_seconds": 2774.8,
+    "end_seconds": 2782.5600000000004,
+    "text": "I mentioned. And remember that the recording of the June session and the slides are still available."
+  },
+  {
+    "segment_id": "s00457",
+    "start_seconds": 2784.0,
+    "end_seconds": 2791.04,
+    "text": "So we've got a tip here. Some success by doing the following. Using skills in the workflow to"
+  },
+  {
+    "segment_id": "s00458",
+    "start_seconds": 2791.04,
+    "end_seconds": 2797.2000000000003,
+    "text": "standardize the input and output structure, keeping human in the loop for key decisions before making"
+  },
+  {
+    "segment_id": "s00459",
+    "start_seconds": 2797.2000000000003,
+    "end_seconds": 2804.6400000000003,
+    "text": "progress in the workflow, making the workflow, export artifacts. So I'm going to pack a"
+  },
+  {
+    "segment_id": "s00460",
+    "start_seconds": 2804.64,
+    "end_seconds": 2810.72,
+    "text": "few of those because there's some really good points in there. First of all, I don't like the"
+  },
+  {
+    "segment_id": "s00461",
+    "start_seconds": 2810.72,
+    "end_seconds": 2817.3599999999997,
+    "text": "phrase human in the loop. I think that human in the loop can too often mean a person who is a rubber"
+  },
+  {
+    "segment_id": "s00462",
+    "start_seconds": 2817.3599999999997,
+    "end_seconds": 2824.4,
+    "text": "stamper. You were generating stuff out of AI now, 10 times faster than we were last year."
+  },
+  {
+    "segment_id": "s00463",
+    "start_seconds": 2825.04,
+    "end_seconds": 2831.04,
+    "text": "Are we using 10 times more humans to check it? Are we found some way of making the humans 10"
+  },
+  {
+    "segment_id": "s00464",
+    "start_seconds": 2831.12,
+    "end_seconds": 2839.52,
+    "text": "times faster? No, we haven't. We need professionally driven expert intervention. So in control of the"
+  },
+  {
+    "segment_id": "s00465",
+    "start_seconds": 2839.52,
+    "end_seconds": 2848.72,
+    "text": "process. Then to come back to the first of those bullets, skills is something we may well cover"
+  },
+  {
+    "segment_id": "s00466",
+    "start_seconds": 2848.72,
+    "end_seconds": 2854.0,
+    "text": "in the November one. You can now create skills. These are simple text files, everything called"
+  },
+  {
+    "segment_id": "s00467",
+    "start_seconds": 2854.0,
+    "end_seconds": 2860.72,
+    "text": "markdown. And they tell the AI how to do the job. So they make it much more likely that it's going"
+  },
+  {
+    "segment_id": "s00468",
+    "start_seconds": 2860.7200000000003,
+    "end_seconds": 2868.32,
+    "text": "to do it the same way every time you can tweak those skills. You can, with certain limitations,"
+  },
+  {
+    "segment_id": "s00469",
+    "start_seconds": 2868.32,
+    "end_seconds": 2874.4,
+    "text": "take a skills file from Claude and run it on chat GPT. In theory, you can do it completely."
+  },
+  {
+    "segment_id": "s00470",
+    "start_seconds": 2874.4,
+    "end_seconds": 2879.5200000000004,
+    "text": "In practice, it will sometimes need a little bit of a tweak, but that makes those skills portable."
+  },
+  {
+    "segment_id": "s00471",
+    "start_seconds": 2880.2400000000002,
+    "end_seconds": 2888.88,
+    "text": "And then making the workflow export artifacts. So you want to output what it's done. I will very"
+  },
+  {
+    "segment_id": "s00472",
+    "start_seconds": 2888.88,
+    "end_seconds": 2897.2000000000003,
+    "text": "often get it to output the summary of everything we looked at. And I'm going to have that as a document."
+  },
+  {
+    "segment_id": "s00473",
+    "start_seconds": 2897.2000000000003,
+    "end_seconds": 2903.92,
+    "text": "And I could load that into say I've done that in Gemini. I could load that into Claude at the start,"
+  },
+  {
+    "segment_id": "s00474",
+    "start_seconds": 2903.92,
+    "end_seconds": 2910.7200000000003,
+    "text": "next time it becomes part of the evidence and the context that we build up. Artifacts in Claude have"
+  },
+  {
+    "segment_id": "s00475",
+    "start_seconds": 2910.7200000000003,
+    "end_seconds": 2917.36,
+    "text": "a special meaning as well in that they can be an interactive product that you produce an HTML product"
+  },
+  {
+    "segment_id": "s00476",
+    "start_seconds": 2917.36,
+    "end_seconds": 2921.52,
+    "text": "which allows you to interrogate it. All of those things are really useful."
+  },
+  {
+    "segment_id": "s00477",
+    "start_seconds": 2923.76,
+    "end_seconds": 2930.1600000000003,
+    "text": "So thinking about using graphic, creating it for graphical user interfaces, using it for"
+  },
+  {
+    "segment_id": "s00478",
+    "start_seconds": 2930.1600000000003,
+    "end_seconds": 2937.6800000000003,
+    "text": "R and using it for creating GUIs for R and Python apps. Probably a little bit of a specialized area,"
+  },
+  {
+    "segment_id": "s00479",
+    "start_seconds": 2937.6800000000003,
+    "end_seconds": 2944.88,
+    "text": "but happy to have a think about that. That is one of the zones where people are very much more Claude"
+  },
+  {
+    "segment_id": "s00480",
+    "start_seconds": 2944.88,
+    "end_seconds": 2955.28,
+    "text": "than they are any other platform. Getting different AI models to market this homework."
+  },
+  {
+    "segment_id": "s00481",
+    "start_seconds": 2955.28,
+    "end_seconds": 2961.76,
+    "text": "Yeah, that's a really important point. Like in the idea of generating 10s, that's two things from the"
+  },
+  {
+    "segment_id": "s00482",
+    "start_seconds": 2962.7200000000003,
+    "end_seconds": 2970.08,
+    "text": "files. Are the skills files available? I know at least one company that is thinking of marketing"
+  },
+  {
+    "segment_id": "s00483",
+    "start_seconds": 2970.16,
+    "end_seconds": 2976.7999999999997,
+    "text": "its skills files as a product. The difficulty is making sure that they're not copied because"
+  },
+  {
+    "segment_id": "s00484",
+    "start_seconds": 2976.7999999999997,
+    "end_seconds": 2983.04,
+    "text": "they are simply text files. They have what's called meltdown. But it's an interesting idea."
+  },
+  {
+    "segment_id": "s00485",
+    "start_seconds": 2986.72,
+    "end_seconds": 2992.16,
+    "text": "Adding in the brief and the analysis material is, yeah, I'm glad that people are picking up on that."
+  },
+  {
+    "segment_id": "s00486",
+    "start_seconds": 2992.7999999999997,
+    "end_seconds": 3001.12,
+    "text": "Yeah, and somebody else who sees the human in the loop is selling us, I was short. I think that's"
+  },
+  {
+    "segment_id": "s00487",
+    "start_seconds": 3002.3199999999997,
+    "end_seconds": 3008.16,
+    "text": "is a key feature. And always from the beginning, I was slightly nervous about the expression human."
+  },
+  {
+    "segment_id": "s00488",
+    "start_seconds": 3009.2799999999997,
+    "end_seconds": 3016.08,
+    "text": "We don't call other people humans. We call them people respondents, colleagues, participants,"
+  },
+  {
+    "segment_id": "s00489",
+    "start_seconds": 3016.72,
+    "end_seconds": 3023.92,
+    "text": "all sorts of things. Robots call as humans. So I'm not sure we really want to build that into our system."
+  },
+  {
+    "segment_id": "s00490",
+    "start_seconds": 3026.48,
+    "end_seconds": 3033.04,
+    "text": "How to create impactful presentations using AI, call and quant, which AI tool would you recommend?"
+  },
+  {
+    "segment_id": "s00491",
+    "start_seconds": 3035.44,
+    "end_seconds": 3041.36,
+    "text": "This is kind of the one that has not been perfectly done yet. There are some really nice tools out"
+  },
+  {
+    "segment_id": "s00492",
+    "start_seconds": 3041.36,
+    "end_seconds": 3049.44,
+    "text": "that do part of it. But I think that they all leave you a little bit short. So my tip at the moment"
+  },
+  {
+    "segment_id": "s00493",
+    "start_seconds": 3050.1600000000003,
+    "end_seconds": 3061.44,
+    "text": "is I generate a written debrief, one page, two pages before I try to get it to generate"
+  },
+  {
+    "segment_id": "s00494",
+    "start_seconds": 3061.44,
+    "end_seconds": 3067.92,
+    "text": "PowerPoints. I don't want to be looking at a PowerPoint presentation and saying, this isn't right. That's"
+  },
+  {
+    "segment_id": "s00495",
+    "start_seconds": 3067.92,
+    "end_seconds": 3075.6800000000003,
+    "text": "a really slow way of iterating, I find. I'm much happier with getting it to generate a description"
+  },
+  {
+    "segment_id": "s00496",
+    "start_seconds": 3075.6800000000003,
+    "end_seconds": 3087.84,
+    "text": "of the flow of the information and then working from there with that to generate it. So for this"
+  },
+  {
+    "segment_id": "s00497",
+    "start_seconds": 3087.84,
+    "end_seconds": 3096.2400000000002,
+    "text": "presentation I used today, I uploaded the June presentation. I uploaded the results of the work"
+  },
+  {
+    "segment_id": "s00498",
+    "start_seconds": 3096.2400000000002,
+    "end_seconds": 3101.44,
+    "text": "that I had done about designing what tips we should cover, points I particularly wanted to make,"
+  },
+  {
+    "segment_id": "s00499",
+    "start_seconds": 3102.32,
+    "end_seconds": 3110.7200000000003,
+    "text": "and then asked it to move forward and create the slides. I could have, but it's not my style,"
+  },
+  {
+    "segment_id": "s00500",
+    "start_seconds": 3110.7200000000003,
+    "end_seconds": 3116.8,
+    "text": "then asked it to make really good graphics. And it would do that, particularly if I could tell it"
+  },
+  {
+    "segment_id": "s00501",
+    "start_seconds": 3116.8,
+    "end_seconds": 3126.1600000000003,
+    "text": "what I mean by really good graphics. So I think that is the way at the moment I would be using"
+  },
+  {
+    "segment_id": "s00502",
+    "start_seconds": 3126.7999999999997,
+    "end_seconds": 3134.56,
+    "text": "the AI to generate slides. I think we are very close to having some stuff that will do that."
+  },
+  {
+    "segment_id": "s00503",
+    "start_seconds": 3144.72,
+    "end_seconds": 3150.8799999999997,
+    "text": "So will AI be unbiased if you ask which AI model would you recommend for specific tasks?"
+  },
+  {
+    "segment_id": "s00504",
+    "start_seconds": 3151.6,
+    "end_seconds": 3160.08,
+    "text": "So I ask it will definitely be biased. So I will tend to ask the big four,"
+  },
+  {
+    "segment_id": "s00505",
+    "start_seconds": 3161.52,
+    "end_seconds": 3166.96,
+    "text": "which models provide good solutions to the following problems, please rank them."
+  },
+  {
+    "segment_id": "s00506",
+    "start_seconds": 3167.92,
+    "end_seconds": 3175.12,
+    "text": "And you pretty much ignore where they put themselves in that ranking. So you end up with four sets of"
+  },
+  {
+    "segment_id": "s00507",
+    "start_seconds": 3175.12,
+    "end_seconds": 3182.0,
+    "text": "rankings, but each one has a blank piece in it, and then you can look at that overall and get a"
+  },
+  {
+    "segment_id": "s00508",
+    "start_seconds": 3182.0,
+    "end_seconds": 3193.92,
+    "text": "sense. So when I looked at which ones have a most sensitive to using the expensive model,"
+  },
+  {
+    "segment_id": "s00509",
+    "start_seconds": 3193.92,
+    "end_seconds": 3207.04,
+    "text": "the copilot, the Gemini, and Claude were all pretty clear that it's Claude is the most expensive,"
+  },
+  {
+    "segment_id": "s00510",
+    "start_seconds": 3207.6,
+    "end_seconds": 3215.2000000000003,
+    "text": "and then it's Chachie PT, and then it's Gemini, and then it's copilot. Except for Chachie PT,"
+  },
+  {
+    "segment_id": "s00511",
+    "start_seconds": 3215.2000000000003,
+    "end_seconds": 3221.76,
+    "text": "who thought that it was nearly as good as copilot is way better than Claude and Gemini,"
+  },
+  {
+    "segment_id": "s00512",
+    "start_seconds": 3221.76,
+    "end_seconds": 3227.92,
+    "text": "and Claude thought that Chachie PT was nearly as bad as Claude. So that was the bias that Claude"
+  },
+  {
+    "segment_id": "s00513",
+    "start_seconds": 3227.92,
+    "end_seconds": 3236.1600000000003,
+    "text": "put into the process there. So again, this is why asking in different platforms, that sort of question,"
+  },
+  {
+    "segment_id": "s00514",
+    "start_seconds": 3236.1600000000003,
+    "end_seconds": 3245.44,
+    "text": "you could use free LLM's ones you're not paying for. I almost never use an LLM that I'm not paying"
+  },
+  {
+    "segment_id": "s00515",
+    "start_seconds": 3245.44,
+    "end_seconds": 3250.96,
+    "text": "for because you get less security. I'm not using it if I can't get the value back from it."
+  },
+  {
+    "segment_id": "s00516",
+    "start_seconds": 3251.76,
+    "end_seconds": 3258.0800000000004,
+    "text": "But those sort of questions about how good are the different LLM's at this. Questions,"
+  },
+  {
+    "segment_id": "s00517",
+    "start_seconds": 3258.0800000000004,
+    "end_seconds": 3263.6000000000004,
+    "text": "if you don't care if that question was published to the internet and the answer,"
+  },
+  {
+    "segment_id": "s00518",
+    "start_seconds": 3264.2400000000002,
+    "end_seconds": 3270.2400000000002,
+    "text": "then you can use it on a free LLM. It's really when you don't want the question or the answer"
+  },
+  {
+    "segment_id": "s00519",
+    "start_seconds": 3270.2400000000002,
+    "end_seconds": 3280.8,
+    "text": "publishing that you want to be that safe zone. For a workflow to take content and generate"
+  },
+  {
+    "segment_id": "s00520",
+    "start_seconds": 3280.8,
+    "end_seconds": 3289.92,
+    "text": "positive tailings to a targeted profiles, any model you recommend, it's very hard to do that"
+  },
+  {
+    "segment_id": "s00521",
+    "start_seconds": 3289.92,
+    "end_seconds": 3297.2000000000003,
+    "text": "because today's best model is not going to be tomorrow's best model. So if we were to go back"
+  },
+  {
+    "segment_id": "s00522",
+    "start_seconds": 3297.2000000000003,
+    "end_seconds": 3305.76,
+    "text": "nine months, Gemini Pro was the most powerful of the models. It is now seventh, eighth, ninth,"
+  },
+  {
+    "segment_id": "s00523",
+    "start_seconds": 3305.76,
+    "end_seconds": 3315.1200000000003,
+    "text": "something like that in the series. I personally don't use Grok and it will light Grok. The latest"
+  },
+  {
+    "segment_id": "s00524",
+    "start_seconds": 3315.1200000000003,
+    "end_seconds": 3322.2400000000002,
+    "text": "innovation from Grok, however, particularly with Grok, but is right up there at the top of the situation."
+  },
+  {
+    "segment_id": "s00525",
+    "start_seconds": 3323.36,
+    "end_seconds": 3329.5200000000004,
+    "text": "We're seeing a similar thing with some of the Chinese open sources. It is more about what you do"
+  },
+  {
+    "segment_id": "s00526",
+    "start_seconds": 3330.4,
+    "end_seconds": 3340.88,
+    "text": "than the power. We now have enough power in the AI in the top 20 AI tools are probably good enough"
+  },
+  {
+    "segment_id": "s00527",
+    "start_seconds": 3340.88,
+    "end_seconds": 3348.48,
+    "text": "for 90% of the work you're doing. You really need to be doing things like advanced,"
+  },
+  {
+    "segment_id": "s00528",
+    "start_seconds": 3349.04,
+    "end_seconds": 3359.28,
+    "text": "latent class analysis, choice based con joint user interface, graphical user interfaces for"
+  },
+  {
+    "segment_id": "s00529",
+    "start_seconds": 3359.28,
+    "end_seconds": 3366.48,
+    "text": "our applications. That sort of level, you're still going to need to be a bit choosy if you're making"
+  },
+  {
+    "segment_id": "s00530",
+    "start_seconds": 3366.48,
+    "end_seconds": 3372.16,
+    "text": "commercial products. But for most other users, because we're not handing over what we're doing"
+  },
+  {
+    "segment_id": "s00531",
+    "start_seconds": 3372.16,
+    "end_seconds": 3380.3199999999997,
+    "text": "entirely to AI, most of them are capable of doing it if you use them carefully, constructively"
+  },
+  {
+    "segment_id": "s00532",
+    "start_seconds": 3380.3199999999997,
+    "end_seconds": 3389.52,
+    "text": "as part of your team. Okay, well, we better call that a day. So let's put our sponsor slide back"
+  },
+  {
+    "segment_id": "s00533",
+    "start_seconds": 3389.52,
+    "end_seconds": 3396.96,
+    "text": "on the page. And hopefully see you all again soon."
+  }
+]

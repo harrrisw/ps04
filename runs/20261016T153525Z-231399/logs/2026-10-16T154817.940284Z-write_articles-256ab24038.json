@@ -1,0 +1,48 @@
+{
+  "stage": "write_articles",
+  "status": "completed",
+  "input_count": 3,
+  "output_count": 3,
+  "started_at": "2026-10-16T15:48:17.940284Z",
+  "finished_at": "2026-10-16T15:48:58.945865Z",
+  "tools": [
+    "python",
+    "parley",
+    "parley",
+    "parley"
+  ],
+  "models": [
+    "gpt-5.4-mini",
+    "gpt-5.4-mini",
+    "gpt-5.4-mini",
+    "gpt-5.4-mini",
+    "gpt-5.4-mini",
+    "gpt-5.4-mini"
+  ],
+  "cost_usd": null,
+  "cost_is_estimate": false,
+  "errors": [],
+  "notes": [
+    "MIT Parley account credits; dollar cost not reported. No automatic retries.",
+    "MIT Parley account credits; dollar cost not reported. No automatic retries.",
+    "MIT Parley account credits; dollar cost not reported. No automatic retries."
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 28073,
+      "completion_tokens": 1715,
+      "total_tokens": 29788
+    },
+    {
+      "prompt_tokens": 24844,
+      "completion_tokens": 1798,
+      "total_tokens": 35090
+    },
+    {
+      "prompt_tokens": 34336,
+      "completion_tokens": 1951,
+      "total_tokens": 49343
+    }
+  ],
+  "elapsed_seconds": 41.0
+}

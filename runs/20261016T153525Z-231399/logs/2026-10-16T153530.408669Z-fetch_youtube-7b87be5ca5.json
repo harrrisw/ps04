@@ -1,0 +1,21 @@
+{
+  "stage": "fetch_youtube",
+  "status": "completed",
+  "input_count": 3,
+  "output_count": 5,
+  "started_at": "2026-10-16T15:35:30.408669Z",
+  "finished_at": "2026-10-16T15:35:40.461471Z",
+  "tools": [
+    "python",
+    "yt-dlp",
+    "deno",
+    "deno",
+    "deno"
+  ],
+  "models": [],
+  "cost_usd": 0,
+  "cost_is_estimate": false,
+  "errors": [],
+  "notes": [],
+  "elapsed_seconds": 10.047
+}

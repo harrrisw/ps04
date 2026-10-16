@@ -1,0 +1,568 @@
+{
+  "briefs": [
+    {
+      "piece_id": "01",
+      "title": "What changed in AI research tools for small-business teams",
+      "question": "What changed and what matters to this audience?",
+      "argument": "The main change is that AI tools are moving from generic generation toward connected, source-linked workflows that can read internal files, pull context from approved apps, and return outputs tied back to source material. For small-business researchers, that matters because the bottleneck is no longer just producing summaries; it is finding the right evidence, keeping the chain of custody visible, and fitting the work into a narrow, manageable workflow.",
+      "synthesis": "Crayon’s SharePoint and Insights API announcements show one side of the shift: competitor-intelligence tools are increasingly built around internal repositories and source-linked outputs. Nielsen Norman Group’s guidance points the same way by insisting that research artifacts trace back to specific evidence and by warning against treating assumptions as findings. The Green Book and AI tutorial sources reinforce the practical version of this change: ask the system to read context, connect to existing files, and surface what matters before synthesis. The inference across these sources is that the meaningful novelty is not just faster text generation, but better retrieval and traceability, which is the part a small team can actually pilot.",
+      "limitations": "These are mostly vendor announcements and practitioner guidance, not independent field trials. Crayon’s claims are attributed product claims, not verified outcome evidence, and the tutorial sources are examples rather than controlled comparisons. Transfer to small businesses is limited by permissions, data cleanliness, and the amount of staff time available to review outputs. Missing perspectives include actual small-business buyers, non-English markets, unsuccessful deployments, and the people whose data is being analyzed. None of the sources establish price, setup effort, or accuracy against a named baseline.",
+      "claims": [
+        {
+          "claim_id": "01-c1",
+          "statement": "AI research tools are moving toward workflows that connect to real document stores and return source-linked outputs rather than only generating standalone text.",
+          "type": "reported_fact",
+          "evidence": [
+            {
+              "item_id": "feed:1a7e895cd71cbee1d0747f59",
+              "version_id": "1c992807f67ad175d6ba475432796d6038f74b8da75127effc1e90425182466d",
+              "locator": {
+                "type": "text",
+                "quote": "Crayon now connects to SharePoint, joining our Google Drive integration.",
+                "segment_id": null
+              }
+            },
+            {
+              "item_id": "feed:32944883b9dff85a7148008d",
+              "version_id": "b192c0ca1da12bd242489506681f276f83473000ed4152d9795eac13ccc33ed1",
+              "locator": {
+                "type": "text",
+                "quote": "You also get the full detail behind each insight, not just a headline.",
+                "segment_id": null
+              }
+            },
+            {
+              "item_id": "youtube:XCmsCJcD0Kw",
+              "version_id": "cdf2165e5187d9286f30a7e19df7210cc82a7de41dd8071d5acb3fc7998796ce",
+              "locator": {
+                "type": "segment",
+                "quote": null,
+                "segment_id": "s00047"
+              }
+            }
+          ]
+        },
+        {
+          "claim_id": "01-c2",
+          "statement": "A practical small-business use case for AI research is retrieving and checking internal competitive or project context before synthesizing findings.",
+          "type": "inference",
+          "evidence": [
+            {
+              "item_id": "feed:322af46ae21ad26443092c84",
+              "version_id": "9f30df8aae6955ccd9ebb00d720767e9ff808618a7cd4b3318a5ccefcb4bbe71",
+              "locator": {
+                "type": "text",
+                "quote": "Every sticky note on the finished map should trace back to a specific research artifact",
+                "segment_id": null
+              }
+            },
+            {
+              "item_id": "youtube:XCmsCJcD0Kw",
+              "version_id": "cdf2165e5187d9286f30a7e19df7210cc82a7de41dd8071d5acb3fc7998796ce",
+              "locator": {
+                "type": "segment",
+                "quote": null,
+                "segment_id": "s00047"
+              }
+            },
+            {
+              "item_id": "feed:1a7e895cd71cbee1d0747f59",
+              "version_id": "1c992807f67ad175d6ba475432796d6038f74b8da75127effc1e90425182466d",
+              "locator": {
+                "type": "text",
+                "quote": "Each document becomes an insight, within minutes, and links back to the original file so anyone can check the source.",
+                "segment_id": null
+              }
+            }
+          ]
+        },
+        {
+          "claim_id": "01-c3",
+          "statement": "For competitor monitoring, Crayon now claims it can ingest SharePoint-held materials and turn them into insights for battlecards.",
+          "type": "source_claim",
+          "evidence": [
+            {
+              "item_id": "feed:1a7e895cd71cbee1d0747f59",
+              "version_id": "1c992807f67ad175d6ba475432796d6038f74b8da75127effc1e90425182466d",
+              "locator": {
+                "type": "text",
+                "quote": "Point it at the libraries or folders where your team keeps competitive content, and Crayon turns those documents into insights for your battlecards.",
+                "segment_id": null
+              }
+            },
+            {
+              "item_id": "feed:1a7e895cd71cbee1d0747f59",
+              "version_id": "1c992807f67ad175d6ba475432796d6038f74b8da75127effc1e90425182466d",
+              "locator": {
+                "type": "text",
+                "quote": "Each document becomes an insight, within minutes, and links back to the original file so anyone can check the source.",
+                "segment_id": null
+              }
+            }
+          ]
+        },
+        {
+          "claim_id": "01-c4",
+          "statement": "The practical change for small teams is that AI can now be used as a context-finding layer before summarization, not just as a summarizer afterward.",
+          "type": "inference",
+          "evidence": [
+            {
+              "item_id": "youtube:XCmsCJcD0Kw",
+              "version_id": "cdf2165e5187d9286f30a7e19df7210cc82a7de41dd8071d5acb3fc7998796ce",
+              "locator": {
+                "type": "segment",
+                "quote": null,
+                "segment_id": "s00041"
+              }
+            },
+            {
+              "item_id": "feed:322af46ae21ad26443092c84",
+              "version_id": "9f30df8aae6955ccd9ebb00d720767e9ff808618a7cd4b3318a5ccefcb4bbe71",
+              "locator": {
+                "type": "text",
+                "quote": "Maps help UX professionals understand what they know about their users and where they need to gather more data.",
+                "segment_id": null
+              }
+            },
+            {
+              "item_id": "feed:47caddd09131f10546842b2b",
+              "version_id": "91b96960ebd630839c6f5ec7697fbc7d6335a54de7117668d779ae465fe1e21d",
+              "locator": {
+                "type": "text",
+                "quote": "A useful personal AI assistant needs both:",
+                "segment_id": null
+              }
+            }
+          ]
+        },
+        {
+          "claim_id": "01-c5",
+          "statement": "The series also shows a shift toward connected-app workflows, where AI is asked to read files, calendars, and mail that users already control.",
+          "type": "reported_fact",
+          "evidence": [
+            {
+              "item_id": "youtube:XCmsCJcD0Kw",
+              "version_id": "cdf2165e5187d9286f30a7e19df7210cc82a7de41dd8071d5acb3fc7998796ce",
+              "locator": {
+                "type": "segment",
+                "quote": null,
+                "segment_id": "s00047"
+              }
+            },
+            {
+              "item_id": "feed:47caddd09131f10546842b2b",
+              "version_id": "91b96960ebd630839c6f5ec7697fbc7d6335a54de7117668d779ae465fe1e21d",
+              "locator": {
+                "type": "text",
+                "quote": "An AI agent should answer questions about information that is already on the user’s phone without making them find it and paste it into the conversation.",
+                "segment_id": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "02",
+      "title": "Which AI research claims hold up, and where the evidence is still in tension",
+      "question": "Which claims withstand scrutiny and where are interpretations in tension?",
+      "argument": "The strongest claims are not that AI replaces human analysis, but that it can help teams organize evidence, retrieve context, and flag discrepancies faster than manual review. The tension is that many attractive product claims are still vendor claims, while the more defensible guidance keeps returning to source traceability, narrow scope, and human checking. In short: AI can assist research workflows, but the current evidence does not justify treating these tools as autonomous validators.",
+      "synthesis": "Nielsen Norman Group’s guidance is the most defensible methodological spine here: use traceable evidence, distinguish assumptions from findings, and keep a human able to question the output. Marketing AI Institute’s fact-checking workflow reaches a similar conclusion from a different angle, recommending parallel checks, source verification, and explicit human judgment. Crayon’s API and SharePoint posts show what vendors say is now possible, but those remain attributed product claims rather than independently verified outcomes. The Green Book and TechCrunch items add a cautionary counterweight: agentic systems are getting more capable, but they still fail in ways that make unsupervised use risky. The multi-source inference is that the more capable the workflow, the more important human ownership and source checking become.",
+      "limitations": "None of these sources is a controlled comparison of one AI workflow against a named baseline with measured accuracy, setup time, checking time, and correction rate. Vendor pieces may overstate readiness; practitioner pieces may overgeneralize from one team’s workflow. Transfer to small businesses is constrained by smaller data estates, fewer technical staff, and weaker governance than enterprise environments. Missing perspectives include failed pilots, multilingual research, non-US regulatory constraints, and users whose private data is routed through these systems. Commercial claims should be treated as attributed claims, not proof.",
+      "claims": [
+        {
+          "claim_id": "02-c1",
+          "statement": "A reliable AI-assisted research workflow still requires traceable evidence and explicit separation of assumptions from findings.",
+          "type": "source_claim",
+          "evidence": [
+            {
+              "item_id": "feed:322af46ae21ad26443092c84",
+              "version_id": "9f30df8aae6955ccd9ebb00d720767e9ff808618a7cd4b3318a5ccefcb4bbe71",
+              "locator": {
+                "type": "text",
+                "quote": "Every sticky note on the finished map should trace back to a specific research artifact",
+                "segment_id": null
+              }
+            },
+            {
+              "item_id": "feed:322af46ae21ad26443092c84",
+              "version_id": "9f30df8aae6955ccd9ebb00d720767e9ff808618a7cd4b3318a5ccefcb4bbe71",
+              "locator": {
+                "type": "text",
+                "quote": "If you can’t point to the source, the note is an assumption, and it should be labeled as one.",
+                "segment_id": null
+              }
+            }
+          ]
+        },
+        {
+          "claim_id": "02-c2",
+          "statement": "Multi-agent fact-checking can speed review, but the publisher itself warns that agents can still agree on the wrong answer.",
+          "type": "source_claim",
+          "evidence": [
+            {
+              "item_id": "feed:c7506eddf63043533f132661",
+              "version_id": "456f27b7529baa4ebdd5fc671074bb44bec587ce8b82870eab382332d7280e04",
+              "locator": {
+                "type": "text",
+                "quote": "AI agents can be wrong. And multiple agents can agree on the same wrong answer.",
+                "segment_id": null
+              }
+            },
+            {
+              "item_id": "feed:c7506eddf63043533f132661",
+              "version_id": "456f27b7529baa4ebdd5fc671074bb44bec587ce8b82870eab382332d7280e04",
+              "locator": {
+                "type": "text",
+                "quote": "Once a first pass is done, a second agent reviews the flagged items from the first looking for anything that was missed",
+                "segment_id": null
+              }
+            }
+          ]
+        },
+        {
+          "claim_id": "02-c3",
+          "statement": "Crayon’s product claims suggest source-linked competitive-intelligence workflows, but they are still vendor-announced capabilities rather than independently verified outcomes.",
+          "type": "source_claim",
+          "evidence": [
+            {
+              "item_id": "feed:32944883b9dff85a7148008d",
+              "version_id": "b192c0ca1da12bd242489506681f276f83473000ed4152d9795eac13ccc33ed1",
+              "locator": {
+                "type": "text",
+                "quote": "Every insight comes back with its title, summary, date and the competitors it's tagged to.",
+                "segment_id": null
+              }
+            },
+            {
+              "item_id": "feed:32944883b9dff85a7148008d",
+              "version_id": "b192c0ca1da12bd242489506681f276f83473000ed4152d9795eac13ccc33ed1",
+              "locator": {
+                "type": "text",
+                "quote": "An admin creates a read-only API key in Crayon and can see live data come back right away.",
+                "segment_id": null
+              }
+            }
+          ]
+        },
+        {
+          "claim_id": "02-c4",
+          "statement": "Agentic systems still struggle with control and evaluation, which limits how much confidence small businesses should place in them for autonomous research tasks.",
+          "type": "inference",
+          "evidence": [
+            {
+              "item_id": "feed:cef868a2ca35f25b510b9dfc",
+              "version_id": "82238ba8d615ae707a3f14a0dd44a88fe0811f48e1b48173694842d2eca286ab",
+              "locator": {
+                "type": "text",
+                "quote": "Anthropic said its models exploited websites on the internet",
+                "segment_id": null
+              }
+            },
+            {
+              "item_id": "feed:47caddd09131f10546842b2b",
+              "version_id": "91b96960ebd630839c6f5ec7697fbc7d6335a54de7117668d779ae465fe1e21d",
+              "locator": {
+                "type": "text",
+                "quote": "A useful assistant needs more than information somewhere on the device.",
+                "segment_id": null
+              }
+            },
+            {
+              "item_id": "feed:c7506eddf63043533f132661",
+              "version_id": "456f27b7529baa4ebdd5fc671074bb44bec587ce8b82870eab382332d7280e04",
+              "locator": {
+                "type": "text",
+                "quote": "This process doesn't replace your editorial responsibility; it accelerates your path to a more reliable document.",
+                "segment_id": null
+              }
+            }
+          ]
+        },
+        {
+          "claim_id": "02-c5",
+          "statement": "The most defensible interpretation of the evidence is that AI is a review layer and context layer, not a substitute for research judgment.",
+          "type": "inference",
+          "evidence": [
+            {
+              "item_id": "feed:322af46ae21ad26443092c84",
+              "version_id": "9f30df8aae6955ccd9ebb00d720767e9ff808618a7cd4b3318a5ccefcb4bbe71",
+              "locator": {
+                "type": "text",
+                "quote": "Never rely on AI tools to perform all your analysis.",
+                "segment_id": null
+              }
+            },
+            {
+              "item_id": "feed:849c1b75f58f080d47c7e603",
+              "version_id": "4db87a90c2dc300949c1e3994c64751a7fc731fb9cc1ae42f2b1167e82b48dce",
+              "locator": {
+                "type": "text",
+                "quote": "AI literacy requires both prompt fluency and the ability to critically assess outputs; frequent use does not imply skilled use.",
+                "segment_id": null
+              }
+            },
+            {
+              "item_id": "youtube:XCmsCJcD0Kw",
+              "version_id": "cdf2165e5187d9286f30a7e19df7210cc82a7de41dd8071d5acb3fc7998796ce",
+              "locator": {
+                "type": "segment",
+                "quote": null,
+                "segment_id": "s00033"
+              }
+            }
+          ]
+        },
+        {
+          "claim_id": "02-c6",
+          "statement": "Recent practitioner and vendor sources agree that connected retrieval can reduce missed context, but they do not establish accuracy rates for small-business use.",
+          "type": "inference",
+          "evidence": [
+            {
+              "item_id": "feed:47caddd09131f10546842b2b",
+              "version_id": "91b96960ebd630839c6f5ec7697fbc7d6335a54de7117668d779ae465fe1e21d",
+              "locator": {
+                "type": "text",
+                "quote": "An agentic experience must show the user which sources were searched and explain relevant gaps.",
+                "segment_id": null
+              }
+            },
+            {
+              "item_id": "feed:1a7e895cd71cbee1d0747f59",
+              "version_id": "1c992807f67ad175d6ba475432796d6038f74b8da75127effc1e90425182466d",
+              "locator": {
+                "type": "text",
+                "quote": "Each document becomes an insight, within minutes, and links back to the original file so anyone can check the source.",
+                "segment_id": null
+              }
+            },
+            {
+              "item_id": "feed:849c1b75f58f080d47c7e603",
+              "version_id": "4db87a90c2dc300949c1e3994c64751a7fc731fb9cc1ae42f2b1167e82b48dce",
+              "locator": {
+                "type": "text",
+                "quote": "These resources can strengthen your mental model of how AI functions and illuminate the mental models your users have for these systems, which dictate their usage of them.",
+                "segment_id": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "03",
+      "title": "Practical implications: where small businesses should pilot, and what to watch next",
+      "question": "What are the practical implications and what should the audience watch next?",
+      "argument": "Small businesses should pilot AI where the task is bounded, source-linked, and reversible: finding context, classifying incoming material, surfacing discrepancies, and drafting a first pass for human review. They should not pilot it as an autonomous sender, deleter, or final arbiter of truth. The next thing to watch is whether vendors publish worked comparisons with named baselines and visible error handling rather than just more capability announcements.",
+      "synthesis": "The strongest practical guidance comes from NN/g and the practitioner tutorials: narrow scope, cite sources, keep a human approval step, and use AI to do prep work before critical judgment. Crayon and other vendor announcements are useful for scouting capabilities, but small businesses should treat them as starting points, not proof of ROI. The Green Book and TechCrunch items reinforce the same operational caution: agentic systems are getting more powerful and more visible, but they still require trust, monitoring, and a clear owner. For small businesses, the transfer limit is straightforward: enterprise-style connected-data workflows may be useful only if the team already has disciplined data access, clear permissions, and enough volume to justify setup.",
+      "limitations": "This is still an early-stage evidence base. We do not have published small-business case studies with measured time savings, corrected-error rates, or return on effort. Enterprise examples may overstate transfer because they assume better data hygiene, more integrations, and more governance than most small firms have. Missing perspectives include non-English markets, failed deployments, frontline users whose work is being automated, and people whose data is connected to the tools. Commercial claims about pricing, savings, or productivity should remain unattributed unless directly evidenced in the source text.",
+      "claims": [
+        {
+          "claim_id": "03-c1",
+          "statement": "The safest practical pilot is a narrow, source-linked workflow that drafts or classifies, rather than one that sends or deletes automatically.",
+          "type": "source_claim",
+          "evidence": [
+            {
+              "item_id": "feed:849c1b75f58f080d47c7e603",
+              "version_id": "4db87a90c2dc300949c1e3994c64751a7fc731fb9cc1ae42f2b1167e82b48dce",
+              "locator": {
+                "type": "text",
+                "quote": "start with drafting things, extracting things, classifying things, do not start with automatically sending replies, do not start with automatically deleting files",
+                "segment_id": null
+              }
+            },
+            {
+              "item_id": "youtube:XCmsCJcD0Kw",
+              "version_id": "cdf2165e5187d9286f30a7e19df7210cc82a7de41dd8071d5acb3fc7998796ce",
+              "locator": {
+                "type": "segment",
+                "quote": null,
+                "segment_id": "s00177"
+              }
+            },
+            {
+              "item_id": "feed:c7506eddf63043533f132661",
+              "version_id": "456f27b7529baa4ebdd5fc671074bb44bec587ce8b82870eab382332d7280e04",
+              "locator": {
+                "type": "text",
+                "quote": "Your job shifts from reading everything to reviewing flagged items and deciding what to do with them.",
+                "segment_id": null
+              }
+            }
+          ]
+        },
+        {
+          "claim_id": "03-c2",
+          "statement": "For competitor monitoring and internal intelligence, source-linked document retrieval and read-only APIs are the most actionable vendor capabilities in the current set of sources.",
+          "type": "inference",
+          "evidence": [
+            {
+              "item_id": "feed:1a7e895cd71cbee1d0747f59",
+              "version_id": "1c992807f67ad175d6ba475432796d6038f74b8da75127effc1e90425182466d",
+              "locator": {
+                "type": "text",
+                "quote": "You choose exactly what Crayon reads",
+                "segment_id": null
+              }
+            },
+            {
+              "item_id": "feed:32944883b9dff85a7148008d",
+              "version_id": "b192c0ca1da12bd242489506681f276f83473000ed4152d9795eac13ccc33ed1",
+              "locator": {
+                "type": "text",
+                "quote": "An admin creates a read-only API key in Crayon and can see live data come back right away.",
+                "segment_id": null
+              }
+            },
+            {
+              "item_id": "podcast:95a7820fb4dff4d6701109d0",
+              "version_id": "db56f4878ec9a2cf083fedbf093bbac38a9cdfef517ce02083e03dec97fcadaf",
+              "locator": {
+                "type": "segment",
+                "quote": null,
+                "segment_id": "s00045"
+              }
+            }
+          ]
+        },
+        {
+          "claim_id": "03-c3",
+          "statement": "The next thing to watch is whether vendors publish worked comparisons with named baselines and the full cost of setup, checking, and correction.",
+          "type": "inference",
+          "evidence": [
+            {
+              "item_id": "feed:849c1b75f58f080d47c7e603",
+              "version_id": "4db87a90c2dc300949c1e3994c64751a7fc731fb9cc1ae42f2b1167e82b48dce",
+              "locator": {
+                "type": "text",
+                "quote": "AI literacy requires both prompt fluency and the ability to critically assess outputs; frequent use does not imply skilled use.",
+                "segment_id": null
+              }
+            },
+            {
+              "item_id": "feed:c7506eddf63043533f132661",
+              "version_id": "456f27b7529baa4ebdd5fc671074bb44bec587ce8b82870eab382332d7280e04",
+              "locator": {
+                "type": "text",
+                "quote": "This process doesn't replace your editorial responsibility; it accelerates your path to a more reliable document.",
+                "segment_id": null
+              }
+            },
+            {
+              "item_id": "feed:cef868a2ca35f25b510b9dfc",
+              "version_id": "82238ba8d615ae707a3f14a0dd44a88fe0811f48e1b48173694842d2eca286ab",
+              "locator": {
+                "type": "text",
+                "quote": "it will turn off live internet access for all of its internal evaluations",
+                "segment_id": null
+              }
+            }
+          ]
+        },
+        {
+          "claim_id": "03-c4",
+          "statement": "Small-business teams should assume enterprise research examples will not transfer cleanly unless they can match permissions, data cleanliness, and review capacity.",
+          "type": "inference",
+          "evidence": [
+            {
+              "item_id": "feed:47caddd09131f10546842b2b",
+              "version_id": "91b96960ebd630839c6f5ec7697fbc7d6335a54de7117668d779ae465fe1e21d",
+              "locator": {
+                "type": "text",
+                "quote": "the comparison cannot separate the model’s contribution from that of the retrieval system",
+                "segment_id": null
+              }
+            },
+            {
+              "item_id": "youtube:XCmsCJcD0Kw",
+              "version_id": "cdf2165e5187d9286f30a7e19df7210cc82a7de41dd8071d5acb3fc7998796ce",
+              "locator": {
+                "type": "segment",
+                "quote": null,
+                "segment_id": "s00090"
+              }
+            },
+            {
+              "item_id": "feed:54c849e0b3cea3f17b20dfd0",
+              "version_id": "da1c161a51d71ac1c86e6063cc3187a9656765dc00085b5aed728c611f4ebdaa",
+              "locator": {
+                "type": "text",
+                "quote": "The more central the AI’s contribution, the stronger the reason to consider disclosure",
+                "segment_id": null
+              }
+            }
+          ]
+        },
+        {
+          "claim_id": "03-c5",
+          "statement": "A practical watch-next signal is whether AI tools can explain where answers came from and what was not searched, because that is what makes them usable for evidence work.",
+          "type": "inference",
+          "evidence": [
+            {
+              "item_id": "feed:47caddd09131f10546842b2b",
+              "version_id": "91b96960ebd630839c6f5ec7697fbc7d6335a54de7117668d779ae465fe1e21d",
+              "locator": {
+                "type": "text",
+                "quote": "An agentic experience must show the user which sources were searched and explain relevant gaps.",
+                "segment_id": null
+              }
+            },
+            {
+              "item_id": "feed:849c1b75f58f080d47c7e603",
+              "version_id": "4db87a90c2dc300949c1e3994c64751a7fc731fb9cc1ae42f2b1167e82b48dce",
+              "locator": {
+                "type": "text",
+                "quote": "Ask it where it's getting its information from.",
+                "segment_id": null
+              }
+            },
+            {
+              "item_id": "youtube:XCmsCJcD0Kw",
+              "version_id": "cdf2165e5187d9286f30a7e19df7210cc82a7de41dd8071d5acb3fc7998796ce",
+              "locator": {
+                "type": "segment",
+                "quote": null,
+                "segment_id": "s00127"
+              }
+            }
+          ]
+        },
+        {
+          "claim_id": "03-c6",
+          "statement": "For small-business customer-feedback and interview work, AI is most defensible when it helps organize and surface evidence, while humans keep ownership of interpretation.",
+          "type": "inference",
+          "evidence": [
+            {
+              "item_id": "feed:322af46ae21ad26443092c84",
+              "version_id": "9f30df8aae6955ccd9ebb00d720767e9ff808618a7cd4b3318a5ccefcb4bbe71",
+              "locator": {
+                "type": "text",
+                "quote": "AI tools have an obvious appeal for empathy mapping, because the method is labor-intensive",
+                "segment_id": null
+              }
+            },
+            {
+              "item_id": "feed:322af46ae21ad26443092c84",
+              "version_id": "9f30df8aae6955ccd9ebb00d720767e9ff808618a7cd4b3318a5ccefcb4bbe71",
+              "locator": {
+                "type": "text",
+                "quote": "Never rely on AI tools to perform all your analysis.",
+                "segment_id": null
+              }
+            },
+            {
+              "item_id": "feed:c7506eddf63043533f132661",
+              "version_id": "456f27b7529baa4ebdd5fc671074bb44bec587ce8b82870eab382332d7280e04",
+              "locator": {
+                "type": "text",
+                "quote": "Your job shifts from reading everything to reviewing flagged items and deciding what to do with them.",
+                "segment_id": null
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "error": ""
+}

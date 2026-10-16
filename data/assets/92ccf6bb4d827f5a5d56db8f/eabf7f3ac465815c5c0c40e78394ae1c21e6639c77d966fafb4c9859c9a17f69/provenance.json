@@ -1,0 +1,21 @@
+{
+  "item_id": "feed:b0a8086cf13c4b186b995202",
+  "source_id": "nngroup-written",
+  "publisher_id": "nielsen-norman-group",
+  "kind": "feed",
+  "title": "The New Big Ball of Mud: Why Agentic AI Systems Turn Fragile",
+  "url": "https://www.nngroup.com/articles/big-ball-of-mud-ai",
+  "published_at": "2026-10-02T17:00:00Z",
+  "retrieved_at": "2026-10-10T05:29:13.118013Z",
+  "media_url": null,
+  "native_id": "/articles/big-ball-of-mud-ai/?1790960400",
+  "underlying_id": "feed:b0a8086cf13c4b186b995202",
+  "original_publication_basis": "feed published field",
+  "transcript_url": null,
+  "transcript_type": null,
+  "download_hash": "ab1ed06dfcea3dce9eab683d68542a50b137ec5b6898d4c33afa80ae7d099c24",
+  "content_hash": "40bdc0b0c19326100947fe08d8ee285bd91df25cfa9c515c0b71ba2ad66b3f74",
+  "version_id": "eabf7f3ac465815c5c0c40e78394ae1c21e6639c77d966fafb4c9859c9a17f69",
+  "text_path": "data/assets/92ccf6bb4d827f5a5d56db8f/eabf7f3ac465815c5c0c40e78394ae1c21e6639c77d966fafb4c9859c9a17f69/text.txt",
+  "segments_path": null
+}

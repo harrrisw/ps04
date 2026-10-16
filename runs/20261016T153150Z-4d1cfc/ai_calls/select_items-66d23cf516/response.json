@@ -1,0 +1,40 @@
+{
+  "decisions": [
+    {
+      "item_id": "feed:1a7e895cd71cbee1d0747f59",
+      "version_id": "1c992807f67ad175d6ba475432796d6038f74b8da75127effc1e90425182466d",
+      "decision": "accept",
+      "reason": "Relevant to the brief because it introduces a new competitor-intel workflow for small teams: Crayon can ingest SharePoint docs into battlecards and links back to source files, which is directly about desk research and competitor monitoring. Credibility is limited to a vendor announcement, so the capability is attributed rather than independently verified; the piece provides no methods, evaluation, or comparison, and it is commercially motivated marketing. Uncertainty remains about accuracy, setup effort, and whether the feature materially saves time for small businesses, so it should be used as a capability signal, not proof of effectiveness. Potential cross-post/announcement-style duplication should be checked because it is a product-release blog post with no independent corroboration.",
+      "piece_ids": [
+        "01",
+        "02",
+        "03"
+      ]
+    },
+    {
+      "item_id": "feed:1ecee252a945db6d73a3083a",
+      "version_id": "323bd779e57fa897fb06ddc78b775183e3b49d4b3d57934a2a4567cb3d2a35a0",
+      "decision": "defer",
+      "reason": "Topically relevant because it discusses reducing AI cost and effort, which matters for budget-limited research workflows. However, credibility is weak for decision use: the post is a personal advice piece from a consultant/vendor with strong commercial incentives, and it offers no worked comparison, named baseline, documented costs, or reproducible method for the claimed savings. The core claim about using a model at a lower effort setting remains plausible but unverified, so the uncertainty is material; this is better treated as a hypothesis to test rather than a validated recommendation. Potential repeated underlying claim: similar cost/efficiency guidance appears in the other Christopher Penn item, suggesting the same source is recycling a general optimization theme rather than presenting independent evidence.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:2179bb7aa6f575143ecfb19d",
+      "version_id": "63d8746f2cd0b512f127209344f5ce216ff49e243f92dad04f4dee1e823f813c",
+      "decision": "defer",
+      "reason": "Relevant because it argues that small classifiers can handle high-volume labeling and sentiment-style tasks, which could affect customer-feedback analysis and survey/interview synthesis on a small-business budget. But the evidence is a first-person practitioner post with no benchmark, no dataset description, no baseline comparison, and no method for the claimed speed or accuracy benefits; the author also has commercial incentives and self-promotional context. The post is useful as an attributed workflow suggestion, yet it cannot support comparative effectiveness or cost claims, so the uncertainty is too high for acceptance. Flag as potentially overlapping with the other Christopher Penn post because both advance a similar efficiency narrative about smaller/cheaper AI settings.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:2c25b90b4d946f5465573b24",
+      "version_id": "3e683028db8f1ab63661c3b92cf399ce60e4a69befa825279869b322fe044ae7",
+      "decision": "accept",
+      "reason": "Strongly relevant: it is a recent, methods-oriented UX study about AI context libraries, which maps to practical research workflow design for small teams using AI tools on limited budgets. Credibility is better than a vendor announcement because it describes a study with participants, observed behaviors, and specific lessons, even though the excerpt still lacks full sample details and exact protocol in this passage. The uncertainty is that findings come from expert Claude users and may not generalize to small-business researchers, but the piece still offers inspectable, source-linked process guidance on maintaining, scoping, and organizing context. This is useful counterweight evidence to vendor claims because it shows where AI workflows fail in practice and what methods are needed to keep them reliable.",
+      "piece_ids": [
+        "01",
+        "02",
+        "03"
+      ]
+    }
+  ]
+}

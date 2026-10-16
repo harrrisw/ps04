@@ -1,0 +1,234 @@
+{
+  "previous_run": "20261016T042501Z-a1f14a",
+  "current_run": "20261016T043111Z-b61328",
+  "different_actual_dates": false,
+  "policy_changed": true,
+  "newly_eligible": [
+    {
+      "item_id": "feed:030b3769722abda28f42b4bf",
+      "title": "Get Boosted Before MAICON: How AI Marketers Can Stay Sharp at Fall Conferences"
+    },
+    {
+      "item_id": "feed:0d6c44b4136d0fce300ef42b",
+      "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police"
+    },
+    {
+      "item_id": "feed:0e39167190b4b8fa59dcb2c7",
+      "title": "How AI Will Actually End the World: The Hidden Danger of Cognitive Offloading and Unbounded Military AI"
+    },
+    {
+      "item_id": "feed:1895bf356a43e66631b4ca1d",
+      "title": "Your MAICON Field Guide: Everything to Know Before You Go"
+    },
+    {
+      "item_id": "feed:1a7e895cd71cbee1d0747f59",
+      "title": "SharePoint Integration: Turn Docs into Competitive Intel"
+    },
+    {
+      "item_id": "feed:1ecee252a945db6d73a3083a",
+      "title": "Stop Maxing Out Your AI: How to Save Money and Time with Smarter Settings"
+    },
+    {
+      "item_id": "feed:2179bb7aa6f575143ecfb19d",
+      "title": "Why Small AI Models Like Jev Are Replacing Frontier LLMs for Classification Tasks"
+    },
+    {
+      "item_id": "feed:2c25b90b4d946f5465573b24",
+      "title": "Context Libraries: How AI Power Users Manage Context Engineering"
+    },
+    {
+      "item_id": "feed:2e0f0e66d0123645439edc17",
+      "title": "Vita Coco & quantilope: Conquering The Market Through Consumer Consumption"
+    },
+    {
+      "item_id": "feed:2e19ca9487c9451754b6e5fd",
+      "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise"
+    },
+    {
+      "item_id": "feed:322af46ae21ad26443092c84",
+      "title": "Empathy Mapping: The First Step in Design Thinking"
+    },
+    {
+      "item_id": "feed:32944883b9dff85a7148008d",
+      "title": "Insights API Blog"
+    },
+    {
+      "item_id": "feed:353f11f42baad617b7387a62",
+      "title": "We can’t help treating AI like it’s human. But should we?"
+    },
+    {
+      "item_id": "feed:39b505a7ba06431b7105dcd2",
+      "title": "Master AI Visibility in 2026: The 3 Stages of GEO and Agentic Search"
+    },
+    {
+      "item_id": "feed:3bb2052fded1b227f2c8091a",
+      "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps"
+    },
+    {
+      "item_id": "feed:3dc6f0279abe1142a7abbedd",
+      "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch"
+    },
+    {
+      "item_id": "feed:3e4b2bb785365a0f4d2f5c33",
+      "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more"
+    },
+    {
+      "item_id": "feed:47caddd09131f10546842b2b",
+      "title": "The New Siri’s Biggest Strength Is Not Intelligence"
+    },
+    {
+      "item_id": "feed:48efe71c79575654d983f408",
+      "title": "a16z’s Olivia Moore on the state of consumer AI"
+    },
+    {
+      "item_id": "feed:4db68c2469ea7a1408d3b0cc",
+      "title": "Heads over hearts is dead: Why financial services brands must learn to be liked"
+    },
+    {
+      "item_id": "feed:50ace4c9fd0d401184f71554",
+      "title": "Supercharge AI Agents with Lexical-Semantic Fusion to Cut Costs and Boost Accuracy"
+    },
+    {
+      "item_id": "feed:50ef6ec07302679e7aa7d5d0",
+      "title": "Where tensions collide: Three new signals of value for brands"
+    },
+    {
+      "item_id": "feed:51cb8a799f9ac10833e347d2",
+      "title": "From the MAICON Stage to Your Podcast Feed"
+    },
+    {
+      "item_id": "feed:5249679bff53ff0ef61fb9fc",
+      "title": "Meta launches an open-weight AI model that runs on Macs"
+    },
+    {
+      "item_id": "feed:5287e3546947811570948bf7",
+      "title": "TechCrunch Disrupt 2026: Last day"
+    },
+    {
+      "item_id": "feed:532ec74f5c214f3259a765fe",
+      "title": "Danu Robotics’ fight to build a better recycling robot"
+    },
+    {
+      "item_id": "feed:544196d3339ee3487c9ed977",
+      "title": "Anthropic is letting METR researchers look under the hood with employee-level access"
+    },
+    {
+      "item_id": "feed:54c849e0b3cea3f17b20dfd0",
+      "title": "When Should You Disclose AI Use? The PACED Framework"
+    },
+    {
+      "item_id": "feed:59b9d94ff2c9ada3816bfcac",
+      "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?"
+    },
+    {
+      "item_id": "feed:61a8902882e1fbd021c4f0f8",
+      "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16"
+    },
+    {
+      "item_id": "feed:6ae2be6a27254cfe4127bbbf",
+      "title": "Google’s Universal Cart shopping tool launches in the US"
+    },
+    {
+      "item_id": "feed:72a535417aa3ffbf6b976a17",
+      "title": "AI agents are coming to Rivian’s cars"
+    },
+    {
+      "item_id": "feed:752965c8de66da66e5df2ad5",
+      "title": "7 Ways Competitive Enablement Boosts Intel Adoption"
+    },
+    {
+      "item_id": "feed:7d90f9bab075038406ac3af2",
+      "title": "How to Make Better AI Tools: Why Data Quality Is the Lever You Control Today"
+    },
+    {
+      "item_id": "feed:849c1b75f58f080d47c7e603",
+      "title": "How AI Works and How Users Think About It: Study Guide"
+    },
+    {
+      "item_id": "feed:9b5446bea79d40805fc10d3e",
+      "title": "Why Entity-Led Digital PR Is the New Path to AI Visibility"
+    },
+    {
+      "item_id": "feed:abee21cd43487c4410ade61e",
+      "title": "Almost Timely News: 🗞️ The Road to MAICON 2026 (2026-10-11)"
+    },
+    {
+      "item_id": "feed:b0a8086cf13c4b186b995202",
+      "title": "The New Big Ball of Mud: Why Agentic AI Systems Turn Fragile"
+    },
+    {
+      "item_id": "feed:b22689fdda57414e5b30cba0",
+      "title": "Amazon drops data center NDAs, and AI agents want your credit card"
+    },
+    {
+      "item_id": "feed:b3e89044c195d6f66141c957",
+      "title": "quantilope’s Mental Availability Norms Add a Contextual Layer to Brand Health Insights"
+    },
+    {
+      "item_id": "feed:b77c06d27f9c36f780a08714",
+      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off"
+    },
+    {
+      "item_id": "feed:be7d32557d6f2583c9fe2942",
+      "title": "Rethinking Work in the Age of AI and Agents"
+    },
+    {
+      "item_id": "feed:c7506eddf63043533f132661",
+      "title": "How to Use AI Agents to Fact-Check and Copy Edit Your Content"
+    },
+    {
+      "item_id": "feed:cd459d1a697b39bdaddeaa11",
+      "title": "Stop Buying AI Visibility Tools: Get Real SEO Data From Search Console Instead"
+    },
+    {
+      "item_id": "feed:cef868a2ca35f25b510b9dfc",
+      "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead"
+    },
+    {
+      "item_id": "feed:e1141e704ec8a0229aa812cc",
+      "title": "How to Pivot Your Workshop Agenda Overnight: Using AI and Audience Insights to Deliver Maximum Value"
+    },
+    {
+      "item_id": "feed:e3536a2078a19512bfe2a637",
+      "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website"
+    },
+    {
+      "item_id": "feed:e6965dd3c40f4c86dfd4360f",
+      "title": "Loyalty isn’t broken, but the rules have changed"
+    },
+    {
+      "item_id": "feed:ee82a3e5fba61499f9fff7d8",
+      "title": "Why AI Adaptation, Not Adoption, Is the Real Work Ahead"
+    },
+    {
+      "item_id": "feed:f072398f0cfdb133e7fbf93b",
+      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75"
+    },
+    {
+      "item_id": "feed:fdc58440adda72585d816c38",
+      "title": "Why mass brands need to ‘luxe up’"
+    },
+    {
+      "item_id": "podcast:95a7820fb4dff4d6701109d0",
+      "title": "182 - Vazen’s Charlotte Kiddle & Yasmin Ayoub Sanusi on Smarter Retail Data"
+    },
+    {
+      "item_id": "podcast:f74782bc5c344427a5c6c1ec",
+      "title": "181 - IIEX AI Recap: What’s Next for Research with Sarah Snudden"
+    },
+    {
+      "item_id": "youtube:X-JA9VVnUBs",
+      "title": "Ep. 245: OpenAI DevDay + Dots + Safety Crisis, Trump Renames AI & Anthropic Pre-Thanksgiving IPO"
+    },
+    {
+      "item_id": "youtube:XH1u09pL0Hk",
+      "title": "Ep. 246: AI Answers - Live from MAICON 2026: AGI, AI Costs, and the End of GPTs"
+    }
+  ],
+  "no_longer_eligible": [],
+  "changed_versions": [],
+  "editorial_changes": [],
+  "arguments_before": {},
+  "arguments_after": {},
+  "interpretation": "Compare reasons and evidence directly. New discovery is not necessarily a newly published development; policy and source-list changes can also change selections."
+}

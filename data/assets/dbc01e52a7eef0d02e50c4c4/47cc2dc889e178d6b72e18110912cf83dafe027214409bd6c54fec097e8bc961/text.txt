@@ -1,0 +1,1221 @@
+So I think tangibly for AGI, the way I think about it is
+when the model is roughly the equivalent
+of the B players on your team.
+So if we're talking to marketers
+and you look across a team of people on your staff
+and you say, okay, like these people do these 20 tasks
+and I'm gonna take Claude Opus 5.5
+or 6.1 Astro from OpenAI
+and I'm gonna give that AI those same 20 tasks.
+Is it on par with like an average person on your team?
+Welcome to AI Answers, a special Q&A series
+from the Artificial Intelligence Show.
+I'm Paul Raitzer, founder and CEO
+of Smarter X and Marketing AI Institute.
+Every time we host our live virtual events
+and online classes, we get dozens of great questions
+from business leaders and practitioners
+who are navigating this fast moving world of AI.
+But we never have enough time to get to all of them.
+So we created the AI Answers series
+to address more of these questions
+and share real-time insights into the topics
+and challenges professionals like you are facing.
+Whether you're just starting your AI journey
+or already putting it to work in your organization,
+these are the practical insights,
+use cases and strategies you need to grow smarter.
+Let's explore AI together.
+Welcome to episode 246 of the Artificial Intelligence Show.
+I'm your host Paul Raitzer, along with my co-host Mike Foote.
+We are for the second time in history,
+I think sitting at the same table doing this.
+Weird.
+Is this the second time?
+I think so.
+I think the last make on.
+So we are live at, well, not for you when you're listening
+to this, but we are recording this live at make on 2026.
+It is October 14th, about three ish in the afternoon.
+We just heard an insane keynote from Kevin Russe
+who just dropped the AGI Chronicles,
+a new book you absolutely have to go check out.
+He literally just left the main stage.
+He's gonna be signing books here shortly.
+So my brain is kind of like on overload.
+Mike, we're on, I mean, it's technically day one, I guess,
+for attendees, but this is day three for us.
+We did an AI council meeting on Monday,
+an AI for CMO Summit and workshops yesterday.
+Yes.
+And then.
+Opening Night Party.
+We did an opening night party at the rock hall,
+which apparently people shut down the rock hall.
+I don't know if anybody that's here live with us
+was part of that group,
+but apparently some of our attendees stayed
+past their welcome, but it's the rock hall, you know?
+You gotta be a little rebellious.
+Yeah, so we are here.
+It's been a pretty incredible week, but again, it's day one,
+but it feels like I've been here for at least a week right now.
+We stuff a bunch of amazing talks coming.
+We have Andrew Yang is actually about to go on stage
+in an hour or so.
+I have to leave here and go welcome Andrew to the stage.
+So yeah, a ton going on, but we figured,
+hey, what the hell?
+Let's record a live podcast while we're sitting here.
+So we are in this amazing new podcast studio
+and we have overlooking the exhibit hall.
+And we're gonna go through like an AI answers format,
+it sounds like Mike.
+You're filling in for Kathy on the AI answers.
+I am, I am.
+I feel like Kathy needs to sub in here,
+but yeah, I'll do my best.
+I'll live up to her.
+And this is dropping tomorrow.
+Thursday the 15th, right?
+Sounds like it is happening tomorrow.
+Okay.
+So you're gonna be maybe listening to this
+while we were here at the final day of Maycon 2026.
+All right, with that, I'm gonna stop talking
+and turn it over to Mike and he'll get a guide us through.
+Awesome.
+So thanks, Paul.
+Glad to have everyone in the live audience here
+that folks can't see at home,
+but super cool to be here doing this from Maycon.
+Like Paul, you mentioned we're doing AI answers.
+And what we've had is our audience submit questions.
+People are attending Maycon, submit questions.
+Claire and our team did a great job pulling those together.
+So I took a look at them and selected a handful
+that I think would be awesome to chat through.
+And I definitely have not seen these
+because honestly, I wasn't even sure what we were doing
+when I came up here.
+Yeah.
+This is unfiltered.
+Raw.
+Let's go.
+All right.
+So to kick things off,
+this first question is for both of us actually.
+So the question goes, Paul and Mike,
+what has been the standout insight or concept you've picked up
+at Maycon so far that has challenged your thinking
+or has confirmed a hunt you have
+about the direction of AI in the next couple of years?
+You're going first?
+I'll go first if you want.
+So so far, I have been,
+I would say have challenged my thinking
+about what folks need from AI education.
+So I have gotten to sit now in our council meeting
+with some very advanced marketing and AI leaders.
+I've taught a workshop to an incredible audience,
+but many different levels of AI literacy in the group.
+And then just hearing how people are approaching AI
+in their sessions on stage,
+hearing where companies are at as interviewing Craig Carmas
+and at Good Karma Sports this morning on stage.
+CEO.
+CEO of Good Karma.
+And hearing just the diversity of journeys
+makes me challenge a lot of my own thinking
+about how we as an organization at Smarter X
+need to be meeting people where they are
+and how to actually get to bring them along to the next level
+and what that looks like when it comes to AI education.
+So I don't know if I'm overturning anything I thought before,
+but I'm thinking a lot deeper about,
+I don't know if it's just a beginner intermediate advanced journey.
+I'm thinking about a lot more nuance,
+a lot more granularity of what the AI education journey looks
+like I think.
+I'm sure that kind of hurts my brain right now.
+Yeah, I don't know, like I,
+there's one really cool thing I've seen,
+which is I've had conversations at least three of them
+where it was someone who was here last year
+who was trying to figure out a kind of get the transformation
+going for say their marketing team
+who is now either in the head of AI transformation
+for their organization or about to become.
+And so what it's shown me is in these lot of big companies
+we talked about this idea of like you just become
+the change agent, like be the person who's proactive.
+And what we're actually starting to hear is it's working.
+It's like the people, whether you're in marketing
+or ops or whatever who just goes and figures this out,
+then when everyone else, including the C-suite realizes
+we don't know what we're doing, who's doing it,
+it doesn't matter if you were a marketing associate
+two years ago, it's like you're the one
+that actually knows it, you're now in charge of this
+and let's go find five other people like you.
+Ty, good karma.
+They told that story kind of around Ty
+where it's like he heard Craig say,
+hey, we're going all in on AI.
+And Ty's like, all right, let's go.
+And all of a sudden, Ty's like in this role
+where he's having a massive impact across the organization.
+So I think that was kind of cool.
+Just to like, you know, every year we come back
+and we hear these stories about the impact,
+not, I don't think about like the impact we've had.
+It's the impact the community has had
+where people get together, they collaborate,
+they get inspired by each other, they go to all these talks.
+And then they leave and they go do something
+and a year back, later they come back and it's like,
+yeah, like, I'm in this dream job,
+like we created this role for me.
+And so I think it's just, it's encouraging
+because it shows that we really can create
+these new career paths, you know, as a business world.
+Not saying we, smarter X, but we have this ability
+to reimagine like what we can do
+and the people who are proactive
+are gonna be on the frontiers of it
+and have really cool opportunities.
+Yeah, that's a really good point.
+It makes me think of several people, yeah,
+I've talked to who are just in these roles
+that like frankly do not exist on a job board right now
+that are incredible opportunity.
+Okay, next question.
+How do you keep up with AI without feeling overwhelmed?
+How do you do it without burning out?
+Are there any specific tips or strategies you use?
+Any boundaries you have to draw to kind of stay sane?
+Yeah, I mean, I think like for me,
+I've become pretty disciplined just about my not non-AI time.
+Like I definitely spend a lot of like ambient time thinking
+about AI scrolling, you know, my AI feed on X
+is where the vast majority of my information comes from
+for better or for worse,
+but it's like a highly curated list of probably 400 or 500 people.
+And so I monitor that all the time.
+A lot of times on walks or going to the gym or in the car,
+I'm listening to podcasts and you just never know
+when you're going to hear that one episode
+that triggers something.
+It's either like I have to have that person
+as a speaker at Macon, like I'm always on the lookout
+for those kinds of things.
+Or it's just like reinforcing something that,
+you know, I'll send a mic,
+but we've got to talk about this.
+Like this, it's just time to deal with this big topic.
+So I feel like part of my like role right now
+is to try and like connect the dots
+and just, you know, pay attention all times.
+But then I don't have any hesitation to be like,
+I'm just done for today.
+Like I'm going to go home and I'm going to like walk up
+and meet my daughter from school
+or I'm going to just spend Saturday with my family
+and I'm not going to open the computer.
+And I think I've just gotten at peace with myself
+that we're so productive all the time.
+I mean, you and I is a good example.
+Like when you truly infuse AI into your life
+and into your work,
+you're just insanely productive.
+And I think you have to just accept
+that sometimes you've made enough of an impact.
+And like it's okay to disconnect for a little while.
+So I would say it's much more of a mindset
+and a mental thing than it is like some,
+here's the exact like workflow I follow
+to not do a thing.
+It really is just that mental permission for yourself
+to be okay.
+Like I've learned enough, I've done enough.
+That being said, like I'm exhausted last night.
+Like I'm, you know, on my deathbed this morning
+and I'm still scanning X
+and putting things in the podcast sandbox.
+Like it's just like your mind like is wired to just,
+what did I miss today?
+What's important to talk about?
+Yeah.
+You know, I talked to someone last night
+and this morning about kind of the concept
+of running your own race, right?
+And I try to remind myself of that
+to avoid feeling overwhelmed.
+Like someone was telling me the elaborate story
+really great about how they had changed their career,
+their business by applying AI to their particular industry.
+They were seen as like an authority in their field now on it
+and we're teaching around it, speaking around it.
+And they were like, yeah, but like,
+that's just in my little corner of the world.
+And this, I won't name any specifics.
+It was a huge industry.
+It was like a significant industry.
+And they were like, oh yeah, but the speakers here
+are doing this with that.
+You know, they're using Muse or Instinct
+or dots or whatever the flavor of the week is.
+And I was like, all that matters is like,
+did you transform your business, your life, your work?
+It doesn't, you don't get extra points
+for how many different types of agents you are.
+It's amazing if you're doing that.
+If you're geeked out about it, use a million of them.
+But like, I have to remind myself of that too.
+It's like, you don't get extra points for it.
+You get extra points for the outcomes.
+And it's like, you're not a header behind
+if you're getting the outcomes.
+Yeah, and I mean, I guess it's a weird way
+we're like getting into the loss of the year,
+but like mine was the mindset.
+And I think that is like as an entrepreneur,
+I used to deal with this all the time.
+Like people are like, well, how many employees do you have?
+What's your revenue wrong?
+And it's like, well, I don't know.
+Like, why don't we talk to each about how we're doing
+and like what the struggles are?
+Like, why does it matter?
+Like, why do we measure my success as an entrepreneur
+just purely on how many employees I've gotten to hire?
+Like, but that was the thing.
+It was always this like, you felt like someone was trying
+to compare your ability to grow faster than it was like,
+what do we care?
+Like we're both entrepreneurs, let's just help each other.
+And I feel like AI is in a similar boat.
+It's like, I'm not using Muse.
+I've been connected to all my stuff.
+And so you almost feel like inferior.
+Yeah, exactly.
+You don't have to feel that way to your point.
+It's just like, what is it helping you?
+Is what you're doing making a difference in your business?
+Don't worry about what they're doing.
+Like go to a talk if you get inspired, cool.
+But like I've said, that's probably as far.
+Like you're doing all kinds of stuff with ages.
+Like, I have no idea what you're doing.
+Like, I wouldn't even know how to do the things you're explaining.
+And like, that's cool.
+Cause that's your thing.
+And like, I'm doing my thing and it works out really well.
+Right.
+All right.
+This next question, the listener said,
+I keep coming back to the idea that how we learn
+is not how we live.
+We can all be taught the same methodology or SOP,
+but how it's applied differs from person to person.
+So with AI, how do you get someone from this stage of like,
+I can follow the demo or framework or steps
+to I can actually figure out how to use this in my own work?
+I feel like teaching workshops is like 100%.
+I've been like struggling.
+How do you like, you can give someone the plan on paper,
+or even in a company, how does it actually get translated
+to their work?
+Like, how do you see that balance?
+Yeah, this is why I talk a lot about the personalized journeys.
+Like, and not just, hey, here's 10 courses you should take.
+And we suggest starting with these five.
+Like, that's not personalization.
+Personalization is like, well, where are you at today
+with your understanding?
+What is your like sentiment towards AI?
+Did you hate it?
+Like, are you afraid of it taking your job?
+And so from an organizational perspective,
+until we understand where people are really at,
+it's hard to diagnose or prescribe
+what a journey should look like for them
+and how we should adapt to their behaviors,
+their goals and their careers, things like that.
+So, yeah, I don't know.
+That's why I think like the personalization becomes so critical.
+And so few organizations are doing it really well right now.
+But that's like, we're trying to enable that
+a little bit better, I guess.
+Kind of related to that, it was funny,
+I was having a conversation with our friend, Jeff Culliton,
+who has helped me sub in these everywhere
+on the makeup stage.
+And it reminds me of just how personalized AI
+can be because we're both similar in the sense
+where it's hilarious how bad of detail-oriented people we are.
+So we both have given Claude and Codex rules
+about how to talk to us and work with us
+because otherwise it can be a disaster.
+And I was felt so seen because Jeff was like,
+yeah, I've got this whole working doc with Claude
+about all the things I'm bad at.
+And I was like, so do I, this is great.
+My point here being that mine is gonna look completely opposite
+to someone like I would suspect like Ashley
+who runs our events is extremely detail-oriented.
+So the way you even work with AI,
+there's no one-size-fits-all is kind of the point.
+It's so personalized and you have the beauty of it.
+You can now personalize these tools
+to exactly how your brain works.
+So it's kind of what they're getting as like
+personalized learning journeys,
+getting this hyper-personalized to how you work,
+how you live your life, how you approach your work
+and your job, it's critical.
+In my workshop, the AI Co-executive,
+we were building an AI assistant
+and that was one of the elements.
+There was like 13 components to it.
+And one of the items within it was the behavior and style.
+Like tell it how you want it to talk to you.
+And it's a really good point
+because these things come out with some inherent traits
+that are given to it by the AI labs.
+They're trained to be specific way,
+talk to you in a specific way,
+but increasingly you can tailor how you want it to communicate.
+And so some people may need it to be stern with them.
+It's like, listen, just be super direct with me
+and other people are like, you're gonna hurt my feelings.
+Like just give it to me a little bit softer,
+like explain it in a different way
+or I like to see it from a visual perspective
+versus text, so build it in charts for me.
+And so I think even that,
+like the personalization of how we experience the AI systems
+becomes really important.
+For sure.
+All right, next up.
+Someone asked AI models can already do impressive work,
+but in my experience, the blockers are everything
+around them, permissions, usage limits,
+organizational trust, et cetera.
+All these stories I hear are about either a CEO going all in
+or a small business owner who can accept
+the risks and like move fast
+and get around some of these organizational challenges.
+But the question is, what about everyone
+who's in that messy middle?
+How do you get capable AI adopted inside an ordinary
+organization when things like access budgets and trust
+still have to be worked out?
+That's like 95% of people problem.
+Yeah, I think this is when we talk about the whole change
+management idea around this, all of that has to be factored in.
+So if IT is a blocker, legal is a blocker,
+procurement is a blocker, HR, whatever,
+you have to have all those parties at the table.
+You have to understand what is it going to take to actually
+get people to drive adoption where they have a great example
+we talked about, which is we have Claude,
+and we recently connected it to our CRM.
+So until Claude was connected to our CRM,
+it was dramatically limiting what we could do with it.
+As soon as we gave permission to do that,
+it opened up thousands, probably, of use cases,
+almost immediately for marketing, sales, customer success.
+And so that's why I'm just a big believer,
+it has to be driven from a change management perspective
+and it has to be driven from the top.
+You have to have buy in from the leadership
+so that if Mike were to come to me,
+or someone else knows, they're going to say,
+hey, really, I have this idea,
+I think it can generate millions of dollars
+or make this impact on our AI Academy members,
+but I'm not allowed to do this.
+Like IT is not letting me, you have to be able to go
+to someone who can say, all right, IT, just step aside.
+Like, this is an enormously valuable thing,
+we have enough guardrails in place,
+we have to accept a little bit of risk,
+we're just going to do this.
+So for us, we're a small enough entity,
+we're obviously, it's a CEO driven environment for AI
+that you and I can just have a chat,
+like hang up from the podcast and be like,
+hey, we got this idea, we should do this.
+And I'll be like, all right, hold on,
+I'll message Tracy and tell her,
+and then Tracy, our COO will contact legal
+and say, Paul's going to do this,
+we have like 48 hours and then legal figures out
+how to make it work.
+I'm very curious about your answer to this next one,
+how do you make an AI transformation plan or roadmap
+that you can actually stick to
+when a new breakthrough could change what's possible next one?
+Yeah, I don't know, I mean, I think like,
+it's kind of like making a staffing decision
+when the model might be able to do what that person does,
+you know, a month from now.
+I think the best we can all do is have some sense of,
+I used to call these like AGI Horizon teams,
+like I remember in like 2023,
+I was talking with a bunch of big SaaS companies
+and I told them like, build an AGI Horizon team,
+like build a team whose job it is
+to look at the next 12 to 18 months of model advancements
+and say, here's what we think they're going to be capable
+of doing and here's the trickle down of what that means
+to our staffing, to our product, to the services we offer.
+And so I think that that's really the best way to do it
+is you just have to have some reasonable conviction
+about what the near-term future looks like
+by staying close to these model advancements
+and then have an organization that is flexible based on it.
+Now, we've all experienced, well,
+anybody who is building around open AI has experienced
+this recently, I think the best example is GPTs going away.
+We were having this conversation in our AI for CMO summit
+and I know even during the council meeting on Monday
+because there were people in the room
+who built their marketing departments around GPTs,
+spent the last two years running hackathons to build GPTs
+and now we have two months to figure out what do we do?
+The entire marketing team now runs on GPTs.
+So that's a good example and I think maybe we can use that
+as a retrospect and go back and say,
+okay, if we weren't ready for that kind of change,
+what do we have to do now moving forward
+to be ready for that kind of change?
+Because they're going to keep changing the names
+of the things, they're going to keep introducing new tools
+like dots and maybe it comes down to having e-vowls
+of when they make a change, here's the ways we're using it.
+How does this new model affect it?
+What are these new user interfaces?
+Like I was talking to somebody last night,
+one of the parties who was using sites from opening AI
+and I was like, well, what is it?
+Like I came out like a week ago or two weeks ago,
+I haven't even tried it.
+And it's just like instead of asking it
+to build an HTML file, which is something we commonly do
+is like, hey, turn this into an HTML file,
+you can publish the HTML file and share it with people.
+Like, oh, OK, well, that's pretty cool.
+That might change the way we do something.
+So I don't know, for us, it's about this dynamic learning
+idea, like we're just going to push a lot more
+into like regular weekly monthly cadence of what
+is new in these models and platforms, what does it mean to us,
+how does it affect our work?
+And then we're going to try and bring that to people
+through AI Academy and make it more like real time learning.
+Yeah, one thing that was really cool, too,
+that I tried to do in my workshop on Google Gemini,
+but you could apply this to any model
+is there was a whole segment on using this and approaching
+this more as a true strategic thought partner
+and going through like a measured kind of process-driven
+query or conversation with the tool,
+because so many people just write a few words
+or don't converse back and forth or don't
+have a strategic discussion with it,
+with really smart questions, and get insights from it
+the same as they would as like a consultant or advisor.
+Whatever my point here is that it doesn't matter tomorrow
+if everything about Gemini changes,
+that concept is really, really important.
+So even focusing also on some of these more evergreen
+strategies, like our use case model,
+the problem-based model, innovation model.
+Which I created in like 2018.
+We still teach based on it.
+Still extremely relevant.
+That kind of thing is also really invaluable, I think.
+Teaching framework.
+Yeah, and a really good example of this is
+some mics doing this Gemini.
+What do we call them?
+It's a business, Gemini for the work.
+Yeah, Gemini for business, yeah.
+And so last week, Google holds an event like a week,
+not even a week ago from, they were,
+and what do they call it, Gemini?
+What's the new agent harness thing?
+It's technically just called Gemini,
+which if this is confusing to you, join the club.
+It's like a harness now.
+It's like kind of an agent,
+take harness of the thing.
+Yeah, so they granted Gemini as something else.
+And so that was six days before Mike's workshop
+or four days before it.
+So I'm messaging Mike like,
+hey, you're gonna change the workshop based on this?
+And then during your workshop yesterday,
+if I'm not mistaken, they released Argon model.
+Yes.
+But Gemini for Argon became like, well, good.
+So it's like, even in a real time learning environment
+Mike's doing a live workshop,
+you have in this four day span,
+two things that could affect
+what he's gonna teach in the workshop.
+All right, this next question is fascinating.
+Very relevant, I think to several people listening.
+What, if anything, is going to happen to the cost
+of Claude or Chachie BT or insert whatever tool here,
+but those two, especially once anthropic and open AI
+go public and they have to start turning a profit,
+are we gonna see them start jacking up prices?
+How's that gonna work?
+They can't.
+The price of the, so the frontier model today,
+so they take like an Opus 5.5,
+I think is that that's probably their most part.
+Is fable, I don't know, fable or do we want to?
+I think we're gonna Opus 5.
+All right, so let's say Opus 5.5 is it.
+It's been a busy week.
+It's gonna cost 10x less in 12 months.
+And so at some point, like you're gonna say
+as an organization like, okay, this model is good enough.
+Like I said this publicly on the podcast,
+like I thought Sonnet 4.6, like if you told me
+this is the last model I'm ever going to have,
+I would have been ecstatic.
+And I'm like, great, like we'll just ride with this.
+We'll build the entire company around this model.
+And I'm sure that model costs 5x less
+than it did when it first came out.
+Cause now they're on whatever Sonnet 5.6, something.
+So I think the vast majority of use cases for businesses,
+it's just gonna get cheaper
+as long as you're willing to use
+the previous state of the art model.
+And so that's gonna, the competitive nature
+of these labs is going to force that to happen.
+They're not gonna just keep making it more expensive.
+So what they're gonna do is they have to sell
+the more advanced model to the companies
+that need the really, really advanced reasoning.
+But the key for them is they actually don't care.
+They just need to infuse agents
+and get everyone in companies using these things.
+So if you think about how,
+I mean, anthropic and open air,
+both gonna IPO somewhere between one and two trillion dollars.
+And yet when you go around any major enterprise,
+there are almost zero of them
+that have full-scale adoption of these tools
+to where everyone is infusing
+into their workflow every day.
+So the amount of untapped market potential
+for these models is so vast
+that even if you're paying 10x less per token to do it,
+you're, you almost have an infinite need for tokens
+as you expand the use of it across the company.
+I don't think they care.
+Like, and plus open weight models are gonna be comparable.
+So they have to accept that
+and they have to like think
+about what the business model is going to be.
+And anthropic's IPO is gonna be a really interesting look
+into what really is the business model?
+Like what is sustainable here?
+What are the most that these companies have?
+Somewhat related to it's been interesting,
+especially this year at make on everyone
+is obviously using things like muse or Grockbot
+or instinct, get docked.
+And I realize we're still in the time
+where the model powering that matters,
+but half the conversation,
+someone's like, well, Grockbot did this
+so that I don't even know what model Grock is on.
+I think they're using Opus now.
+I think they're using the tropics models.
+But the point is I don't know.
+Yeah.
+And so it's more like if you,
+it's almost possibly at least at the personal agent level
+going to kind of get abstracted away
+where it's like you kind of don't care.
+It's just like my agent works and stuff.
+Yeah, I'm fairly confident that like this time
+next year at make on the average user's experience,
+you will not be choosing your model.
+Like I think they've known for a long time
+that model choice is basically a developer thing.
+And that if you give this to any director,
+VP at any normal company and say,
+Hey, here's your co-pilot.
+Here's your 12 models you can choose from
+when you're writing your emails or building your proposals
+or doing whatever, they're like, okay,
+like I'll just use whatever it's turned on to.
+I don't even know.
+Like sometimes I'll go into chat GPT
+and it's like 6.1 soul, light, medium, high,
+like I don't even know the difference anymore.
+So I don't know, I think the model choice
+is just like an artifact of, you know, four years ago
+that for some reason they haven't just ripped the Band-Aid off.
+My guess is, I don't know if Google's going to do it first.
+Like somebody's going to do it first
+where you just don't know what you're using
+and they're going to route it based on your prompt.
+This next question is phrased,
+how should we be thinking about what AI can do
+versus what AI should do?
+So for instance, this is relevant to you
+just because AI can write a book
+doesn't mean it should write a book.
+How do you decide what's worth doing yourself
+even when AI could do it for you?
+Yeah, I don't know that there's like one answer to this.
+So the writing example is always a good one that I use
+because like for me writing is thinking,
+it's how I process information.
+It's like when I prepare for the podcast,
+it's why I actually read every article,
+listen to every podcast, watch every video myself
+because doing the work itself is the whole point of it.
+My ability to sit here and just answer
+whatever question you throw is because for like 15 years,
+I've been studying the field
+and reading all of these things and doing the work.
+If I'd spent 15 years asking Claude, had it existed,
+to just summarize everything for me
+and then spit out some bullet points
+that I could say and regurgitate to you,
+like you've lost the point of doing the work.
+So I think some of it is just like,
+well, why are you doing the work in the first place?
+Is the purpose literally just to create an output
+that's like information gathering?
+So I think I use the example in my workshop of,
+for AI score, which we just put into public beta this week,
+I needed to create the product FAQ page.
+Nobody cares if like I actually wrote the product
+FAQ page, like from an authenticity perspective,
+they're not saying like,
+I don't think Paul actually wrote this page.
+One, my name's not even honest.
+You don't even know that I'm the one who created it.
+Two, the whole purpose of that
+is to provide information to someone
+if they have a question about how the product works.
+It is not to hear my personal opinion
+or our perspective on something.
+So in that instance, it's like,
+that's an obvious use case.
+It's like, and it's how I did it.
+I literally went into Claude,
+my seven month project I've had with it,
+building AI score and said,
+take all seven months of context of our work together,
+developing this technology,
+take the public facing marketing page
+that we already created together.
+And here's 80 questions the team asked me
+about how the product works
+and what things people might want.
+Turn it into a product FAQ page
+as though you were writing a best in class
+like SAS product FAQ page
+and make it super approachable tone.
+Boom, nailed it.
+Like, and it in like 10 to 30 seconds
+wrote something that I wouldn't have been able
+to write in 10 hours.
+And so I think it's just like getting good
+at that judgment of when is something
+fine to just use AI because the expectation
+is I'm just trying to get information
+and facts and something from a brand, for example,
+versus I'm reading a book that I'm assuming you wrote
+that you put thought into this.
+Like these are actually your words
+then the expectation is that it's authentic.
+And so, yeah, again, there's no perfect answer
+but I think it's important that organizations
+develop these frameworks and teach people
+on these frameworks because especially
+with younger employees, they're not gonna have
+that judgment yet of when is it okay to turn this in.
+So my boss asked me to come up with a strategic document
+and I was like, yeah, Claude's better right than he's the me.
+So you just have Claude right and you hand it in
+and the boss says, like, come on in,
+let's talk about this document just created.
+Like, I don't agree with these three points.
+Why did you pick this?
+And the person's like, I have no idea.
+Claude wrote it.
+Like, I don't know why we picked it.
+You've lost the point.
+The point was to do the work.
+The point was to like be able to stand behind
+something you've submitted.
+It's funny you mentioned that example,
+someone we know who leave unnamed was telling me
+and laughing as they told me a story
+about how one of their employees did exactly that thing
+except they didn't even get to the interview question
+because this person knew immediately this 20 page document
+was very clearly immediately out of the mouth of Claude
+and like not touched it all by a human.
+And so they said, hey, give me five bullet points
+about these 20 pages.
+And they're like, about what?
+And like, literally anything in it.
+Any single thing.
+And they're like, what do you mean?
+And then they couldn't do it.
+And they're like, all right, I need you to go redo this.
+And like which page, all of them, you know.
+And so this point is this stuff is happening already.
+I don't know where that line is,
+but clearly some line needs.
+It has to be established and it has to be part of the culture.
+Yes.
+Okay, next one.
+What does AGI, artificial general intelligence,
+really look like to the regular person?
+Some people say we have AGI now,
+but AI still struggles with tons of basic things.
+Like, what would AGI actually look like
+in an ordinary person's life?
+Like, how would we even know the difference?
+So going back to how we started this,
+Kevin Ruiz's new book, The AGI Chronicles,
+since I just sat through his talk,
+he actually went through this pretty entertaining thing
+about feel the AGI and what the hell is it actually.
+So feel the AGI is sort of like,
+open AI in particular uses.
+And he was actually saying that Ilya Sutskiver,
+who was a co-founder of open AI,
+used to go around to people's desks
+and just say, like, yo to like feel the AGI.
+Like, and that was it.
+And so Kevin interviewed Ilya and he's like,
+what do you mean when you say feel the AGI?
+Like, what is AGI and how would we know
+if we're feeling the AGI?
+And so he told this hilarious story about like Ilya,
+who's basically like a philosopher
+when he answers questions.
+He's like, oh, you know, it's kind of like when you see that,
+you're zoomed in on Earth, like someone on a beach or whatever.
+And then all of a sudden you like zoomed out to the universe
+and you hear Bach playing in the background
+and then he, like that was the answer.
+And Kevin's like, I don't know what the hell that means.
+Like, what are you talking about?
+So I think tangibly for AGI,
+the way I think about it is
+when the model is roughly the equivalent
+of the B players on your team.
+It's kind of like the simplest, most tangible,
+I've thought about it recently.
+So if we're talking to marketers
+and you look across a team of people on your staff
+and you say, okay, like these people do these 20 tasks
+and I'm gonna take Claude Opus 5.5
+or 6.1 Astro from OpenAI
+and I'm gonna give that AI those same 20 tasks.
+Is it on par with like an average person on your team?
+Under that definition, we had AGI like a year ago.
+Like, there are very few tasks that most of us do
+where it's not already like B player level
+in terms of quality, which means might need some edits,
+might need a second draft.
+You might need to iterate on the prompts,
+but like it's generally capable of creating the work product
+that an average person across pretty much
+any department would create.
+So I don't, I mean, Kevin showed
+like the different definitions from OpenAI and anthropic,
+which is like a data center of geniuses
+is like Dario's infamous way of explaining it.
+He showed Google DeepMind and it like no one agrees,
+but that's how I always thought about it.
+It's the most tangible is equated to workers
+and it's like, is it on par with your average worker?
+And then the next level of artificial super intelligence
+is, is it better than your best worker?
+Like, is it pretty much just superhuman?
+And I'm, I said on stage, I think this morning in my keynote,
+I'm kind of under the assumption
+that if you just fast forward 12 months,
+just assume the model that you've given it the right data
+that you're using the model in an intelligent way,
+like you know how to work with these models,
+the models we're going to have in 12 months
+are going to be a player level and beyond it.
+Pretty much every task you would do
+in any department of a company.
+And so like, I have a hard time accepting
+that that isn't AGI in terms of what it was originally meant
+to be like, I think if you rewound 10, 20 years ago
+and you gave AI researchers who were thinking about AGI
+then today's models, they would be like, this is beyond it.
+Like, this is so obviously super intelligence.
+And yet here we are just debating a term
+that's become, you know, basically meaning.
+Yeah, it seems like that yardstick is just moving too
+because like, I even think about going on a walk
+and using voice mode specifically with codecs,
+voice mode alone, but like voice mode with like codecs
+where my computer back home is creating files,
+doing stuff for me on the internet.
+People probably say this about personal agents too,
+but like being able to talk and say,
+go do these three things for me.
+Do this to that, this to this slide deck.
+Go send this email, it's like, hey, I'm working on that.
+Great, okay, it's all done, what's next?
+Like, if you sent that recording to somebody 20 years ago,
+they would be like, this is in sci-fi movies this way.
+Like it feels like we're basically there.
+Well, the key there is like, you did that
+for a work product and it nailed it.
+But then like two minutes later, you're like, oh no,
+I forgot to do my taxes.
+Like, could you go in and like pull everything I need
+out of these files and fill out the PDF for me
+and have it ready for me when I get home?
+And oh, I forgot I was supposed to send
+an anniversary gift to my wife.
+Could you like go, how is that not?
+Like what we initially thought AGI would be.
+It's a single system that can now do basically
+anything you ask it to do.
+Okay, next question, if AI can solve
+the world's most advanced math problems,
+like it's been recently doing with the Millennium Prize,
+why can't it solve also the problem of unemployment
+caused by AI?
+So, and this is a big question, but obviously
+we cannot just click a button and solve unemployment,
+but the point here is could AI help us solve problems
+like this that it might also end up creating?
+The labs think the answer is yes.
+Like the labs believe that if we just get to the end game,
+call it the end game, it might be the beginning
+of the game.
+If we get to the point where we truly have super intelligence,
+then it'll fix all of this.
+So if we go back like five years ago,
+all the big AI labs, the cloud companies,
+the tech companies, everyone's gonna be like
+net zero emissions.
+And so it was all about like we're gonna save
+the environment, we're gonna like get rid of all the carbon
+that we're putting out into the world.
+At some point they're like, wait a second,
+we actually have to build like 10,000 data centers
+that are actually going to increase emissions.
+But don't worry about it
+because we're gonna build super intelligence.
+And then by 2030, it'll actually figure out how to fix
+all the environmental stuff that we're gonna create.
+And so a lot of what they're doing is truly,
+it'll figure it out for us once we throw enough compute
+at it and once it gets good enough.
+So the mathematics stuff that it's been solving is in part
+because you can prove if it's right or not.
+So there is like an obvious, did this work or did this not
+in terms of having an answer,
+it's why you can train it in games a lot of times
+because there's a score, there's like a way to keep track.
+When you try and solve something messy,
+like what do we do with economic policy
+and what do we do with jobs,
+there is no like, we can work really hard
+and throw 100,000 GPUs at it for a week
+and get to the right answer.
+We don't know what the right answer is.
+We still actually have to test it
+and put it out into society and see if it works.
+So like Andrew Yang today at the closing keynote,
+I think he's gonna talk about some of the things
+around like universal basic income
+or universal high income as one way that we can address
+the fact that people might not have jobs.
+That doesn't solve the fact that I also now have no purpose
+in my life, like okay, thanks for my $5,000 a month
+but like I still have to go and look at my family
+and be like, I don't have, I can't find work for two years.
+Like, so it's just a really messy thing
+that covers a lot of areas of society
+and that's why you have other ideas
+like universal basic services.
+Like, okay, let's provide healthcare to people too.
+And so there's a lack of really good ideas
+that are worth testing other than,
+let's just give people money to be alive.
+So I think that one you need the will from the government
+to want to solve this problem,
+to accept that there is an emerging problem,
+to own that problem and to say we are going
+to proactively look for solution.
+We are not in a current political climate
+that wants to admit that AI has any impact on jobs at all.
+David Sacks, who's kind of a voice
+of the administration unofficially these days,
+just go look at his ex-feed from the last four months
+and see how many times he's blasted people
+for implying that AI will take jobs.
+So, and that is the position largely of the administration.
+So at least in the United States,
+we are unwilling to acknowledge that it could go wrong
+because it would cost votes.
+So it's just like first you have to have the will to do it,
+then you actually have to bring the minds together
+who are willing to ask the hard questions
+to start trying to solve it.
+And that's what worries me is like we're just,
+we're not even out of the starting gate doing that.
+And it's why I wanted Andrew here
+because he's one of the few people,
+whether you agree with his position or not,
+who has actually taken a position of here's something
+we could try.
+And that's just lacking from politicians
+and from AI lab leaders.
+They're not even offering real ideas.
+It's just, it'll just be abundant and it'll be awesome.
+And we'll see what happens when we get there.
+Okay, next up, how, as people progress through their career,
+how do you see them traveling with AI?
+Like how much of what they do with AI
+will they be able to take from position to position?
+Legally none.
+So I mean, if you think about employment law
+and the contracts we all sign when we work for organizations,
+if you create something that intellectual property
+belongs to your employer.
+So if you're an AI forward, you know,
+director within a company and you build
+or you're an orchestrator, like you're building all this stuff,
+you're devising all these strategies
+and you build all these agents
+and all these workflows and everything
+and you own none of it when you walk out the door.
+So that's, it's tricky.
+But that also exists within like your likeness
+when you're at that company.
+So I mean, we could do this with you and I.
+It's like who owns our likeness to,
+if they wanted to turn it into like avatars.
+Like if they decide, hey, Paul Mike,
+it was great having you humans,
+but like we're actually going to spin up
+some digital versions of you guys and people ideas.
+Yeah, I know.
+We already have the baby versions of us.
+I don't know what episode that was.
+I'm already, I already know this is going to result in something.
+Yes, yeah, sorry.
+But we've addressed this actually in our contracts.
+So, you know, again, it's about being a forward
+and thinking this stuff through
+and this is why you need your attorneys.
+It's why you need to have AI forward leaders
+who understand to ask these questions.
+Yeah, it's messy, but the short answer is nothing.
+Nothing you create for a company
+do you own when you leave that company.
+You know, somewhat related to this was a follow on question here
+of like, have you seen companies consider
+how to retrain or integrate people
+who come from a company using different models?
+Like, is there a big adjustment?
+I never really totally thought about this,
+but I can see where this is coming from.
+Is there a big adjustment for employees
+coming from a copilot shop to a clawed vice versa, et cetera?
+I don't know. I haven't heard of that.
+I mean, I think it would just fall generally
+under the overall training as a whole.
+And my experience has been, and Mike,
+you can jump in on this one.
+If you know how to talk to AI assistants,
+and if you know how to build AI agents
+if you're that far along,
+you can go model the model or AI system AI system
+pretty easily.
+Like, it's still prompting the same.
+Now, if you're stuck in a, like,
+a neutered version of copilot within an enterprise
+that's turned off all, like, the most valuable features,
+you're screwed either way.
+Like, it doesn't really matter.
+And that's the biggest concern.
+So if I was an AI Ford employee
+that I was making a move somewhere else,
+and let's say I was really used to clawed
+and I was going to have to use copilot,
+I would be more interested in, like,
+what am I going to be allowed to do with it?
+Do I have a limitation on my tokens?
+Because once you're used to using these tools
+as part of your work,
+that's going to be the biggest problem.
+If you now go to a company that limits your ability
+to use these tools,
+I think it's going to be a lot more of the other way
+where people who are trying to be the innovators
+within organizations who are using clawed
+on their personal account at nights and weekends,
+they're going to jump ship and go to a company
+that's going to welcome them in
+and allow them to use those tools.
+Yeah, I think that's exactly it.
+It's less about the nuances of each model most of the time
+and what you're actually allowed to do or is not allowed to do.
+I think for especially some top talent out there
+is going to become, if not one of the top thing,
+because we're very close to,
+if you're using these tools and embedded with them day
+and day out, you can't live without them for one,
+but two, it's like the reason you're excited
+about your work.
+So giving that up is more than just something
+like a comp consideration or a career.
+Also, it's like a limiting career move,
+I would argue with how fast things move,
+you're hamstringing yourself if you can't do enough,
+whatever that looks like for you.
+Yeah, I mean, if I was interviewing for a job,
+I would say, can you share your AI policy with me
+or at least like the general frameworks of what's allowed?
+Do you have responsibly AI principles?
+How are those kind of taught within the culture?
+What tools will I have access to?
+Are there limits?
+Do you have a connect?
+I'm looking for a job in marketing.
+Is your AI connected to your CRM or like,
+do you guys not, do you wall that off?
+Those are the things I would be asking
+as an AI forward practitioner.
+It's like, I would want to know,
+am I going to be able to do the job you're asking me to do?
+All right, we have time for maybe one more question here.
+Now I want to kind of come back to this
+because we did talk about it a little bit on the podcast,
+but it's come up so many times already at make on.
+Someone said, I trained people how to create GPTs in chat GPT.
+Now that GPTs are gone or going away,
+I don't know what to use now.
+Instead, what do you suggest as a replacement?
+So what they're suggesting are plugins
+for replacement to GPTs.
+My experience is that does not work.
+Like I don't, it was a one-off experience
+and it was not good.
+So it's certainly not as intuitive
+as I think they intended it to be.
+I think it depends on what your goal with it is.
+So if it is something you want to publicly share,
+then you're probably moving more
+in the direction of something like sites or something.
+I don't know, if it's an internal tool
+that you're going to use as an AI assistant,
+you might be building it as a skill or a project.
+If it's a repetitive action,
+you might be turning it into an agent.
+Like, I think we're just moving into the realm
+where it just depends on what the actual usage is.
+And you're probably going to need to audit
+any GPTs you've built and said,
+what is it used for, who uses it?
+And then map it to what is the best thing to turn it into
+based on what OpenAI is currently offering
+that they might change in three months.
+Like I don't know.
+Yeah, it's interesting.
+It's almost like, you start to see a decision tree kind of.
+Unfortunately.
+Yeah, right.
+It's interesting.
+When I talk to people, it's like,
+if you're just using a GPT for yourself
+and you're not that far along
+and you just want like repeatable instructions,
+go learn how to build skills and talk with AI
+about how to do it.
+That's going to become important in the future.
+But in the meantime, just put the instructions
+into a project and use that yourself.
+It's going to be roughly the same thing.
+It's not perfect, but it's the closest analog.
+Skills is the ideally, I think,
+the path you start moving down
+and they're not hard to build.
+They're hard to get right,
+but that's going to require a lot of iteration anyway.
+And then, yeah, if you're getting into,
+you need people publicly to use this, good luck.
+Because that's a huge thing
+that they pulled the rug out from under you.
+Maybe it's an app.
+Maybe it's projects you could share with your team,
+but then they can also edit the instructions.
+So it's like, you don't want that.
+Right.
+So who knows where that is.
+Yeah, it's like they took a really simple,
+intuitive thing that anybody could be taught.
+And we've taught it.
+We're in workshops teaching people who are just starting an AI,
+how to build GPTs.
+And it's like, oh, this is brilliant.
+Like I get it, I see it.
+And now it's just like, just blow it up.
+Like the one thing that was super into it.
+Yeah. Yeah.
+All right, Paul, that comes to the end of our time,
+end of our questions.
+Appreciate you being game to answer all these,
+especially I'm sure you're getting tons of questions.
+I have tons of speaking to do at make on,
+but it's been an awesome event so far.
+Thanks for doing this.
+Yeah, thanks everyone who's been here.
+I know we have a bunch of podcast listeners here.
+We're actually, when this is airing,
+we're probably going to be in our live lunch
+that we talked about on the podcast.
+So now we got a bunch of podcast listeners that joined us.
+We're going to do kind of an exclusive lunch Q&A
+with them tomorrow, which will be today for you all.
+But yeah, thanks everybody for listening.
+Thanks for being here if you're here.
+And if you're not here, we'd love to see you at make on 2027,
+which I would imagine we'll be announcing the dates for
+if we haven't already.
+Did we announce the dates?
+I don't think so.
+Okay, I won't announce them yet.
+Yeah, I know.
+I'm pretty sure it's next October though.
+All right, thanks everyone.
+Thanks, Paul.
+Thanks for listening to AI Answers.
+To keep learning, visit smarterx.ai,
+where you'll find on-demand courses, upcoming classes,
+and practical resources to guide your AI journey.
+And if you've got a question for a future episode,
+we'd love to hear it.
+That's it for now.
+Continue exploring and keep asking great questions about AI.

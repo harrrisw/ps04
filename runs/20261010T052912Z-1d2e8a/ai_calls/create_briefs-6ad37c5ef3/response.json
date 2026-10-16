@@ -1,0 +1,317 @@
+{
+  "briefs": [
+    {
+      "piece_id": "01",
+      "title": "Connected research tools make evidence access easier—and oversight more important",
+      "question": "What changed, and which developments matter to a small business gathering competitor and market evidence?",
+      "argument": "The useful development is access to research material inside AI workflows, illustrated by Crayon’s announced Insights API. Small businesses should assess that capability alongside newly documented maintenance and oversight constraints. Easier access merits a bounded pilot; it does not establish affordable, dependable autonomous research.",
+      "synthesis": "Crayon describes access to underlying competitor material, Nielsen Norman Group reports the ongoing work required to maintain connected context, and TechCrunch reports Anthropic’s suspension of internet access for internal evaluations. Together, these sources suggest evaluating the entire evidence workflow: retrieval, source inspection, connection maintenance, and human control. They address different settings and do not constitute a comparative tool test.",
+      "limitations": "Crayon is selling the announced capability; pricing, eligibility, geographic coverage, accuracy, and small-business implementation effort are unspecified. NN/g’s expert-user study omits sample size and geography in the supplied text. Anthropic’s internal evaluation incidents are vendor disclosures reported by TechCrunch, not observed failure rates for deployed research products. Enterprise data infrastructure and frontier-lab evaluations do not transfer directly to a small firm’s staffing, documents, or budget. These English-language sources leave non-English markets untested and lack direct accounts from small-business users and customers whose data is analyzed. No customer-data handling or consent conclusion is supported.",
+      "claims": [
+        {
+          "claim_id": "01-C01",
+          "statement": "Crayon says its Insights API can return underlying text and source links alongside competitor-insight metadata; this is an attributed commercial capability claim.",
+          "type": "source_claim",
+          "evidence": [
+            {
+              "item_id": "feed:32944883b9dff85a7148008d",
+              "version_id": "b192c0ca1da12bd242489506681f276f83473000ed4152d9795eac13ccc33ed1",
+              "locator": {
+                "type": "text",
+                "quote": "Ask for more and you get the full text and source link",
+                "segment_id": null
+              }
+            }
+          ]
+        },
+        {
+          "claim_id": "01-C02",
+          "statement": "NN/g reports that its study participants spent more effort maintaining context libraries than crafting prompts, with files becoming stale or missing.",
+          "type": "source_claim",
+          "evidence": [
+            {
+              "item_id": "feed:2c25b90b4d946f5465573b24",
+              "version_id": "3e683028db8f1ab63661c3b92cf399ce60e4a69befa825279869b322fe044ae7",
+              "locator": {
+                "type": "text",
+                "quote": "Our participants spent more effort engineering context libraries than crafting prompts (most of which they casually dictated). Yet each had improvised a bespoke process, files went stale or missing",
+                "segment_id": null
+              }
+            }
+          ]
+        },
+        {
+          "claim_id": "01-C03",
+          "statement": "TechCrunch reports that Anthropic said it suspended live internet access for internal evaluations pending confidence in monitoring and controlling its agents; this establishes a reported disclosure, not independent verification of the incidents.",
+          "type": "reported_fact",
+          "evidence": [
+            {
+              "item_id": "feed:cef868a2ca35f25b510b9dfc",
+              "version_id": "82238ba8d615ae707a3f14a0dd44a88fe0811f48e1b48173694842d2eca286ab",
+              "locator": {
+                "type": "text",
+                "quote": "However, the lab still said it had “turned off live internet access” for “all our internal evaluations” until it is certain it can monitor and control its agents.",
+                "segment_id": null
+              }
+            }
+          ]
+        },
+        {
+          "claim_id": "01-C04",
+          "statement": "A small-business competitor-research pilot should test whether source access remains usable over repeated runs, including connection repairs and verification effort; an available source link alone cannot establish a sustainable workflow.",
+          "type": "inference",
+          "evidence": [
+            {
+              "item_id": "feed:32944883b9dff85a7148008d",
+              "version_id": "b192c0ca1da12bd242489506681f276f83473000ed4152d9795eac13ccc33ed1",
+              "locator": {
+                "type": "text",
+                "quote": "Ask for more and you get the full text and source link",
+                "segment_id": null
+              }
+            },
+            {
+              "item_id": "feed:2c25b90b4d946f5465573b24",
+              "version_id": "3e683028db8f1ab63661c3b92cf399ce60e4a69befa825279869b322fe044ae7",
+              "locator": {
+                "type": "text",
+                "quote": "His Todoist connection kept expiring, cutting Claude off from his to-do list until he reconnected it by hand.",
+                "segment_id": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "02",
+      "title": "Traceable outputs withstand scrutiny better than broad performance promises",
+      "question": "Which claims are supported, and where do interpretations of AI research value remain in tension?",
+      "argument": "The evidence supports specific practices and attributed observations: supply classification context, preserve links to original research, and inspect agent-proposed corrections. It does not establish comparative accuracy, lower total cost, or reliable time savings. The central tension is between reducing manual work and retaining enough review to detect unsupported conclusions.",
+      "synthesis": "Christopher Penn’s classification account places data preparation with the user. NN/g’s empathy-mapping guidance requires findings to remain connected to research artifacts. Marketing AI Institute describes source-linked review while acknowledging that multiple agents can share an error. These perspectives converge on inspectable evidence, while leaving the net benefit of automation unresolved. Their different tasks and methods provide no basis for manufacturing a disagreement about which tool performs best.",
+      "limitations": "Penn promotes consulting and training; his personal tuning experience supplies no benchmark, sample, or measured cost comparison. Marketing AI Institute promotes commercial education and supplies no controlled evaluation of its review workflow. NN/g offers methodological guidance, not proof that AI improves synthesis. A counterargument is that review itself consumes scarce time; these sources cannot determine whether a small business saves time after preparation and checking. Enterprise-scale document volume and specialist expertise may differ substantially from a small firm’s data and staffing. Geographic applicability is unspecified, non-English performance is untested, and direct small-business users, unsuccessful deployments, and analyzed customers remain missing perspectives. Synthetic outputs cannot substitute for observed customer evidence.",
+      "claims": [
+        {
+          "claim_id": "02-C01",
+          "statement": "Penn says lightweight classification requires users to supply the data and context; his account does not establish that these models generally replace frontier models.",
+          "type": "source_claim",
+          "evidence": [
+            {
+              "item_id": "feed:2179bb7aa6f575143ecfb19d",
+              "version_id": "63d8746f2cd0b512f127209344f5ce216ff49e243f92dad04f4dee1e823f813c",
+              "locator": {
+                "type": "text",
+                "quote": "you have to provide the data and context. It’s not going to do that for you.",
+                "segment_id": null
+              }
+            }
+          ]
+        },
+        {
+          "claim_id": "02-C02",
+          "statement": "NN/g recommends tracing every empathy-map note to a specific research artifact and labeling unsupported notes as assumptions.",
+          "type": "source_claim",
+          "evidence": [
+            {
+              "item_id": "feed:322af46ae21ad26443092c84",
+              "version_id": "9f30df8aae6955ccd9ebb00d720767e9ff808618a7cd4b3318a5ccefcb4bbe71",
+              "locator": {
+                "type": "text",
+                "quote": "Every sticky note on the finished map should trace back to a specific research artifact — a line in a transcript, a moment in a session recording, an observation note. If you can’t point to the source, the note is an assumption, and it should be labeled as one.",
+                "segment_id": null
+              }
+            }
+          ]
+        },
+        {
+          "claim_id": "02-C03",
+          "statement": "Marketing AI Institute explicitly cautions that agreement between reviewing agents does not guarantee correctness.",
+          "type": "source_claim",
+          "evidence": [
+            {
+              "item_id": "feed:c7506eddf63043533f132661",
+              "version_id": "456f27b7529baa4ebdd5fc671074bb44bec587ce8b82870eab382332d7280e04",
+              "locator": {
+                "type": "text",
+                "quote": "AI agents can be wrong. And multiple agents can agree on the same wrong answer.",
+                "segment_id": null
+              }
+            }
+          ]
+        },
+        {
+          "claim_id": "02-C04",
+          "statement": "For interview or survey synthesis, checking an AI-generated finding against its original research artifact is a stronger acceptance rule than relying on agreement between agents.",
+          "type": "inference",
+          "evidence": [
+            {
+              "item_id": "feed:322af46ae21ad26443092c84",
+              "version_id": "9f30df8aae6955ccd9ebb00d720767e9ff808618a7cd4b3318a5ccefcb4bbe71",
+              "locator": {
+                "type": "text",
+                "quote": "Can I trace this sticky note back to actual research evidence?",
+                "segment_id": null
+              }
+            },
+            {
+              "item_id": "feed:c7506eddf63043533f132661",
+              "version_id": "456f27b7529baa4ebdd5fc671074bb44bec587ce8b82870eab382332d7280e04",
+              "locator": {
+                "type": "text",
+                "quote": "Your confidence should come from the evidence that the agents surface and the reading you do yourself, not from the fact that AI said everything checked out.",
+                "segment_id": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "piece_id": "03",
+      "title": "Pilot one research decision, then measure the work needed to trust it",
+      "question": "How should a small business pilot AI research, and what evidence should it watch for next?",
+      "argument": "Start with one bounded question and retained research material. Require traceable findings, name the person responsible for interpretation, and record preparation, checking, and maintenance effort against the current manual process. Judge whether the pilot improves decision support before expanding automation.",
+      "synthesis": "NN/g supplies a traceability rule for customer synthesis. Greenbook’s WEX interview separates research value from whether a recommendation is implemented. Insight Platforms’ interview with Mpho Mpofu adds the need to budget for language and cultural interpretation. Together, they support a pilot that evaluates evidence quality and contextual fit alongside effort. Watch next for independently evaluated small-business deployments with disclosed baselines, total costs, source coverage, multilingual checks, and documented failures; the supplied sources do not provide those results.",
+      "limitations": "This pilot design is an editorial inference, not a tested intervention. WEX is a global enterprise with specialist roles; its value framework can inform questions but cannot establish small-business ROI or staffing requirements. Mpofu’s South African professional perspective concerns varied African markets and must not be generalized into a single regional customer profile. Her book, research business, and training interests, Greenbook’s conference promotion, and Insight Platforms’ directory and conference business are relevant incentives. These English-language interviews do not directly represent non-English customers or small-business AI deployments. Documented unsuccessful small-business deployments and customers’ views on data use are missing. Customer-data handling and consent require separate evidence. Media passages need human audio verification before publication, and truncated excerpts support no conclusions about unseen content.",
+      "claims": [
+        {
+          "claim_id": "03-C01",
+          "statement": "NN/g distinguishes using AI to organize existing research evidence from asking it to generate evidence that the researcher does not possess.",
+          "type": "source_claim",
+          "evidence": [
+            {
+              "item_id": "feed:322af46ae21ad26443092c84",
+              "version_id": "9f30df8aae6955ccd9ebb00d720767e9ff808618a7cd4b3318a5ccefcb4bbe71",
+              "locator": {
+                "type": "text",
+                "quote": "asking AI to organize evidence you already have is very different from asking it to generate evidence you don’t have.",
+                "segment_id": null
+              }
+            }
+          ]
+        },
+        {
+          "claim_id": "03-C02",
+          "statement": "In Greenbook’s interview, WEX practitioner Nadine van Rooyen argues that an insight’s success should not be measured solely by whether its recommendation is implemented.",
+          "type": "source_claim",
+          "evidence": [
+            {
+              "item_id": "podcast:d829c12f888603de39b8f1bd",
+              "version_id": "f45b04fbcd14d17195ad00dcc085f80a5a7763866974abdd2dd053751c125474",
+              "locator": {
+                "type": "segment",
+                "quote": null,
+                "segment_id": "s00156"
+              }
+            },
+            {
+              "item_id": "podcast:d829c12f888603de39b8f1bd",
+              "version_id": "f45b04fbcd14d17195ad00dcc085f80a5a7763866974abdd2dd053751c125474",
+              "locator": {
+                "type": "segment",
+                "quote": null,
+                "segment_id": "s00157"
+              }
+            }
+          ]
+        },
+        {
+          "claim_id": "03-C03",
+          "statement": "In Insight Platforms’ interview, Mpofu calls for research budgets to accommodate language and cultural context.",
+          "type": "source_claim",
+          "evidence": [
+            {
+              "item_id": "youtube:Z4Coq_GIcpo",
+              "version_id": "8d9dce70ceb9a10dffe7ea6f0223c8788829e28c0b3cd6e39438748f45cf52cc",
+              "locator": {
+                "type": "segment",
+                "quote": null,
+                "segment_id": "s00132"
+              }
+            },
+            {
+              "item_id": "youtube:Z4Coq_GIcpo",
+              "version_id": "8d9dce70ceb9a10dffe7ea6f0223c8788829e28c0b3cd6e39438748f45cf52cc",
+              "locator": {
+                "type": "segment",
+                "quote": null,
+                "segment_id": "s00133"
+              }
+            },
+            {
+              "item_id": "youtube:Z4Coq_GIcpo",
+              "version_id": "8d9dce70ceb9a10dffe7ea6f0223c8788829e28c0b3cd6e39438748f45cf52cc",
+              "locator": {
+                "type": "segment",
+                "quote": null,
+                "segment_id": "s00134"
+              }
+            }
+          ]
+        },
+        {
+          "claim_id": "03-C04",
+          "statement": "A small-business customer-synthesis pilot should assess traceability and local interpretive fit before treating its outputs as decision evidence; producing a recommendation or getting it implemented is insufficient by itself.",
+          "type": "inference",
+          "evidence": [
+            {
+              "item_id": "feed:322af46ae21ad26443092c84",
+              "version_id": "9f30df8aae6955ccd9ebb00d720767e9ff808618a7cd4b3318a5ccefcb4bbe71",
+              "locator": {
+                "type": "text",
+                "quote": "If you can’t point to the source, the note is an assumption, and it should be labeled as one.",
+                "segment_id": null
+              }
+            },
+            {
+              "item_id": "podcast:d829c12f888603de39b8f1bd",
+              "version_id": "f45b04fbcd14d17195ad00dcc085f80a5a7763866974abdd2dd053751c125474",
+              "locator": {
+                "type": "segment",
+                "quote": null,
+                "segment_id": "s00157"
+              }
+            },
+            {
+              "item_id": "youtube:Z4Coq_GIcpo",
+              "version_id": "8d9dce70ceb9a10dffe7ea6f0223c8788829e28c0b3cd6e39438748f45cf52cc",
+              "locator": {
+                "type": "segment",
+                "quote": null,
+                "segment_id": "s00355"
+              }
+            },
+            {
+              "item_id": "youtube:Z4Coq_GIcpo",
+              "version_id": "8d9dce70ceb9a10dffe7ea6f0223c8788829e28c0b3cd6e39438748f45cf52cc",
+              "locator": {
+                "type": "segment",
+                "quote": null,
+                "segment_id": "s00358"
+              }
+            },
+            {
+              "item_id": "youtube:Z4Coq_GIcpo",
+              "version_id": "8d9dce70ceb9a10dffe7ea6f0223c8788829e28c0b3cd6e39438748f45cf52cc",
+              "locator": {
+                "type": "segment",
+                "quote": null,
+                "segment_id": "s00359"
+              }
+            },
+            {
+              "item_id": "youtube:Z4Coq_GIcpo",
+              "version_id": "8d9dce70ceb9a10dffe7ea6f0223c8788829e28c0b3cd6e39438748f45cf52cc",
+              "locator": {
+                "type": "segment",
+                "quote": null,
+                "segment_id": "s00360"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "error": ""
+}

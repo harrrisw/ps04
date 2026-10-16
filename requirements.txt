@@ -1,0 +1,5 @@
+feedparser>=6.0.11,<7
+trafilatura>=2.0,<3
+yt-dlp[default,deno,curl-cffi]>=2026.8.19
+jsonschema>=4.23,<5
+

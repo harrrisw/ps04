@@ -1,0 +1,37 @@
+{
+  "decisions": [
+    {
+      "item_id": "feed:849c1b75f58f080d47c7e603",
+      "version_id": "4db87a90c2dc300949c1e3994c64751a7fc731fb9cc1ae42f2b1167e82b48dce",
+      "decision": "defer",
+      "reason": "Relevant to AI literacy and user mental models, but it is a broad study guide/list of NN/g articles rather than a single inspectable research claim about small-business research workflows. Credibility is limited here because the item provides no methods, sample, baseline, or direct evidence beyond descriptive summaries, and the page is partly a content directory. Uncertainty remains about which cited resources are substantive and whether any geographic or task-specific findings apply; no commercial incentive is evident, but the evidence is too thin to support an accept.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:9b5446bea79d40805fc10d3e",
+      "version_id": "12085ef4368b03fd065341d410d51aefb0a32bdf79b2842509dee8208e25e1dc",
+      "decision": "reject",
+      "reason": "This is a marketing/MAICON promotional article about digital PR and AI visibility, not evidence about AI research tools for customer, competitor, or market research on a small-business budget. Its claims rely on an agency executive’s attributed assertions and proprietary data with no disclosed methods, sample, baseline, or evaluation, so credibility is weak for decision-making. Commercial incentive is material because the piece promotes a conference session and the author’s agency expertise, and it does not supply inspectable research relevant to the brief.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:abee21cd43487c4410ade61e",
+      "version_id": "49a0671efb2afbc69de5a2ca4a1438773dde50a1d72f65cd57af3846a8139a99",
+      "decision": "accept",
+      "reason": "Relevant as a practitioner account of building AI-assisted workflows for ingesting, transcribing, summarizing, and searching notes, recordings, and documents, which maps to desk research and synthesis tasks for small teams. Credibility is moderate as a first-person newsletter from a known practitioner, but the useful claims are explicitly attributed experience rather than universal performance claims; it also names concrete tools and workflow steps. Uncertainty remains because it is not a comparative study and does not measure accuracy, cost, or error rates, so the accepted use is limited to a qualified source_claim rather than proof of effectiveness. This also appears to overlap in theme with the NN/g agentic-systems piece, so it should be treated as a potential cross-posted/duplicative underlying claim about agent workflows.",
+      "piece_ids": [
+        "03"
+      ]
+    },
+    {
+      "item_id": "feed:b0a8086cf13c4b186b995202",
+      "version_id": "eabf7f3ac465815c5c0c40e78394ae1c21e6639c77d966fafb4c9859c9a17f69",
+      "decision": "accept",
+      "reason": "Relevant because it gives an inspectable framework for why agentic AI systems become fragile and how to manage context libraries, which is directly useful when evaluating whether AI research tools remain reliable enough for small-business research workflows. Credibility is relatively strong for a UX/research publication and the article includes concrete observed patterns, participant quotes, and named context types, though it still lacks full methodological detail in this excerpt and should not be treated as evidence of effectiveness or ROI. Uncertainty remains about sample specifics and generalizability, but the piece offers a practical, method-oriented caution that can inform pilot design; it also overlaps with the Christopher Penn newsletter on agent skills, so flag as a repeated underlying claim about agentic workflow complexity.",
+      "piece_ids": [
+        "02",
+        "03"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,183 @@
+1
+00:00:00,000 --> 00:00:05,296
+If you run research for a small business, AI offers an appealing possibility:
+
+2
+00:00:05,296 --> 00:00:10,592
+less time sorting customer comments, organizing interviews, or checking a research memo. But
+
+3
+00:00:10,592 --> 00:00:15,888
+what makes the output reliable enough to guide a decision? Across three sources,
+
+4
+00:00:15,888 --> 00:00:21,184
+the strongest case is for practices that keep evidence inspectable. These sources do
+
+5
+00:00:21,184 --> 00:00:26,480
+not establish comparative accuracy, lower total cost, or reliable time savings. The question
+
+6
+00:00:26,480 --> 00:00:31,776
+is whether automation leaves you with useful findings—and enough time to check them.
+
+7
+00:00:33,776 --> 00:00:39,360
+Christopher Penn describes lightweight models that classify text into categories, scores, or yes-or-no
+
+8
+00:00:39,360 --> 00:00:44,943
+answers. For customer feedback, that could mean assigning comments to categories you define.
+
+9
+00:00:44,943 --> 00:00:50,527
+His key constraint: you supply the data and context. The model does not
+
+10
+00:00:50,527 --> 00:00:56,110
+gather that foundation for you. Penn reports better accuracy after tuning his own
+
+11
+00:00:56,110 --> 00:01:01,694
+model on his own data. That is an attributed personal account, without a
+
+12
+00:01:01,694 --> 00:01:07,278
+benchmark, sample, or measured cost comparison. It does not establish that small models
+
+13
+00:01:07,278 --> 00:01:12,861
+generally replace frontier models. Penn also promotes consulting and training, which matters when
+
+14
+00:01:12,861 --> 00:01:14,150
+weighing his claims.
+
+15
+00:01:16,150 --> 00:01:21,612
+Nielsen Norman Group provides a useful rule for empathy maps: every note should
+
+16
+00:01:21,612 --> 00:01:27,074
+connect to a specific research artifact, such as a transcript passage, recording moment,
+
+17
+00:01:27,074 --> 00:01:32,536
+or observation. Without that connection, label the note as an assumption. That distinction
+
+18
+00:01:32,536 --> 00:01:37,998
+matters when AI helps organize interviews or open-ended survey answers. A plausible summary
+
+19
+00:01:37,998 --> 00:01:43,460
+can still outrun the underlying evidence. Keep the connection between the proposed theme
+
+20
+00:01:43,460 --> 00:01:48,923
+and the material supporting it. This is methodological guidance. It is not evidence
+
+21
+00:01:48,923 --> 00:01:54,385
+that AI improves synthesis, and generated customer statements cannot substitute for observed customer
+
+22
+00:01:54,385 --> 00:01:54,805
+evidence.
+
+23
+00:01:56,805 --> 00:02:02,012
+Marketing AI Institute describes using agents to flag claims, suggest corrections, and supply
+
+24
+00:02:02,012 --> 00:02:07,218
+source links for human review. It also explicitly warns that multiple agents can
+
+25
+00:02:07,218 --> 00:02:12,425
+agree on the same wrong answer. So a second AI agreeing with the
+
+26
+00:02:12,425 --> 00:02:17,631
+first is not a substitute for inspecting the source. A proposed correction still
+
+27
+00:02:17,631 --> 00:02:22,838
+needs checking. The Institute reports time savings, but supplies no controlled evaluation of
+
+28
+00:02:22,838 --> 00:02:28,044
+this workflow. It also promotes commercial education. Treat the account as a workflow
+
+29
+00:02:28,044 --> 00:02:32,049
+to consider, with benefits that remain unmeasured for your business.
+
+30
+00:02:34,049 --> 00:02:39,711
+Together, these sources support an editorial inference: for interview or survey synthesis, checking
+
+31
+00:02:39,711 --> 00:02:45,374
+a finding against its original research artifact is a stronger acceptance rule than
+
+32
+00:02:45,374 --> 00:02:51,036
+relying on agreement between agents. This is our synthesis, not a measured comparison
+
+33
+00:02:51,036 --> 00:02:56,698
+of tools. For a small pilot, choose one bounded task. Define the categories
+
+34
+00:02:56,698 --> 00:03:02,360
+or research question, retain source references, and inspect the proposed findings before using
+
+35
+00:03:02,360 --> 00:03:08,022
+them. Track preparation and review effort alongside processing time. Watch for unsupported conclusions
+
+36
+00:03:08,022 --> 00:03:13,684
+and missed exceptions. This is a proposed evaluation approach, not a tested result.
+
+37
+00:03:13,684 --> 00:03:19,347
+The counterargument deserves attention: checking the work consumes scarce time too. These sources
+
+38
+00:03:19,347 --> 00:03:25,009
+cannot tell us whether the complete workflow saves time for a small firm.
+
+39
+00:03:27,009 --> 00:03:33,084
+Transfer to your business remains uncertain. Document volume, specialist expertise, and staffing may
+
+40
+00:03:33,084 --> 00:03:39,158
+differ substantially. Geographic applicability is unspecified, and non-English performance is untested. Direct small-business
+
+41
+00:03:39,158 --> 00:03:45,233
+users, unsuccessful deployments, and the customers whose data gets analyzed are missing perspectives.
+
+42
+00:03:45,233 --> 00:03:51,308
+Nothing here establishes that disclosing customer data to a tool is harmless. The
+
+43
+00:03:51,308 --> 00:03:57,383
+practical takeaway: pilot a specific task where you can inspect the evidence, then
+
+44
+00:03:57,383 --> 00:04:03,458
+judge the complete effort. Traceability gives you something concrete to check; broad performance
+
+45
+00:04:03,458 --> 00:04:09,533
+promises still need validation. Codex assisted with drafting this script from the cited
+
+46
+00:04:09,533 --> 00:04:10,000
+sources.

@@ -1,0 +1,48 @@
+{
+  "stage": "write_video_scripts",
+  "status": "completed",
+  "input_count": 3,
+  "output_count": 3,
+  "started_at": "2026-10-16T15:48:59.128238Z",
+  "finished_at": "2026-10-16T15:49:41.299214Z",
+  "tools": [
+    "python",
+    "parley",
+    "parley",
+    "parley"
+  ],
+  "models": [
+    "gpt-5.4-mini",
+    "gpt-5.4-mini",
+    "gpt-5.4-mini",
+    "gpt-5.4-mini",
+    "gpt-5.4-mini",
+    "gpt-5.4-mini"
+  ],
+  "cost_usd": null,
+  "cost_is_estimate": false,
+  "errors": [],
+  "notes": [
+    "MIT Parley account credits; dollar cost not reported. No automatic retries.",
+    "MIT Parley account credits; dollar cost not reported. No automatic retries.",
+    "MIT Parley account credits; dollar cost not reported. No automatic retries."
+  ],
+  "usage": [
+    {
+      "prompt_tokens": 28109,
+      "completion_tokens": 1671,
+      "total_tokens": 29780
+    },
+    {
+      "prompt_tokens": 24880,
+      "completion_tokens": 1908,
+      "total_tokens": 35236
+    },
+    {
+      "prompt_tokens": 34372,
+      "completion_tokens": 2348,
+      "total_tokens": 49776
+    }
+  ],
+  "elapsed_seconds": 42.172
+}

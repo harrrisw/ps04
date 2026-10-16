@@ -1,0 +1,18 @@
+{
+  "stage": "fetch_feeds",
+  "status": "completed",
+  "input_count": 5,
+  "output_count": 50,
+  "started_at": "2026-10-10T05:17:36Z",
+  "finished_at": "2026-10-10T05:17:40Z",
+  "tools": [
+    "python",
+    "feedparser"
+  ],
+  "models": [],
+  "cost_usd": 0,
+  "cost_is_estimate": false,
+  "errors": [],
+  "notes": [],
+  "elapsed_seconds": 3.953
+}

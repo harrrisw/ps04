@@ -1,0 +1,6 @@
+{
+  "provider": "codex",
+  "model": "gpt-6.1-sol",
+  "prompt_sha256": "fa5a9f90dc10b5fbdcd93c17df870641301f6b76c624d8ce534e0fa63490beeb",
+  "cost_usd": null
+}

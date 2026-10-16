@@ -1,0 +1,26 @@
+{
+  "stage": "extract_content",
+  "status": "incomplete",
+  "input_count": 57,
+  "output_count": 25,
+  "started_at": "2026-10-10T05:17:45Z",
+  "finished_at": "2026-10-10T05:18:21Z",
+  "tools": [
+    "faster-whisper",
+    "python",
+    "trafilatura",
+    "yt-dlp"
+  ],
+  "models": [
+    "base.en",
+    "base.en"
+  ],
+  "cost_usd": 0,
+  "cost_is_estimate": false,
+  "errors": [
+    "podcast:f74782bc5c344427a5c6c1ec: open() got an unexpected keyword argument 'metadata_errors'",
+    "podcast:d829c12f888603de39b8f1bd: open() got an unexpected keyword argument 'metadata_errors'"
+  ],
+  "notes": [],
+  "elapsed_seconds": 35.828
+}

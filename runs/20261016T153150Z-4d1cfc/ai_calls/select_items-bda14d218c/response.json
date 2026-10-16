@@ -1,0 +1,36 @@
+{
+  "decisions": [
+    {
+      "item_id": "feed:f072398f0cfdb133e7fbf93b",
+      "version_id": "856f2d93bf816515b4eb24d6294b890c9636894c63f967770e4252ae30400dec",
+      "decision": "reject",
+      "reason": "Irrelevant to the brief’s central question: this is a product-launch piece about Amazon’s Bee devices, not a source on AI tools for customer/competitor/market research. The text is a vendor announcement, so credibility is limited to attributed capabilities and marketing claims; it offers no inspected workflow, evaluation, method, or evidence of research usefulness. Uncertainty is high because no data on accuracy, traceability, or small-business research impact is provided. Commercial incentives are material because Amazon/Bee is promoting its own products.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:fdc58440adda72585d816c38",
+      "version_id": "f944c7db7465bfb15e0851f830bb2cb0fcd7ffea938af7c18a1a964a6bd1c8ac",
+      "decision": "reject",
+      "reason": "This is a general branding/strategy marketing essay about premium positioning, not about AI tools or methods for customer, competitor, or market research. Credibility is weakened by unsupported business examples and sales-oriented framing, and there is no inspectable research workflow, dataset, or method relevant to the publication’s scope. Uncertainty is high about any transfer to small-business research practice. Commercial intent is explicit in the closing call to action to “get in touch,” so the piece should not be treated as evidence for tool selection or research reliability.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "podcast:95a7820fb4dff4d6701109d0",
+      "version_id": "db56f4878ec9a2cf083fedbf093bbac38a9cdfef517ce02083e03dec97fcadaf",
+      "decision": "accept",
+      "reason": "Relevant because it discusses a retail-data AI platform for planogram access, shelf-space questions, and brand/retailer decision support—directly connected to competitor monitoring and market-research workflows. Credibility is moderate: it is a first-person interview with practitioners at the company, so it supports attributed claims about product design and intended use, but not independent proof of performance. The transcript includes concrete, inspectable claims about accessing retailer shelf data, asking questions like where to launch or delist products, and using AI to surface changes; however, the recording basis is local speech recognition and should be manually verified. Uncertainty remains because no benchmark, accuracy test, or methods section is given, and commercial incentives are strong because the speakers are describing their own product and awards. Flag as a likely cross-post/series item from Green Book, and note repeated underlying claims already appear in the related Green Book podcast episode about AI at IIEX.",
+      "piece_ids": [
+        "01",
+        "02",
+        "03"
+      ]
+    },
+    {
+      "item_id": "podcast:f74782bc5c344427a5c6c1ec",
+      "version_id": "76701011e6dfa0bf2bd3d6d070262bd7ad4e3d90d2c9bc6512a37d61044ed22e",
+      "decision": "defer",
+      "reason": "Only partially relevant: the episode reviews IIEX AI and includes general themes about AI in research workflows, accountability, and problem framing, which could inform practical implications. But it is a recap conversation rather than a sourced, inspectable methods piece, and the transcript is locally generated speech recognition that must be manually verified before precise quotation use. Credibility is limited by the conversational format and absence of documented benchmarks, sample, or comparative method; the speaker’s judgment is informative but not evidence of tool effectiveness. Uncertainty is material because the episode summarizes multiple talks without reproducing full methods or evidence, and some claims may be repeated across other Green Book coverage of the same event, so treat it as a possible cross-post/duplication source pending tighter claim-level verification.",
+      "piece_ids": []
+    }
+  ]
+}

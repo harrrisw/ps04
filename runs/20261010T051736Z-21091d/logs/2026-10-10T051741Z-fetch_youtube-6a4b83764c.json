@@ -1,0 +1,20 @@
+{
+  "stage": "fetch_youtube",
+  "status": "incomplete",
+  "input_count": 2,
+  "output_count": 3,
+  "started_at": "2026-10-10T05:17:41Z",
+  "finished_at": "2026-10-10T05:17:44Z",
+  "tools": [
+    "python",
+    "yt-dlp"
+  ],
+  "models": [],
+  "cost_usd": 0,
+  "cost_is_estimate": false,
+  "errors": [
+    "marketing-ai-video: ERROR: [youtube:tab] @MarketingAIInstitute: This channel does not have a videos tab"
+  ],
+  "notes": [],
+  "elapsed_seconds": 3.859
+}

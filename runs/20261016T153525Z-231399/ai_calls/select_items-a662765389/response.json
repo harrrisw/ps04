@@ -1,0 +1,34 @@
+{
+  "decisions": [
+    {
+      "item_id": "feed:544196d3339ee3487c9ed977",
+      "version_id": "ec10baa20a0b7a9c0eee01d7b58c9c01814705d3ceeff19faddb928b57a8f754",
+      "decision": "reject",
+      "reason": "Irrelevant to the brief: this is a TechCrunch report about Anthropic/METR access for frontier-model safety review, not a small-business research tool, competitor monitoring method, or customer/market research workflow. Credibility is decent as a dated news report, but the underlying claims are vendor-announced capabilities rather than independent results, and no small-business applicability or evidence on research accuracy/cost is provided. No commercial incentive issue is material here beyond standard vendor self-reporting, but the piece does not address the project’s central question.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:54c849e0b3cea3f17b20dfd0",
+      "version_id": "da1c161a51d71ac1c86e6063cc3187a9656765dc00085b5aed728c611f4ebdaa",
+      "decision": "accept",
+      "reason": "Relevant because it gives a practical, inspectable framework for deciding when to disclose AI use in research-adjacent communications, with concrete factors (policy, audience, context, expectations, degree of AI contribution) and cited studies. Credibility is moderate: it is a Nielsen Norman Group synthesis rather than primary research, but it summarizes named studies and distinguishes disclosure effects from general AI use. Uncertainty remains about transferability to small-business market research, since the evidence is mostly about content perception and not research validity or ROI; still, it can inform how a small business documents AI-assisted research outputs and manages trust. No major commercial incentive caveat is apparent beyond being an NN/g advisory article.",
+      "piece_ids": [
+        "03"
+      ]
+    },
+    {
+      "item_id": "feed:59b9d94ff2c9ada3816bfcac",
+      "version_id": "54063a175277dae4ae650db7f043fed6522b79982994c6eccd8094d3cdce24d7",
+      "decision": "reject",
+      "reason": "Mostly a podcast promo about Amazon/Microsoft data-center NDA policy and trust in AI startups, which is outside the brief’s scope of desk research, competitor monitoring, customer-feedback analysis, or survey/interview synthesis for small businesses. The page offers no inspectable workflow or evidence base beyond promotional framing, and it is not about research-tool capabilities or methods. It also mixes a public-policy/business-trust topic with an episode teaser, so there is no reliable basis to use it for the project; any claim about consumer trust is unsupported in this item.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:61a8902882e1fbd021c4f0f8",
+      "version_id": "857abe3befec2e548d802aacc033b22d36a7bffd342309daaf4bfc1574fdc250",
+      "decision": "reject",
+      "reason": "This is a conference-ticket marketing page for TechCrunch Founder Summit, not evidence about AI research tools or methods for small-business market research. The text is openly commercial, with clear sales incentives and no methods, data, or independently checkable claims about research reliability, cost, or practical effort. It is irrelevant to the central question and does not provide a usable research workflow or validated capability.",
+      "piece_ids": []
+    }
+  ]
+}

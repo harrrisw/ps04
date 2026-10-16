@@ -1,0 +1,126 @@
+{
+  "source_run": "20261010T052912Z-1d2e8a",
+  "review_id": "463614923a8aa538ce525f8b4003f68bc342babee8344813dc6c7d3fe77f12de",
+  "status": "local review copies; see publication_links for reported uploads; Google Vids/HeyGen production pending",
+  "publication_links": [
+    {
+      "piece_id": "01",
+      "substack_url": null,
+      "youtube_url": "https://youtu.be/qWxMqmFNnIw",
+      "youtube_title": "AI for Competitor Research: Check the Evidence Before You Automate",
+      "reported_by": "student",
+      "checked_on": "2026-10-16",
+      "verification": "YouTube oEmbed returned matching title and channel Harris Wang without authentication; full playback and visibility setting not independently checked."
+    },
+    {
+      "piece_id": "02",
+      "substack_url": null,
+      "youtube_url": "https://youtu.be/Ej1c8o_LTf8",
+      "youtube_title": "Can You Trust AI Research? How to Check Its Claims",
+      "reported_by": "student",
+      "checked_on": "2026-10-16",
+      "verification": "YouTube oEmbed returned matching title and channel Harris Wang without authentication; full playback and visibility setting not independently checked."
+    },
+    {
+      "piece_id": "03",
+      "substack_url": null,
+      "youtube_url": "https://youtu.be/oUOU5CditYM",
+      "youtube_title": "Is AI Research Worth the Effort? Run a Small-Business Pilot",
+      "reported_by": "student",
+      "checked_on": "2026-10-16",
+      "verification": "YouTube oEmbed returned matching title and channel Harris Wang without authentication; full playback and visibility setting not independently checked."
+    }
+  ],
+  "files": [
+    {
+      "file": "01-article.md",
+      "bytes": 6642,
+      "sha256": "b06301eabc2089f6860570f3eb723d8b6282f3a3b75a41bd7b0543e2b4b6980b"
+    },
+    {
+      "file": "01-video.mp4",
+      "bytes": 6407273,
+      "sha256": "4ea7d511f2a11b2eeeeee05f167762d3547d5c10f61783b44d480787b3197f84"
+    },
+    {
+      "file": "01-captions.srt",
+      "bytes": 5367,
+      "sha256": "994436cfdc58c7a4c3061964fa5104290d81ff6c780b88ef841fae90a4667c5f"
+    },
+    {
+      "file": "01-youtube-description.md",
+      "bytes": 1172,
+      "sha256": "49817a6ac99a57fe16808b3249b2fcea0d9dd0047b219eb4331e8b8cc9b6e632"
+    },
+    {
+      "file": "02-article.md",
+      "bytes": 6612,
+      "sha256": "1c959b31e3296b339b9a724192a9210429eb5ada96cff9beefbcc234790475ff"
+    },
+    {
+      "file": "02-video.mp4",
+      "bytes": 6162595,
+      "sha256": "609ad79ed5fb1a2f6528d19e3c626582cd58d03905d4721e576d5f51accbfaff"
+    },
+    {
+      "file": "02-captions.srt",
+      "bytes": 5395,
+      "sha256": "8565a087a2ce518a99dfd01b5b02c3f9f05ed3270650a8a4d07a6466aba6d2d4"
+    },
+    {
+      "file": "02-youtube-description.md",
+      "bytes": 1164,
+      "sha256": "f8123064d1afdc6a8f99c497dc5ab2fbf3dedff229487cc377617fdbdb870683"
+    },
+    {
+      "file": "03-article.md",
+      "bytes": 6465,
+      "sha256": "bfa2f50ac9272a1f3fb8a4d458840c9655fde1a13eea5a85ec514340a225fd66"
+    },
+    {
+      "file": "03-video.mp4",
+      "bytes": 6372315,
+      "sha256": "2d312a55d15328cf6a8784652bcd6742430b59360e6202446080405fa87f933c"
+    },
+    {
+      "file": "03-captions.srt",
+      "bytes": 4927,
+      "sha256": "7201f785f59d5dfc869b19cd99ea0eff875cbdeaadc0d8137ef447f16b143fb4"
+    },
+    {
+      "file": "03-youtube-description.md",
+      "bytes": 1923,
+      "sha256": "333e5187e9849337a9055c96c7e679037ad0554e34dde94c01ee9c4ab6cf2161"
+    },
+    {
+      "file": "01-article.html",
+      "bytes": 8457,
+      "sha256": "cc39d73eae6a9e4e2be9a1538dee78004ac9078cff38b9fcca9fafe98f6944b4"
+    },
+    {
+      "file": "02-article.html",
+      "bytes": 8343,
+      "sha256": "446d49f6598976e6e3ce1ef2bb06f65a114e886f9519d58bf47ca3ac494efa24"
+    },
+    {
+      "file": "03-article.html",
+      "bytes": 8298,
+      "sha256": "875e1d1ca22e87f33c7c2d09d66dd5f39abb81c84fd1502f84f832e12d9a6f73"
+    },
+    {
+      "file": "01-article.txt",
+      "bytes": 6598,
+      "sha256": "c7c95f077e42e4e5ae96723407ee8be2d5bd79110883e5f4429fc5e2e1162c2c"
+    },
+    {
+      "file": "02-article.txt",
+      "bytes": 6584,
+      "sha256": "9668d0b73f677073b610429d2864c7ce31e3f69f2ff888985d2271a14956c878"
+    },
+    {
+      "file": "03-article.txt",
+      "bytes": 6422,
+      "sha256": "6f24d17fab899b127835772671e3cc14622cfb0547dc4c8708675b81a90f077d"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "provider": "parley",
+  "model": "gpt-5.4-mini",
+  "prompt_sha256": "595d46ae6d224ffaf91431b2b92ced530a4de7a2353853505bd8b1a87367138f",
+  "cost_usd": null
+}

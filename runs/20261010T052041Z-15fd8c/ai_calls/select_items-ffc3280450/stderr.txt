@@ -1,0 +1,6 @@
+2026-10-10T05:24:56.548165Z  WARN codex_skills::interface: ignoring interface.icon_small: icon path with '..' must resolve under plugin assets/
+2026-10-10T05:24:56.548194Z  WARN codex_skills::interface: ignoring interface.icon_large: icon path with '..' must resolve under plugin assets/
+2026-10-10T05:24:56.576833Z  WARN codex_core::shell_snapshot: Failed to create shell snapshot for powershell: Shell snapshot not supported yet for PowerShell
+2026-10-10T05:24:56.886606Z  WARN codex_skills::interface: ignoring interface.icon_small: icon path with '..' must resolve under plugin assets/
+2026-10-10T05:24:56.886628Z  WARN codex_skills::interface: ignoring interface.icon_large: icon path with '..' must resolve under plugin assets/
+2026-10-10T05:25:16.442748Z  WARN codex_core::hook_runtime: after_agent hook failed; continuing turn_id=01a12445-7ebb-7e71-baff-11cea13c6336 hook_name=legacy_notify error=文件名或扩展名太长。 (os error 206)

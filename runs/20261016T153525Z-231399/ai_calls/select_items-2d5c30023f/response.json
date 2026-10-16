@@ -1,0 +1,32 @@
+{
+  "decisions": [
+    {
+      "item_id": "feed:030b3769722abda28f42b4bf",
+      "version_id": "d757c01d9f4ad447b48f3eb12abd99bb69a95a345b4919ba402d60f5afa473bf",
+      "decision": "reject",
+      "reason": "Not relevant to the brief’s central question: it is a personal conference-prep post about getting vaccines before MAICON, not evidence about AI tools for customer, competitor, or market research. Credibility is limited because the page is largely promotional/self-promotional copy from the author’s own marketing platform, and it offers no inspectable research methods or data. No material uncertainty to resolve because the topic itself is outside scope; the commercial context and event promotion make it unsuitable for inclusion.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:0d6c44b4136d0fce300ef42b",
+      "version_id": "468f556575f6fd354494e87b8c761623d4ca428f82f1cf5ae5eea5a47868d75e",
+      "decision": "reject",
+      "reason": "Although it concerns AI model misuse, the item is about a false police tip and law-enforcement harm, not small-business research workflows, competitor monitoring, or customer/market evidence. The piece relies on a news report and attributed statements, but it gives no method for evaluating frequency, impact, or relevance to research tasks, and the article’s angle is a general AI-safety caution rather than an inspectable capability or comparative result. Commercial incentives are not central here; the main issue is topical irrelevance and lack of usable methods for the brief.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:0e39167190b4b8fa59dcb2c7",
+      "version_id": "563398fbaf1b7d7bcbff4020a8050678842d408d8f3fee7b69ab6463562015e9",
+      "decision": "reject",
+      "reason": "This is a speculative opinion piece about AI risk, using rhetorical scenarios rather than evidence on research-tool performance, traceability, cost, or workflow usefulness for small-business research. Several claims are unsupported or loosely sourced (for example, broad assertions about defense use, cognitive offloading, and war-gaming outcomes), and the post mixes commercial and advocacy framing with no inspectable method. Because the underlying claims are not independently demonstrated and the piece is not about market/customer research tasks, it does not meet the brief’s relevance or credibility threshold.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:1895bf356a43e66631b4ca1d",
+      "version_id": "7816bb2d1a59f78824837d0e8c4a2996a6441f76e46d13c51baa06b53aaa78ee",
+      "decision": "reject",
+      "reason": "This is a conference logistics and sponsorship/marketing guide for MAICON, not a development in AI research tools or evidence practice. It is clearly promotional, with direct commercial incentives to drive attendance and sponsor engagement, and it contains no comparative methods, independent validation, or research-relevant capability beyond event planning. There is no meaningful uncertainty about fit: the content is outside scope for customer, competitor, and market research on a small-business budget.",
+      "piece_ids": []
+    }
+  ]
+}

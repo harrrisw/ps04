@@ -1,0 +1,32 @@
+{
+  "decisions": [
+    {
+      "item_id": "feed:e1141e704ec8a0229aa812cc",
+      "version_id": "064d50e387796be90cdba3aea8bb2aa8248317c7fe8fe66a5c1392ff9521d4be",
+      "decision": "defer",
+      "reason": "Relevant to customer-feedback analysis because it describes using a pre-event survey to change workshop content, which could inform how small businesses use audience input to steer research and training. Credibility is limited by being a first-person promotional account from the author’s own site, with no survey instrument, response count, or raw data shown; the claimed outcome that attendees were satisfied is anecdotal and self-reported. The piece contains commercial incentives via links to the author’s course and Slack group, so performance and impact claims should be treated cautiously. Useful as a practitioner example, but not enough verified method to support a decision-worthy recommendation.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:e3536a2078a19512bfe2a637",
+      "version_id": "a9fb4a4160007d323de6b8c8dcc02ea8a0510f1e29c9e51addb1124687959622",
+      "decision": "reject",
+      "reason": "Not relevant to the brief’s central question: it is a TechCrunch-style feature about a Theranos-themed website and a company promotion, not a source on AI tools for customer, competitor, or market research. The article’s credibility for our purposes is weak because it is mostly a descriptive novelty piece, and the commercial angle is explicit: it promotes Extend’s document-parsing product and a company watch party. There is no inspectable research workflow, no methods, and no evidence about research utility or small-business applicability. This is a cross-post/promotion risk rather than a usable research development.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:e6965dd3c40f4c86dfd4360f",
+      "version_id": "37fdd2e47739b45f97d0979465090cb6942a66752cb60073676f3f9f845cc4b8",
+      "decision": "defer",
+      "reason": "Topically relevant because it discusses AI-assisted analysis of unstructured customer data, synthetic audiences, and mixed qualitative/quantitative loyalty measurement, all of which could affect small-business research practice. However, it is a branded event recap from STRAT7 with no inspectable methodology, no source-linked evidence, and no way to verify which claims came from which panelist; the synthetic-audience discussion is explicitly presented as exploratory, not validated. The piece also notes commercial/service contexts around STRAT7 and partners, so the incentives are material. Potential cross-post/republished event content and repeated underlying claims about using AI for qualitative analysis make it better suited for follow-up than acceptance.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:ee82a3e5fba61499f9fff7d8",
+      "version_id": "d3182546d74c2eeefa094e8b09a205d964fddb8e359508af0c3c35830c588892",
+      "decision": "defer",
+      "reason": "Relevant at a high level because it frames AI workflow adaptation, which could matter for how a small team operationalizes research tools. But the piece is an event-preview/article tied to MAICON, not an independent evaluation of research performance; it offers quoted opinions and a promised playbook without methods, samples, or measurable comparisons. The author and outlet have commercial incentives to promote the event, so the claims about practical value should be treated as attributed marketing, not validated evidence. It is useful background on adoption barriers, but missing methods and outcome evidence justify deferral.",
+      "piece_ids": []
+    }
+  ]
+}

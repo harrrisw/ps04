@@ -1,0 +1,22 @@
+{
+  "item_id": "podcast:95a7820fb4dff4d6701109d0",
+  "source_id": "greenbook-podcast",
+  "publisher_id": "greenbook",
+  "kind": "podcast",
+  "title": "182 - Vazen’s Charlotte Kiddle & Yasmin Ayoub Sanusi on Smarter Retail Data",
+  "url": "https://greenbookgbb.wpengine.com/182-vazens-charlotte-kiddle-yasmin-ayoub-sanusi-on-smarter-retail-data",
+  "published_at": "2026-10-12T23:00:00Z",
+  "retrieved_at": "2026-10-16T04:31:27.789759Z",
+  "media_url": "https://episodes.captivate.fm/episode/53a9db0f-073c-4aae-96d0-f607eb972407.mp3",
+  "native_id": "53a9db0f-073c-4aae-96d0-f607eb972407",
+  "underlying_id": "podcast:95a7820fb4dff4d6701109d0",
+  "original_publication_basis": "feed published field",
+  "transcript_url": null,
+  "transcript_type": null,
+  "transcript_basis": "local speech recognition; manually verify quoted segments against audio",
+  "media_path": "data/media/96ee58f75fa726420b6068d4.audio",
+  "content_hash": "979baef01c0eff1e7fa3ec7f9f3ba2c76b949a5fe731144416bedeae87c64a7e",
+  "version_id": "db56f4878ec9a2cf083fedbf093bbac38a9cdfef517ce02083e03dec97fcadaf",
+  "text_path": "data/assets/e84ca0f32f1d81e008e8a548/db56f4878ec9a2cf083fedbf093bbac38a9cdfef517ce02083e03dec97fcadaf/text.txt",
+  "segments_path": "data/assets/e84ca0f32f1d81e008e8a548/db56f4878ec9a2cf083fedbf093bbac38a9cdfef517ce02083e03dec97fcadaf/segments.json"
+}

@@ -1,0 +1,21 @@
+{
+  "item_id": "feed:2c25b90b4d946f5465573b24",
+  "source_id": "nngroup-written",
+  "publisher_id": "nielsen-norman-group",
+  "kind": "feed",
+  "title": "Context Libraries: How AI Power Users Manage Context Engineering",
+  "url": "https://www.nngroup.com/articles/context-libraries",
+  "published_at": "2026-10-09T17:00:00Z",
+  "retrieved_at": "2026-10-10T05:29:13.118013Z",
+  "media_url": null,
+  "native_id": "/articles/context-libraries/?1791565200",
+  "underlying_id": "feed:2c25b90b4d946f5465573b24",
+  "original_publication_basis": "feed published field",
+  "transcript_url": null,
+  "transcript_type": null,
+  "download_hash": "5fe975e15cf8e146a6af396eaff38fdaacd3052e5edd6572e98a3d2545147454",
+  "content_hash": "0057f68b5ae9fb7837a9fff48b0670d2ddf603f85c011e81072a2ea2a4f23f16",
+  "version_id": "3e683028db8f1ab63661c3b92cf399ce60e4a69befa825279869b322fe044ae7",
+  "text_path": "data/assets/eae2c5da5d9743f116ddef0f/3e683028db8f1ab63661c3b92cf399ce60e4a69befa825279869b322fe044ae7/text.txt",
+  "segments_path": null
+}

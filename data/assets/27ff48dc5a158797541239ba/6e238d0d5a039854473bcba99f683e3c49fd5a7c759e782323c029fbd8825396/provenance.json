@@ -1,0 +1,21 @@
+{
+  "item_id": "feed:48efe71c79575654d983f408",
+  "source_id": "techcrunch-ai-written",
+  "publisher_id": "techcrunch",
+  "kind": "feed",
+  "title": "a16z’s Olivia Moore on the state of consumer AI",
+  "url": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai",
+  "published_at": "2026-10-09T15:43:33Z",
+  "retrieved_at": "2026-10-10T05:20:44Z",
+  "media_url": null,
+  "native_id": "https://techcrunch.com/?p=3176079",
+  "underlying_id": "feed:48efe71c79575654d983f408",
+  "original_publication_basis": "feed published field",
+  "transcript_url": null,
+  "transcript_type": null,
+  "download_hash": "085ababf67e09421aa12313b62d09cc709bccd3ccbf81c49ce11cef6a40d64f7",
+  "content_hash": "43dd75ef85349414da525891186899935cf76b4ce1345e76064235392bd5c163",
+  "version_id": "6e238d0d5a039854473bcba99f683e3c49fd5a7c759e782323c029fbd8825396",
+  "text_path": "data/assets/27ff48dc5a158797541239ba/6e238d0d5a039854473bcba99f683e3c49fd5a7c759e782323c029fbd8825396/text.txt",
+  "segments_path": null
+}

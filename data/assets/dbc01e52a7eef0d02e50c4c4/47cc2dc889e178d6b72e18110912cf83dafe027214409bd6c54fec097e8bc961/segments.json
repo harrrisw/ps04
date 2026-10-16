@@ -1,0 +1,7328 @@
+[
+  {
+    "segment_id": "s00001",
+    "start_seconds": 0.0,
+    "end_seconds": 5.0,
+    "text": "So I think tangibly for AGI, the way I think about it is"
+  },
+  {
+    "segment_id": "s00002",
+    "start_seconds": 6.16,
+    "end_seconds": 9.88,
+    "text": "when the model is roughly the equivalent"
+  },
+  {
+    "segment_id": "s00003",
+    "start_seconds": 9.88,
+    "end_seconds": 11.4,
+    "text": "of the B players on your team."
+  },
+  {
+    "segment_id": "s00004",
+    "start_seconds": 11.4,
+    "end_seconds": 14.48,
+    "text": "So if we're talking to marketers"
+  },
+  {
+    "segment_id": "s00005",
+    "start_seconds": 14.48,
+    "end_seconds": 17.6,
+    "text": "and you look across a team of people on your staff"
+  },
+  {
+    "segment_id": "s00006",
+    "start_seconds": 17.6,
+    "end_seconds": 21.76,
+    "text": "and you say, okay, like these people do these 20 tasks"
+  },
+  {
+    "segment_id": "s00007",
+    "start_seconds": 21.76,
+    "end_seconds": 24.28,
+    "text": "and I'm gonna take Claude Opus 5.5"
+  },
+  {
+    "segment_id": "s00008",
+    "start_seconds": 24.28,
+    "end_seconds": 26.88,
+    "text": "or 6.1 Astro from OpenAI"
+  },
+  {
+    "segment_id": "s00009",
+    "start_seconds": 26.88,
+    "end_seconds": 30.84,
+    "text": "and I'm gonna give that AI those same 20 tasks."
+  },
+  {
+    "segment_id": "s00010",
+    "start_seconds": 30.84,
+    "end_seconds": 34.96,
+    "text": "Is it on par with like an average person on your team?"
+  },
+  {
+    "segment_id": "s00011",
+    "start_seconds": 36.519999999999996,
+    "end_seconds": 39.2,
+    "text": "Welcome to AI Answers, a special Q&A series"
+  },
+  {
+    "segment_id": "s00012",
+    "start_seconds": 39.2,
+    "end_seconds": 41.2,
+    "text": "from the Artificial Intelligence Show."
+  },
+  {
+    "segment_id": "s00013",
+    "start_seconds": 41.2,
+    "end_seconds": 43.32,
+    "text": "I'm Paul Raitzer, founder and CEO"
+  },
+  {
+    "segment_id": "s00014",
+    "start_seconds": 43.32,
+    "end_seconds": 46.239999999999995,
+    "text": "of Smarter X and Marketing AI Institute."
+  },
+  {
+    "segment_id": "s00015",
+    "start_seconds": 46.239999999999995,
+    "end_seconds": 48.32,
+    "text": "Every time we host our live virtual events"
+  },
+  {
+    "segment_id": "s00016",
+    "start_seconds": 48.32,
+    "end_seconds": 51.44,
+    "text": "and online classes, we get dozens of great questions"
+  },
+  {
+    "segment_id": "s00017",
+    "start_seconds": 51.44,
+    "end_seconds": 53.44,
+    "text": "from business leaders and practitioners"
+  },
+  {
+    "segment_id": "s00018",
+    "start_seconds": 53.44,
+    "end_seconds": 56.36,
+    "text": "who are navigating this fast moving world of AI."
+  },
+  {
+    "segment_id": "s00019",
+    "start_seconds": 56.36,
+    "end_seconds": 59.2,
+    "text": "But we never have enough time to get to all of them."
+  },
+  {
+    "segment_id": "s00020",
+    "start_seconds": 59.2,
+    "end_seconds": 61.08,
+    "text": "So we created the AI Answers series"
+  },
+  {
+    "segment_id": "s00021",
+    "start_seconds": 61.08,
+    "end_seconds": 63.84,
+    "text": "to address more of these questions"
+  },
+  {
+    "segment_id": "s00022",
+    "start_seconds": 63.84,
+    "end_seconds": 66.24,
+    "text": "and share real-time insights into the topics"
+  },
+  {
+    "segment_id": "s00023",
+    "start_seconds": 66.24,
+    "end_seconds": 69.03999999999999,
+    "text": "and challenges professionals like you are facing."
+  },
+  {
+    "segment_id": "s00024",
+    "start_seconds": 69.03999999999999,
+    "end_seconds": 71.2,
+    "text": "Whether you're just starting your AI journey"
+  },
+  {
+    "segment_id": "s00025",
+    "start_seconds": 71.2,
+    "end_seconds": 73.96000000000001,
+    "text": "or already putting it to work in your organization,"
+  },
+  {
+    "segment_id": "s00026",
+    "start_seconds": 73.96000000000001,
+    "end_seconds": 75.68,
+    "text": "these are the practical insights,"
+  },
+  {
+    "segment_id": "s00027",
+    "start_seconds": 75.68,
+    "end_seconds": 79.4,
+    "text": "use cases and strategies you need to grow smarter."
+  },
+  {
+    "segment_id": "s00028",
+    "start_seconds": 79.4,
+    "end_seconds": 81.52,
+    "text": "Let's explore AI together."
+  },
+  {
+    "segment_id": "s00029",
+    "start_seconds": 81.52,
+    "end_seconds": 86.52,
+    "text": "Welcome to episode 246 of the Artificial Intelligence Show."
+  },
+  {
+    "segment_id": "s00030",
+    "start_seconds": 89.28,
+    "end_seconds": 92.47999999999999,
+    "text": "I'm your host Paul Raitzer, along with my co-host Mike Foote."
+  },
+  {
+    "segment_id": "s00031",
+    "start_seconds": 92.47999999999999,
+    "end_seconds": 93.84,
+    "text": "We are for the second time in history,"
+  },
+  {
+    "segment_id": "s00032",
+    "start_seconds": 93.84,
+    "end_seconds": 95.39999999999999,
+    "text": "I think sitting at the same table doing this."
+  },
+  {
+    "segment_id": "s00033",
+    "start_seconds": 95.39999999999999,
+    "end_seconds": 96.24,
+    "text": "Weird."
+  },
+  {
+    "segment_id": "s00034",
+    "start_seconds": 96.24,
+    "end_seconds": 97.08,
+    "text": "Is this the second time?"
+  },
+  {
+    "segment_id": "s00035",
+    "start_seconds": 97.08,
+    "end_seconds": 97.91999999999999,
+    "text": "I think so."
+  },
+  {
+    "segment_id": "s00036",
+    "start_seconds": 97.91999999999999,
+    "end_seconds": 98.75999999999999,
+    "text": "I think the last make on."
+  },
+  {
+    "segment_id": "s00037",
+    "start_seconds": 98.75999999999999,
+    "end_seconds": 101.96,
+    "text": "So we are live at, well, not for you when you're listening"
+  },
+  {
+    "segment_id": "s00038",
+    "start_seconds": 101.96,
+    "end_seconds": 105.24,
+    "text": "to this, but we are recording this live at make on 2026."
+  },
+  {
+    "segment_id": "s00039",
+    "start_seconds": 105.24,
+    "end_seconds": 109.47999999999999,
+    "text": "It is October 14th, about three ish in the afternoon."
+  },
+  {
+    "segment_id": "s00040",
+    "start_seconds": 109.48,
+    "end_seconds": 112.80000000000001,
+    "text": "We just heard an insane keynote from Kevin Russe"
+  },
+  {
+    "segment_id": "s00041",
+    "start_seconds": 112.80000000000001,
+    "end_seconds": 114.76,
+    "text": "who just dropped the AGI Chronicles,"
+  },
+  {
+    "segment_id": "s00042",
+    "start_seconds": 114.76,
+    "end_seconds": 117.88000000000001,
+    "text": "a new book you absolutely have to go check out."
+  },
+  {
+    "segment_id": "s00043",
+    "start_seconds": 117.88000000000001,
+    "end_seconds": 119.44,
+    "text": "He literally just left the main stage."
+  },
+  {
+    "segment_id": "s00044",
+    "start_seconds": 119.44,
+    "end_seconds": 121.76,
+    "text": "He's gonna be signing books here shortly."
+  },
+  {
+    "segment_id": "s00045",
+    "start_seconds": 121.76,
+    "end_seconds": 123.84,
+    "text": "So my brain is kind of like on overload."
+  },
+  {
+    "segment_id": "s00046",
+    "start_seconds": 123.84,
+    "end_seconds": 127.48,
+    "text": "Mike, we're on, I mean, it's technically day one, I guess,"
+  },
+  {
+    "segment_id": "s00047",
+    "start_seconds": 127.48,
+    "end_seconds": 129.96,
+    "text": "for attendees, but this is day three for us."
+  },
+  {
+    "segment_id": "s00048",
+    "start_seconds": 129.96,
+    "end_seconds": 133.28,
+    "text": "We did an AI council meeting on Monday,"
+  },
+  {
+    "segment_id": "s00049",
+    "start_seconds": 133.28,
+    "end_seconds": 136.48000000000002,
+    "text": "an AI for CMO Summit and workshops yesterday."
+  },
+  {
+    "segment_id": "s00050",
+    "start_seconds": 136.48000000000002,
+    "end_seconds": 137.32,
+    "text": "Yes."
+  },
+  {
+    "segment_id": "s00051",
+    "start_seconds": 137.32,
+    "end_seconds": 138.16,
+    "text": "And then."
+  },
+  {
+    "segment_id": "s00052",
+    "start_seconds": 138.16,
+    "end_seconds": 139.4,
+    "text": "Opening Night Party."
+  },
+  {
+    "segment_id": "s00053",
+    "start_seconds": 139.4,
+    "end_seconds": 140.96,
+    "text": "We did an opening night party at the rock hall,"
+  },
+  {
+    "segment_id": "s00054",
+    "start_seconds": 140.96,
+    "end_seconds": 143.16,
+    "text": "which apparently people shut down the rock hall."
+  },
+  {
+    "segment_id": "s00055",
+    "start_seconds": 143.16,
+    "end_seconds": 145.4,
+    "text": "I don't know if anybody that's here live with us"
+  },
+  {
+    "segment_id": "s00056",
+    "start_seconds": 145.4,
+    "end_seconds": 146.32,
+    "text": "was part of that group,"
+  },
+  {
+    "segment_id": "s00057",
+    "start_seconds": 146.32,
+    "end_seconds": 148.84,
+    "text": "but apparently some of our attendees stayed"
+  },
+  {
+    "segment_id": "s00058",
+    "start_seconds": 148.84,
+    "end_seconds": 150.88,
+    "text": "past their welcome, but it's the rock hall, you know?"
+  },
+  {
+    "segment_id": "s00059",
+    "start_seconds": 150.88,
+    "end_seconds": 152.6,
+    "text": "You gotta be a little rebellious."
+  },
+  {
+    "segment_id": "s00060",
+    "start_seconds": 153.6,
+    "end_seconds": 154.44,
+    "text": "Yeah, so we are here."
+  },
+  {
+    "segment_id": "s00061",
+    "start_seconds": 154.44,
+    "end_seconds": 158.04000000000002,
+    "text": "It's been a pretty incredible week, but again, it's day one,"
+  },
+  {
+    "segment_id": "s00062",
+    "start_seconds": 158.04000000000002,
+    "end_seconds": 162.12,
+    "text": "but it feels like I've been here for at least a week right now."
+  },
+  {
+    "segment_id": "s00063",
+    "start_seconds": 162.12,
+    "end_seconds": 164.64000000000001,
+    "text": "We stuff a bunch of amazing talks coming."
+  },
+  {
+    "segment_id": "s00064",
+    "start_seconds": 164.64000000000001,
+    "end_seconds": 166.84,
+    "text": "We have Andrew Yang is actually about to go on stage"
+  },
+  {
+    "segment_id": "s00065",
+    "start_seconds": 166.92000000000002,
+    "end_seconds": 167.76,
+    "text": "in an hour or so."
+  },
+  {
+    "segment_id": "s00066",
+    "start_seconds": 167.76,
+    "end_seconds": 171.6,
+    "text": "I have to leave here and go welcome Andrew to the stage."
+  },
+  {
+    "segment_id": "s00067",
+    "start_seconds": 171.6,
+    "end_seconds": 173.36,
+    "text": "So yeah, a ton going on, but we figured,"
+  },
+  {
+    "segment_id": "s00068",
+    "start_seconds": 173.36,
+    "end_seconds": 174.20000000000002,
+    "text": "hey, what the hell?"
+  },
+  {
+    "segment_id": "s00069",
+    "start_seconds": 174.20000000000002,
+    "end_seconds": 175.8,
+    "text": "Let's record a live podcast while we're sitting here."
+  },
+  {
+    "segment_id": "s00070",
+    "start_seconds": 175.8,
+    "end_seconds": 178.08,
+    "text": "So we are in this amazing new podcast studio"
+  },
+  {
+    "segment_id": "s00071",
+    "start_seconds": 178.08,
+    "end_seconds": 180.68,
+    "text": "and we have overlooking the exhibit hall."
+  },
+  {
+    "segment_id": "s00072",
+    "start_seconds": 181.84,
+    "end_seconds": 183.52,
+    "text": "And we're gonna go through like an AI answers format,"
+  },
+  {
+    "segment_id": "s00073",
+    "start_seconds": 183.52,
+    "end_seconds": 184.36,
+    "text": "it sounds like Mike."
+  },
+  {
+    "segment_id": "s00074",
+    "start_seconds": 184.36,
+    "end_seconds": 186.32,
+    "text": "You're filling in for Kathy on the AI answers."
+  },
+  {
+    "segment_id": "s00075",
+    "start_seconds": 186.32,
+    "end_seconds": 187.48000000000002,
+    "text": "I am, I am."
+  },
+  {
+    "segment_id": "s00076",
+    "start_seconds": 187.48000000000002,
+    "end_seconds": 190.16,
+    "text": "I feel like Kathy needs to sub in here,"
+  },
+  {
+    "segment_id": "s00077",
+    "start_seconds": 190.16,
+    "end_seconds": 191.56,
+    "text": "but yeah, I'll do my best."
+  },
+  {
+    "segment_id": "s00078",
+    "start_seconds": 191.56,
+    "end_seconds": 192.56,
+    "text": "I'll live up to her."
+  },
+  {
+    "segment_id": "s00079",
+    "start_seconds": 192.56,
+    "end_seconds": 194.32,
+    "text": "And this is dropping tomorrow."
+  },
+  {
+    "segment_id": "s00080",
+    "start_seconds": 194.32,
+    "end_seconds": 195.32,
+    "text": "Thursday the 15th, right?"
+  },
+  {
+    "segment_id": "s00081",
+    "start_seconds": 195.4,
+    "end_seconds": 197.6,
+    "text": "Sounds like it is happening tomorrow."
+  },
+  {
+    "segment_id": "s00082",
+    "start_seconds": 197.6,
+    "end_seconds": 198.44,
+    "text": "Okay."
+  },
+  {
+    "segment_id": "s00083",
+    "start_seconds": 198.44,
+    "end_seconds": 199.92,
+    "text": "So you're gonna be maybe listening to this"
+  },
+  {
+    "segment_id": "s00084",
+    "start_seconds": 199.92,
+    "end_seconds": 203.56,
+    "text": "while we were here at the final day of Maycon 2026."
+  },
+  {
+    "segment_id": "s00085",
+    "start_seconds": 203.56,
+    "end_seconds": 205.28,
+    "text": "All right, with that, I'm gonna stop talking"
+  },
+  {
+    "segment_id": "s00086",
+    "start_seconds": 205.28,
+    "end_seconds": 207.84,
+    "text": "and turn it over to Mike and he'll get a guide us through."
+  },
+  {
+    "segment_id": "s00087",
+    "start_seconds": 207.84,
+    "end_seconds": 208.68,
+    "text": "Awesome."
+  },
+  {
+    "segment_id": "s00088",
+    "start_seconds": 208.68,
+    "end_seconds": 210.0,
+    "text": "So thanks, Paul."
+  },
+  {
+    "segment_id": "s00089",
+    "start_seconds": 210.0,
+    "end_seconds": 212.12,
+    "text": "Glad to have everyone in the live audience here"
+  },
+  {
+    "segment_id": "s00090",
+    "start_seconds": 212.12,
+    "end_seconds": 214.04,
+    "text": "that folks can't see at home,"
+  },
+  {
+    "segment_id": "s00091",
+    "start_seconds": 214.04,
+    "end_seconds": 217.4,
+    "text": "but super cool to be here doing this from Maycon."
+  },
+  {
+    "segment_id": "s00092",
+    "start_seconds": 217.4,
+    "end_seconds": 220.32,
+    "text": "Like Paul, you mentioned we're doing AI answers."
+  },
+  {
+    "segment_id": "s00093",
+    "start_seconds": 220.32,
+    "end_seconds": 223.51999999999998,
+    "text": "And what we've had is our audience submit questions."
+  },
+  {
+    "segment_id": "s00094",
+    "start_seconds": 223.52,
+    "end_seconds": 226.48000000000002,
+    "text": "People are attending Maycon, submit questions."
+  },
+  {
+    "segment_id": "s00095",
+    "start_seconds": 226.48000000000002,
+    "end_seconds": 229.16,
+    "text": "Claire and our team did a great job pulling those together."
+  },
+  {
+    "segment_id": "s00096",
+    "start_seconds": 229.16,
+    "end_seconds": 232.48000000000002,
+    "text": "So I took a look at them and selected a handful"
+  },
+  {
+    "segment_id": "s00097",
+    "start_seconds": 232.48000000000002,
+    "end_seconds": 235.24,
+    "text": "that I think would be awesome to chat through."
+  },
+  {
+    "segment_id": "s00098",
+    "start_seconds": 235.24,
+    "end_seconds": 236.88,
+    "text": "And I definitely have not seen these"
+  },
+  {
+    "segment_id": "s00099",
+    "start_seconds": 236.88,
+    "end_seconds": 239.08,
+    "text": "because honestly, I wasn't even sure what we were doing"
+  },
+  {
+    "segment_id": "s00100",
+    "start_seconds": 239.08,
+    "end_seconds": 239.96,
+    "text": "when I came up here."
+  },
+  {
+    "segment_id": "s00101",
+    "start_seconds": 239.96,
+    "end_seconds": 240.8,
+    "text": "Yeah."
+  },
+  {
+    "segment_id": "s00102",
+    "start_seconds": 240.8,
+    "end_seconds": 241.64000000000001,
+    "text": "This is unfiltered."
+  },
+  {
+    "segment_id": "s00103",
+    "start_seconds": 241.64000000000001,
+    "end_seconds": 242.64000000000001,
+    "text": "Raw."
+  },
+  {
+    "segment_id": "s00104",
+    "start_seconds": 242.64000000000001,
+    "end_seconds": 243.48000000000002,
+    "text": "Let's go."
+  },
+  {
+    "segment_id": "s00105",
+    "start_seconds": 243.48000000000002,
+    "end_seconds": 244.32000000000002,
+    "text": "All right."
+  },
+  {
+    "segment_id": "s00106",
+    "start_seconds": 244.32000000000002,
+    "end_seconds": 245.44,
+    "text": "So to kick things off,"
+  },
+  {
+    "segment_id": "s00107",
+    "start_seconds": 245.44,
+    "end_seconds": 248.96,
+    "text": "this first question is for both of us actually."
+  },
+  {
+    "segment_id": "s00108",
+    "start_seconds": 248.96,
+    "end_seconds": 250.96,
+    "text": "So the question goes, Paul and Mike,"
+  },
+  {
+    "segment_id": "s00109",
+    "start_seconds": 250.96,
+    "end_seconds": 254.72,
+    "text": "what has been the standout insight or concept you've picked up"
+  },
+  {
+    "segment_id": "s00110",
+    "start_seconds": 254.72,
+    "end_seconds": 258.28000000000003,
+    "text": "at Maycon so far that has challenged your thinking"
+  },
+  {
+    "segment_id": "s00111",
+    "start_seconds": 258.28000000000003,
+    "end_seconds": 260.56,
+    "text": "or has confirmed a hunt you have"
+  },
+  {
+    "segment_id": "s00112",
+    "start_seconds": 260.56,
+    "end_seconds": 263.48,
+    "text": "about the direction of AI in the next couple of years?"
+  },
+  {
+    "segment_id": "s00113",
+    "start_seconds": 264.44,
+    "end_seconds": 265.28000000000003,
+    "text": "You're going first?"
+  },
+  {
+    "segment_id": "s00114",
+    "start_seconds": 265.28000000000003,
+    "end_seconds": 266.92,
+    "text": "I'll go first if you want."
+  },
+  {
+    "segment_id": "s00115",
+    "start_seconds": 266.92,
+    "end_seconds": 270.88,
+    "text": "So so far, I have been,"
+  },
+  {
+    "segment_id": "s00116",
+    "start_seconds": 271.84000000000003,
+    "end_seconds": 274.12,
+    "text": "I would say have challenged my thinking"
+  },
+  {
+    "segment_id": "s00117",
+    "start_seconds": 274.12,
+    "end_seconds": 278.72,
+    "text": "about what folks need from AI education."
+  },
+  {
+    "segment_id": "s00118",
+    "start_seconds": 278.72,
+    "end_seconds": 282.76000000000005,
+    "text": "So I have gotten to sit now in our council meeting"
+  },
+  {
+    "segment_id": "s00119",
+    "start_seconds": 282.76000000000005,
+    "end_seconds": 286.8,
+    "text": "with some very advanced marketing and AI leaders."
+  },
+  {
+    "segment_id": "s00120",
+    "start_seconds": 286.8,
+    "end_seconds": 290.16,
+    "text": "I've taught a workshop to an incredible audience,"
+  },
+  {
+    "segment_id": "s00121",
+    "start_seconds": 290.16,
+    "end_seconds": 294.04,
+    "text": "but many different levels of AI literacy in the group."
+  },
+  {
+    "segment_id": "s00122",
+    "start_seconds": 294.04,
+    "end_seconds": 297.0,
+    "text": "And then just hearing how people are approaching AI"
+  },
+  {
+    "segment_id": "s00123",
+    "start_seconds": 297.0,
+    "end_seconds": 299.28000000000003,
+    "text": "in their sessions on stage,"
+  },
+  {
+    "segment_id": "s00124",
+    "start_seconds": 299.28000000000003,
+    "end_seconds": 301.8,
+    "text": "hearing where companies are at as interviewing Craig Carmas"
+  },
+  {
+    "segment_id": "s00125",
+    "start_seconds": 301.8,
+    "end_seconds": 304.24,
+    "text": "and at Good Karma Sports this morning on stage."
+  },
+  {
+    "segment_id": "s00126",
+    "start_seconds": 304.24,
+    "end_seconds": 305.08000000000004,
+    "text": "CEO."
+  },
+  {
+    "segment_id": "s00127",
+    "start_seconds": 305.08000000000004,
+    "end_seconds": 306.72,
+    "text": "CEO of Good Karma."
+  },
+  {
+    "segment_id": "s00128",
+    "start_seconds": 306.72,
+    "end_seconds": 309.76000000000005,
+    "text": "And hearing just the diversity of journeys"
+  },
+  {
+    "segment_id": "s00129",
+    "start_seconds": 309.76000000000005,
+    "end_seconds": 312.68,
+    "text": "makes me challenge a lot of my own thinking"
+  },
+  {
+    "segment_id": "s00130",
+    "start_seconds": 312.68,
+    "end_seconds": 315.84000000000003,
+    "text": "about how we as an organization at Smarter X"
+  },
+  {
+    "segment_id": "s00131",
+    "start_seconds": 315.84000000000003,
+    "end_seconds": 318.20000000000005,
+    "text": "need to be meeting people where they are"
+  },
+  {
+    "segment_id": "s00132",
+    "start_seconds": 318.20000000000005,
+    "end_seconds": 322.84000000000003,
+    "text": "and how to actually get to bring them along to the next level"
+  },
+  {
+    "segment_id": "s00133",
+    "start_seconds": 322.84000000000003,
+    "end_seconds": 325.88000000000005,
+    "text": "and what that looks like when it comes to AI education."
+  },
+  {
+    "segment_id": "s00134",
+    "start_seconds": 325.88000000000005,
+    "end_seconds": 329.16,
+    "text": "So I don't know if I'm overturning anything I thought before,"
+  },
+  {
+    "segment_id": "s00135",
+    "start_seconds": 329.16,
+    "end_seconds": 331.64000000000004,
+    "text": "but I'm thinking a lot deeper about,"
+  },
+  {
+    "segment_id": "s00136",
+    "start_seconds": 331.64000000000004,
+    "end_seconds": 335.32000000000005,
+    "text": "I don't know if it's just a beginner intermediate advanced journey."
+  },
+  {
+    "segment_id": "s00137",
+    "start_seconds": 335.32,
+    "end_seconds": 337.64,
+    "text": "I'm thinking about a lot more nuance,"
+  },
+  {
+    "segment_id": "s00138",
+    "start_seconds": 337.64,
+    "end_seconds": 341.56,
+    "text": "a lot more granularity of what the AI education journey looks"
+  },
+  {
+    "segment_id": "s00139",
+    "start_seconds": 341.56,
+    "end_seconds": 342.4,
+    "text": "like I think."
+  },
+  {
+    "segment_id": "s00140",
+    "start_seconds": 342.4,
+    "end_seconds": 344.71999999999997,
+    "text": "I'm sure that kind of hurts my brain right now."
+  },
+  {
+    "segment_id": "s00141",
+    "start_seconds": 346.71999999999997,
+    "end_seconds": 348.28,
+    "text": "Yeah, I don't know, like I,"
+  },
+  {
+    "segment_id": "s00142",
+    "start_seconds": 348.28,
+    "end_seconds": 349.92,
+    "text": "there's one really cool thing I've seen,"
+  },
+  {
+    "segment_id": "s00143",
+    "start_seconds": 349.92,
+    "end_seconds": 354.0,
+    "text": "which is I've had conversations at least three of them"
+  },
+  {
+    "segment_id": "s00144",
+    "start_seconds": 354.0,
+    "end_seconds": 356.36,
+    "text": "where it was someone who was here last year"
+  },
+  {
+    "segment_id": "s00145",
+    "start_seconds": 356.36,
+    "end_seconds": 358.96,
+    "text": "who was trying to figure out a kind of get the transformation"
+  },
+  {
+    "segment_id": "s00146",
+    "start_seconds": 358.96,
+    "end_seconds": 361.12,
+    "text": "going for say their marketing team"
+  },
+  {
+    "segment_id": "s00147",
+    "start_seconds": 361.12,
+    "end_seconds": 364.56,
+    "text": "who is now either in the head of AI transformation"
+  },
+  {
+    "segment_id": "s00148",
+    "start_seconds": 364.56,
+    "end_seconds": 367.6,
+    "text": "for their organization or about to become."
+  },
+  {
+    "segment_id": "s00149",
+    "start_seconds": 367.6,
+    "end_seconds": 370.48,
+    "text": "And so what it's shown me is in these lot of big companies"
+  },
+  {
+    "segment_id": "s00150",
+    "start_seconds": 370.48,
+    "end_seconds": 372.72,
+    "text": "we talked about this idea of like you just become"
+  },
+  {
+    "segment_id": "s00151",
+    "start_seconds": 372.72,
+    "end_seconds": 375.36,
+    "text": "the change agent, like be the person who's proactive."
+  },
+  {
+    "segment_id": "s00152",
+    "start_seconds": 375.36,
+    "end_seconds": 377.8,
+    "text": "And what we're actually starting to hear is it's working."
+  },
+  {
+    "segment_id": "s00153",
+    "start_seconds": 377.8,
+    "end_seconds": 380.08,
+    "text": "It's like the people, whether you're in marketing"
+  },
+  {
+    "segment_id": "s00154",
+    "start_seconds": 380.08,
+    "end_seconds": 384.52,
+    "text": "or ops or whatever who just goes and figures this out,"
+  },
+  {
+    "segment_id": "s00155",
+    "start_seconds": 384.52,
+    "end_seconds": 387.84000000000003,
+    "text": "then when everyone else, including the C-suite realizes"
+  },
+  {
+    "segment_id": "s00156",
+    "start_seconds": 387.84000000000003,
+    "end_seconds": 390.76,
+    "text": "we don't know what we're doing, who's doing it,"
+  },
+  {
+    "segment_id": "s00157",
+    "start_seconds": 390.76,
+    "end_seconds": 393.52,
+    "text": "it doesn't matter if you were a marketing associate"
+  },
+  {
+    "segment_id": "s00158",
+    "start_seconds": 393.52,
+    "end_seconds": 395.28,
+    "text": "two years ago, it's like you're the one"
+  },
+  {
+    "segment_id": "s00159",
+    "start_seconds": 395.28,
+    "end_seconds": 398.4,
+    "text": "that actually knows it, you're now in charge of this"
+  },
+  {
+    "segment_id": "s00160",
+    "start_seconds": 398.4,
+    "end_seconds": 400.84,
+    "text": "and let's go find five other people like you."
+  },
+  {
+    "segment_id": "s00161",
+    "start_seconds": 400.84,
+    "end_seconds": 401.76,
+    "text": "Ty, good karma."
+  },
+  {
+    "segment_id": "s00162",
+    "start_seconds": 401.76,
+    "end_seconds": 403.47999999999996,
+    "text": "They told that story kind of around Ty"
+  },
+  {
+    "segment_id": "s00163",
+    "start_seconds": 403.47999999999996,
+    "end_seconds": 405.24,
+    "text": "where it's like he heard Craig say,"
+  },
+  {
+    "segment_id": "s00164",
+    "start_seconds": 405.24,
+    "end_seconds": 407.32,
+    "text": "hey, we're going all in on AI."
+  },
+  {
+    "segment_id": "s00165",
+    "start_seconds": 407.32,
+    "end_seconds": 409.24,
+    "text": "And Ty's like, all right, let's go."
+  },
+  {
+    "segment_id": "s00166",
+    "start_seconds": 409.24,
+    "end_seconds": 411.59999999999997,
+    "text": "And all of a sudden, Ty's like in this role"
+  },
+  {
+    "segment_id": "s00167",
+    "start_seconds": 411.59999999999997,
+    "end_seconds": 414.91999999999996,
+    "text": "where he's having a massive impact across the organization."
+  },
+  {
+    "segment_id": "s00168",
+    "start_seconds": 414.91999999999996,
+    "end_seconds": 416.44,
+    "text": "So I think that was kind of cool."
+  },
+  {
+    "segment_id": "s00169",
+    "start_seconds": 416.44,
+    "end_seconds": 418.76,
+    "text": "Just to like, you know, every year we come back"
+  },
+  {
+    "segment_id": "s00170",
+    "start_seconds": 418.76,
+    "end_seconds": 420.76,
+    "text": "and we hear these stories about the impact,"
+  },
+  {
+    "segment_id": "s00171",
+    "start_seconds": 420.76,
+    "end_seconds": 422.84,
+    "text": "not, I don't think about like the impact we've had."
+  },
+  {
+    "segment_id": "s00172",
+    "start_seconds": 422.84000000000003,
+    "end_seconds": 424.32000000000005,
+    "text": "It's the impact the community has had"
+  },
+  {
+    "segment_id": "s00173",
+    "start_seconds": 424.32000000000005,
+    "end_seconds": 426.92,
+    "text": "where people get together, they collaborate,"
+  },
+  {
+    "segment_id": "s00174",
+    "start_seconds": 426.92,
+    "end_seconds": 429.8,
+    "text": "they get inspired by each other, they go to all these talks."
+  },
+  {
+    "segment_id": "s00175",
+    "start_seconds": 429.8,
+    "end_seconds": 431.32000000000005,
+    "text": "And then they leave and they go do something"
+  },
+  {
+    "segment_id": "s00176",
+    "start_seconds": 431.32000000000005,
+    "end_seconds": 433.56000000000006,
+    "text": "and a year back, later they come back and it's like,"
+  },
+  {
+    "segment_id": "s00177",
+    "start_seconds": 433.56000000000006,
+    "end_seconds": 435.40000000000003,
+    "text": "yeah, like, I'm in this dream job,"
+  },
+  {
+    "segment_id": "s00178",
+    "start_seconds": 435.40000000000003,
+    "end_seconds": 437.68,
+    "text": "like we created this role for me."
+  },
+  {
+    "segment_id": "s00179",
+    "start_seconds": 437.68,
+    "end_seconds": 439.40000000000003,
+    "text": "And so I think it's just, it's encouraging"
+  },
+  {
+    "segment_id": "s00180",
+    "start_seconds": 439.40000000000003,
+    "end_seconds": 442.6,
+    "text": "because it shows that we really can create"
+  },
+  {
+    "segment_id": "s00181",
+    "start_seconds": 442.6,
+    "end_seconds": 446.00000000000006,
+    "text": "these new career paths, you know, as a business world."
+  },
+  {
+    "segment_id": "s00182",
+    "start_seconds": 446.00000000000006,
+    "end_seconds": 448.8,
+    "text": "Not saying we, smarter X, but we have this ability"
+  },
+  {
+    "segment_id": "s00183",
+    "start_seconds": 448.8,
+    "end_seconds": 450.8,
+    "text": "to reimagine like what we can do"
+  },
+  {
+    "segment_id": "s00184",
+    "start_seconds": 450.8,
+    "end_seconds": 451.96000000000004,
+    "text": "and the people who are proactive"
+  },
+  {
+    "segment_id": "s00185",
+    "start_seconds": 451.96000000000004,
+    "end_seconds": 453.04,
+    "text": "are gonna be on the frontiers of it"
+  },
+  {
+    "segment_id": "s00186",
+    "start_seconds": 453.04,
+    "end_seconds": 454.32000000000005,
+    "text": "and have really cool opportunities."
+  },
+  {
+    "segment_id": "s00187",
+    "start_seconds": 454.32000000000005,
+    "end_seconds": 455.44000000000005,
+    "text": "Yeah, that's a really good point."
+  },
+  {
+    "segment_id": "s00188",
+    "start_seconds": 455.44000000000005,
+    "end_seconds": 458.52000000000004,
+    "text": "It makes me think of several people, yeah,"
+  },
+  {
+    "segment_id": "s00189",
+    "start_seconds": 458.52000000000004,
+    "end_seconds": 460.96000000000004,
+    "text": "I've talked to who are just in these roles"
+  },
+  {
+    "segment_id": "s00190",
+    "start_seconds": 460.96000000000004,
+    "end_seconds": 464.08000000000004,
+    "text": "that like frankly do not exist on a job board right now"
+  },
+  {
+    "segment_id": "s00191",
+    "start_seconds": 464.08000000000004,
+    "end_seconds": 465.68000000000006,
+    "text": "that are incredible opportunity."
+  },
+  {
+    "segment_id": "s00192",
+    "start_seconds": 466.6,
+    "end_seconds": 467.92,
+    "text": "Okay, next question."
+  },
+  {
+    "segment_id": "s00193",
+    "start_seconds": 467.92,
+    "end_seconds": 472.72,
+    "text": "How do you keep up with AI without feeling overwhelmed?"
+  },
+  {
+    "segment_id": "s00194",
+    "start_seconds": 472.72,
+    "end_seconds": 474.84000000000003,
+    "text": "How do you do it without burning out?"
+  },
+  {
+    "segment_id": "s00195",
+    "start_seconds": 474.84000000000003,
+    "end_seconds": 477.72,
+    "text": "Are there any specific tips or strategies you use?"
+  },
+  {
+    "segment_id": "s00196",
+    "start_seconds": 477.72,
+    "end_seconds": 480.90000000000003,
+    "text": "Any boundaries you have to draw to kind of stay sane?"
+  },
+  {
+    "segment_id": "s00197",
+    "start_seconds": 482.20000000000005,
+    "end_seconds": 486.04,
+    "text": "Yeah, I mean, I think like for me,"
+  },
+  {
+    "segment_id": "s00198",
+    "start_seconds": 486.04,
+    "end_seconds": 491.04,
+    "text": "I've become pretty disciplined just about my not non-AI time."
+  },
+  {
+    "segment_id": "s00199",
+    "start_seconds": 491.52000000000004,
+    "end_seconds": 495.76000000000005,
+    "text": "Like I definitely spend a lot of like ambient time thinking"
+  },
+  {
+    "segment_id": "s00200",
+    "start_seconds": 495.76000000000005,
+    "end_seconds": 499.00000000000006,
+    "text": "about AI scrolling, you know, my AI feed on X"
+  },
+  {
+    "segment_id": "s00201",
+    "start_seconds": 499.00000000000006,
+    "end_seconds": 501.20000000000005,
+    "text": "is where the vast majority of my information comes from"
+  },
+  {
+    "segment_id": "s00202",
+    "start_seconds": 501.20000000000005,
+    "end_seconds": 502.04,
+    "text": "for better or for worse,"
+  },
+  {
+    "segment_id": "s00203",
+    "start_seconds": 502.04,
+    "end_seconds": 506.44000000000005,
+    "text": "but it's like a highly curated list of probably 400 or 500 people."
+  },
+  {
+    "segment_id": "s00204",
+    "start_seconds": 506.44000000000005,
+    "end_seconds": 510.08000000000004,
+    "text": "And so I monitor that all the time."
+  },
+  {
+    "segment_id": "s00205",
+    "start_seconds": 511.0,
+    "end_seconds": 514.0799999999999,
+    "text": "A lot of times on walks or going to the gym or in the car,"
+  },
+  {
+    "segment_id": "s00206",
+    "start_seconds": 514.0799999999999,
+    "end_seconds": 517.04,
+    "text": "I'm listening to podcasts and you just never know"
+  },
+  {
+    "segment_id": "s00207",
+    "start_seconds": 517.04,
+    "end_seconds": 518.3199999999999,
+    "text": "when you're going to hear that one episode"
+  },
+  {
+    "segment_id": "s00208",
+    "start_seconds": 518.3199999999999,
+    "end_seconds": 519.36,
+    "text": "that triggers something."
+  },
+  {
+    "segment_id": "s00209",
+    "start_seconds": 519.36,
+    "end_seconds": 521.4,
+    "text": "It's either like I have to have that person"
+  },
+  {
+    "segment_id": "s00210",
+    "start_seconds": 521.4,
+    "end_seconds": 523.8,
+    "text": "as a speaker at Macon, like I'm always on the lookout"
+  },
+  {
+    "segment_id": "s00211",
+    "start_seconds": 523.8,
+    "end_seconds": 525.84,
+    "text": "for those kinds of things."
+  },
+  {
+    "segment_id": "s00212",
+    "start_seconds": 525.84,
+    "end_seconds": 528.88,
+    "text": "Or it's just like reinforcing something that,"
+  },
+  {
+    "segment_id": "s00213",
+    "start_seconds": 528.88,
+    "end_seconds": 529.72,
+    "text": "you know, I'll send a mic,"
+  },
+  {
+    "segment_id": "s00214",
+    "start_seconds": 529.72,
+    "end_seconds": 530.92,
+    "text": "but we've got to talk about this."
+  },
+  {
+    "segment_id": "s00215",
+    "start_seconds": 530.92,
+    "end_seconds": 533.96,
+    "text": "Like this, it's just time to deal with this big topic."
+  },
+  {
+    "segment_id": "s00216",
+    "start_seconds": 533.96,
+    "end_seconds": 537.1999999999999,
+    "text": "So I feel like part of my like role right now"
+  },
+  {
+    "segment_id": "s00217",
+    "start_seconds": 537.2,
+    "end_seconds": 539.84,
+    "text": "is to try and like connect the dots"
+  },
+  {
+    "segment_id": "s00218",
+    "start_seconds": 539.84,
+    "end_seconds": 542.48,
+    "text": "and just, you know, pay attention all times."
+  },
+  {
+    "segment_id": "s00219",
+    "start_seconds": 542.48,
+    "end_seconds": 545.76,
+    "text": "But then I don't have any hesitation to be like,"
+  },
+  {
+    "segment_id": "s00220",
+    "start_seconds": 545.76,
+    "end_seconds": 547.0400000000001,
+    "text": "I'm just done for today."
+  },
+  {
+    "segment_id": "s00221",
+    "start_seconds": 547.0400000000001,
+    "end_seconds": 549.0,
+    "text": "Like I'm going to go home and I'm going to like walk up"
+  },
+  {
+    "segment_id": "s00222",
+    "start_seconds": 549.0,
+    "end_seconds": 550.2800000000001,
+    "text": "and meet my daughter from school"
+  },
+  {
+    "segment_id": "s00223",
+    "start_seconds": 550.2800000000001,
+    "end_seconds": 552.8000000000001,
+    "text": "or I'm going to just spend Saturday with my family"
+  },
+  {
+    "segment_id": "s00224",
+    "start_seconds": 552.8000000000001,
+    "end_seconds": 554.5600000000001,
+    "text": "and I'm not going to open the computer."
+  },
+  {
+    "segment_id": "s00225",
+    "start_seconds": 554.5600000000001,
+    "end_seconds": 557.76,
+    "text": "And I think I've just gotten at peace with myself"
+  },
+  {
+    "segment_id": "s00226",
+    "start_seconds": 557.76,
+    "end_seconds": 560.32,
+    "text": "that we're so productive all the time."
+  },
+  {
+    "segment_id": "s00227",
+    "start_seconds": 560.32,
+    "end_seconds": 561.96,
+    "text": "I mean, you and I is a good example."
+  },
+  {
+    "segment_id": "s00228",
+    "start_seconds": 561.96,
+    "end_seconds": 564.48,
+    "text": "Like when you truly infuse AI into your life"
+  },
+  {
+    "segment_id": "s00229",
+    "start_seconds": 564.48,
+    "end_seconds": 565.32,
+    "text": "and into your work,"
+  },
+  {
+    "segment_id": "s00230",
+    "start_seconds": 565.32,
+    "end_seconds": 568.04,
+    "text": "you're just insanely productive."
+  },
+  {
+    "segment_id": "s00231",
+    "start_seconds": 568.04,
+    "end_seconds": 570.08,
+    "text": "And I think you have to just accept"
+  },
+  {
+    "segment_id": "s00232",
+    "start_seconds": 570.08,
+    "end_seconds": 573.04,
+    "text": "that sometimes you've made enough of an impact."
+  },
+  {
+    "segment_id": "s00233",
+    "start_seconds": 573.04,
+    "end_seconds": 578.04,
+    "text": "And like it's okay to disconnect for a little while."
+  },
+  {
+    "segment_id": "s00234",
+    "start_seconds": 578.24,
+    "end_seconds": 580.32,
+    "text": "So I would say it's much more of a mindset"
+  },
+  {
+    "segment_id": "s00235",
+    "start_seconds": 580.32,
+    "end_seconds": 583.44,
+    "text": "and a mental thing than it is like some,"
+  },
+  {
+    "segment_id": "s00236",
+    "start_seconds": 583.44,
+    "end_seconds": 585.64,
+    "text": "here's the exact like workflow I follow"
+  },
+  {
+    "segment_id": "s00237",
+    "start_seconds": 585.64,
+    "end_seconds": 586.52,
+    "text": "to not do a thing."
+  },
+  {
+    "segment_id": "s00238",
+    "start_seconds": 586.52,
+    "end_seconds": 589.6,
+    "text": "It really is just that mental permission for yourself"
+  },
+  {
+    "segment_id": "s00239",
+    "start_seconds": 589.6,
+    "end_seconds": 590.44,
+    "text": "to be okay."
+  },
+  {
+    "segment_id": "s00240",
+    "start_seconds": 590.44,
+    "end_seconds": 592.4,
+    "text": "Like I've learned enough, I've done enough."
+  },
+  {
+    "segment_id": "s00241",
+    "start_seconds": 592.88,
+    "end_seconds": 595.64,
+    "text": "That being said, like I'm exhausted last night."
+  },
+  {
+    "segment_id": "s00242",
+    "start_seconds": 595.64,
+    "end_seconds": 597.84,
+    "text": "Like I'm, you know, on my deathbed this morning"
+  },
+  {
+    "segment_id": "s00243",
+    "start_seconds": 597.84,
+    "end_seconds": 599.48,
+    "text": "and I'm still scanning X"
+  },
+  {
+    "segment_id": "s00244",
+    "start_seconds": 599.48,
+    "end_seconds": 601.28,
+    "text": "and putting things in the podcast sandbox."
+  },
+  {
+    "segment_id": "s00245",
+    "start_seconds": 601.28,
+    "end_seconds": 604.16,
+    "text": "Like it's just like your mind like is wired to just,"
+  },
+  {
+    "segment_id": "s00246",
+    "start_seconds": 604.16,
+    "end_seconds": 605.0,
+    "text": "what did I miss today?"
+  },
+  {
+    "segment_id": "s00247",
+    "start_seconds": 605.0,
+    "end_seconds": 606.04,
+    "text": "What's important to talk about?"
+  },
+  {
+    "segment_id": "s00248",
+    "start_seconds": 606.04,
+    "end_seconds": 606.88,
+    "text": "Yeah."
+  },
+  {
+    "segment_id": "s00249",
+    "start_seconds": 606.88,
+    "end_seconds": 609.16,
+    "text": "You know, I talked to someone last night"
+  },
+  {
+    "segment_id": "s00250",
+    "start_seconds": 609.16,
+    "end_seconds": 612.3199999999999,
+    "text": "and this morning about kind of the concept"
+  },
+  {
+    "segment_id": "s00251",
+    "start_seconds": 612.3199999999999,
+    "end_seconds": 614.6,
+    "text": "of running your own race, right?"
+  },
+  {
+    "segment_id": "s00252",
+    "start_seconds": 614.6,
+    "end_seconds": 616.0,
+    "text": "And I try to remind myself of that"
+  },
+  {
+    "segment_id": "s00253",
+    "start_seconds": 616.0,
+    "end_seconds": 617.12,
+    "text": "to avoid feeling overwhelmed."
+  },
+  {
+    "segment_id": "s00254",
+    "start_seconds": 617.12,
+    "end_seconds": 618.92,
+    "text": "Like someone was telling me the elaborate story"
+  },
+  {
+    "segment_id": "s00255",
+    "start_seconds": 618.92,
+    "end_seconds": 622.0,
+    "text": "really great about how they had changed their career,"
+  },
+  {
+    "segment_id": "s00256",
+    "start_seconds": 622.0,
+    "end_seconds": 625.72,
+    "text": "their business by applying AI to their particular industry."
+  },
+  {
+    "segment_id": "s00257",
+    "start_seconds": 625.72,
+    "end_seconds": 628.92,
+    "text": "They were seen as like an authority in their field now on it"
+  },
+  {
+    "segment_id": "s00258",
+    "start_seconds": 628.92,
+    "end_seconds": 631.28,
+    "text": "and we're teaching around it, speaking around it."
+  },
+  {
+    "segment_id": "s00259",
+    "start_seconds": 631.28,
+    "end_seconds": 632.8,
+    "text": "And they were like, yeah, but like,"
+  },
+  {
+    "segment_id": "s00260",
+    "start_seconds": 632.8,
+    "end_seconds": 634.36,
+    "text": "that's just in my little corner of the world."
+  },
+  {
+    "segment_id": "s00261",
+    "start_seconds": 634.36,
+    "end_seconds": 636.52,
+    "text": "And this, I won't name any specifics."
+  },
+  {
+    "segment_id": "s00262",
+    "start_seconds": 636.52,
+    "end_seconds": 637.8,
+    "text": "It was a huge industry."
+  },
+  {
+    "segment_id": "s00263",
+    "start_seconds": 637.8,
+    "end_seconds": 640.76,
+    "text": "It was like a significant industry."
+  },
+  {
+    "segment_id": "s00264",
+    "start_seconds": 640.76,
+    "end_seconds": 642.56,
+    "text": "And they were like, oh yeah, but the speakers here"
+  },
+  {
+    "segment_id": "s00265",
+    "start_seconds": 642.56,
+    "end_seconds": 643.72,
+    "text": "are doing this with that."
+  },
+  {
+    "segment_id": "s00266",
+    "start_seconds": 643.72,
+    "end_seconds": 645.72,
+    "text": "You know, they're using Muse or Instinct"
+  },
+  {
+    "segment_id": "s00267",
+    "start_seconds": 645.72,
+    "end_seconds": 648.24,
+    "text": "or dots or whatever the flavor of the week is."
+  },
+  {
+    "segment_id": "s00268",
+    "start_seconds": 648.24,
+    "end_seconds": 651.32,
+    "text": "And I was like, all that matters is like,"
+  },
+  {
+    "segment_id": "s00269",
+    "start_seconds": 651.32,
+    "end_seconds": 655.0,
+    "text": "did you transform your business, your life, your work?"
+  },
+  {
+    "segment_id": "s00270",
+    "start_seconds": 655.0,
+    "end_seconds": 656.6800000000001,
+    "text": "It doesn't, you don't get extra points"
+  },
+  {
+    "segment_id": "s00271",
+    "start_seconds": 656.6800000000001,
+    "end_seconds": 659.0,
+    "text": "for how many different types of agents you are."
+  },
+  {
+    "segment_id": "s00272",
+    "start_seconds": 659.0,
+    "end_seconds": 660.4000000000001,
+    "text": "It's amazing if you're doing that."
+  },
+  {
+    "segment_id": "s00273",
+    "start_seconds": 660.4000000000001,
+    "end_seconds": 662.5200000000001,
+    "text": "If you're geeked out about it, use a million of them."
+  },
+  {
+    "segment_id": "s00274",
+    "start_seconds": 662.5200000000001,
+    "end_seconds": 664.6400000000001,
+    "text": "But like, I have to remind myself of that too."
+  },
+  {
+    "segment_id": "s00275",
+    "start_seconds": 664.6400000000001,
+    "end_seconds": 666.48,
+    "text": "It's like, you don't get extra points for it."
+  },
+  {
+    "segment_id": "s00276",
+    "start_seconds": 666.48,
+    "end_seconds": 668.0400000000001,
+    "text": "You get extra points for the outcomes."
+  },
+  {
+    "segment_id": "s00277",
+    "start_seconds": 668.0400000000001,
+    "end_seconds": 670.0400000000001,
+    "text": "And it's like, you're not a header behind"
+  },
+  {
+    "segment_id": "s00278",
+    "start_seconds": 670.0400000000001,
+    "end_seconds": 671.88,
+    "text": "if you're getting the outcomes."
+  },
+  {
+    "segment_id": "s00279",
+    "start_seconds": 671.88,
+    "end_seconds": 674.36,
+    "text": "Yeah, and I mean, I guess it's a weird way"
+  },
+  {
+    "segment_id": "s00280",
+    "start_seconds": 674.36,
+    "end_seconds": 675.84,
+    "text": "we're like getting into the loss of the year,"
+  },
+  {
+    "segment_id": "s00281",
+    "start_seconds": 675.84,
+    "end_seconds": 677.6400000000001,
+    "text": "but like mine was the mindset."
+  },
+  {
+    "segment_id": "s00282",
+    "start_seconds": 677.6400000000001,
+    "end_seconds": 679.24,
+    "text": "And I think that is like as an entrepreneur,"
+  },
+  {
+    "segment_id": "s00283",
+    "start_seconds": 679.24,
+    "end_seconds": 680.5600000000001,
+    "text": "I used to deal with this all the time."
+  },
+  {
+    "segment_id": "s00284",
+    "start_seconds": 680.5600000000001,
+    "end_seconds": 682.2,
+    "text": "Like people are like, well, how many employees do you have?"
+  },
+  {
+    "segment_id": "s00285",
+    "start_seconds": 682.2,
+    "end_seconds": 683.0400000000001,
+    "text": "What's your revenue wrong?"
+  },
+  {
+    "segment_id": "s00286",
+    "start_seconds": 683.0400000000001,
+    "end_seconds": 684.9200000000001,
+    "text": "And it's like, well, I don't know."
+  },
+  {
+    "segment_id": "s00287",
+    "start_seconds": 684.9200000000001,
+    "end_seconds": 686.6400000000001,
+    "text": "Like, why don't we talk to each about how we're doing"
+  },
+  {
+    "segment_id": "s00288",
+    "start_seconds": 686.6400000000001,
+    "end_seconds": 687.6,
+    "text": "and like what the struggles are?"
+  },
+  {
+    "segment_id": "s00289",
+    "start_seconds": 687.6,
+    "end_seconds": 688.72,
+    "text": "Like, why does it matter?"
+  },
+  {
+    "segment_id": "s00290",
+    "start_seconds": 688.72,
+    "end_seconds": 691.6400000000001,
+    "text": "Like, why do we measure my success as an entrepreneur"
+  },
+  {
+    "segment_id": "s00291",
+    "start_seconds": 691.6400000000001,
+    "end_seconds": 693.72,
+    "text": "just purely on how many employees I've gotten to hire?"
+  },
+  {
+    "segment_id": "s00292",
+    "start_seconds": 693.72,
+    "end_seconds": 695.24,
+    "text": "Like, but that was the thing."
+  },
+  {
+    "segment_id": "s00293",
+    "start_seconds": 695.24,
+    "end_seconds": 696.6800000000001,
+    "text": "It was always this like, you felt like someone was trying"
+  },
+  {
+    "segment_id": "s00294",
+    "start_seconds": 696.6800000000001,
+    "end_seconds": 699.2,
+    "text": "to compare your ability to grow faster than it was like,"
+  },
+  {
+    "segment_id": "s00295",
+    "start_seconds": 699.2,
+    "end_seconds": 700.0400000000001,
+    "text": "what do we care?"
+  },
+  {
+    "segment_id": "s00296",
+    "start_seconds": 700.0400000000001,
+    "end_seconds": 701.6800000000001,
+    "text": "Like we're both entrepreneurs, let's just help each other."
+  },
+  {
+    "segment_id": "s00297",
+    "start_seconds": 701.6800000000001,
+    "end_seconds": 703.1600000000001,
+    "text": "And I feel like AI is in a similar boat."
+  },
+  {
+    "segment_id": "s00298",
+    "start_seconds": 703.1600000000001,
+    "end_seconds": 704.96,
+    "text": "It's like, I'm not using Muse."
+  },
+  {
+    "segment_id": "s00299",
+    "start_seconds": 704.96,
+    "end_seconds": 706.2800000000001,
+    "text": "I've been connected to all my stuff."
+  },
+  {
+    "segment_id": "s00300",
+    "start_seconds": 706.2800000000001,
+    "end_seconds": 707.9200000000001,
+    "text": "And so you almost feel like inferior."
+  },
+  {
+    "segment_id": "s00301",
+    "start_seconds": 707.9200000000001,
+    "end_seconds": 708.7600000000001,
+    "text": "Yeah, exactly."
+  },
+  {
+    "segment_id": "s00302",
+    "start_seconds": 709.3199999999999,
+    "end_seconds": 710.76,
+    "text": "You don't have to feel that way to your point."
+  },
+  {
+    "segment_id": "s00303",
+    "start_seconds": 710.76,
+    "end_seconds": 712.24,
+    "text": "It's just like, what is it helping you?"
+  },
+  {
+    "segment_id": "s00304",
+    "start_seconds": 712.24,
+    "end_seconds": 714.28,
+    "text": "Is what you're doing making a difference in your business?"
+  },
+  {
+    "segment_id": "s00305",
+    "start_seconds": 714.28,
+    "end_seconds": 715.84,
+    "text": "Don't worry about what they're doing."
+  },
+  {
+    "segment_id": "s00306",
+    "start_seconds": 715.84,
+    "end_seconds": 718.28,
+    "text": "Like go to a talk if you get inspired, cool."
+  },
+  {
+    "segment_id": "s00307",
+    "start_seconds": 718.28,
+    "end_seconds": 719.56,
+    "text": "But like I've said, that's probably as far."
+  },
+  {
+    "segment_id": "s00308",
+    "start_seconds": 719.56,
+    "end_seconds": 720.96,
+    "text": "Like you're doing all kinds of stuff with ages."
+  },
+  {
+    "segment_id": "s00309",
+    "start_seconds": 720.96,
+    "end_seconds": 722.56,
+    "text": "Like, I have no idea what you're doing."
+  },
+  {
+    "segment_id": "s00310",
+    "start_seconds": 722.56,
+    "end_seconds": 725.76,
+    "text": "Like, I wouldn't even know how to do the things you're explaining."
+  },
+  {
+    "segment_id": "s00311",
+    "start_seconds": 725.76,
+    "end_seconds": 726.76,
+    "text": "And like, that's cool."
+  },
+  {
+    "segment_id": "s00312",
+    "start_seconds": 726.76,
+    "end_seconds": 727.68,
+    "text": "Cause that's your thing."
+  },
+  {
+    "segment_id": "s00313",
+    "start_seconds": 727.68,
+    "end_seconds": 729.96,
+    "text": "And like, I'm doing my thing and it works out really well."
+  },
+  {
+    "segment_id": "s00314",
+    "start_seconds": 729.96,
+    "end_seconds": 730.8,
+    "text": "Right."
+  },
+  {
+    "segment_id": "s00315",
+    "start_seconds": 730.8,
+    "end_seconds": 731.8,
+    "text": "All right."
+  },
+  {
+    "segment_id": "s00316",
+    "start_seconds": 731.8,
+    "end_seconds": 734.76,
+    "text": "This next question, the listener said,"
+  },
+  {
+    "segment_id": "s00317",
+    "start_seconds": 734.76,
+    "end_seconds": 738.08,
+    "text": "I keep coming back to the idea that how we learn"
+  },
+  {
+    "segment_id": "s00318",
+    "start_seconds": 738.08,
+    "end_seconds": 739.44,
+    "text": "is not how we live."
+  },
+  {
+    "segment_id": "s00319",
+    "start_seconds": 739.44,
+    "end_seconds": 743.48,
+    "text": "We can all be taught the same methodology or SOP,"
+  },
+  {
+    "segment_id": "s00320",
+    "start_seconds": 743.48,
+    "end_seconds": 746.0400000000001,
+    "text": "but how it's applied differs from person to person."
+  },
+  {
+    "segment_id": "s00321",
+    "start_seconds": 746.0400000000001,
+    "end_seconds": 749.2,
+    "text": "So with AI, how do you get someone from this stage of like,"
+  },
+  {
+    "segment_id": "s00322",
+    "start_seconds": 749.2,
+    "end_seconds": 752.6,
+    "text": "I can follow the demo or framework or steps"
+  },
+  {
+    "segment_id": "s00323",
+    "start_seconds": 752.6,
+    "end_seconds": 755.2,
+    "text": "to I can actually figure out how to use this in my own work?"
+  },
+  {
+    "segment_id": "s00324",
+    "start_seconds": 755.2,
+    "end_seconds": 758.0400000000001,
+    "text": "I feel like teaching workshops is like 100%."
+  },
+  {
+    "segment_id": "s00325",
+    "start_seconds": 758.0400000000001,
+    "end_seconds": 759.0400000000001,
+    "text": "I've been like struggling."
+  },
+  {
+    "segment_id": "s00326",
+    "start_seconds": 759.0400000000001,
+    "end_seconds": 761.64,
+    "text": "How do you like, you can give someone the plan on paper,"
+  },
+  {
+    "segment_id": "s00327",
+    "start_seconds": 761.64,
+    "end_seconds": 766.12,
+    "text": "or even in a company, how does it actually get translated"
+  },
+  {
+    "segment_id": "s00328",
+    "start_seconds": 766.12,
+    "end_seconds": 766.96,
+    "text": "to their work?"
+  },
+  {
+    "segment_id": "s00329",
+    "start_seconds": 766.96,
+    "end_seconds": 768.88,
+    "text": "Like, how do you see that balance?"
+  },
+  {
+    "segment_id": "s00330",
+    "start_seconds": 768.88,
+    "end_seconds": 772.12,
+    "text": "Yeah, this is why I talk a lot about the personalized journeys."
+  },
+  {
+    "segment_id": "s00331",
+    "start_seconds": 772.12,
+    "end_seconds": 775.2,
+    "text": "Like, and not just, hey, here's 10 courses you should take."
+  },
+  {
+    "segment_id": "s00332",
+    "start_seconds": 775.2,
+    "end_seconds": 777.44,
+    "text": "And we suggest starting with these five."
+  },
+  {
+    "segment_id": "s00333",
+    "start_seconds": 777.44,
+    "end_seconds": 778.8000000000001,
+    "text": "Like, that's not personalization."
+  },
+  {
+    "segment_id": "s00334",
+    "start_seconds": 778.8000000000001,
+    "end_seconds": 781.44,
+    "text": "Personalization is like, well, where are you at today"
+  },
+  {
+    "segment_id": "s00335",
+    "start_seconds": 781.44,
+    "end_seconds": 782.6800000000001,
+    "text": "with your understanding?"
+  },
+  {
+    "segment_id": "s00336",
+    "start_seconds": 782.6800000000001,
+    "end_seconds": 785.2,
+    "text": "What is your like sentiment towards AI?"
+  },
+  {
+    "segment_id": "s00337",
+    "start_seconds": 785.2,
+    "end_seconds": 786.12,
+    "text": "Did you hate it?"
+  },
+  {
+    "segment_id": "s00338",
+    "start_seconds": 786.12,
+    "end_seconds": 789.0,
+    "text": "Like, are you afraid of it taking your job?"
+  },
+  {
+    "segment_id": "s00339",
+    "start_seconds": 789.0,
+    "end_seconds": 791.0,
+    "text": "And so from an organizational perspective,"
+  },
+  {
+    "segment_id": "s00340",
+    "start_seconds": 791.0,
+    "end_seconds": 793.72,
+    "text": "until we understand where people are really at,"
+  },
+  {
+    "segment_id": "s00341",
+    "start_seconds": 793.72,
+    "end_seconds": 796.0400000000001,
+    "text": "it's hard to diagnose or prescribe"
+  },
+  {
+    "segment_id": "s00342",
+    "start_seconds": 796.04,
+    "end_seconds": 797.88,
+    "text": "what a journey should look like for them"
+  },
+  {
+    "segment_id": "s00343",
+    "start_seconds": 797.88,
+    "end_seconds": 800.4,
+    "text": "and how we should adapt to their behaviors,"
+  },
+  {
+    "segment_id": "s00344",
+    "start_seconds": 800.4,
+    "end_seconds": 802.76,
+    "text": "their goals and their careers, things like that."
+  },
+  {
+    "segment_id": "s00345",
+    "start_seconds": 802.76,
+    "end_seconds": 803.92,
+    "text": "So, yeah, I don't know."
+  },
+  {
+    "segment_id": "s00346",
+    "start_seconds": 803.92,
+    "end_seconds": 806.7199999999999,
+    "text": "That's why I think like the personalization becomes so critical."
+  },
+  {
+    "segment_id": "s00347",
+    "start_seconds": 806.7199999999999,
+    "end_seconds": 810.56,
+    "text": "And so few organizations are doing it really well right now."
+  },
+  {
+    "segment_id": "s00348",
+    "start_seconds": 810.56,
+    "end_seconds": 813.04,
+    "text": "But that's like, we're trying to enable that"
+  },
+  {
+    "segment_id": "s00349",
+    "start_seconds": 813.04,
+    "end_seconds": 814.3199999999999,
+    "text": "a little bit better, I guess."
+  },
+  {
+    "segment_id": "s00350",
+    "start_seconds": 814.3199999999999,
+    "end_seconds": 815.9599999999999,
+    "text": "Kind of related to that, it was funny,"
+  },
+  {
+    "segment_id": "s00351",
+    "start_seconds": 815.9599999999999,
+    "end_seconds": 818.4399999999999,
+    "text": "I was having a conversation with our friend, Jeff Culliton,"
+  },
+  {
+    "segment_id": "s00352",
+    "start_seconds": 818.4399999999999,
+    "end_seconds": 820.64,
+    "text": "who has helped me sub in these everywhere"
+  },
+  {
+    "segment_id": "s00353",
+    "start_seconds": 820.64,
+    "end_seconds": 823.1999999999999,
+    "text": "on the makeup stage."
+  },
+  {
+    "segment_id": "s00354",
+    "start_seconds": 823.1999999999999,
+    "end_seconds": 825.7199999999999,
+    "text": "And it reminds me of just how personalized AI"
+  },
+  {
+    "segment_id": "s00355",
+    "start_seconds": 825.72,
+    "end_seconds": 828.5600000000001,
+    "text": "can be because we're both similar in the sense"
+  },
+  {
+    "segment_id": "s00356",
+    "start_seconds": 828.5600000000001,
+    "end_seconds": 832.28,
+    "text": "where it's hilarious how bad of detail-oriented people we are."
+  },
+  {
+    "segment_id": "s00357",
+    "start_seconds": 832.28,
+    "end_seconds": 835.96,
+    "text": "So we both have given Claude and Codex rules"
+  },
+  {
+    "segment_id": "s00358",
+    "start_seconds": 835.96,
+    "end_seconds": 838.0,
+    "text": "about how to talk to us and work with us"
+  },
+  {
+    "segment_id": "s00359",
+    "start_seconds": 838.0,
+    "end_seconds": 840.1600000000001,
+    "text": "because otherwise it can be a disaster."
+  },
+  {
+    "segment_id": "s00360",
+    "start_seconds": 840.1600000000001,
+    "end_seconds": 842.76,
+    "text": "And I was felt so seen because Jeff was like,"
+  },
+  {
+    "segment_id": "s00361",
+    "start_seconds": 842.76,
+    "end_seconds": 844.8000000000001,
+    "text": "yeah, I've got this whole working doc with Claude"
+  },
+  {
+    "segment_id": "s00362",
+    "start_seconds": 844.8000000000001,
+    "end_seconds": 846.1600000000001,
+    "text": "about all the things I'm bad at."
+  },
+  {
+    "segment_id": "s00363",
+    "start_seconds": 846.1600000000001,
+    "end_seconds": 848.44,
+    "text": "And I was like, so do I, this is great."
+  },
+  {
+    "segment_id": "s00364",
+    "start_seconds": 848.44,
+    "end_seconds": 852.08,
+    "text": "My point here being that mine is gonna look completely opposite"
+  },
+  {
+    "segment_id": "s00365",
+    "start_seconds": 852.08,
+    "end_seconds": 854.0,
+    "text": "to someone like I would suspect like Ashley"
+  },
+  {
+    "segment_id": "s00366",
+    "start_seconds": 854.04,
+    "end_seconds": 856.8,
+    "text": "who runs our events is extremely detail-oriented."
+  },
+  {
+    "segment_id": "s00367",
+    "start_seconds": 856.8,
+    "end_seconds": 858.6,
+    "text": "So the way you even work with AI,"
+  },
+  {
+    "segment_id": "s00368",
+    "start_seconds": 858.6,
+    "end_seconds": 861.32,
+    "text": "there's no one-size-fits-all is kind of the point."
+  },
+  {
+    "segment_id": "s00369",
+    "start_seconds": 861.32,
+    "end_seconds": 864.12,
+    "text": "It's so personalized and you have the beauty of it."
+  },
+  {
+    "segment_id": "s00370",
+    "start_seconds": 864.12,
+    "end_seconds": 865.56,
+    "text": "You can now personalize these tools"
+  },
+  {
+    "segment_id": "s00371",
+    "start_seconds": 865.56,
+    "end_seconds": 867.0,
+    "text": "to exactly how your brain works."
+  },
+  {
+    "segment_id": "s00372",
+    "start_seconds": 867.0,
+    "end_seconds": 869.04,
+    "text": "So it's kind of what they're getting as like"
+  },
+  {
+    "segment_id": "s00373",
+    "start_seconds": 869.04,
+    "end_seconds": 870.28,
+    "text": "personalized learning journeys,"
+  },
+  {
+    "segment_id": "s00374",
+    "start_seconds": 870.28,
+    "end_seconds": 872.76,
+    "text": "getting this hyper-personalized to how you work,"
+  },
+  {
+    "segment_id": "s00375",
+    "start_seconds": 872.76,
+    "end_seconds": 875.08,
+    "text": "how you live your life, how you approach your work"
+  },
+  {
+    "segment_id": "s00376",
+    "start_seconds": 875.08,
+    "end_seconds": 876.96,
+    "text": "and your job, it's critical."
+  },
+  {
+    "segment_id": "s00377",
+    "start_seconds": 876.96,
+    "end_seconds": 878.96,
+    "text": "In my workshop, the AI Co-executive,"
+  },
+  {
+    "segment_id": "s00378",
+    "start_seconds": 878.96,
+    "end_seconds": 880.72,
+    "text": "we were building an AI assistant"
+  },
+  {
+    "segment_id": "s00379",
+    "start_seconds": 880.72,
+    "end_seconds": 882.44,
+    "text": "and that was one of the elements."
+  },
+  {
+    "segment_id": "s00380",
+    "start_seconds": 882.44,
+    "end_seconds": 884.2,
+    "text": "There was like 13 components to it."
+  },
+  {
+    "segment_id": "s00381",
+    "start_seconds": 884.2,
+    "end_seconds": 886.8800000000001,
+    "text": "And one of the items within it was the behavior and style."
+  },
+  {
+    "segment_id": "s00382",
+    "start_seconds": 886.8800000000001,
+    "end_seconds": 888.8800000000001,
+    "text": "Like tell it how you want it to talk to you."
+  },
+  {
+    "segment_id": "s00383",
+    "start_seconds": 888.8800000000001,
+    "end_seconds": 889.72,
+    "text": "And it's a really good point"
+  },
+  {
+    "segment_id": "s00384",
+    "start_seconds": 889.72,
+    "end_seconds": 892.72,
+    "text": "because these things come out with some inherent traits"
+  },
+  {
+    "segment_id": "s00385",
+    "start_seconds": 892.72,
+    "end_seconds": 894.32,
+    "text": "that are given to it by the AI labs."
+  },
+  {
+    "segment_id": "s00386",
+    "start_seconds": 894.32,
+    "end_seconds": 895.6,
+    "text": "They're trained to be specific way,"
+  },
+  {
+    "segment_id": "s00387",
+    "start_seconds": 895.6,
+    "end_seconds": 897.08,
+    "text": "talk to you in a specific way,"
+  },
+  {
+    "segment_id": "s00388",
+    "start_seconds": 897.08,
+    "end_seconds": 900.8800000000001,
+    "text": "but increasingly you can tailor how you want it to communicate."
+  },
+  {
+    "segment_id": "s00389",
+    "start_seconds": 900.8800000000001,
+    "end_seconds": 902.96,
+    "text": "And so some people may need it to be stern with them."
+  },
+  {
+    "segment_id": "s00390",
+    "start_seconds": 902.96,
+    "end_seconds": 904.72,
+    "text": "It's like, listen, just be super direct with me"
+  },
+  {
+    "segment_id": "s00391",
+    "start_seconds": 904.72,
+    "end_seconds": 906.24,
+    "text": "and other people are like, you're gonna hurt my feelings."
+  },
+  {
+    "segment_id": "s00392",
+    "start_seconds": 906.24,
+    "end_seconds": 908.4000000000001,
+    "text": "Like just give it to me a little bit softer,"
+  },
+  {
+    "segment_id": "s00393",
+    "start_seconds": 908.4000000000001,
+    "end_seconds": 909.84,
+    "text": "like explain it in a different way"
+  },
+  {
+    "segment_id": "s00394",
+    "start_seconds": 909.84,
+    "end_seconds": 912.2,
+    "text": "or I like to see it from a visual perspective"
+  },
+  {
+    "segment_id": "s00395",
+    "start_seconds": 912.2,
+    "end_seconds": 914.84,
+    "text": "versus text, so build it in charts for me."
+  },
+  {
+    "segment_id": "s00396",
+    "start_seconds": 914.84,
+    "end_seconds": 916.2,
+    "text": "And so I think even that,"
+  },
+  {
+    "segment_id": "s00397",
+    "start_seconds": 916.2,
+    "end_seconds": 919.2800000000001,
+    "text": "like the personalization of how we experience the AI systems"
+  },
+  {
+    "segment_id": "s00398",
+    "start_seconds": 919.2800000000001,
+    "end_seconds": 920.32,
+    "text": "becomes really important."
+  },
+  {
+    "segment_id": "s00399",
+    "start_seconds": 920.32,
+    "end_seconds": 921.88,
+    "text": "For sure."
+  },
+  {
+    "segment_id": "s00400",
+    "start_seconds": 921.88,
+    "end_seconds": 923.6800000000001,
+    "text": "All right, next up."
+  },
+  {
+    "segment_id": "s00401",
+    "start_seconds": 923.6800000000001,
+    "end_seconds": 927.4000000000001,
+    "text": "Someone asked AI models can already do impressive work,"
+  },
+  {
+    "segment_id": "s00402",
+    "start_seconds": 927.4000000000001,
+    "end_seconds": 930.2800000000001,
+    "text": "but in my experience, the blockers are everything"
+  },
+  {
+    "segment_id": "s00403",
+    "start_seconds": 930.2800000000001,
+    "end_seconds": 932.96,
+    "text": "around them, permissions, usage limits,"
+  },
+  {
+    "segment_id": "s00404",
+    "start_seconds": 932.96,
+    "end_seconds": 935.5200000000001,
+    "text": "organizational trust, et cetera."
+  },
+  {
+    "segment_id": "s00405",
+    "start_seconds": 935.5200000000001,
+    "end_seconds": 939.8000000000001,
+    "text": "All these stories I hear are about either a CEO going all in"
+  },
+  {
+    "segment_id": "s00406",
+    "start_seconds": 939.8000000000001,
+    "end_seconds": 941.72,
+    "text": "or a small business owner who can accept"
+  },
+  {
+    "segment_id": "s00407",
+    "start_seconds": 941.72,
+    "end_seconds": 943.32,
+    "text": "the risks and like move fast"
+  },
+  {
+    "segment_id": "s00408",
+    "start_seconds": 943.32,
+    "end_seconds": 946.36,
+    "text": "and get around some of these organizational challenges."
+  },
+  {
+    "segment_id": "s00409",
+    "start_seconds": 946.36,
+    "end_seconds": 948.32,
+    "text": "But the question is, what about everyone"
+  },
+  {
+    "segment_id": "s00410",
+    "start_seconds": 948.32,
+    "end_seconds": 950.0400000000001,
+    "text": "who's in that messy middle?"
+  },
+  {
+    "segment_id": "s00411",
+    "start_seconds": 950.0400000000001,
+    "end_seconds": 953.6800000000001,
+    "text": "How do you get capable AI adopted inside an ordinary"
+  },
+  {
+    "segment_id": "s00412",
+    "start_seconds": 953.6800000000001,
+    "end_seconds": 956.6800000000001,
+    "text": "organization when things like access budgets and trust"
+  },
+  {
+    "segment_id": "s00413",
+    "start_seconds": 956.6800000000001,
+    "end_seconds": 957.84,
+    "text": "still have to be worked out?"
+  },
+  {
+    "segment_id": "s00414",
+    "start_seconds": 957.84,
+    "end_seconds": 960.6800000000001,
+    "text": "That's like 95% of people problem."
+  },
+  {
+    "segment_id": "s00415",
+    "start_seconds": 960.6800000000001,
+    "end_seconds": 963.64,
+    "text": "Yeah, I think this is when we talk about the whole change"
+  },
+  {
+    "segment_id": "s00416",
+    "start_seconds": 963.64,
+    "end_seconds": 967.52,
+    "text": "management idea around this, all of that has to be factored in."
+  },
+  {
+    "segment_id": "s00417",
+    "start_seconds": 967.52,
+    "end_seconds": 970.1600000000001,
+    "text": "So if IT is a blocker, legal is a blocker,"
+  },
+  {
+    "segment_id": "s00418",
+    "start_seconds": 970.16,
+    "end_seconds": 973.64,
+    "text": "procurement is a blocker, HR, whatever,"
+  },
+  {
+    "segment_id": "s00419",
+    "start_seconds": 973.64,
+    "end_seconds": 975.4399999999999,
+    "text": "you have to have all those parties at the table."
+  },
+  {
+    "segment_id": "s00420",
+    "start_seconds": 975.4399999999999,
+    "end_seconds": 977.64,
+    "text": "You have to understand what is it going to take to actually"
+  },
+  {
+    "segment_id": "s00421",
+    "start_seconds": 977.64,
+    "end_seconds": 981.12,
+    "text": "get people to drive adoption where they have a great example"
+  },
+  {
+    "segment_id": "s00422",
+    "start_seconds": 981.12,
+    "end_seconds": 982.56,
+    "text": "we talked about, which is we have Claude,"
+  },
+  {
+    "segment_id": "s00423",
+    "start_seconds": 982.56,
+    "end_seconds": 985.04,
+    "text": "and we recently connected it to our CRM."
+  },
+  {
+    "segment_id": "s00424",
+    "start_seconds": 985.04,
+    "end_seconds": 987.56,
+    "text": "So until Claude was connected to our CRM,"
+  },
+  {
+    "segment_id": "s00425",
+    "start_seconds": 987.56,
+    "end_seconds": 990.92,
+    "text": "it was dramatically limiting what we could do with it."
+  },
+  {
+    "segment_id": "s00426",
+    "start_seconds": 990.92,
+    "end_seconds": 993.56,
+    "text": "As soon as we gave permission to do that,"
+  },
+  {
+    "segment_id": "s00427",
+    "start_seconds": 993.56,
+    "end_seconds": 996.16,
+    "text": "it opened up thousands, probably, of use cases,"
+  },
+  {
+    "segment_id": "s00428",
+    "start_seconds": 996.1999999999999,
+    "end_seconds": 1000.3199999999999,
+    "text": "almost immediately for marketing, sales, customer success."
+  },
+  {
+    "segment_id": "s00429",
+    "start_seconds": 1000.3199999999999,
+    "end_seconds": 1003.3199999999999,
+    "text": "And so that's why I'm just a big believer,"
+  },
+  {
+    "segment_id": "s00430",
+    "start_seconds": 1003.3199999999999,
+    "end_seconds": 1005.48,
+    "text": "it has to be driven from a change management perspective"
+  },
+  {
+    "segment_id": "s00431",
+    "start_seconds": 1005.48,
+    "end_seconds": 1007.8399999999999,
+    "text": "and it has to be driven from the top."
+  },
+  {
+    "segment_id": "s00432",
+    "start_seconds": 1007.8399999999999,
+    "end_seconds": 1009.7199999999999,
+    "text": "You have to have buy in from the leadership"
+  },
+  {
+    "segment_id": "s00433",
+    "start_seconds": 1009.7199999999999,
+    "end_seconds": 1012.4,
+    "text": "so that if Mike were to come to me,"
+  },
+  {
+    "segment_id": "s00434",
+    "start_seconds": 1012.4,
+    "end_seconds": 1014.28,
+    "text": "or someone else knows, they're going to say,"
+  },
+  {
+    "segment_id": "s00435",
+    "start_seconds": 1014.28,
+    "end_seconds": 1015.48,
+    "text": "hey, really, I have this idea,"
+  },
+  {
+    "segment_id": "s00436",
+    "start_seconds": 1015.48,
+    "end_seconds": 1017.6,
+    "text": "I think it can generate millions of dollars"
+  },
+  {
+    "segment_id": "s00437",
+    "start_seconds": 1017.6,
+    "end_seconds": 1020.36,
+    "text": "or make this impact on our AI Academy members,"
+  },
+  {
+    "segment_id": "s00438",
+    "start_seconds": 1020.36,
+    "end_seconds": 1021.88,
+    "text": "but I'm not allowed to do this."
+  },
+  {
+    "segment_id": "s00439",
+    "start_seconds": 1021.88,
+    "end_seconds": 1024.8799999999999,
+    "text": "Like IT is not letting me, you have to be able to go"
+  },
+  {
+    "segment_id": "s00440",
+    "start_seconds": 1024.88,
+    "end_seconds": 1027.92,
+    "text": "to someone who can say, all right, IT, just step aside."
+  },
+  {
+    "segment_id": "s00441",
+    "start_seconds": 1027.92,
+    "end_seconds": 1030.88,
+    "text": "Like, this is an enormously valuable thing,"
+  },
+  {
+    "segment_id": "s00442",
+    "start_seconds": 1030.88,
+    "end_seconds": 1032.4,
+    "text": "we have enough guardrails in place,"
+  },
+  {
+    "segment_id": "s00443",
+    "start_seconds": 1032.4,
+    "end_seconds": 1034.3600000000001,
+    "text": "we have to accept a little bit of risk,"
+  },
+  {
+    "segment_id": "s00444",
+    "start_seconds": 1034.3600000000001,
+    "end_seconds": 1036.2,
+    "text": "we're just going to do this."
+  },
+  {
+    "segment_id": "s00445",
+    "start_seconds": 1036.2,
+    "end_seconds": 1038.24,
+    "text": "So for us, we're a small enough entity,"
+  },
+  {
+    "segment_id": "s00446",
+    "start_seconds": 1038.24,
+    "end_seconds": 1042.2800000000002,
+    "text": "we're obviously, it's a CEO driven environment for AI"
+  },
+  {
+    "segment_id": "s00447",
+    "start_seconds": 1042.2800000000002,
+    "end_seconds": 1044.8400000000001,
+    "text": "that you and I can just have a chat,"
+  },
+  {
+    "segment_id": "s00448",
+    "start_seconds": 1044.8400000000001,
+    "end_seconds": 1046.6000000000001,
+    "text": "like hang up from the podcast and be like,"
+  },
+  {
+    "segment_id": "s00449",
+    "start_seconds": 1046.6000000000001,
+    "end_seconds": 1048.3600000000001,
+    "text": "hey, we got this idea, we should do this."
+  },
+  {
+    "segment_id": "s00450",
+    "start_seconds": 1048.3600000000001,
+    "end_seconds": 1049.6000000000001,
+    "text": "And I'll be like, all right, hold on,"
+  },
+  {
+    "segment_id": "s00451",
+    "start_seconds": 1049.6000000000001,
+    "end_seconds": 1051.5600000000002,
+    "text": "I'll message Tracy and tell her,"
+  },
+  {
+    "segment_id": "s00452",
+    "start_seconds": 1051.5600000000002,
+    "end_seconds": 1053.64,
+    "text": "and then Tracy, our COO will contact legal"
+  },
+  {
+    "segment_id": "s00453",
+    "start_seconds": 1053.64,
+    "end_seconds": 1055.44,
+    "text": "and say, Paul's going to do this,"
+  },
+  {
+    "segment_id": "s00454",
+    "start_seconds": 1055.44,
+    "end_seconds": 1058.4,
+    "text": "we have like 48 hours and then legal figures out"
+  },
+  {
+    "segment_id": "s00455",
+    "start_seconds": 1058.4,
+    "end_seconds": 1059.6000000000001,
+    "text": "how to make it work."
+  },
+  {
+    "segment_id": "s00456",
+    "start_seconds": 1061.3600000000001,
+    "end_seconds": 1063.88,
+    "text": "I'm very curious about your answer to this next one,"
+  },
+  {
+    "segment_id": "s00457",
+    "start_seconds": 1063.88,
+    "end_seconds": 1067.88,
+    "text": "how do you make an AI transformation plan or roadmap"
+  },
+  {
+    "segment_id": "s00458",
+    "start_seconds": 1067.88,
+    "end_seconds": 1070.16,
+    "text": "that you can actually stick to"
+  },
+  {
+    "segment_id": "s00459",
+    "start_seconds": 1070.16,
+    "end_seconds": 1073.2800000000002,
+    "text": "when a new breakthrough could change what's possible next one?"
+  },
+  {
+    "segment_id": "s00460",
+    "start_seconds": 1075.0400000000002,
+    "end_seconds": 1076.6000000000001,
+    "text": "Yeah, I don't know, I mean, I think like,"
+  },
+  {
+    "segment_id": "s00461",
+    "start_seconds": 1076.6000000000001,
+    "end_seconds": 1078.5600000000002,
+    "text": "it's kind of like making a staffing decision"
+  },
+  {
+    "segment_id": "s00462",
+    "start_seconds": 1078.5600000000002,
+    "end_seconds": 1081.2,
+    "text": "when the model might be able to do what that person does,"
+  },
+  {
+    "segment_id": "s00463",
+    "start_seconds": 1081.2,
+    "end_seconds": 1082.5600000000002,
+    "text": "you know, a month from now."
+  },
+  {
+    "segment_id": "s00464",
+    "start_seconds": 1082.56,
+    "end_seconds": 1086.52,
+    "text": "I think the best we can all do is have some sense of,"
+  },
+  {
+    "segment_id": "s00465",
+    "start_seconds": 1086.52,
+    "end_seconds": 1088.6399999999999,
+    "text": "I used to call these like AGI Horizon teams,"
+  },
+  {
+    "segment_id": "s00466",
+    "start_seconds": 1088.6399999999999,
+    "end_seconds": 1090.12,
+    "text": "like I remember in like 2023,"
+  },
+  {
+    "segment_id": "s00467",
+    "start_seconds": 1090.12,
+    "end_seconds": 1091.9199999999998,
+    "text": "I was talking with a bunch of big SaaS companies"
+  },
+  {
+    "segment_id": "s00468",
+    "start_seconds": 1091.9199999999998,
+    "end_seconds": 1094.36,
+    "text": "and I told them like, build an AGI Horizon team,"
+  },
+  {
+    "segment_id": "s00469",
+    "start_seconds": 1094.36,
+    "end_seconds": 1097.12,
+    "text": "like build a team whose job it is"
+  },
+  {
+    "segment_id": "s00470",
+    "start_seconds": 1097.12,
+    "end_seconds": 1099.76,
+    "text": "to look at the next 12 to 18 months of model advancements"
+  },
+  {
+    "segment_id": "s00471",
+    "start_seconds": 1099.76,
+    "end_seconds": 1102.12,
+    "text": "and say, here's what we think they're going to be capable"
+  },
+  {
+    "segment_id": "s00472",
+    "start_seconds": 1102.12,
+    "end_seconds": 1104.6399999999999,
+    "text": "of doing and here's the trickle down of what that means"
+  },
+  {
+    "segment_id": "s00473",
+    "start_seconds": 1104.6399999999999,
+    "end_seconds": 1108.28,
+    "text": "to our staffing, to our product, to the services we offer."
+  },
+  {
+    "segment_id": "s00474",
+    "start_seconds": 1108.28,
+    "end_seconds": 1111.2,
+    "text": "And so I think that that's really the best way to do it"
+  },
+  {
+    "segment_id": "s00475",
+    "start_seconds": 1111.2,
+    "end_seconds": 1114.64,
+    "text": "is you just have to have some reasonable conviction"
+  },
+  {
+    "segment_id": "s00476",
+    "start_seconds": 1114.64,
+    "end_seconds": 1116.92,
+    "text": "about what the near-term future looks like"
+  },
+  {
+    "segment_id": "s00477",
+    "start_seconds": 1116.92,
+    "end_seconds": 1119.4,
+    "text": "by staying close to these model advancements"
+  },
+  {
+    "segment_id": "s00478",
+    "start_seconds": 1119.4,
+    "end_seconds": 1123.0,
+    "text": "and then have an organization that is flexible based on it."
+  },
+  {
+    "segment_id": "s00479",
+    "start_seconds": 1123.0,
+    "end_seconds": 1125.24,
+    "text": "Now, we've all experienced, well,"
+  },
+  {
+    "segment_id": "s00480",
+    "start_seconds": 1125.24,
+    "end_seconds": 1127.44,
+    "text": "anybody who is building around open AI has experienced"
+  },
+  {
+    "segment_id": "s00481",
+    "start_seconds": 1127.44,
+    "end_seconds": 1131.2,
+    "text": "this recently, I think the best example is GPTs going away."
+  },
+  {
+    "segment_id": "s00482",
+    "start_seconds": 1131.2,
+    "end_seconds": 1134.04,
+    "text": "We were having this conversation in our AI for CMO summit"
+  },
+  {
+    "segment_id": "s00483",
+    "start_seconds": 1134.04,
+    "end_seconds": 1136.28,
+    "text": "and I know even during the council meeting on Monday"
+  },
+  {
+    "segment_id": "s00484",
+    "start_seconds": 1136.28,
+    "end_seconds": 1137.68,
+    "text": "because there were people in the room"
+  },
+  {
+    "segment_id": "s00485",
+    "start_seconds": 1137.68,
+    "end_seconds": 1141.0800000000002,
+    "text": "who built their marketing departments around GPTs,"
+  },
+  {
+    "segment_id": "s00486",
+    "start_seconds": 1141.08,
+    "end_seconds": 1145.12,
+    "text": "spent the last two years running hackathons to build GPTs"
+  },
+  {
+    "segment_id": "s00487",
+    "start_seconds": 1145.12,
+    "end_seconds": 1148.8,
+    "text": "and now we have two months to figure out what do we do?"
+  },
+  {
+    "segment_id": "s00488",
+    "start_seconds": 1148.8,
+    "end_seconds": 1152.36,
+    "text": "The entire marketing team now runs on GPTs."
+  },
+  {
+    "segment_id": "s00489",
+    "start_seconds": 1152.36,
+    "end_seconds": 1155.6799999999998,
+    "text": "So that's a good example and I think maybe we can use that"
+  },
+  {
+    "segment_id": "s00490",
+    "start_seconds": 1155.6799999999998,
+    "end_seconds": 1156.76,
+    "text": "as a retrospect and go back and say,"
+  },
+  {
+    "segment_id": "s00491",
+    "start_seconds": 1156.76,
+    "end_seconds": 1159.6799999999998,
+    "text": "okay, if we weren't ready for that kind of change,"
+  },
+  {
+    "segment_id": "s00492",
+    "start_seconds": 1159.6799999999998,
+    "end_seconds": 1161.12,
+    "text": "what do we have to do now moving forward"
+  },
+  {
+    "segment_id": "s00493",
+    "start_seconds": 1161.12,
+    "end_seconds": 1163.36,
+    "text": "to be ready for that kind of change?"
+  },
+  {
+    "segment_id": "s00494",
+    "start_seconds": 1163.36,
+    "end_seconds": 1165.32,
+    "text": "Because they're going to keep changing the names"
+  },
+  {
+    "segment_id": "s00495",
+    "start_seconds": 1165.32,
+    "end_seconds": 1167.9199999999998,
+    "text": "of the things, they're going to keep introducing new tools"
+  },
+  {
+    "segment_id": "s00496",
+    "start_seconds": 1167.92,
+    "end_seconds": 1171.88,
+    "text": "like dots and maybe it comes down to having e-vowls"
+  },
+  {
+    "segment_id": "s00497",
+    "start_seconds": 1171.88,
+    "end_seconds": 1174.72,
+    "text": "of when they make a change, here's the ways we're using it."
+  },
+  {
+    "segment_id": "s00498",
+    "start_seconds": 1174.72,
+    "end_seconds": 1176.3200000000002,
+    "text": "How does this new model affect it?"
+  },
+  {
+    "segment_id": "s00499",
+    "start_seconds": 1176.3200000000002,
+    "end_seconds": 1177.64,
+    "text": "What are these new user interfaces?"
+  },
+  {
+    "segment_id": "s00500",
+    "start_seconds": 1177.64,
+    "end_seconds": 1179.48,
+    "text": "Like I was talking to somebody last night,"
+  },
+  {
+    "segment_id": "s00501",
+    "start_seconds": 1179.48,
+    "end_seconds": 1183.8000000000002,
+    "text": "one of the parties who was using sites from opening AI"
+  },
+  {
+    "segment_id": "s00502",
+    "start_seconds": 1183.8000000000002,
+    "end_seconds": 1184.88,
+    "text": "and I was like, well, what is it?"
+  },
+  {
+    "segment_id": "s00503",
+    "start_seconds": 1184.88,
+    "end_seconds": 1186.8000000000002,
+    "text": "Like I came out like a week ago or two weeks ago,"
+  },
+  {
+    "segment_id": "s00504",
+    "start_seconds": 1186.8000000000002,
+    "end_seconds": 1188.2,
+    "text": "I haven't even tried it."
+  },
+  {
+    "segment_id": "s00505",
+    "start_seconds": 1188.2,
+    "end_seconds": 1190.0,
+    "text": "And it's just like instead of asking it"
+  },
+  {
+    "segment_id": "s00506",
+    "start_seconds": 1190.0,
+    "end_seconds": 1192.68,
+    "text": "to build an HTML file, which is something we commonly do"
+  },
+  {
+    "segment_id": "s00507",
+    "start_seconds": 1192.68,
+    "end_seconds": 1194.72,
+    "text": "is like, hey, turn this into an HTML file,"
+  },
+  {
+    "segment_id": "s00508",
+    "start_seconds": 1194.72,
+    "end_seconds": 1196.64,
+    "text": "you can publish the HTML file and share it with people."
+  },
+  {
+    "segment_id": "s00509",
+    "start_seconds": 1196.64,
+    "end_seconds": 1198.92,
+    "text": "Like, oh, OK, well, that's pretty cool."
+  },
+  {
+    "segment_id": "s00510",
+    "start_seconds": 1198.92,
+    "end_seconds": 1200.8000000000002,
+    "text": "That might change the way we do something."
+  },
+  {
+    "segment_id": "s00511",
+    "start_seconds": 1200.8000000000002,
+    "end_seconds": 1203.2,
+    "text": "So I don't know, for us, it's about this dynamic learning"
+  },
+  {
+    "segment_id": "s00512",
+    "start_seconds": 1203.2,
+    "end_seconds": 1206.5600000000002,
+    "text": "idea, like we're just going to push a lot more"
+  },
+  {
+    "segment_id": "s00513",
+    "start_seconds": 1206.5600000000002,
+    "end_seconds": 1209.5200000000002,
+    "text": "into like regular weekly monthly cadence of what"
+  },
+  {
+    "segment_id": "s00514",
+    "start_seconds": 1209.5200000000002,
+    "end_seconds": 1212.3600000000001,
+    "text": "is new in these models and platforms, what does it mean to us,"
+  },
+  {
+    "segment_id": "s00515",
+    "start_seconds": 1212.3600000000001,
+    "end_seconds": 1213.72,
+    "text": "how does it affect our work?"
+  },
+  {
+    "segment_id": "s00516",
+    "start_seconds": 1213.72,
+    "end_seconds": 1215.6000000000001,
+    "text": "And then we're going to try and bring that to people"
+  },
+  {
+    "segment_id": "s00517",
+    "start_seconds": 1215.6000000000001,
+    "end_seconds": 1218.4,
+    "text": "through AI Academy and make it more like real time learning."
+  },
+  {
+    "segment_id": "s00518",
+    "start_seconds": 1218.4,
+    "end_seconds": 1220.0,
+    "text": "Yeah, one thing that was really cool, too,"
+  },
+  {
+    "segment_id": "s00519",
+    "start_seconds": 1220.0,
+    "end_seconds": 1223.0400000000002,
+    "text": "that I tried to do in my workshop on Google Gemini,"
+  },
+  {
+    "segment_id": "s00520",
+    "start_seconds": 1223.0400000000002,
+    "end_seconds": 1224.8000000000002,
+    "text": "but you could apply this to any model"
+  },
+  {
+    "segment_id": "s00521",
+    "start_seconds": 1224.8,
+    "end_seconds": 1228.36,
+    "text": "is there was a whole segment on using this and approaching"
+  },
+  {
+    "segment_id": "s00522",
+    "start_seconds": 1228.36,
+    "end_seconds": 1231.3999999999999,
+    "text": "this more as a true strategic thought partner"
+  },
+  {
+    "segment_id": "s00523",
+    "start_seconds": 1231.3999999999999,
+    "end_seconds": 1236.36,
+    "text": "and going through like a measured kind of process-driven"
+  },
+  {
+    "segment_id": "s00524",
+    "start_seconds": 1236.36,
+    "end_seconds": 1238.8,
+    "text": "query or conversation with the tool,"
+  },
+  {
+    "segment_id": "s00525",
+    "start_seconds": 1238.8,
+    "end_seconds": 1241.28,
+    "text": "because so many people just write a few words"
+  },
+  {
+    "segment_id": "s00526",
+    "start_seconds": 1241.28,
+    "end_seconds": 1243.52,
+    "text": "or don't converse back and forth or don't"
+  },
+  {
+    "segment_id": "s00527",
+    "start_seconds": 1243.52,
+    "end_seconds": 1246.1599999999999,
+    "text": "have a strategic discussion with it,"
+  },
+  {
+    "segment_id": "s00528",
+    "start_seconds": 1246.1599999999999,
+    "end_seconds": 1250.36,
+    "text": "with really smart questions, and get insights from it"
+  },
+  {
+    "segment_id": "s00529",
+    "start_seconds": 1250.36,
+    "end_seconds": 1252.36,
+    "text": "the same as they would as like a consultant or advisor."
+  },
+  {
+    "segment_id": "s00530",
+    "start_seconds": 1252.3600000000001,
+    "end_seconds": 1256.3200000000002,
+    "text": "Whatever my point here is that it doesn't matter tomorrow"
+  },
+  {
+    "segment_id": "s00531",
+    "start_seconds": 1256.3200000000002,
+    "end_seconds": 1258.44,
+    "text": "if everything about Gemini changes,"
+  },
+  {
+    "segment_id": "s00532",
+    "start_seconds": 1258.44,
+    "end_seconds": 1261.88,
+    "text": "that concept is really, really important."
+  },
+  {
+    "segment_id": "s00533",
+    "start_seconds": 1261.88,
+    "end_seconds": 1265.16,
+    "text": "So even focusing also on some of these more evergreen"
+  },
+  {
+    "segment_id": "s00534",
+    "start_seconds": 1265.16,
+    "end_seconds": 1267.2400000000002,
+    "text": "strategies, like our use case model,"
+  },
+  {
+    "segment_id": "s00535",
+    "start_seconds": 1267.2400000000002,
+    "end_seconds": 1269.0800000000002,
+    "text": "the problem-based model, innovation model."
+  },
+  {
+    "segment_id": "s00536",
+    "start_seconds": 1269.0800000000002,
+    "end_seconds": 1271.0800000000002,
+    "text": "Which I created in like 2018."
+  },
+  {
+    "segment_id": "s00537",
+    "start_seconds": 1271.0800000000002,
+    "end_seconds": 1272.16,
+    "text": "We still teach based on it."
+  },
+  {
+    "segment_id": "s00538",
+    "start_seconds": 1272.16,
+    "end_seconds": 1274.2,
+    "text": "Still extremely relevant."
+  },
+  {
+    "segment_id": "s00539",
+    "start_seconds": 1274.2,
+    "end_seconds": 1276.92,
+    "text": "That kind of thing is also really invaluable, I think."
+  },
+  {
+    "segment_id": "s00540",
+    "start_seconds": 1276.92,
+    "end_seconds": 1277.96,
+    "text": "Teaching framework."
+  },
+  {
+    "segment_id": "s00541",
+    "start_seconds": 1277.96,
+    "end_seconds": 1279.1200000000001,
+    "text": "Yeah, and a really good example of this is"
+  },
+  {
+    "segment_id": "s00542",
+    "start_seconds": 1279.1200000000001,
+    "end_seconds": 1280.44,
+    "text": "some mics doing this Gemini."
+  },
+  {
+    "segment_id": "s00543",
+    "start_seconds": 1280.44,
+    "end_seconds": 1281.2800000000002,
+    "text": "What do we call them?"
+  },
+  {
+    "segment_id": "s00544",
+    "start_seconds": 1281.28,
+    "end_seconds": 1282.28,
+    "text": "It's a business, Gemini for the work."
+  },
+  {
+    "segment_id": "s00545",
+    "start_seconds": 1282.28,
+    "end_seconds": 1283.8,
+    "text": "Yeah, Gemini for business, yeah."
+  },
+  {
+    "segment_id": "s00546",
+    "start_seconds": 1283.8,
+    "end_seconds": 1286.56,
+    "text": "And so last week, Google holds an event like a week,"
+  },
+  {
+    "segment_id": "s00547",
+    "start_seconds": 1286.56,
+    "end_seconds": 1288.44,
+    "text": "not even a week ago from, they were,"
+  },
+  {
+    "segment_id": "s00548",
+    "start_seconds": 1288.44,
+    "end_seconds": 1289.96,
+    "text": "and what do they call it, Gemini?"
+  },
+  {
+    "segment_id": "s00549",
+    "start_seconds": 1289.96,
+    "end_seconds": 1291.28,
+    "text": "What's the new agent harness thing?"
+  },
+  {
+    "segment_id": "s00550",
+    "start_seconds": 1291.28,
+    "end_seconds": 1293.28,
+    "text": "It's technically just called Gemini,"
+  },
+  {
+    "segment_id": "s00551",
+    "start_seconds": 1293.28,
+    "end_seconds": 1296.08,
+    "text": "which if this is confusing to you, join the club."
+  },
+  {
+    "segment_id": "s00552",
+    "start_seconds": 1296.08,
+    "end_seconds": 1297.12,
+    "text": "It's like a harness now."
+  },
+  {
+    "segment_id": "s00553",
+    "start_seconds": 1297.12,
+    "end_seconds": 1298.6,
+    "text": "It's like kind of an agent,"
+  },
+  {
+    "segment_id": "s00554",
+    "start_seconds": 1298.6,
+    "end_seconds": 1299.8,
+    "text": "take harness of the thing."
+  },
+  {
+    "segment_id": "s00555",
+    "start_seconds": 1299.8,
+    "end_seconds": 1303.08,
+    "text": "Yeah, so they granted Gemini as something else."
+  },
+  {
+    "segment_id": "s00556",
+    "start_seconds": 1303.08,
+    "end_seconds": 1305.76,
+    "text": "And so that was six days before Mike's workshop"
+  },
+  {
+    "segment_id": "s00557",
+    "start_seconds": 1305.76,
+    "end_seconds": 1306.6399999999999,
+    "text": "or four days before it."
+  },
+  {
+    "segment_id": "s00558",
+    "start_seconds": 1306.6399999999999,
+    "end_seconds": 1308.2,
+    "text": "So I'm messaging Mike like,"
+  },
+  {
+    "segment_id": "s00559",
+    "start_seconds": 1308.2,
+    "end_seconds": 1311.08,
+    "text": "hey, you're gonna change the workshop based on this?"
+  },
+  {
+    "segment_id": "s00560",
+    "start_seconds": 1311.08,
+    "end_seconds": 1313.48,
+    "text": "And then during your workshop yesterday,"
+  },
+  {
+    "segment_id": "s00561",
+    "start_seconds": 1313.48,
+    "end_seconds": 1316.52,
+    "text": "if I'm not mistaken, they released Argon model."
+  },
+  {
+    "segment_id": "s00562",
+    "start_seconds": 1316.52,
+    "end_seconds": 1317.36,
+    "text": "Yes."
+  },
+  {
+    "segment_id": "s00563",
+    "start_seconds": 1317.36,
+    "end_seconds": 1318.8,
+    "text": "But Gemini for Argon became like, well, good."
+  },
+  {
+    "segment_id": "s00564",
+    "start_seconds": 1318.8,
+    "end_seconds": 1321.6,
+    "text": "So it's like, even in a real time learning environment"
+  },
+  {
+    "segment_id": "s00565",
+    "start_seconds": 1321.6,
+    "end_seconds": 1323.6399999999999,
+    "text": "Mike's doing a live workshop,"
+  },
+  {
+    "segment_id": "s00566",
+    "start_seconds": 1323.6399999999999,
+    "end_seconds": 1325.12,
+    "text": "you have in this four day span,"
+  },
+  {
+    "segment_id": "s00567",
+    "start_seconds": 1325.12,
+    "end_seconds": 1326.4399999999998,
+    "text": "two things that could affect"
+  },
+  {
+    "segment_id": "s00568",
+    "start_seconds": 1326.4399999999998,
+    "end_seconds": 1328.1999999999998,
+    "text": "what he's gonna teach in the workshop."
+  },
+  {
+    "segment_id": "s00569",
+    "start_seconds": 1329.72,
+    "end_seconds": 1332.6,
+    "text": "All right, this next question is fascinating."
+  },
+  {
+    "segment_id": "s00570",
+    "start_seconds": 1332.6,
+    "end_seconds": 1335.3999999999999,
+    "text": "Very relevant, I think to several people listening."
+  },
+  {
+    "segment_id": "s00571",
+    "start_seconds": 1335.3999999999999,
+    "end_seconds": 1340.12,
+    "text": "What, if anything, is going to happen to the cost"
+  },
+  {
+    "segment_id": "s00572",
+    "start_seconds": 1340.1200000000001,
+    "end_seconds": 1343.64,
+    "text": "of Claude or Chachie BT or insert whatever tool here,"
+  },
+  {
+    "segment_id": "s00573",
+    "start_seconds": 1343.64,
+    "end_seconds": 1347.5600000000002,
+    "text": "but those two, especially once anthropic and open AI"
+  },
+  {
+    "segment_id": "s00574",
+    "start_seconds": 1347.5600000000002,
+    "end_seconds": 1350.88,
+    "text": "go public and they have to start turning a profit,"
+  },
+  {
+    "segment_id": "s00575",
+    "start_seconds": 1350.88,
+    "end_seconds": 1354.3200000000002,
+    "text": "are we gonna see them start jacking up prices?"
+  },
+  {
+    "segment_id": "s00576",
+    "start_seconds": 1354.3200000000002,
+    "end_seconds": 1355.2,
+    "text": "How's that gonna work?"
+  },
+  {
+    "segment_id": "s00577",
+    "start_seconds": 1355.2,
+    "end_seconds": 1356.0400000000002,
+    "text": "They can't."
+  },
+  {
+    "segment_id": "s00578",
+    "start_seconds": 1356.0400000000002,
+    "end_seconds": 1358.68,
+    "text": "The price of the, so the frontier model today,"
+  },
+  {
+    "segment_id": "s00579",
+    "start_seconds": 1358.68,
+    "end_seconds": 1361.5600000000002,
+    "text": "so they take like an Opus 5.5,"
+  },
+  {
+    "segment_id": "s00580",
+    "start_seconds": 1361.5600000000002,
+    "end_seconds": 1363.24,
+    "text": "I think is that that's probably their most part."
+  },
+  {
+    "segment_id": "s00581",
+    "start_seconds": 1363.24,
+    "end_seconds": 1365.0000000000002,
+    "text": "Is fable, I don't know, fable or do we want to?"
+  },
+  {
+    "segment_id": "s00582",
+    "start_seconds": 1365.0000000000002,
+    "end_seconds": 1366.3600000000001,
+    "text": "I think we're gonna Opus 5."
+  },
+  {
+    "segment_id": "s00583",
+    "start_seconds": 1366.3600000000001,
+    "end_seconds": 1367.7600000000002,
+    "text": "All right, so let's say Opus 5.5 is it."
+  },
+  {
+    "segment_id": "s00584",
+    "start_seconds": 1368.64,
+    "end_seconds": 1369.8,
+    "text": "It's been a busy week."
+  },
+  {
+    "segment_id": "s00585",
+    "start_seconds": 1371.72,
+    "end_seconds": 1374.12,
+    "text": "It's gonna cost 10x less in 12 months."
+  },
+  {
+    "segment_id": "s00586",
+    "start_seconds": 1374.96,
+    "end_seconds": 1377.64,
+    "text": "And so at some point, like you're gonna say"
+  },
+  {
+    "segment_id": "s00587",
+    "start_seconds": 1377.64,
+    "end_seconds": 1380.76,
+    "text": "as an organization like, okay, this model is good enough."
+  },
+  {
+    "segment_id": "s00588",
+    "start_seconds": 1380.76,
+    "end_seconds": 1382.64,
+    "text": "Like I said this publicly on the podcast,"
+  },
+  {
+    "segment_id": "s00589",
+    "start_seconds": 1382.64,
+    "end_seconds": 1385.36,
+    "text": "like I thought Sonnet 4.6, like if you told me"
+  },
+  {
+    "segment_id": "s00590",
+    "start_seconds": 1385.36,
+    "end_seconds": 1387.96,
+    "text": "this is the last model I'm ever going to have,"
+  },
+  {
+    "segment_id": "s00591",
+    "start_seconds": 1387.96,
+    "end_seconds": 1389.12,
+    "text": "I would have been ecstatic."
+  },
+  {
+    "segment_id": "s00592",
+    "start_seconds": 1389.12,
+    "end_seconds": 1391.36,
+    "text": "And I'm like, great, like we'll just ride with this."
+  },
+  {
+    "segment_id": "s00593",
+    "start_seconds": 1391.36,
+    "end_seconds": 1393.64,
+    "text": "We'll build the entire company around this model."
+  },
+  {
+    "segment_id": "s00594",
+    "start_seconds": 1393.64,
+    "end_seconds": 1395.84,
+    "text": "And I'm sure that model costs 5x less"
+  },
+  {
+    "segment_id": "s00595",
+    "start_seconds": 1395.84,
+    "end_seconds": 1397.8,
+    "text": "than it did when it first came out."
+  },
+  {
+    "segment_id": "s00596",
+    "start_seconds": 1397.8,
+    "end_seconds": 1400.8,
+    "text": "Cause now they're on whatever Sonnet 5.6, something."
+  },
+  {
+    "segment_id": "s00597",
+    "start_seconds": 1400.8,
+    "end_seconds": 1405.8,
+    "text": "So I think the vast majority of use cases for businesses,"
+  },
+  {
+    "segment_id": "s00598",
+    "start_seconds": 1407.76,
+    "end_seconds": 1409.36,
+    "text": "it's just gonna get cheaper"
+  },
+  {
+    "segment_id": "s00599",
+    "start_seconds": 1409.36,
+    "end_seconds": 1411.08,
+    "text": "as long as you're willing to use"
+  },
+  {
+    "segment_id": "s00600",
+    "start_seconds": 1411.08,
+    "end_seconds": 1413.6,
+    "text": "the previous state of the art model."
+  },
+  {
+    "segment_id": "s00601",
+    "start_seconds": 1413.6,
+    "end_seconds": 1415.6,
+    "text": "And so that's gonna, the competitive nature"
+  },
+  {
+    "segment_id": "s00602",
+    "start_seconds": 1415.6,
+    "end_seconds": 1417.8799999999999,
+    "text": "of these labs is going to force that to happen."
+  },
+  {
+    "segment_id": "s00603",
+    "start_seconds": 1417.8799999999999,
+    "end_seconds": 1420.72,
+    "text": "They're not gonna just keep making it more expensive."
+  },
+  {
+    "segment_id": "s00604",
+    "start_seconds": 1420.72,
+    "end_seconds": 1422.6799999999998,
+    "text": "So what they're gonna do is they have to sell"
+  },
+  {
+    "segment_id": "s00605",
+    "start_seconds": 1422.6799999999998,
+    "end_seconds": 1425.24,
+    "text": "the more advanced model to the companies"
+  },
+  {
+    "segment_id": "s00606",
+    "start_seconds": 1425.24,
+    "end_seconds": 1428.68,
+    "text": "that need the really, really advanced reasoning."
+  },
+  {
+    "segment_id": "s00607",
+    "start_seconds": 1428.68,
+    "end_seconds": 1431.56,
+    "text": "But the key for them is they actually don't care."
+  },
+  {
+    "segment_id": "s00608",
+    "start_seconds": 1431.56,
+    "end_seconds": 1435.08,
+    "text": "They just need to infuse agents"
+  },
+  {
+    "segment_id": "s00609",
+    "start_seconds": 1435.08,
+    "end_seconds": 1437.32,
+    "text": "and get everyone in companies using these things."
+  },
+  {
+    "segment_id": "s00610",
+    "start_seconds": 1437.32,
+    "end_seconds": 1438.76,
+    "text": "So if you think about how,"
+  },
+  {
+    "segment_id": "s00611",
+    "start_seconds": 1438.76,
+    "end_seconds": 1440.16,
+    "text": "I mean, anthropic and open air,"
+  },
+  {
+    "segment_id": "s00612",
+    "start_seconds": 1440.16,
+    "end_seconds": 1444.2,
+    "text": "both gonna IPO somewhere between one and two trillion dollars."
+  },
+  {
+    "segment_id": "s00613",
+    "start_seconds": 1444.2,
+    "end_seconds": 1446.96,
+    "text": "And yet when you go around any major enterprise,"
+  },
+  {
+    "segment_id": "s00614",
+    "start_seconds": 1446.96,
+    "end_seconds": 1448.64,
+    "text": "there are almost zero of them"
+  },
+  {
+    "segment_id": "s00615",
+    "start_seconds": 1448.64,
+    "end_seconds": 1451.0,
+    "text": "that have full-scale adoption of these tools"
+  },
+  {
+    "segment_id": "s00616",
+    "start_seconds": 1451.0,
+    "end_seconds": 1452.1200000000001,
+    "text": "to where everyone is infusing"
+  },
+  {
+    "segment_id": "s00617",
+    "start_seconds": 1452.1200000000001,
+    "end_seconds": 1453.68,
+    "text": "into their workflow every day."
+  },
+  {
+    "segment_id": "s00618",
+    "start_seconds": 1453.68,
+    "end_seconds": 1458.28,
+    "text": "So the amount of untapped market potential"
+  },
+  {
+    "segment_id": "s00619",
+    "start_seconds": 1458.28,
+    "end_seconds": 1461.04,
+    "text": "for these models is so vast"
+  },
+  {
+    "segment_id": "s00620",
+    "start_seconds": 1461.04,
+    "end_seconds": 1465.48,
+    "text": "that even if you're paying 10x less per token to do it,"
+  },
+  {
+    "segment_id": "s00621",
+    "start_seconds": 1465.48,
+    "end_seconds": 1468.94,
+    "text": "you're, you almost have an infinite need for tokens"
+  },
+  {
+    "segment_id": "s00622",
+    "start_seconds": 1468.94,
+    "end_seconds": 1471.88,
+    "text": "as you expand the use of it across the company."
+  },
+  {
+    "segment_id": "s00623",
+    "start_seconds": 1471.88,
+    "end_seconds": 1472.96,
+    "text": "I don't think they care."
+  },
+  {
+    "segment_id": "s00624",
+    "start_seconds": 1472.96,
+    "end_seconds": 1476.64,
+    "text": "Like, and plus open weight models are gonna be comparable."
+  },
+  {
+    "segment_id": "s00625",
+    "start_seconds": 1476.64,
+    "end_seconds": 1478.04,
+    "text": "So they have to accept that"
+  },
+  {
+    "segment_id": "s00626",
+    "start_seconds": 1478.04,
+    "end_seconds": 1479.28,
+    "text": "and they have to like think"
+  },
+  {
+    "segment_id": "s00627",
+    "start_seconds": 1479.28,
+    "end_seconds": 1481.6000000000001,
+    "text": "about what the business model is going to be."
+  },
+  {
+    "segment_id": "s00628",
+    "start_seconds": 1481.6000000000001,
+    "end_seconds": 1484.4,
+    "text": "And anthropic's IPO is gonna be a really interesting look"
+  },
+  {
+    "segment_id": "s00629",
+    "start_seconds": 1484.4,
+    "end_seconds": 1487.2800000000002,
+    "text": "into what really is the business model?"
+  },
+  {
+    "segment_id": "s00630",
+    "start_seconds": 1487.2800000000002,
+    "end_seconds": 1488.8000000000002,
+    "text": "Like what is sustainable here?"
+  },
+  {
+    "segment_id": "s00631",
+    "start_seconds": 1488.8000000000002,
+    "end_seconds": 1490.72,
+    "text": "What are the most that these companies have?"
+  },
+  {
+    "segment_id": "s00632",
+    "start_seconds": 1490.72,
+    "end_seconds": 1492.8000000000002,
+    "text": "Somewhat related to it's been interesting,"
+  },
+  {
+    "segment_id": "s00633",
+    "start_seconds": 1492.8000000000002,
+    "end_seconds": 1495.4,
+    "text": "especially this year at make on everyone"
+  },
+  {
+    "segment_id": "s00634",
+    "start_seconds": 1495.4,
+    "end_seconds": 1498.88,
+    "text": "is obviously using things like muse or Grockbot"
+  },
+  {
+    "segment_id": "s00635",
+    "start_seconds": 1498.88,
+    "end_seconds": 1500.5200000000002,
+    "text": "or instinct, get docked."
+  },
+  {
+    "segment_id": "s00636",
+    "start_seconds": 1500.5200000000002,
+    "end_seconds": 1503.0000000000002,
+    "text": "And I realize we're still in the time"
+  },
+  {
+    "segment_id": "s00637",
+    "start_seconds": 1503.0000000000002,
+    "end_seconds": 1505.5200000000002,
+    "text": "where the model powering that matters,"
+  },
+  {
+    "segment_id": "s00638",
+    "start_seconds": 1505.5200000000002,
+    "end_seconds": 1506.8000000000002,
+    "text": "but half the conversation,"
+  },
+  {
+    "segment_id": "s00639",
+    "start_seconds": 1506.8000000000002,
+    "end_seconds": 1508.3200000000002,
+    "text": "someone's like, well, Grockbot did this"
+  },
+  {
+    "segment_id": "s00640",
+    "start_seconds": 1508.32,
+    "end_seconds": 1511.76,
+    "text": "so that I don't even know what model Grock is on."
+  },
+  {
+    "segment_id": "s00641",
+    "start_seconds": 1511.76,
+    "end_seconds": 1513.12,
+    "text": "I think they're using Opus now."
+  },
+  {
+    "segment_id": "s00642",
+    "start_seconds": 1513.12,
+    "end_seconds": 1514.6799999999998,
+    "text": "I think they're using the tropics models."
+  },
+  {
+    "segment_id": "s00643",
+    "start_seconds": 1514.6799999999998,
+    "end_seconds": 1515.8,
+    "text": "But the point is I don't know."
+  },
+  {
+    "segment_id": "s00644",
+    "start_seconds": 1515.8,
+    "end_seconds": 1516.6399999999999,
+    "text": "Yeah."
+  },
+  {
+    "segment_id": "s00645",
+    "start_seconds": 1516.6399999999999,
+    "end_seconds": 1517.6399999999999,
+    "text": "And so it's more like if you,"
+  },
+  {
+    "segment_id": "s00646",
+    "start_seconds": 1517.6399999999999,
+    "end_seconds": 1521.04,
+    "text": "it's almost possibly at least at the personal agent level"
+  },
+  {
+    "segment_id": "s00647",
+    "start_seconds": 1521.04,
+    "end_seconds": 1522.6,
+    "text": "going to kind of get abstracted away"
+  },
+  {
+    "segment_id": "s00648",
+    "start_seconds": 1522.6,
+    "end_seconds": 1523.8,
+    "text": "where it's like you kind of don't care."
+  },
+  {
+    "segment_id": "s00649",
+    "start_seconds": 1523.8,
+    "end_seconds": 1525.3999999999999,
+    "text": "It's just like my agent works and stuff."
+  },
+  {
+    "segment_id": "s00650",
+    "start_seconds": 1525.3999999999999,
+    "end_seconds": 1528.32,
+    "text": "Yeah, I'm fairly confident that like this time"
+  },
+  {
+    "segment_id": "s00651",
+    "start_seconds": 1528.32,
+    "end_seconds": 1532.84,
+    "text": "next year at make on the average user's experience,"
+  },
+  {
+    "segment_id": "s00652",
+    "start_seconds": 1532.84,
+    "end_seconds": 1535.1599999999999,
+    "text": "you will not be choosing your model."
+  },
+  {
+    "segment_id": "s00653",
+    "start_seconds": 1535.1599999999999,
+    "end_seconds": 1537.8,
+    "text": "Like I think they've known for a long time"
+  },
+  {
+    "segment_id": "s00654",
+    "start_seconds": 1537.8,
+    "end_seconds": 1540.72,
+    "text": "that model choice is basically a developer thing."
+  },
+  {
+    "segment_id": "s00655",
+    "start_seconds": 1540.72,
+    "end_seconds": 1543.6,
+    "text": "And that if you give this to any director,"
+  },
+  {
+    "segment_id": "s00656",
+    "start_seconds": 1543.6,
+    "end_seconds": 1545.36,
+    "text": "VP at any normal company and say,"
+  },
+  {
+    "segment_id": "s00657",
+    "start_seconds": 1545.36,
+    "end_seconds": 1546.68,
+    "text": "Hey, here's your co-pilot."
+  },
+  {
+    "segment_id": "s00658",
+    "start_seconds": 1546.68,
+    "end_seconds": 1548.72,
+    "text": "Here's your 12 models you can choose from"
+  },
+  {
+    "segment_id": "s00659",
+    "start_seconds": 1548.72,
+    "end_seconds": 1551.04,
+    "text": "when you're writing your emails or building your proposals"
+  },
+  {
+    "segment_id": "s00660",
+    "start_seconds": 1551.04,
+    "end_seconds": 1554.32,
+    "text": "or doing whatever, they're like, okay,"
+  },
+  {
+    "segment_id": "s00661",
+    "start_seconds": 1554.32,
+    "end_seconds": 1556.68,
+    "text": "like I'll just use whatever it's turned on to."
+  },
+  {
+    "segment_id": "s00662",
+    "start_seconds": 1556.68,
+    "end_seconds": 1557.52,
+    "text": "I don't even know."
+  },
+  {
+    "segment_id": "s00663",
+    "start_seconds": 1557.52,
+    "end_seconds": 1559.04,
+    "text": "Like sometimes I'll go into chat GPT"
+  },
+  {
+    "segment_id": "s00664",
+    "start_seconds": 1559.04,
+    "end_seconds": 1562.9199999999998,
+    "text": "and it's like 6.1 soul, light, medium, high,"
+  },
+  {
+    "segment_id": "s00665",
+    "start_seconds": 1562.9199999999998,
+    "end_seconds": 1565.32,
+    "text": "like I don't even know the difference anymore."
+  },
+  {
+    "segment_id": "s00666",
+    "start_seconds": 1565.32,
+    "end_seconds": 1567.6399999999999,
+    "text": "So I don't know, I think the model choice"
+  },
+  {
+    "segment_id": "s00667",
+    "start_seconds": 1567.6399999999999,
+    "end_seconds": 1571.6399999999999,
+    "text": "is just like an artifact of, you know, four years ago"
+  },
+  {
+    "segment_id": "s00668",
+    "start_seconds": 1571.6399999999999,
+    "end_seconds": 1573.8,
+    "text": "that for some reason they haven't just ripped the Band-Aid off."
+  },
+  {
+    "segment_id": "s00669",
+    "start_seconds": 1573.8,
+    "end_seconds": 1576.36,
+    "text": "My guess is, I don't know if Google's going to do it first."
+  },
+  {
+    "segment_id": "s00670",
+    "start_seconds": 1576.36,
+    "end_seconds": 1578.1599999999999,
+    "text": "Like somebody's going to do it first"
+  },
+  {
+    "segment_id": "s00671",
+    "start_seconds": 1578.1599999999999,
+    "end_seconds": 1580.1599999999999,
+    "text": "where you just don't know what you're using"
+  },
+  {
+    "segment_id": "s00672",
+    "start_seconds": 1580.1599999999999,
+    "end_seconds": 1582.56,
+    "text": "and they're going to route it based on your prompt."
+  },
+  {
+    "segment_id": "s00673",
+    "start_seconds": 1583.96,
+    "end_seconds": 1586.3999999999999,
+    "text": "This next question is phrased,"
+  },
+  {
+    "segment_id": "s00674",
+    "start_seconds": 1586.3999999999999,
+    "end_seconds": 1589.6799999999998,
+    "text": "how should we be thinking about what AI can do"
+  },
+  {
+    "segment_id": "s00675",
+    "start_seconds": 1589.6799999999998,
+    "end_seconds": 1591.56,
+    "text": "versus what AI should do?"
+  },
+  {
+    "segment_id": "s00676",
+    "start_seconds": 1591.56,
+    "end_seconds": 1594.12,
+    "text": "So for instance, this is relevant to you"
+  },
+  {
+    "segment_id": "s00677",
+    "start_seconds": 1594.1200000000001,
+    "end_seconds": 1596.1200000000001,
+    "text": "just because AI can write a book"
+  },
+  {
+    "segment_id": "s00678",
+    "start_seconds": 1596.1200000000001,
+    "end_seconds": 1598.3200000000002,
+    "text": "doesn't mean it should write a book."
+  },
+  {
+    "segment_id": "s00679",
+    "start_seconds": 1598.3200000000002,
+    "end_seconds": 1600.48,
+    "text": "How do you decide what's worth doing yourself"
+  },
+  {
+    "segment_id": "s00680",
+    "start_seconds": 1600.48,
+    "end_seconds": 1602.3200000000002,
+    "text": "even when AI could do it for you?"
+  },
+  {
+    "segment_id": "s00681",
+    "start_seconds": 1603.92,
+    "end_seconds": 1606.1200000000001,
+    "text": "Yeah, I don't know that there's like one answer to this."
+  },
+  {
+    "segment_id": "s00682",
+    "start_seconds": 1606.1200000000001,
+    "end_seconds": 1608.8000000000002,
+    "text": "So the writing example is always a good one that I use"
+  },
+  {
+    "segment_id": "s00683",
+    "start_seconds": 1608.8000000000002,
+    "end_seconds": 1610.8400000000001,
+    "text": "because like for me writing is thinking,"
+  },
+  {
+    "segment_id": "s00684",
+    "start_seconds": 1610.8400000000001,
+    "end_seconds": 1612.5200000000002,
+    "text": "it's how I process information."
+  },
+  {
+    "segment_id": "s00685",
+    "start_seconds": 1612.5200000000002,
+    "end_seconds": 1614.6000000000001,
+    "text": "It's like when I prepare for the podcast,"
+  },
+  {
+    "segment_id": "s00686",
+    "start_seconds": 1614.6000000000001,
+    "end_seconds": 1616.8400000000001,
+    "text": "it's why I actually read every article,"
+  },
+  {
+    "segment_id": "s00687",
+    "start_seconds": 1616.8400000000001,
+    "end_seconds": 1620.3200000000002,
+    "text": "listen to every podcast, watch every video myself"
+  },
+  {
+    "segment_id": "s00688",
+    "start_seconds": 1620.3200000000002,
+    "end_seconds": 1623.2800000000002,
+    "text": "because doing the work itself is the whole point of it."
+  },
+  {
+    "segment_id": "s00689",
+    "start_seconds": 1623.76,
+    "end_seconds": 1626.08,
+    "text": "My ability to sit here and just answer"
+  },
+  {
+    "segment_id": "s00690",
+    "start_seconds": 1626.08,
+    "end_seconds": 1630.28,
+    "text": "whatever question you throw is because for like 15 years,"
+  },
+  {
+    "segment_id": "s00691",
+    "start_seconds": 1630.28,
+    "end_seconds": 1631.56,
+    "text": "I've been studying the field"
+  },
+  {
+    "segment_id": "s00692",
+    "start_seconds": 1631.56,
+    "end_seconds": 1633.36,
+    "text": "and reading all of these things and doing the work."
+  },
+  {
+    "segment_id": "s00693",
+    "start_seconds": 1633.36,
+    "end_seconds": 1637.28,
+    "text": "If I'd spent 15 years asking Claude, had it existed,"
+  },
+  {
+    "segment_id": "s00694",
+    "start_seconds": 1637.28,
+    "end_seconds": 1638.8799999999999,
+    "text": "to just summarize everything for me"
+  },
+  {
+    "segment_id": "s00695",
+    "start_seconds": 1638.8799999999999,
+    "end_seconds": 1640.52,
+    "text": "and then spit out some bullet points"
+  },
+  {
+    "segment_id": "s00696",
+    "start_seconds": 1640.52,
+    "end_seconds": 1642.56,
+    "text": "that I could say and regurgitate to you,"
+  },
+  {
+    "segment_id": "s00697",
+    "start_seconds": 1642.56,
+    "end_seconds": 1645.6,
+    "text": "like you've lost the point of doing the work."
+  },
+  {
+    "segment_id": "s00698",
+    "start_seconds": 1645.6,
+    "end_seconds": 1646.92,
+    "text": "So I think some of it is just like,"
+  },
+  {
+    "segment_id": "s00699",
+    "start_seconds": 1646.92,
+    "end_seconds": 1649.24,
+    "text": "well, why are you doing the work in the first place?"
+  },
+  {
+    "segment_id": "s00700",
+    "start_seconds": 1649.24,
+    "end_seconds": 1651.84,
+    "text": "Is the purpose literally just to create an output"
+  },
+  {
+    "segment_id": "s00701",
+    "start_seconds": 1651.8400000000001,
+    "end_seconds": 1654.0000000000002,
+    "text": "that's like information gathering?"
+  },
+  {
+    "segment_id": "s00702",
+    "start_seconds": 1654.0000000000002,
+    "end_seconds": 1657.0000000000002,
+    "text": "So I think I use the example in my workshop of,"
+  },
+  {
+    "segment_id": "s00703",
+    "start_seconds": 1657.0000000000002,
+    "end_seconds": 1661.2400000000002,
+    "text": "for AI score, which we just put into public beta this week,"
+  },
+  {
+    "segment_id": "s00704",
+    "start_seconds": 1661.2400000000002,
+    "end_seconds": 1663.8000000000002,
+    "text": "I needed to create the product FAQ page."
+  },
+  {
+    "segment_id": "s00705",
+    "start_seconds": 1663.8000000000002,
+    "end_seconds": 1666.96,
+    "text": "Nobody cares if like I actually wrote the product"
+  },
+  {
+    "segment_id": "s00706",
+    "start_seconds": 1666.96,
+    "end_seconds": 1669.7600000000002,
+    "text": "FAQ page, like from an authenticity perspective,"
+  },
+  {
+    "segment_id": "s00707",
+    "start_seconds": 1669.7600000000002,
+    "end_seconds": 1670.7600000000002,
+    "text": "they're not saying like,"
+  },
+  {
+    "segment_id": "s00708",
+    "start_seconds": 1670.7600000000002,
+    "end_seconds": 1672.68,
+    "text": "I don't think Paul actually wrote this page."
+  },
+  {
+    "segment_id": "s00709",
+    "start_seconds": 1672.68,
+    "end_seconds": 1673.92,
+    "text": "One, my name's not even honest."
+  },
+  {
+    "segment_id": "s00710",
+    "start_seconds": 1673.92,
+    "end_seconds": 1675.88,
+    "text": "You don't even know that I'm the one who created it."
+  },
+  {
+    "segment_id": "s00711",
+    "start_seconds": 1675.88,
+    "end_seconds": 1678.16,
+    "text": "Two, the whole purpose of that"
+  },
+  {
+    "segment_id": "s00712",
+    "start_seconds": 1678.16,
+    "end_seconds": 1679.96,
+    "text": "is to provide information to someone"
+  },
+  {
+    "segment_id": "s00713",
+    "start_seconds": 1680.0,
+    "end_seconds": 1682.44,
+    "text": "if they have a question about how the product works."
+  },
+  {
+    "segment_id": "s00714",
+    "start_seconds": 1682.44,
+    "end_seconds": 1684.92,
+    "text": "It is not to hear my personal opinion"
+  },
+  {
+    "segment_id": "s00715",
+    "start_seconds": 1684.92,
+    "end_seconds": 1686.8,
+    "text": "or our perspective on something."
+  },
+  {
+    "segment_id": "s00716",
+    "start_seconds": 1686.8,
+    "end_seconds": 1688.44,
+    "text": "So in that instance, it's like,"
+  },
+  {
+    "segment_id": "s00717",
+    "start_seconds": 1688.44,
+    "end_seconds": 1690.24,
+    "text": "that's an obvious use case."
+  },
+  {
+    "segment_id": "s00718",
+    "start_seconds": 1690.24,
+    "end_seconds": 1692.1200000000001,
+    "text": "It's like, and it's how I did it."
+  },
+  {
+    "segment_id": "s00719",
+    "start_seconds": 1692.1200000000001,
+    "end_seconds": 1693.6000000000001,
+    "text": "I literally went into Claude,"
+  },
+  {
+    "segment_id": "s00720",
+    "start_seconds": 1693.6000000000001,
+    "end_seconds": 1695.8400000000001,
+    "text": "my seven month project I've had with it,"
+  },
+  {
+    "segment_id": "s00721",
+    "start_seconds": 1695.8400000000001,
+    "end_seconds": 1697.28,
+    "text": "building AI score and said,"
+  },
+  {
+    "segment_id": "s00722",
+    "start_seconds": 1697.28,
+    "end_seconds": 1700.24,
+    "text": "take all seven months of context of our work together,"
+  },
+  {
+    "segment_id": "s00723",
+    "start_seconds": 1700.24,
+    "end_seconds": 1702.44,
+    "text": "developing this technology,"
+  },
+  {
+    "segment_id": "s00724",
+    "start_seconds": 1702.44,
+    "end_seconds": 1704.56,
+    "text": "take the public facing marketing page"
+  },
+  {
+    "segment_id": "s00725",
+    "start_seconds": 1704.56,
+    "end_seconds": 1705.98,
+    "text": "that we already created together."
+  },
+  {
+    "segment_id": "s00726",
+    "start_seconds": 1705.98,
+    "end_seconds": 1708.3600000000001,
+    "text": "And here's 80 questions the team asked me"
+  },
+  {
+    "segment_id": "s00727",
+    "start_seconds": 1708.3600000000001,
+    "end_seconds": 1709.6000000000001,
+    "text": "about how the product works"
+  },
+  {
+    "segment_id": "s00728",
+    "start_seconds": 1709.6000000000001,
+    "end_seconds": 1711.3600000000001,
+    "text": "and what things people might want."
+  },
+  {
+    "segment_id": "s00729",
+    "start_seconds": 1711.3600000000001,
+    "end_seconds": 1712.96,
+    "text": "Turn it into a product FAQ page"
+  },
+  {
+    "segment_id": "s00730",
+    "start_seconds": 1712.96,
+    "end_seconds": 1714.8400000000001,
+    "text": "as though you were writing a best in class"
+  },
+  {
+    "segment_id": "s00731",
+    "start_seconds": 1714.8400000000001,
+    "end_seconds": 1716.5600000000002,
+    "text": "like SAS product FAQ page"
+  },
+  {
+    "segment_id": "s00732",
+    "start_seconds": 1716.5600000000002,
+    "end_seconds": 1718.68,
+    "text": "and make it super approachable tone."
+  },
+  {
+    "segment_id": "s00733",
+    "start_seconds": 1718.68,
+    "end_seconds": 1720.0000000000002,
+    "text": "Boom, nailed it."
+  },
+  {
+    "segment_id": "s00734",
+    "start_seconds": 1720.0000000000002,
+    "end_seconds": 1723.3600000000001,
+    "text": "Like, and it in like 10 to 30 seconds"
+  },
+  {
+    "segment_id": "s00735",
+    "start_seconds": 1723.3600000000001,
+    "end_seconds": 1724.88,
+    "text": "wrote something that I wouldn't have been able"
+  },
+  {
+    "segment_id": "s00736",
+    "start_seconds": 1724.88,
+    "end_seconds": 1727.2800000000002,
+    "text": "to write in 10 hours."
+  },
+  {
+    "segment_id": "s00737",
+    "start_seconds": 1727.2800000000002,
+    "end_seconds": 1729.8400000000001,
+    "text": "And so I think it's just like getting good"
+  },
+  {
+    "segment_id": "s00738",
+    "start_seconds": 1729.8400000000001,
+    "end_seconds": 1732.16,
+    "text": "at that judgment of when is something"
+  },
+  {
+    "segment_id": "s00739",
+    "start_seconds": 1732.16,
+    "end_seconds": 1734.6000000000001,
+    "text": "fine to just use AI because the expectation"
+  },
+  {
+    "segment_id": "s00740",
+    "start_seconds": 1734.6000000000001,
+    "end_seconds": 1736.2,
+    "text": "is I'm just trying to get information"
+  },
+  {
+    "segment_id": "s00741",
+    "start_seconds": 1736.2,
+    "end_seconds": 1738.64,
+    "text": "and facts and something from a brand, for example,"
+  },
+  {
+    "segment_id": "s00742",
+    "start_seconds": 1738.64,
+    "end_seconds": 1742.64,
+    "text": "versus I'm reading a book that I'm assuming you wrote"
+  },
+  {
+    "segment_id": "s00743",
+    "start_seconds": 1742.64,
+    "end_seconds": 1744.0800000000002,
+    "text": "that you put thought into this."
+  },
+  {
+    "segment_id": "s00744",
+    "start_seconds": 1744.0800000000002,
+    "end_seconds": 1746.56,
+    "text": "Like these are actually your words"
+  },
+  {
+    "segment_id": "s00745",
+    "start_seconds": 1746.56,
+    "end_seconds": 1749.16,
+    "text": "then the expectation is that it's authentic."
+  },
+  {
+    "segment_id": "s00746",
+    "start_seconds": 1749.16,
+    "end_seconds": 1751.64,
+    "text": "And so, yeah, again, there's no perfect answer"
+  },
+  {
+    "segment_id": "s00747",
+    "start_seconds": 1751.64,
+    "end_seconds": 1753.96,
+    "text": "but I think it's important that organizations"
+  },
+  {
+    "segment_id": "s00748",
+    "start_seconds": 1753.96,
+    "end_seconds": 1756.16,
+    "text": "develop these frameworks and teach people"
+  },
+  {
+    "segment_id": "s00749",
+    "start_seconds": 1756.16,
+    "end_seconds": 1757.64,
+    "text": "on these frameworks because especially"
+  },
+  {
+    "segment_id": "s00750",
+    "start_seconds": 1757.64,
+    "end_seconds": 1759.56,
+    "text": "with younger employees, they're not gonna have"
+  },
+  {
+    "segment_id": "s00751",
+    "start_seconds": 1759.56,
+    "end_seconds": 1762.2,
+    "text": "that judgment yet of when is it okay to turn this in."
+  },
+  {
+    "segment_id": "s00752",
+    "start_seconds": 1762.2,
+    "end_seconds": 1765.3600000000001,
+    "text": "So my boss asked me to come up with a strategic document"
+  },
+  {
+    "segment_id": "s00753",
+    "start_seconds": 1765.3600000000001,
+    "end_seconds": 1767.1200000000001,
+    "text": "and I was like, yeah, Claude's better right than he's the me."
+  },
+  {
+    "segment_id": "s00754",
+    "start_seconds": 1767.1200000000001,
+    "end_seconds": 1769.2800000000002,
+    "text": "So you just have Claude right and you hand it in"
+  },
+  {
+    "segment_id": "s00755",
+    "start_seconds": 1769.2800000000002,
+    "end_seconds": 1770.44,
+    "text": "and the boss says, like, come on in,"
+  },
+  {
+    "segment_id": "s00756",
+    "start_seconds": 1770.44,
+    "end_seconds": 1772.3200000000002,
+    "text": "let's talk about this document just created."
+  },
+  {
+    "segment_id": "s00757",
+    "start_seconds": 1772.3200000000002,
+    "end_seconds": 1774.3600000000001,
+    "text": "Like, I don't agree with these three points."
+  },
+  {
+    "segment_id": "s00758",
+    "start_seconds": 1774.3600000000001,
+    "end_seconds": 1775.2400000000002,
+    "text": "Why did you pick this?"
+  },
+  {
+    "segment_id": "s00759",
+    "start_seconds": 1775.2400000000002,
+    "end_seconds": 1777.0000000000002,
+    "text": "And the person's like, I have no idea."
+  },
+  {
+    "segment_id": "s00760",
+    "start_seconds": 1777.0000000000002,
+    "end_seconds": 1777.8400000000001,
+    "text": "Claude wrote it."
+  },
+  {
+    "segment_id": "s00761",
+    "start_seconds": 1777.8400000000001,
+    "end_seconds": 1779.68,
+    "text": "Like, I don't know why we picked it."
+  },
+  {
+    "segment_id": "s00762",
+    "start_seconds": 1779.68,
+    "end_seconds": 1780.64,
+    "text": "You've lost the point."
+  },
+  {
+    "segment_id": "s00763",
+    "start_seconds": 1780.64,
+    "end_seconds": 1781.8000000000002,
+    "text": "The point was to do the work."
+  },
+  {
+    "segment_id": "s00764",
+    "start_seconds": 1781.8000000000002,
+    "end_seconds": 1783.64,
+    "text": "The point was to like be able to stand behind"
+  },
+  {
+    "segment_id": "s00765",
+    "start_seconds": 1783.64,
+    "end_seconds": 1784.92,
+    "text": "something you've submitted."
+  },
+  {
+    "segment_id": "s00766",
+    "start_seconds": 1784.92,
+    "end_seconds": 1786.72,
+    "text": "It's funny you mentioned that example,"
+  },
+  {
+    "segment_id": "s00767",
+    "start_seconds": 1786.72,
+    "end_seconds": 1789.96,
+    "text": "someone we know who leave unnamed was telling me"
+  },
+  {
+    "segment_id": "s00768",
+    "start_seconds": 1789.96,
+    "end_seconds": 1791.8000000000002,
+    "text": "and laughing as they told me a story"
+  },
+  {
+    "segment_id": "s00769",
+    "start_seconds": 1791.8000000000002,
+    "end_seconds": 1794.48,
+    "text": "about how one of their employees did exactly that thing"
+  },
+  {
+    "segment_id": "s00770",
+    "start_seconds": 1794.52,
+    "end_seconds": 1797.72,
+    "text": "except they didn't even get to the interview question"
+  },
+  {
+    "segment_id": "s00771",
+    "start_seconds": 1797.72,
+    "end_seconds": 1801.96,
+    "text": "because this person knew immediately this 20 page document"
+  },
+  {
+    "segment_id": "s00772",
+    "start_seconds": 1801.96,
+    "end_seconds": 1805.8,
+    "text": "was very clearly immediately out of the mouth of Claude"
+  },
+  {
+    "segment_id": "s00773",
+    "start_seconds": 1805.8,
+    "end_seconds": 1808.2,
+    "text": "and like not touched it all by a human."
+  },
+  {
+    "segment_id": "s00774",
+    "start_seconds": 1808.2,
+    "end_seconds": 1811.88,
+    "text": "And so they said, hey, give me five bullet points"
+  },
+  {
+    "segment_id": "s00775",
+    "start_seconds": 1811.88,
+    "end_seconds": 1813.28,
+    "text": "about these 20 pages."
+  },
+  {
+    "segment_id": "s00776",
+    "start_seconds": 1813.28,
+    "end_seconds": 1814.1200000000001,
+    "text": "And they're like, about what?"
+  },
+  {
+    "segment_id": "s00777",
+    "start_seconds": 1814.1200000000001,
+    "end_seconds": 1816.08,
+    "text": "And like, literally anything in it."
+  },
+  {
+    "segment_id": "s00778",
+    "start_seconds": 1816.08,
+    "end_seconds": 1817.1200000000001,
+    "text": "Any single thing."
+  },
+  {
+    "segment_id": "s00779",
+    "start_seconds": 1817.1200000000001,
+    "end_seconds": 1818.6,
+    "text": "And they're like, what do you mean?"
+  },
+  {
+    "segment_id": "s00780",
+    "start_seconds": 1818.6,
+    "end_seconds": 1821.1200000000001,
+    "text": "And then they couldn't do it."
+  },
+  {
+    "segment_id": "s00781",
+    "start_seconds": 1821.1200000000001,
+    "end_seconds": 1823.1200000000001,
+    "text": "And they're like, all right, I need you to go redo this."
+  },
+  {
+    "segment_id": "s00782",
+    "start_seconds": 1823.1200000000001,
+    "end_seconds": 1825.1200000000001,
+    "text": "And like which page, all of them, you know."
+  },
+  {
+    "segment_id": "s00783",
+    "start_seconds": 1825.1200000000001,
+    "end_seconds": 1828.92,
+    "text": "And so this point is this stuff is happening already."
+  },
+  {
+    "segment_id": "s00784",
+    "start_seconds": 1828.92,
+    "end_seconds": 1830.5200000000002,
+    "text": "I don't know where that line is,"
+  },
+  {
+    "segment_id": "s00785",
+    "start_seconds": 1830.5200000000002,
+    "end_seconds": 1832.5200000000002,
+    "text": "but clearly some line needs."
+  },
+  {
+    "segment_id": "s00786",
+    "start_seconds": 1832.5200000000002,
+    "end_seconds": 1835.3600000000001,
+    "text": "It has to be established and it has to be part of the culture."
+  },
+  {
+    "segment_id": "s00787",
+    "start_seconds": 1835.3600000000001,
+    "end_seconds": 1836.2,
+    "text": "Yes."
+  },
+  {
+    "segment_id": "s00788",
+    "start_seconds": 1837.8000000000002,
+    "end_seconds": 1840.1200000000001,
+    "text": "Okay, next one."
+  },
+  {
+    "segment_id": "s00789",
+    "start_seconds": 1840.1200000000001,
+    "end_seconds": 1843.4,
+    "text": "What does AGI, artificial general intelligence,"
+  },
+  {
+    "segment_id": "s00790",
+    "start_seconds": 1843.4,
+    "end_seconds": 1846.6000000000001,
+    "text": "really look like to the regular person?"
+  },
+  {
+    "segment_id": "s00791",
+    "start_seconds": 1846.6000000000001,
+    "end_seconds": 1848.5600000000002,
+    "text": "Some people say we have AGI now,"
+  },
+  {
+    "segment_id": "s00792",
+    "start_seconds": 1848.5600000000002,
+    "end_seconds": 1851.4,
+    "text": "but AI still struggles with tons of basic things."
+  },
+  {
+    "segment_id": "s00793",
+    "start_seconds": 1851.4,
+    "end_seconds": 1853.88,
+    "text": "Like, what would AGI actually look like"
+  },
+  {
+    "segment_id": "s00794",
+    "start_seconds": 1853.88,
+    "end_seconds": 1855.3200000000002,
+    "text": "in an ordinary person's life?"
+  },
+  {
+    "segment_id": "s00795",
+    "start_seconds": 1855.3200000000002,
+    "end_seconds": 1857.0,
+    "text": "Like, how would we even know the difference?"
+  },
+  {
+    "segment_id": "s00796",
+    "start_seconds": 1857.0,
+    "end_seconds": 1858.52,
+    "text": "So going back to how we started this,"
+  },
+  {
+    "segment_id": "s00797",
+    "start_seconds": 1858.52,
+    "end_seconds": 1861.76,
+    "text": "Kevin Ruiz's new book, The AGI Chronicles,"
+  },
+  {
+    "segment_id": "s00798",
+    "start_seconds": 1861.76,
+    "end_seconds": 1863.2,
+    "text": "since I just sat through his talk,"
+  },
+  {
+    "segment_id": "s00799",
+    "start_seconds": 1863.2,
+    "end_seconds": 1865.6000000000001,
+    "text": "he actually went through this pretty entertaining thing"
+  },
+  {
+    "segment_id": "s00800",
+    "start_seconds": 1865.6000000000001,
+    "end_seconds": 1869.0400000000002,
+    "text": "about feel the AGI and what the hell is it actually."
+  },
+  {
+    "segment_id": "s00801",
+    "start_seconds": 1869.0400000000002,
+    "end_seconds": 1871.0800000000002,
+    "text": "So feel the AGI is sort of like,"
+  },
+  {
+    "segment_id": "s00802",
+    "start_seconds": 1871.0800000000002,
+    "end_seconds": 1872.72,
+    "text": "open AI in particular uses."
+  },
+  {
+    "segment_id": "s00803",
+    "start_seconds": 1872.72,
+    "end_seconds": 1875.2,
+    "text": "And he was actually saying that Ilya Sutskiver,"
+  },
+  {
+    "segment_id": "s00804",
+    "start_seconds": 1875.2,
+    "end_seconds": 1876.64,
+    "text": "who was a co-founder of open AI,"
+  },
+  {
+    "segment_id": "s00805",
+    "start_seconds": 1876.64,
+    "end_seconds": 1878.8400000000001,
+    "text": "used to go around to people's desks"
+  },
+  {
+    "segment_id": "s00806",
+    "start_seconds": 1879.0000000000002,
+    "end_seconds": 1881.96,
+    "text": "and just say, like, yo to like feel the AGI."
+  },
+  {
+    "segment_id": "s00807",
+    "start_seconds": 1881.96,
+    "end_seconds": 1883.16,
+    "text": "Like, and that was it."
+  },
+  {
+    "segment_id": "s00808",
+    "start_seconds": 1883.16,
+    "end_seconds": 1885.4,
+    "text": "And so Kevin interviewed Ilya and he's like,"
+  },
+  {
+    "segment_id": "s00809",
+    "start_seconds": 1885.4,
+    "end_seconds": 1887.92,
+    "text": "what do you mean when you say feel the AGI?"
+  },
+  {
+    "segment_id": "s00810",
+    "start_seconds": 1887.92,
+    "end_seconds": 1890.44,
+    "text": "Like, what is AGI and how would we know"
+  },
+  {
+    "segment_id": "s00811",
+    "start_seconds": 1890.44,
+    "end_seconds": 1892.5600000000002,
+    "text": "if we're feeling the AGI?"
+  },
+  {
+    "segment_id": "s00812",
+    "start_seconds": 1892.5600000000002,
+    "end_seconds": 1894.4800000000002,
+    "text": "And so he told this hilarious story about like Ilya,"
+  },
+  {
+    "segment_id": "s00813",
+    "start_seconds": 1894.4800000000002,
+    "end_seconds": 1896.7600000000002,
+    "text": "who's basically like a philosopher"
+  },
+  {
+    "segment_id": "s00814",
+    "start_seconds": 1896.7600000000002,
+    "end_seconds": 1898.1200000000001,
+    "text": "when he answers questions."
+  },
+  {
+    "segment_id": "s00815",
+    "start_seconds": 1898.1200000000001,
+    "end_seconds": 1901.4800000000002,
+    "text": "He's like, oh, you know, it's kind of like when you see that,"
+  },
+  {
+    "segment_id": "s00816",
+    "start_seconds": 1901.4800000000002,
+    "end_seconds": 1903.8000000000002,
+    "text": "you're zoomed in on Earth, like someone on a beach or whatever."
+  },
+  {
+    "segment_id": "s00817",
+    "start_seconds": 1903.8000000000002,
+    "end_seconds": 1905.88,
+    "text": "And then all of a sudden you like zoomed out to the universe"
+  },
+  {
+    "segment_id": "s00818",
+    "start_seconds": 1905.88,
+    "end_seconds": 1907.4800000000002,
+    "text": "and you hear Bach playing in the background"
+  },
+  {
+    "segment_id": "s00819",
+    "start_seconds": 1908.32,
+    "end_seconds": 1909.76,
+    "text": "and then he, like that was the answer."
+  },
+  {
+    "segment_id": "s00820",
+    "start_seconds": 1909.76,
+    "end_seconds": 1911.8,
+    "text": "And Kevin's like, I don't know what the hell that means."
+  },
+  {
+    "segment_id": "s00821",
+    "start_seconds": 1911.8,
+    "end_seconds": 1913.52,
+    "text": "Like, what are you talking about?"
+  },
+  {
+    "segment_id": "s00822",
+    "start_seconds": 1913.52,
+    "end_seconds": 1917.64,
+    "text": "So I think tangibly for AGI,"
+  },
+  {
+    "segment_id": "s00823",
+    "start_seconds": 1918.64,
+    "end_seconds": 1920.84,
+    "text": "the way I think about it is"
+  },
+  {
+    "segment_id": "s00824",
+    "start_seconds": 1920.84,
+    "end_seconds": 1924.52,
+    "text": "when the model is roughly the equivalent"
+  },
+  {
+    "segment_id": "s00825",
+    "start_seconds": 1924.52,
+    "end_seconds": 1926.0,
+    "text": "of the B players on your team."
+  },
+  {
+    "segment_id": "s00826",
+    "start_seconds": 1926.0,
+    "end_seconds": 1927.64,
+    "text": "It's kind of like the simplest, most tangible,"
+  },
+  {
+    "segment_id": "s00827",
+    "start_seconds": 1927.64,
+    "end_seconds": 1929.48,
+    "text": "I've thought about it recently."
+  },
+  {
+    "segment_id": "s00828",
+    "start_seconds": 1929.48,
+    "end_seconds": 1932.56,
+    "text": "So if we're talking to marketers"
+  },
+  {
+    "segment_id": "s00829",
+    "start_seconds": 1932.56,
+    "end_seconds": 1935.68,
+    "text": "and you look across a team of people on your staff"
+  },
+  {
+    "segment_id": "s00830",
+    "start_seconds": 1935.68,
+    "end_seconds": 1939.8400000000001,
+    "text": "and you say, okay, like these people do these 20 tasks"
+  },
+  {
+    "segment_id": "s00831",
+    "start_seconds": 1939.8400000000001,
+    "end_seconds": 1942.3600000000001,
+    "text": "and I'm gonna take Claude Opus 5.5"
+  },
+  {
+    "segment_id": "s00832",
+    "start_seconds": 1942.3600000000001,
+    "end_seconds": 1944.96,
+    "text": "or 6.1 Astro from OpenAI"
+  },
+  {
+    "segment_id": "s00833",
+    "start_seconds": 1944.96,
+    "end_seconds": 1948.88,
+    "text": "and I'm gonna give that AI those same 20 tasks."
+  },
+  {
+    "segment_id": "s00834",
+    "start_seconds": 1948.88,
+    "end_seconds": 1953.04,
+    "text": "Is it on par with like an average person on your team?"
+  },
+  {
+    "segment_id": "s00835",
+    "start_seconds": 1954.1200000000001,
+    "end_seconds": 1957.4,
+    "text": "Under that definition, we had AGI like a year ago."
+  },
+  {
+    "segment_id": "s00836",
+    "start_seconds": 1957.4,
+    "end_seconds": 1961.3600000000001,
+    "text": "Like, there are very few tasks that most of us do"
+  },
+  {
+    "segment_id": "s00837",
+    "start_seconds": 1961.3600000000001,
+    "end_seconds": 1964.8,
+    "text": "where it's not already like B player level"
+  },
+  {
+    "segment_id": "s00838",
+    "start_seconds": 1964.8,
+    "end_seconds": 1967.36,
+    "text": "in terms of quality, which means might need some edits,"
+  },
+  {
+    "segment_id": "s00839",
+    "start_seconds": 1967.36,
+    "end_seconds": 1969.52,
+    "text": "might need a second draft."
+  },
+  {
+    "segment_id": "s00840",
+    "start_seconds": 1969.52,
+    "end_seconds": 1970.9199999999998,
+    "text": "You might need to iterate on the prompts,"
+  },
+  {
+    "segment_id": "s00841",
+    "start_seconds": 1970.9199999999998,
+    "end_seconds": 1974.6399999999999,
+    "text": "but like it's generally capable of creating the work product"
+  },
+  {
+    "segment_id": "s00842",
+    "start_seconds": 1974.6399999999999,
+    "end_seconds": 1976.6399999999999,
+    "text": "that an average person across pretty much"
+  },
+  {
+    "segment_id": "s00843",
+    "start_seconds": 1976.6399999999999,
+    "end_seconds": 1979.0,
+    "text": "any department would create."
+  },
+  {
+    "segment_id": "s00844",
+    "start_seconds": 1979.0,
+    "end_seconds": 1981.72,
+    "text": "So I don't, I mean, Kevin showed"
+  },
+  {
+    "segment_id": "s00845",
+    "start_seconds": 1981.72,
+    "end_seconds": 1984.72,
+    "text": "like the different definitions from OpenAI and anthropic,"
+  },
+  {
+    "segment_id": "s00846",
+    "start_seconds": 1984.72,
+    "end_seconds": 1986.6399999999999,
+    "text": "which is like a data center of geniuses"
+  },
+  {
+    "segment_id": "s00847",
+    "start_seconds": 1986.6399999999999,
+    "end_seconds": 1988.84,
+    "text": "is like Dario's infamous way of explaining it."
+  },
+  {
+    "segment_id": "s00848",
+    "start_seconds": 1988.84,
+    "end_seconds": 1992.24,
+    "text": "He showed Google DeepMind and it like no one agrees,"
+  },
+  {
+    "segment_id": "s00849",
+    "start_seconds": 1992.24,
+    "end_seconds": 1993.6,
+    "text": "but that's how I always thought about it."
+  },
+  {
+    "segment_id": "s00850",
+    "start_seconds": 1993.6000000000001,
+    "end_seconds": 1995.5600000000002,
+    "text": "It's the most tangible is equated to workers"
+  },
+  {
+    "segment_id": "s00851",
+    "start_seconds": 1995.5600000000002,
+    "end_seconds": 1998.68,
+    "text": "and it's like, is it on par with your average worker?"
+  },
+  {
+    "segment_id": "s00852",
+    "start_seconds": 1998.68,
+    "end_seconds": 2003.0800000000002,
+    "text": "And then the next level of artificial super intelligence"
+  },
+  {
+    "segment_id": "s00853",
+    "start_seconds": 2003.0800000000002,
+    "end_seconds": 2005.4800000000002,
+    "text": "is, is it better than your best worker?"
+  },
+  {
+    "segment_id": "s00854",
+    "start_seconds": 2005.4800000000002,
+    "end_seconds": 2007.8400000000001,
+    "text": "Like, is it pretty much just superhuman?"
+  },
+  {
+    "segment_id": "s00855",
+    "start_seconds": 2007.8400000000001,
+    "end_seconds": 2012.2400000000002,
+    "text": "And I'm, I said on stage, I think this morning in my keynote,"
+  },
+  {
+    "segment_id": "s00856",
+    "start_seconds": 2012.2400000000002,
+    "end_seconds": 2013.68,
+    "text": "I'm kind of under the assumption"
+  },
+  {
+    "segment_id": "s00857",
+    "start_seconds": 2013.68,
+    "end_seconds": 2015.7600000000002,
+    "text": "that if you just fast forward 12 months,"
+  },
+  {
+    "segment_id": "s00858",
+    "start_seconds": 2015.7600000000002,
+    "end_seconds": 2019.6000000000001,
+    "text": "just assume the model that you've given it the right data"
+  },
+  {
+    "segment_id": "s00859",
+    "start_seconds": 2019.6000000000001,
+    "end_seconds": 2021.8400000000001,
+    "text": "that you're using the model in an intelligent way,"
+  },
+  {
+    "segment_id": "s00860",
+    "start_seconds": 2021.8400000000001,
+    "end_seconds": 2024.0400000000002,
+    "text": "like you know how to work with these models,"
+  },
+  {
+    "segment_id": "s00861",
+    "start_seconds": 2024.0400000000002,
+    "end_seconds": 2025.7200000000003,
+    "text": "the models we're going to have in 12 months"
+  },
+  {
+    "segment_id": "s00862",
+    "start_seconds": 2025.7200000000003,
+    "end_seconds": 2028.2,
+    "text": "are going to be a player level and beyond it."
+  },
+  {
+    "segment_id": "s00863",
+    "start_seconds": 2028.2,
+    "end_seconds": 2030.68,
+    "text": "Pretty much every task you would do"
+  },
+  {
+    "segment_id": "s00864",
+    "start_seconds": 2030.68,
+    "end_seconds": 2032.68,
+    "text": "in any department of a company."
+  },
+  {
+    "segment_id": "s00865",
+    "start_seconds": 2032.68,
+    "end_seconds": 2035.5600000000002,
+    "text": "And so like, I have a hard time accepting"
+  },
+  {
+    "segment_id": "s00866",
+    "start_seconds": 2035.5600000000002,
+    "end_seconds": 2039.3200000000002,
+    "text": "that that isn't AGI in terms of what it was originally meant"
+  },
+  {
+    "segment_id": "s00867",
+    "start_seconds": 2039.3200000000002,
+    "end_seconds": 2042.4,
+    "text": "to be like, I think if you rewound 10, 20 years ago"
+  },
+  {
+    "segment_id": "s00868",
+    "start_seconds": 2042.4,
+    "end_seconds": 2045.8000000000002,
+    "text": "and you gave AI researchers who were thinking about AGI"
+  },
+  {
+    "segment_id": "s00869",
+    "start_seconds": 2045.8000000000002,
+    "end_seconds": 2049.8,
+    "text": "then today's models, they would be like, this is beyond it."
+  },
+  {
+    "segment_id": "s00870",
+    "start_seconds": 2049.88,
+    "end_seconds": 2052.28,
+    "text": "Like, this is so obviously super intelligence."
+  },
+  {
+    "segment_id": "s00871",
+    "start_seconds": 2052.28,
+    "end_seconds": 2054.6800000000003,
+    "text": "And yet here we are just debating a term"
+  },
+  {
+    "segment_id": "s00872",
+    "start_seconds": 2054.6800000000003,
+    "end_seconds": 2056.36,
+    "text": "that's become, you know, basically meaning."
+  },
+  {
+    "segment_id": "s00873",
+    "start_seconds": 2056.36,
+    "end_seconds": 2059.6400000000003,
+    "text": "Yeah, it seems like that yardstick is just moving too"
+  },
+  {
+    "segment_id": "s00874",
+    "start_seconds": 2059.6400000000003,
+    "end_seconds": 2062.48,
+    "text": "because like, I even think about going on a walk"
+  },
+  {
+    "segment_id": "s00875",
+    "start_seconds": 2062.48,
+    "end_seconds": 2065.32,
+    "text": "and using voice mode specifically with codecs,"
+  },
+  {
+    "segment_id": "s00876",
+    "start_seconds": 2065.32,
+    "end_seconds": 2068.52,
+    "text": "voice mode alone, but like voice mode with like codecs"
+  },
+  {
+    "segment_id": "s00877",
+    "start_seconds": 2068.52,
+    "end_seconds": 2071.96,
+    "text": "where my computer back home is creating files,"
+  },
+  {
+    "segment_id": "s00878",
+    "start_seconds": 2071.96,
+    "end_seconds": 2074.52,
+    "text": "doing stuff for me on the internet."
+  },
+  {
+    "segment_id": "s00879",
+    "start_seconds": 2074.52,
+    "end_seconds": 2076.6400000000003,
+    "text": "People probably say this about personal agents too,"
+  },
+  {
+    "segment_id": "s00880",
+    "start_seconds": 2076.6400000000003,
+    "end_seconds": 2078.6000000000004,
+    "text": "but like being able to talk and say,"
+  },
+  {
+    "segment_id": "s00881",
+    "start_seconds": 2078.6,
+    "end_seconds": 2080.0,
+    "text": "go do these three things for me."
+  },
+  {
+    "segment_id": "s00882",
+    "start_seconds": 2080.0,
+    "end_seconds": 2082.08,
+    "text": "Do this to that, this to this slide deck."
+  },
+  {
+    "segment_id": "s00883",
+    "start_seconds": 2082.08,
+    "end_seconds": 2084.12,
+    "text": "Go send this email, it's like, hey, I'm working on that."
+  },
+  {
+    "segment_id": "s00884",
+    "start_seconds": 2084.12,
+    "end_seconds": 2086.08,
+    "text": "Great, okay, it's all done, what's next?"
+  },
+  {
+    "segment_id": "s00885",
+    "start_seconds": 2086.08,
+    "end_seconds": 2090.44,
+    "text": "Like, if you sent that recording to somebody 20 years ago,"
+  },
+  {
+    "segment_id": "s00886",
+    "start_seconds": 2090.44,
+    "end_seconds": 2093.52,
+    "text": "they would be like, this is in sci-fi movies this way."
+  },
+  {
+    "segment_id": "s00887",
+    "start_seconds": 2093.52,
+    "end_seconds": 2095.68,
+    "text": "Like it feels like we're basically there."
+  },
+  {
+    "segment_id": "s00888",
+    "start_seconds": 2095.68,
+    "end_seconds": 2098.08,
+    "text": "Well, the key there is like, you did that"
+  },
+  {
+    "segment_id": "s00889",
+    "start_seconds": 2098.08,
+    "end_seconds": 2100.44,
+    "text": "for a work product and it nailed it."
+  },
+  {
+    "segment_id": "s00890",
+    "start_seconds": 2100.44,
+    "end_seconds": 2102.44,
+    "text": "But then like two minutes later, you're like, oh no,"
+  },
+  {
+    "segment_id": "s00891",
+    "start_seconds": 2102.44,
+    "end_seconds": 2104.08,
+    "text": "I forgot to do my taxes."
+  },
+  {
+    "segment_id": "s00892",
+    "start_seconds": 2104.08,
+    "end_seconds": 2106.52,
+    "text": "Like, could you go in and like pull everything I need"
+  },
+  {
+    "segment_id": "s00893",
+    "start_seconds": 2106.52,
+    "end_seconds": 2109.48,
+    "text": "out of these files and fill out the PDF for me"
+  },
+  {
+    "segment_id": "s00894",
+    "start_seconds": 2109.48,
+    "end_seconds": 2111.12,
+    "text": "and have it ready for me when I get home?"
+  },
+  {
+    "segment_id": "s00895",
+    "start_seconds": 2111.12,
+    "end_seconds": 2113.32,
+    "text": "And oh, I forgot I was supposed to send"
+  },
+  {
+    "segment_id": "s00896",
+    "start_seconds": 2113.32,
+    "end_seconds": 2114.88,
+    "text": "an anniversary gift to my wife."
+  },
+  {
+    "segment_id": "s00897",
+    "start_seconds": 2114.88,
+    "end_seconds": 2117.68,
+    "text": "Could you like go, how is that not?"
+  },
+  {
+    "segment_id": "s00898",
+    "start_seconds": 2117.68,
+    "end_seconds": 2120.68,
+    "text": "Like what we initially thought AGI would be."
+  },
+  {
+    "segment_id": "s00899",
+    "start_seconds": 2120.68,
+    "end_seconds": 2123.08,
+    "text": "It's a single system that can now do basically"
+  },
+  {
+    "segment_id": "s00900",
+    "start_seconds": 2123.08,
+    "end_seconds": 2124.4,
+    "text": "anything you ask it to do."
+  },
+  {
+    "segment_id": "s00901",
+    "start_seconds": 2126.0,
+    "end_seconds": 2128.7599999999998,
+    "text": "Okay, next question, if AI can solve"
+  },
+  {
+    "segment_id": "s00902",
+    "start_seconds": 2128.7599999999998,
+    "end_seconds": 2131.0,
+    "text": "the world's most advanced math problems,"
+  },
+  {
+    "segment_id": "s00903",
+    "start_seconds": 2131.0,
+    "end_seconds": 2133.88,
+    "text": "like it's been recently doing with the Millennium Prize,"
+  },
+  {
+    "segment_id": "s00904",
+    "start_seconds": 2133.88,
+    "end_seconds": 2137.7200000000003,
+    "text": "why can't it solve also the problem of unemployment"
+  },
+  {
+    "segment_id": "s00905",
+    "start_seconds": 2137.7200000000003,
+    "end_seconds": 2139.1600000000003,
+    "text": "caused by AI?"
+  },
+  {
+    "segment_id": "s00906",
+    "start_seconds": 2139.1600000000003,
+    "end_seconds": 2141.4,
+    "text": "So, and this is a big question, but obviously"
+  },
+  {
+    "segment_id": "s00907",
+    "start_seconds": 2141.4,
+    "end_seconds": 2143.7200000000003,
+    "text": "we cannot just click a button and solve unemployment,"
+  },
+  {
+    "segment_id": "s00908",
+    "start_seconds": 2143.7200000000003,
+    "end_seconds": 2147.88,
+    "text": "but the point here is could AI help us solve problems"
+  },
+  {
+    "segment_id": "s00909",
+    "start_seconds": 2147.88,
+    "end_seconds": 2150.04,
+    "text": "like this that it might also end up creating?"
+  },
+  {
+    "segment_id": "s00910",
+    "start_seconds": 2152.88,
+    "end_seconds": 2155.12,
+    "text": "The labs think the answer is yes."
+  },
+  {
+    "segment_id": "s00911",
+    "start_seconds": 2155.12,
+    "end_seconds": 2160.12,
+    "text": "Like the labs believe that if we just get to the end game,"
+  },
+  {
+    "segment_id": "s00912",
+    "start_seconds": 2161.08,
+    "end_seconds": 2162.44,
+    "text": "call it the end game, it might be the beginning"
+  },
+  {
+    "segment_id": "s00913",
+    "start_seconds": 2162.44,
+    "end_seconds": 2163.28,
+    "text": "of the game."
+  },
+  {
+    "segment_id": "s00914",
+    "start_seconds": 2163.36,
+    "end_seconds": 2166.7200000000003,
+    "text": "If we get to the point where we truly have super intelligence,"
+  },
+  {
+    "segment_id": "s00915",
+    "start_seconds": 2166.7200000000003,
+    "end_seconds": 2168.48,
+    "text": "then it'll fix all of this."
+  },
+  {
+    "segment_id": "s00916",
+    "start_seconds": 2168.48,
+    "end_seconds": 2171.6000000000004,
+    "text": "So if we go back like five years ago,"
+  },
+  {
+    "segment_id": "s00917",
+    "start_seconds": 2171.6000000000004,
+    "end_seconds": 2174.48,
+    "text": "all the big AI labs, the cloud companies,"
+  },
+  {
+    "segment_id": "s00918",
+    "start_seconds": 2174.48,
+    "end_seconds": 2176.2000000000003,
+    "text": "the tech companies, everyone's gonna be like"
+  },
+  {
+    "segment_id": "s00919",
+    "start_seconds": 2176.2000000000003,
+    "end_seconds": 2177.8,
+    "text": "net zero emissions."
+  },
+  {
+    "segment_id": "s00920",
+    "start_seconds": 2177.8,
+    "end_seconds": 2179.32,
+    "text": "And so it was all about like we're gonna save"
+  },
+  {
+    "segment_id": "s00921",
+    "start_seconds": 2179.32,
+    "end_seconds": 2181.76,
+    "text": "the environment, we're gonna like get rid of all the carbon"
+  },
+  {
+    "segment_id": "s00922",
+    "start_seconds": 2181.76,
+    "end_seconds": 2184.2000000000003,
+    "text": "that we're putting out into the world."
+  },
+  {
+    "segment_id": "s00923",
+    "start_seconds": 2184.2000000000003,
+    "end_seconds": 2185.96,
+    "text": "At some point they're like, wait a second,"
+  },
+  {
+    "segment_id": "s00924",
+    "start_seconds": 2185.96,
+    "end_seconds": 2188.52,
+    "text": "we actually have to build like 10,000 data centers"
+  },
+  {
+    "segment_id": "s00925",
+    "start_seconds": 2188.52,
+    "end_seconds": 2191.6000000000004,
+    "text": "that are actually going to increase emissions."
+  },
+  {
+    "segment_id": "s00926",
+    "start_seconds": 2191.6000000000004,
+    "end_seconds": 2192.76,
+    "text": "But don't worry about it"
+  },
+  {
+    "segment_id": "s00927",
+    "start_seconds": 2192.76,
+    "end_seconds": 2194.5600000000004,
+    "text": "because we're gonna build super intelligence."
+  },
+  {
+    "segment_id": "s00928",
+    "start_seconds": 2194.5600000000004,
+    "end_seconds": 2198.0800000000004,
+    "text": "And then by 2030, it'll actually figure out how to fix"
+  },
+  {
+    "segment_id": "s00929",
+    "start_seconds": 2198.0800000000004,
+    "end_seconds": 2200.5600000000004,
+    "text": "all the environmental stuff that we're gonna create."
+  },
+  {
+    "segment_id": "s00930",
+    "start_seconds": 2200.5600000000004,
+    "end_seconds": 2204.0800000000004,
+    "text": "And so a lot of what they're doing is truly,"
+  },
+  {
+    "segment_id": "s00931",
+    "start_seconds": 2204.0800000000004,
+    "end_seconds": 2207.5200000000004,
+    "text": "it'll figure it out for us once we throw enough compute"
+  },
+  {
+    "segment_id": "s00932",
+    "start_seconds": 2207.5200000000004,
+    "end_seconds": 2209.0,
+    "text": "at it and once it gets good enough."
+  },
+  {
+    "segment_id": "s00933",
+    "start_seconds": 2209.0,
+    "end_seconds": 2212.1200000000003,
+    "text": "So the mathematics stuff that it's been solving is in part"
+  },
+  {
+    "segment_id": "s00934",
+    "start_seconds": 2212.1200000000003,
+    "end_seconds": 2215.4,
+    "text": "because you can prove if it's right or not."
+  },
+  {
+    "segment_id": "s00935",
+    "start_seconds": 2215.4,
+    "end_seconds": 2219.96,
+    "text": "So there is like an obvious, did this work or did this not"
+  },
+  {
+    "segment_id": "s00936",
+    "start_seconds": 2219.96,
+    "end_seconds": 2221.6400000000003,
+    "text": "in terms of having an answer,"
+  },
+  {
+    "segment_id": "s00937",
+    "start_seconds": 2221.64,
+    "end_seconds": 2223.8399999999997,
+    "text": "it's why you can train it in games a lot of times"
+  },
+  {
+    "segment_id": "s00938",
+    "start_seconds": 2223.8399999999997,
+    "end_seconds": 2227.2799999999997,
+    "text": "because there's a score, there's like a way to keep track."
+  },
+  {
+    "segment_id": "s00939",
+    "start_seconds": 2227.2799999999997,
+    "end_seconds": 2228.92,
+    "text": "When you try and solve something messy,"
+  },
+  {
+    "segment_id": "s00940",
+    "start_seconds": 2228.92,
+    "end_seconds": 2231.08,
+    "text": "like what do we do with economic policy"
+  },
+  {
+    "segment_id": "s00941",
+    "start_seconds": 2231.08,
+    "end_seconds": 2232.2,
+    "text": "and what do we do with jobs,"
+  },
+  {
+    "segment_id": "s00942",
+    "start_seconds": 2232.2,
+    "end_seconds": 2235.04,
+    "text": "there is no like, we can work really hard"
+  },
+  {
+    "segment_id": "s00943",
+    "start_seconds": 2235.04,
+    "end_seconds": 2237.2,
+    "text": "and throw 100,000 GPUs at it for a week"
+  },
+  {
+    "segment_id": "s00944",
+    "start_seconds": 2237.2,
+    "end_seconds": 2239.3199999999997,
+    "text": "and get to the right answer."
+  },
+  {
+    "segment_id": "s00945",
+    "start_seconds": 2239.3199999999997,
+    "end_seconds": 2241.4,
+    "text": "We don't know what the right answer is."
+  },
+  {
+    "segment_id": "s00946",
+    "start_seconds": 2241.4,
+    "end_seconds": 2242.7599999999998,
+    "text": "We still actually have to test it"
+  },
+  {
+    "segment_id": "s00947",
+    "start_seconds": 2242.7599999999998,
+    "end_seconds": 2244.68,
+    "text": "and put it out into society and see if it works."
+  },
+  {
+    "segment_id": "s00948",
+    "start_seconds": 2244.68,
+    "end_seconds": 2247.52,
+    "text": "So like Andrew Yang today at the closing keynote,"
+  },
+  {
+    "segment_id": "s00949",
+    "start_seconds": 2247.52,
+    "end_seconds": 2249.48,
+    "text": "I think he's gonna talk about some of the things"
+  },
+  {
+    "segment_id": "s00950",
+    "start_seconds": 2249.48,
+    "end_seconds": 2251.16,
+    "text": "around like universal basic income"
+  },
+  {
+    "segment_id": "s00951",
+    "start_seconds": 2251.16,
+    "end_seconds": 2255.96,
+    "text": "or universal high income as one way that we can address"
+  },
+  {
+    "segment_id": "s00952",
+    "start_seconds": 2255.96,
+    "end_seconds": 2259.2,
+    "text": "the fact that people might not have jobs."
+  },
+  {
+    "segment_id": "s00953",
+    "start_seconds": 2260.44,
+    "end_seconds": 2264.56,
+    "text": "That doesn't solve the fact that I also now have no purpose"
+  },
+  {
+    "segment_id": "s00954",
+    "start_seconds": 2264.56,
+    "end_seconds": 2268.76,
+    "text": "in my life, like okay, thanks for my $5,000 a month"
+  },
+  {
+    "segment_id": "s00955",
+    "start_seconds": 2268.76,
+    "end_seconds": 2271.2400000000002,
+    "text": "but like I still have to go and look at my family"
+  },
+  {
+    "segment_id": "s00956",
+    "start_seconds": 2271.2400000000002,
+    "end_seconds": 2274.8,
+    "text": "and be like, I don't have, I can't find work for two years."
+  },
+  {
+    "segment_id": "s00957",
+    "start_seconds": 2274.8,
+    "end_seconds": 2278.08,
+    "text": "Like, so it's just a really messy thing"
+  },
+  {
+    "segment_id": "s00958",
+    "start_seconds": 2278.48,
+    "end_seconds": 2280.72,
+    "text": "that covers a lot of areas of society"
+  },
+  {
+    "segment_id": "s00959",
+    "start_seconds": 2280.72,
+    "end_seconds": 2281.72,
+    "text": "and that's why you have other ideas"
+  },
+  {
+    "segment_id": "s00960",
+    "start_seconds": 2281.72,
+    "end_seconds": 2283.36,
+    "text": "like universal basic services."
+  },
+  {
+    "segment_id": "s00961",
+    "start_seconds": 2283.36,
+    "end_seconds": 2285.52,
+    "text": "Like, okay, let's provide healthcare to people too."
+  },
+  {
+    "segment_id": "s00962",
+    "start_seconds": 2285.52,
+    "end_seconds": 2288.6,
+    "text": "And so there's a lack of really good ideas"
+  },
+  {
+    "segment_id": "s00963",
+    "start_seconds": 2288.6,
+    "end_seconds": 2290.68,
+    "text": "that are worth testing other than,"
+  },
+  {
+    "segment_id": "s00964",
+    "start_seconds": 2290.68,
+    "end_seconds": 2293.68,
+    "text": "let's just give people money to be alive."
+  },
+  {
+    "segment_id": "s00965",
+    "start_seconds": 2293.68,
+    "end_seconds": 2298.68,
+    "text": "So I think that one you need the will from the government"
+  },
+  {
+    "segment_id": "s00966",
+    "start_seconds": 2299.72,
+    "end_seconds": 2301.24,
+    "text": "to want to solve this problem,"
+  },
+  {
+    "segment_id": "s00967",
+    "start_seconds": 2301.24,
+    "end_seconds": 2304.7799999999997,
+    "text": "to accept that there is an emerging problem,"
+  },
+  {
+    "segment_id": "s00968",
+    "start_seconds": 2305.78,
+    "end_seconds": 2308.1400000000003,
+    "text": "to own that problem and to say we are going"
+  },
+  {
+    "segment_id": "s00969",
+    "start_seconds": 2308.1400000000003,
+    "end_seconds": 2310.34,
+    "text": "to proactively look for solution."
+  },
+  {
+    "segment_id": "s00970",
+    "start_seconds": 2310.34,
+    "end_seconds": 2312.5800000000004,
+    "text": "We are not in a current political climate"
+  },
+  {
+    "segment_id": "s00971",
+    "start_seconds": 2312.5800000000004,
+    "end_seconds": 2316.94,
+    "text": "that wants to admit that AI has any impact on jobs at all."
+  },
+  {
+    "segment_id": "s00972",
+    "start_seconds": 2316.94,
+    "end_seconds": 2320.26,
+    "text": "David Sacks, who's kind of a voice"
+  },
+  {
+    "segment_id": "s00973",
+    "start_seconds": 2320.26,
+    "end_seconds": 2323.1400000000003,
+    "text": "of the administration unofficially these days,"
+  },
+  {
+    "segment_id": "s00974",
+    "start_seconds": 2323.1400000000003,
+    "end_seconds": 2326.9,
+    "text": "just go look at his ex-feed from the last four months"
+  },
+  {
+    "segment_id": "s00975",
+    "start_seconds": 2326.9,
+    "end_seconds": 2329.7000000000003,
+    "text": "and see how many times he's blasted people"
+  },
+  {
+    "segment_id": "s00976",
+    "start_seconds": 2329.7000000000003,
+    "end_seconds": 2332.5800000000004,
+    "text": "for implying that AI will take jobs."
+  },
+  {
+    "segment_id": "s00977",
+    "start_seconds": 2332.7,
+    "end_seconds": 2337.02,
+    "text": "So, and that is the position largely of the administration."
+  },
+  {
+    "segment_id": "s00978",
+    "start_seconds": 2337.02,
+    "end_seconds": 2338.2999999999997,
+    "text": "So at least in the United States,"
+  },
+  {
+    "segment_id": "s00979",
+    "start_seconds": 2338.2999999999997,
+    "end_seconds": 2343.2999999999997,
+    "text": "we are unwilling to acknowledge that it could go wrong"
+  },
+  {
+    "segment_id": "s00980",
+    "start_seconds": 2345.94,
+    "end_seconds": 2347.58,
+    "text": "because it would cost votes."
+  },
+  {
+    "segment_id": "s00981",
+    "start_seconds": 2347.58,
+    "end_seconds": 2351.2599999999998,
+    "text": "So it's just like first you have to have the will to do it,"
+  },
+  {
+    "segment_id": "s00982",
+    "start_seconds": 2351.2599999999998,
+    "end_seconds": 2353.58,
+    "text": "then you actually have to bring the minds together"
+  },
+  {
+    "segment_id": "s00983",
+    "start_seconds": 2353.58,
+    "end_seconds": 2355.8199999999997,
+    "text": "who are willing to ask the hard questions"
+  },
+  {
+    "segment_id": "s00984",
+    "start_seconds": 2355.8199999999997,
+    "end_seconds": 2357.5,
+    "text": "to start trying to solve it."
+  },
+  {
+    "segment_id": "s00985",
+    "start_seconds": 2357.5,
+    "end_seconds": 2359.2599999999998,
+    "text": "And that's what worries me is like we're just,"
+  },
+  {
+    "segment_id": "s00986",
+    "start_seconds": 2359.2599999999998,
+    "end_seconds": 2362.02,
+    "text": "we're not even out of the starting gate doing that."
+  },
+  {
+    "segment_id": "s00987",
+    "start_seconds": 2362.02,
+    "end_seconds": 2363.46,
+    "text": "And it's why I wanted Andrew here"
+  },
+  {
+    "segment_id": "s00988",
+    "start_seconds": 2363.46,
+    "end_seconds": 2365.78,
+    "text": "because he's one of the few people,"
+  },
+  {
+    "segment_id": "s00989",
+    "start_seconds": 2365.78,
+    "end_seconds": 2367.7,
+    "text": "whether you agree with his position or not,"
+  },
+  {
+    "segment_id": "s00990",
+    "start_seconds": 2367.7,
+    "end_seconds": 2370.14,
+    "text": "who has actually taken a position of here's something"
+  },
+  {
+    "segment_id": "s00991",
+    "start_seconds": 2370.14,
+    "end_seconds": 2371.46,
+    "text": "we could try."
+  },
+  {
+    "segment_id": "s00992",
+    "start_seconds": 2371.46,
+    "end_seconds": 2373.9,
+    "text": "And that's just lacking from politicians"
+  },
+  {
+    "segment_id": "s00993",
+    "start_seconds": 2373.9,
+    "end_seconds": 2374.82,
+    "text": "and from AI lab leaders."
+  },
+  {
+    "segment_id": "s00994",
+    "start_seconds": 2374.82,
+    "end_seconds": 2377.06,
+    "text": "They're not even offering real ideas."
+  },
+  {
+    "segment_id": "s00995",
+    "start_seconds": 2377.06,
+    "end_seconds": 2379.7,
+    "text": "It's just, it'll just be abundant and it'll be awesome."
+  },
+  {
+    "segment_id": "s00996",
+    "start_seconds": 2379.7,
+    "end_seconds": 2382.1,
+    "text": "And we'll see what happens when we get there."
+  },
+  {
+    "segment_id": "s00997",
+    "start_seconds": 2383.06,
+    "end_seconds": 2386.74,
+    "text": "Okay, next up, how, as people progress through their career,"
+  },
+  {
+    "segment_id": "s00998",
+    "start_seconds": 2386.74,
+    "end_seconds": 2389.54,
+    "text": "how do you see them traveling with AI?"
+  },
+  {
+    "segment_id": "s00999",
+    "start_seconds": 2389.54,
+    "end_seconds": 2391.94,
+    "text": "Like how much of what they do with AI"
+  },
+  {
+    "segment_id": "s01000",
+    "start_seconds": 2391.94,
+    "end_seconds": 2395.02,
+    "text": "will they be able to take from position to position?"
+  },
+  {
+    "segment_id": "s01001",
+    "start_seconds": 2395.02,
+    "end_seconds": 2396.42,
+    "text": "Legally none."
+  },
+  {
+    "segment_id": "s01002",
+    "start_seconds": 2396.42,
+    "end_seconds": 2399.26,
+    "text": "So I mean, if you think about employment law"
+  },
+  {
+    "segment_id": "s01003",
+    "start_seconds": 2399.26,
+    "end_seconds": 2402.34,
+    "text": "and the contracts we all sign when we work for organizations,"
+  },
+  {
+    "segment_id": "s01004",
+    "start_seconds": 2402.34,
+    "end_seconds": 2404.9,
+    "text": "if you create something that intellectual property"
+  },
+  {
+    "segment_id": "s01005",
+    "start_seconds": 2404.9,
+    "end_seconds": 2406.7000000000003,
+    "text": "belongs to your employer."
+  },
+  {
+    "segment_id": "s01006",
+    "start_seconds": 2406.7000000000003,
+    "end_seconds": 2409.06,
+    "text": "So if you're an AI forward, you know,"
+  },
+  {
+    "segment_id": "s01007",
+    "start_seconds": 2409.06,
+    "end_seconds": 2411.58,
+    "text": "director within a company and you build"
+  },
+  {
+    "segment_id": "s01008",
+    "start_seconds": 2411.58,
+    "end_seconds": 2413.98,
+    "text": "or you're an orchestrator, like you're building all this stuff,"
+  },
+  {
+    "segment_id": "s01009",
+    "start_seconds": 2413.98,
+    "end_seconds": 2415.82,
+    "text": "you're devising all these strategies"
+  },
+  {
+    "segment_id": "s01010",
+    "start_seconds": 2415.82,
+    "end_seconds": 2417.42,
+    "text": "and you build all these agents"
+  },
+  {
+    "segment_id": "s01011",
+    "start_seconds": 2417.42,
+    "end_seconds": 2419.38,
+    "text": "and all these workflows and everything"
+  },
+  {
+    "segment_id": "s01012",
+    "start_seconds": 2420.26,
+    "end_seconds": 2424.06,
+    "text": "and you own none of it when you walk out the door."
+  },
+  {
+    "segment_id": "s01013",
+    "start_seconds": 2424.06,
+    "end_seconds": 2427.1,
+    "text": "So that's, it's tricky."
+  },
+  {
+    "segment_id": "s01014",
+    "start_seconds": 2427.1,
+    "end_seconds": 2430.26,
+    "text": "But that also exists within like your likeness"
+  },
+  {
+    "segment_id": "s01015",
+    "start_seconds": 2430.26,
+    "end_seconds": 2431.6600000000003,
+    "text": "when you're at that company."
+  },
+  {
+    "segment_id": "s01016",
+    "start_seconds": 2431.6600000000003,
+    "end_seconds": 2433.86,
+    "text": "So I mean, we could do this with you and I."
+  },
+  {
+    "segment_id": "s01017",
+    "start_seconds": 2433.86,
+    "end_seconds": 2437.1400000000003,
+    "text": "It's like who owns our likeness to,"
+  },
+  {
+    "segment_id": "s01018",
+    "start_seconds": 2437.1400000000003,
+    "end_seconds": 2439.54,
+    "text": "if they wanted to turn it into like avatars."
+  },
+  {
+    "segment_id": "s01019",
+    "start_seconds": 2439.54,
+    "end_seconds": 2441.58,
+    "text": "Like if they decide, hey, Paul Mike,"
+  },
+  {
+    "segment_id": "s01020",
+    "start_seconds": 2441.58,
+    "end_seconds": 2442.82,
+    "text": "it was great having you humans,"
+  },
+  {
+    "segment_id": "s01021",
+    "start_seconds": 2442.82,
+    "end_seconds": 2444.5,
+    "text": "but like we're actually going to spin up"
+  },
+  {
+    "segment_id": "s01022",
+    "start_seconds": 2444.5,
+    "end_seconds": 2446.94,
+    "text": "some digital versions of you guys and people ideas."
+  },
+  {
+    "segment_id": "s01023",
+    "start_seconds": 2446.94,
+    "end_seconds": 2449.06,
+    "text": "Yeah, I know."
+  },
+  {
+    "segment_id": "s01024",
+    "start_seconds": 2449.06,
+    "end_seconds": 2450.5,
+    "text": "We already have the baby versions of us."
+  },
+  {
+    "segment_id": "s01025",
+    "start_seconds": 2450.5,
+    "end_seconds": 2451.7,
+    "text": "I don't know what episode that was."
+  },
+  {
+    "segment_id": "s01026",
+    "start_seconds": 2451.7,
+    "end_seconds": 2454.86,
+    "text": "I'm already, I already know this is going to result in something."
+  },
+  {
+    "segment_id": "s01027",
+    "start_seconds": 2454.86,
+    "end_seconds": 2456.42,
+    "text": "Yes, yeah, sorry."
+  },
+  {
+    "segment_id": "s01028",
+    "start_seconds": 2457.5,
+    "end_seconds": 2459.94,
+    "text": "But we've addressed this actually in our contracts."
+  },
+  {
+    "segment_id": "s01029",
+    "start_seconds": 2459.94,
+    "end_seconds": 2462.5,
+    "text": "So, you know, again, it's about being a forward"
+  },
+  {
+    "segment_id": "s01030",
+    "start_seconds": 2462.5,
+    "end_seconds": 2464.2999999999997,
+    "text": "and thinking this stuff through"
+  },
+  {
+    "segment_id": "s01031",
+    "start_seconds": 2464.2999999999997,
+    "end_seconds": 2466.14,
+    "text": "and this is why you need your attorneys."
+  },
+  {
+    "segment_id": "s01032",
+    "start_seconds": 2466.14,
+    "end_seconds": 2468.42,
+    "text": "It's why you need to have AI forward leaders"
+  },
+  {
+    "segment_id": "s01033",
+    "start_seconds": 2468.42,
+    "end_seconds": 2470.46,
+    "text": "who understand to ask these questions."
+  },
+  {
+    "segment_id": "s01034",
+    "start_seconds": 2471.82,
+    "end_seconds": 2475.22,
+    "text": "Yeah, it's messy, but the short answer is nothing."
+  },
+  {
+    "segment_id": "s01035",
+    "start_seconds": 2475.22,
+    "end_seconds": 2476.58,
+    "text": "Nothing you create for a company"
+  },
+  {
+    "segment_id": "s01036",
+    "start_seconds": 2476.58,
+    "end_seconds": 2478.46,
+    "text": "do you own when you leave that company."
+  },
+  {
+    "segment_id": "s01037",
+    "start_seconds": 2479.2999999999997,
+    "end_seconds": 2482.42,
+    "text": "You know, somewhat related to this was a follow on question here"
+  },
+  {
+    "segment_id": "s01038",
+    "start_seconds": 2482.42,
+    "end_seconds": 2484.7799999999997,
+    "text": "of like, have you seen companies consider"
+  },
+  {
+    "segment_id": "s01039",
+    "start_seconds": 2484.7799999999997,
+    "end_seconds": 2487.2999999999997,
+    "text": "how to retrain or integrate people"
+  },
+  {
+    "segment_id": "s01040",
+    "start_seconds": 2487.2999999999997,
+    "end_seconds": 2490.86,
+    "text": "who come from a company using different models?"
+  },
+  {
+    "segment_id": "s01041",
+    "start_seconds": 2490.86,
+    "end_seconds": 2492.7,
+    "text": "Like, is there a big adjustment?"
+  },
+  {
+    "segment_id": "s01042",
+    "start_seconds": 2492.7,
+    "end_seconds": 2494.34,
+    "text": "I never really totally thought about this,"
+  },
+  {
+    "segment_id": "s01043",
+    "start_seconds": 2494.34,
+    "end_seconds": 2496.14,
+    "text": "but I can see where this is coming from."
+  },
+  {
+    "segment_id": "s01044",
+    "start_seconds": 2496.14,
+    "end_seconds": 2497.54,
+    "text": "Is there a big adjustment for employees"
+  },
+  {
+    "segment_id": "s01045",
+    "start_seconds": 2497.54,
+    "end_seconds": 2502.54,
+    "text": "coming from a copilot shop to a clawed vice versa, et cetera?"
+  },
+  {
+    "segment_id": "s01046",
+    "start_seconds": 2503.74,
+    "end_seconds": 2505.7,
+    "text": "I don't know. I haven't heard of that."
+  },
+  {
+    "segment_id": "s01047",
+    "start_seconds": 2505.7,
+    "end_seconds": 2507.38,
+    "text": "I mean, I think it would just fall generally"
+  },
+  {
+    "segment_id": "s01048",
+    "start_seconds": 2507.38,
+    "end_seconds": 2509.38,
+    "text": "under the overall training as a whole."
+  },
+  {
+    "segment_id": "s01049",
+    "start_seconds": 2509.38,
+    "end_seconds": 2511.34,
+    "text": "And my experience has been, and Mike,"
+  },
+  {
+    "segment_id": "s01050",
+    "start_seconds": 2511.34,
+    "end_seconds": 2513.2200000000003,
+    "text": "you can jump in on this one."
+  },
+  {
+    "segment_id": "s01051",
+    "start_seconds": 2513.2200000000003,
+    "end_seconds": 2515.62,
+    "text": "If you know how to talk to AI assistants,"
+  },
+  {
+    "segment_id": "s01052",
+    "start_seconds": 2515.62,
+    "end_seconds": 2517.54,
+    "text": "and if you know how to build AI agents"
+  },
+  {
+    "segment_id": "s01053",
+    "start_seconds": 2517.54,
+    "end_seconds": 2519.1400000000003,
+    "text": "if you're that far along,"
+  },
+  {
+    "segment_id": "s01054",
+    "start_seconds": 2519.1400000000003,
+    "end_seconds": 2522.86,
+    "text": "you can go model the model or AI system AI system"
+  },
+  {
+    "segment_id": "s01055",
+    "start_seconds": 2522.86,
+    "end_seconds": 2523.62,
+    "text": "pretty easily."
+  },
+  {
+    "segment_id": "s01056",
+    "start_seconds": 2523.62,
+    "end_seconds": 2525.34,
+    "text": "Like, it's still prompting the same."
+  },
+  {
+    "segment_id": "s01057",
+    "start_seconds": 2525.34,
+    "end_seconds": 2527.34,
+    "text": "Now, if you're stuck in a, like,"
+  },
+  {
+    "segment_id": "s01058",
+    "start_seconds": 2527.34,
+    "end_seconds": 2529.58,
+    "text": "a neutered version of copilot within an enterprise"
+  },
+  {
+    "segment_id": "s01059",
+    "start_seconds": 2529.58,
+    "end_seconds": 2532.7000000000003,
+    "text": "that's turned off all, like, the most valuable features,"
+  },
+  {
+    "segment_id": "s01060",
+    "start_seconds": 2532.7000000000003,
+    "end_seconds": 2533.78,
+    "text": "you're screwed either way."
+  },
+  {
+    "segment_id": "s01061",
+    "start_seconds": 2533.78,
+    "end_seconds": 2535.54,
+    "text": "Like, it doesn't really matter."
+  },
+  {
+    "segment_id": "s01062",
+    "start_seconds": 2535.54,
+    "end_seconds": 2536.78,
+    "text": "And that's the biggest concern."
+  },
+  {
+    "segment_id": "s01063",
+    "start_seconds": 2536.78,
+    "end_seconds": 2538.1800000000003,
+    "text": "So if I was an AI Ford employee"
+  },
+  {
+    "segment_id": "s01064",
+    "start_seconds": 2538.1800000000003,
+    "end_seconds": 2540.1800000000003,
+    "text": "that I was making a move somewhere else,"
+  },
+  {
+    "segment_id": "s01065",
+    "start_seconds": 2540.1800000000003,
+    "end_seconds": 2542.38,
+    "text": "and let's say I was really used to clawed"
+  },
+  {
+    "segment_id": "s01066",
+    "start_seconds": 2542.38,
+    "end_seconds": 2545.2200000000003,
+    "text": "and I was going to have to use copilot,"
+  },
+  {
+    "segment_id": "s01067",
+    "start_seconds": 2545.2200000000003,
+    "end_seconds": 2547.86,
+    "text": "I would be more interested in, like,"
+  },
+  {
+    "segment_id": "s01068",
+    "start_seconds": 2547.86,
+    "end_seconds": 2550.34,
+    "text": "what am I going to be allowed to do with it?"
+  },
+  {
+    "segment_id": "s01069",
+    "start_seconds": 2550.34,
+    "end_seconds": 2552.46,
+    "text": "Do I have a limitation on my tokens?"
+  },
+  {
+    "segment_id": "s01070",
+    "start_seconds": 2552.46,
+    "end_seconds": 2554.78,
+    "text": "Because once you're used to using these tools"
+  },
+  {
+    "segment_id": "s01071",
+    "start_seconds": 2554.78,
+    "end_seconds": 2555.9,
+    "text": "as part of your work,"
+  },
+  {
+    "segment_id": "s01072",
+    "start_seconds": 2555.9,
+    "end_seconds": 2557.3,
+    "text": "that's going to be the biggest problem."
+  },
+  {
+    "segment_id": "s01073",
+    "start_seconds": 2557.3,
+    "end_seconds": 2559.94,
+    "text": "If you now go to a company that limits your ability"
+  },
+  {
+    "segment_id": "s01074",
+    "start_seconds": 2559.94,
+    "end_seconds": 2561.2200000000003,
+    "text": "to use these tools,"
+  },
+  {
+    "segment_id": "s01075",
+    "start_seconds": 2562.1400000000003,
+    "end_seconds": 2564.46,
+    "text": "I think it's going to be a lot more of the other way"
+  },
+  {
+    "segment_id": "s01076",
+    "start_seconds": 2564.46,
+    "end_seconds": 2567.26,
+    "text": "where people who are trying to be the innovators"
+  },
+  {
+    "segment_id": "s01077",
+    "start_seconds": 2567.26,
+    "end_seconds": 2569.78,
+    "text": "within organizations who are using clawed"
+  },
+  {
+    "segment_id": "s01078",
+    "start_seconds": 2569.78,
+    "end_seconds": 2572.14,
+    "text": "on their personal account at nights and weekends,"
+  },
+  {
+    "segment_id": "s01079",
+    "start_seconds": 2572.14,
+    "end_seconds": 2574.7400000000002,
+    "text": "they're going to jump ship and go to a company"
+  },
+  {
+    "segment_id": "s01080",
+    "start_seconds": 2574.7400000000002,
+    "end_seconds": 2575.98,
+    "text": "that's going to welcome them in"
+  },
+  {
+    "segment_id": "s01081",
+    "start_seconds": 2575.98,
+    "end_seconds": 2577.7,
+    "text": "and allow them to use those tools."
+  },
+  {
+    "segment_id": "s01082",
+    "start_seconds": 2577.7,
+    "end_seconds": 2579.26,
+    "text": "Yeah, I think that's exactly it."
+  },
+  {
+    "segment_id": "s01083",
+    "start_seconds": 2579.26,
+    "end_seconds": 2582.7400000000002,
+    "text": "It's less about the nuances of each model most of the time"
+  },
+  {
+    "segment_id": "s01084",
+    "start_seconds": 2582.7400000000002,
+    "end_seconds": 2585.34,
+    "text": "and what you're actually allowed to do or is not allowed to do."
+  },
+  {
+    "segment_id": "s01085",
+    "start_seconds": 2585.34,
+    "end_seconds": 2588.02,
+    "text": "I think for especially some top talent out there"
+  },
+  {
+    "segment_id": "s01086",
+    "start_seconds": 2588.02,
+    "end_seconds": 2592.3,
+    "text": "is going to become, if not one of the top thing,"
+  },
+  {
+    "segment_id": "s01087",
+    "start_seconds": 2592.38,
+    "end_seconds": 2593.7400000000002,
+    "text": "because we're very close to,"
+  },
+  {
+    "segment_id": "s01088",
+    "start_seconds": 2593.7400000000002,
+    "end_seconds": 2596.0600000000004,
+    "text": "if you're using these tools and embedded with them day"
+  },
+  {
+    "segment_id": "s01089",
+    "start_seconds": 2596.0600000000004,
+    "end_seconds": 2598.38,
+    "text": "and day out, you can't live without them for one,"
+  },
+  {
+    "segment_id": "s01090",
+    "start_seconds": 2598.38,
+    "end_seconds": 2601.2200000000003,
+    "text": "but two, it's like the reason you're excited"
+  },
+  {
+    "segment_id": "s01091",
+    "start_seconds": 2601.2200000000003,
+    "end_seconds": 2602.26,
+    "text": "about your work."
+  },
+  {
+    "segment_id": "s01092",
+    "start_seconds": 2602.26,
+    "end_seconds": 2606.1400000000003,
+    "text": "So giving that up is more than just something"
+  },
+  {
+    "segment_id": "s01093",
+    "start_seconds": 2606.1400000000003,
+    "end_seconds": 2608.5800000000004,
+    "text": "like a comp consideration or a career."
+  },
+  {
+    "segment_id": "s01094",
+    "start_seconds": 2608.5800000000004,
+    "end_seconds": 2611.42,
+    "text": "Also, it's like a limiting career move,"
+  },
+  {
+    "segment_id": "s01095",
+    "start_seconds": 2611.42,
+    "end_seconds": 2613.3,
+    "text": "I would argue with how fast things move,"
+  },
+  {
+    "segment_id": "s01096",
+    "start_seconds": 2613.3,
+    "end_seconds": 2617.5800000000004,
+    "text": "you're hamstringing yourself if you can't do enough,"
+  },
+  {
+    "segment_id": "s01097",
+    "start_seconds": 2617.5800000000004,
+    "end_seconds": 2619.1800000000003,
+    "text": "whatever that looks like for you."
+  },
+  {
+    "segment_id": "s01098",
+    "start_seconds": 2619.1800000000003,
+    "end_seconds": 2621.1000000000004,
+    "text": "Yeah, I mean, if I was interviewing for a job,"
+  },
+  {
+    "segment_id": "s01099",
+    "start_seconds": 2621.1,
+    "end_seconds": 2623.54,
+    "text": "I would say, can you share your AI policy with me"
+  },
+  {
+    "segment_id": "s01100",
+    "start_seconds": 2623.54,
+    "end_seconds": 2626.14,
+    "text": "or at least like the general frameworks of what's allowed?"
+  },
+  {
+    "segment_id": "s01101",
+    "start_seconds": 2626.14,
+    "end_seconds": 2628.02,
+    "text": "Do you have responsibly AI principles?"
+  },
+  {
+    "segment_id": "s01102",
+    "start_seconds": 2628.02,
+    "end_seconds": 2630.2599999999998,
+    "text": "How are those kind of taught within the culture?"
+  },
+  {
+    "segment_id": "s01103",
+    "start_seconds": 2630.2599999999998,
+    "end_seconds": 2632.22,
+    "text": "What tools will I have access to?"
+  },
+  {
+    "segment_id": "s01104",
+    "start_seconds": 2632.22,
+    "end_seconds": 2633.22,
+    "text": "Are there limits?"
+  },
+  {
+    "segment_id": "s01105",
+    "start_seconds": 2633.22,
+    "end_seconds": 2634.06,
+    "text": "Do you have a connect?"
+  },
+  {
+    "segment_id": "s01106",
+    "start_seconds": 2634.06,
+    "end_seconds": 2635.94,
+    "text": "I'm looking for a job in marketing."
+  },
+  {
+    "segment_id": "s01107",
+    "start_seconds": 2635.94,
+    "end_seconds": 2638.62,
+    "text": "Is your AI connected to your CRM or like,"
+  },
+  {
+    "segment_id": "s01108",
+    "start_seconds": 2638.62,
+    "end_seconds": 2640.42,
+    "text": "do you guys not, do you wall that off?"
+  },
+  {
+    "segment_id": "s01109",
+    "start_seconds": 2640.42,
+    "end_seconds": 2641.74,
+    "text": "Those are the things I would be asking"
+  },
+  {
+    "segment_id": "s01110",
+    "start_seconds": 2641.74,
+    "end_seconds": 2643.3399999999997,
+    "text": "as an AI forward practitioner."
+  },
+  {
+    "segment_id": "s01111",
+    "start_seconds": 2643.3399999999997,
+    "end_seconds": 2644.62,
+    "text": "It's like, I would want to know,"
+  },
+  {
+    "segment_id": "s01112",
+    "start_seconds": 2644.62,
+    "end_seconds": 2647.5,
+    "text": "am I going to be able to do the job you're asking me to do?"
+  },
+  {
+    "segment_id": "s01113",
+    "start_seconds": 2648.5,
+    "end_seconds": 2652.82,
+    "text": "All right, we have time for maybe one more question here."
+  },
+  {
+    "segment_id": "s01114",
+    "start_seconds": 2652.82,
+    "end_seconds": 2654.22,
+    "text": "Now I want to kind of come back to this"
+  },
+  {
+    "segment_id": "s01115",
+    "start_seconds": 2654.22,
+    "end_seconds": 2656.74,
+    "text": "because we did talk about it a little bit on the podcast,"
+  },
+  {
+    "segment_id": "s01116",
+    "start_seconds": 2656.74,
+    "end_seconds": 2659.5,
+    "text": "but it's come up so many times already at make on."
+  },
+  {
+    "segment_id": "s01117",
+    "start_seconds": 2659.5,
+    "end_seconds": 2664.5,
+    "text": "Someone said, I trained people how to create GPTs in chat GPT."
+  },
+  {
+    "segment_id": "s01118",
+    "start_seconds": 2664.9,
+    "end_seconds": 2667.78,
+    "text": "Now that GPTs are gone or going away,"
+  },
+  {
+    "segment_id": "s01119",
+    "start_seconds": 2667.78,
+    "end_seconds": 2669.42,
+    "text": "I don't know what to use now."
+  },
+  {
+    "segment_id": "s01120",
+    "start_seconds": 2669.42,
+    "end_seconds": 2673.38,
+    "text": "Instead, what do you suggest as a replacement?"
+  },
+  {
+    "segment_id": "s01121",
+    "start_seconds": 2673.38,
+    "end_seconds": 2675.22,
+    "text": "So what they're suggesting are plugins"
+  },
+  {
+    "segment_id": "s01122",
+    "start_seconds": 2675.22,
+    "end_seconds": 2676.62,
+    "text": "for replacement to GPTs."
+  },
+  {
+    "segment_id": "s01123",
+    "start_seconds": 2676.62,
+    "end_seconds": 2678.42,
+    "text": "My experience is that does not work."
+  },
+  {
+    "segment_id": "s01124",
+    "start_seconds": 2678.42,
+    "end_seconds": 2681.8599999999997,
+    "text": "Like I don't, it was a one-off experience"
+  },
+  {
+    "segment_id": "s01125",
+    "start_seconds": 2681.8599999999997,
+    "end_seconds": 2683.66,
+    "text": "and it was not good."
+  },
+  {
+    "segment_id": "s01126",
+    "start_seconds": 2683.66,
+    "end_seconds": 2684.74,
+    "text": "So it's certainly not as intuitive"
+  },
+  {
+    "segment_id": "s01127",
+    "start_seconds": 2684.74,
+    "end_seconds": 2686.46,
+    "text": "as I think they intended it to be."
+  },
+  {
+    "segment_id": "s01128",
+    "start_seconds": 2687.94,
+    "end_seconds": 2690.06,
+    "text": "I think it depends on what your goal with it is."
+  },
+  {
+    "segment_id": "s01129",
+    "start_seconds": 2690.06,
+    "end_seconds": 2692.5,
+    "text": "So if it is something you want to publicly share,"
+  },
+  {
+    "segment_id": "s01130",
+    "start_seconds": 2692.5,
+    "end_seconds": 2693.66,
+    "text": "then you're probably moving more"
+  },
+  {
+    "segment_id": "s01131",
+    "start_seconds": 2693.66,
+    "end_seconds": 2695.62,
+    "text": "in the direction of something like sites or something."
+  },
+  {
+    "segment_id": "s01132",
+    "start_seconds": 2695.62,
+    "end_seconds": 2698.7799999999997,
+    "text": "I don't know, if it's an internal tool"
+  },
+  {
+    "segment_id": "s01133",
+    "start_seconds": 2698.7799999999997,
+    "end_seconds": 2700.38,
+    "text": "that you're going to use as an AI assistant,"
+  },
+  {
+    "segment_id": "s01134",
+    "start_seconds": 2700.38,
+    "end_seconds": 2703.8599999999997,
+    "text": "you might be building it as a skill or a project."
+  },
+  {
+    "segment_id": "s01135",
+    "start_seconds": 2703.8599999999997,
+    "end_seconds": 2705.06,
+    "text": "If it's a repetitive action,"
+  },
+  {
+    "segment_id": "s01136",
+    "start_seconds": 2705.06,
+    "end_seconds": 2706.66,
+    "text": "you might be turning it into an agent."
+  },
+  {
+    "segment_id": "s01137",
+    "start_seconds": 2706.66,
+    "end_seconds": 2708.54,
+    "text": "Like, I think we're just moving into the realm"
+  },
+  {
+    "segment_id": "s01138",
+    "start_seconds": 2708.54,
+    "end_seconds": 2712.06,
+    "text": "where it just depends on what the actual usage is."
+  },
+  {
+    "segment_id": "s01139",
+    "start_seconds": 2712.06,
+    "end_seconds": 2713.62,
+    "text": "And you're probably going to need to audit"
+  },
+  {
+    "segment_id": "s01140",
+    "start_seconds": 2713.62,
+    "end_seconds": 2715.7,
+    "text": "any GPTs you've built and said,"
+  },
+  {
+    "segment_id": "s01141",
+    "start_seconds": 2715.7,
+    "end_seconds": 2718.06,
+    "text": "what is it used for, who uses it?"
+  },
+  {
+    "segment_id": "s01142",
+    "start_seconds": 2718.06,
+    "end_seconds": 2722.02,
+    "text": "And then map it to what is the best thing to turn it into"
+  },
+  {
+    "segment_id": "s01143",
+    "start_seconds": 2722.02,
+    "end_seconds": 2725.38,
+    "text": "based on what OpenAI is currently offering"
+  },
+  {
+    "segment_id": "s01144",
+    "start_seconds": 2725.38,
+    "end_seconds": 2727.2999999999997,
+    "text": "that they might change in three months."
+  },
+  {
+    "segment_id": "s01145",
+    "start_seconds": 2727.2999999999997,
+    "end_seconds": 2728.58,
+    "text": "Like I don't know."
+  },
+  {
+    "segment_id": "s01146",
+    "start_seconds": 2728.58,
+    "end_seconds": 2729.42,
+    "text": "Yeah, it's interesting."
+  },
+  {
+    "segment_id": "s01147",
+    "start_seconds": 2729.42,
+    "end_seconds": 2734.42,
+    "text": "It's almost like, you start to see a decision tree kind of."
+  },
+  {
+    "segment_id": "s01148",
+    "start_seconds": 2735.7,
+    "end_seconds": 2736.54,
+    "text": "Unfortunately."
+  },
+  {
+    "segment_id": "s01149",
+    "start_seconds": 2736.54,
+    "end_seconds": 2737.38,
+    "text": "Yeah, right."
+  },
+  {
+    "segment_id": "s01150",
+    "start_seconds": 2737.38,
+    "end_seconds": 2738.38,
+    "text": "It's interesting."
+  },
+  {
+    "segment_id": "s01151",
+    "start_seconds": 2738.38,
+    "end_seconds": 2740.2999999999997,
+    "text": "When I talk to people, it's like,"
+  },
+  {
+    "segment_id": "s01152",
+    "start_seconds": 2740.2999999999997,
+    "end_seconds": 2742.62,
+    "text": "if you're just using a GPT for yourself"
+  },
+  {
+    "segment_id": "s01153",
+    "start_seconds": 2742.62,
+    "end_seconds": 2743.62,
+    "text": "and you're not that far along"
+  },
+  {
+    "segment_id": "s01154",
+    "start_seconds": 2743.62,
+    "end_seconds": 2746.82,
+    "text": "and you just want like repeatable instructions,"
+  },
+  {
+    "segment_id": "s01155",
+    "start_seconds": 2746.82,
+    "end_seconds": 2749.54,
+    "text": "go learn how to build skills and talk with AI"
+  },
+  {
+    "segment_id": "s01156",
+    "start_seconds": 2749.54,
+    "end_seconds": 2750.38,
+    "text": "about how to do it."
+  },
+  {
+    "segment_id": "s01157",
+    "start_seconds": 2750.38,
+    "end_seconds": 2751.74,
+    "text": "That's going to become important in the future."
+  },
+  {
+    "segment_id": "s01158",
+    "start_seconds": 2751.74,
+    "end_seconds": 2754.1,
+    "text": "But in the meantime, just put the instructions"
+  },
+  {
+    "segment_id": "s01159",
+    "start_seconds": 2754.1,
+    "end_seconds": 2755.98,
+    "text": "into a project and use that yourself."
+  },
+  {
+    "segment_id": "s01160",
+    "start_seconds": 2755.98,
+    "end_seconds": 2757.46,
+    "text": "It's going to be roughly the same thing."
+  },
+  {
+    "segment_id": "s01161",
+    "start_seconds": 2757.46,
+    "end_seconds": 2760.42,
+    "text": "It's not perfect, but it's the closest analog."
+  },
+  {
+    "segment_id": "s01162",
+    "start_seconds": 2760.42,
+    "end_seconds": 2762.94,
+    "text": "Skills is the ideally, I think,"
+  },
+  {
+    "segment_id": "s01163",
+    "start_seconds": 2762.94,
+    "end_seconds": 2765.2200000000003,
+    "text": "the path you start moving down"
+  },
+  {
+    "segment_id": "s01164",
+    "start_seconds": 2765.2200000000003,
+    "end_seconds": 2766.5,
+    "text": "and they're not hard to build."
+  },
+  {
+    "segment_id": "s01165",
+    "start_seconds": 2766.5,
+    "end_seconds": 2767.5,
+    "text": "They're hard to get right,"
+  },
+  {
+    "segment_id": "s01166",
+    "start_seconds": 2767.5,
+    "end_seconds": 2770.06,
+    "text": "but that's going to require a lot of iteration anyway."
+  },
+  {
+    "segment_id": "s01167",
+    "start_seconds": 2770.06,
+    "end_seconds": 2771.62,
+    "text": "And then, yeah, if you're getting into,"
+  },
+  {
+    "segment_id": "s01168",
+    "start_seconds": 2771.62,
+    "end_seconds": 2774.18,
+    "text": "you need people publicly to use this, good luck."
+  },
+  {
+    "segment_id": "s01169",
+    "start_seconds": 2774.18,
+    "end_seconds": 2775.78,
+    "text": "Because that's a huge thing"
+  },
+  {
+    "segment_id": "s01170",
+    "start_seconds": 2775.78,
+    "end_seconds": 2777.42,
+    "text": "that they pulled the rug out from under you."
+  },
+  {
+    "segment_id": "s01171",
+    "start_seconds": 2777.42,
+    "end_seconds": 2778.3,
+    "text": "Maybe it's an app."
+  },
+  {
+    "segment_id": "s01172",
+    "start_seconds": 2778.3,
+    "end_seconds": 2781.2200000000003,
+    "text": "Maybe it's projects you could share with your team,"
+  },
+  {
+    "segment_id": "s01173",
+    "start_seconds": 2781.2200000000003,
+    "end_seconds": 2783.46,
+    "text": "but then they can also edit the instructions."
+  },
+  {
+    "segment_id": "s01174",
+    "start_seconds": 2783.46,
+    "end_seconds": 2784.7000000000003,
+    "text": "So it's like, you don't want that."
+  },
+  {
+    "segment_id": "s01175",
+    "start_seconds": 2784.7000000000003,
+    "end_seconds": 2785.54,
+    "text": "Right."
+  },
+  {
+    "segment_id": "s01176",
+    "start_seconds": 2785.54,
+    "end_seconds": 2786.38,
+    "text": "So who knows where that is."
+  },
+  {
+    "segment_id": "s01177",
+    "start_seconds": 2786.38,
+    "end_seconds": 2788.42,
+    "text": "Yeah, it's like they took a really simple,"
+  },
+  {
+    "segment_id": "s01178",
+    "start_seconds": 2788.42,
+    "end_seconds": 2790.66,
+    "text": "intuitive thing that anybody could be taught."
+  },
+  {
+    "segment_id": "s01179",
+    "start_seconds": 2790.66,
+    "end_seconds": 2791.5,
+    "text": "And we've taught it."
+  },
+  {
+    "segment_id": "s01180",
+    "start_seconds": 2791.5,
+    "end_seconds": 2794.38,
+    "text": "We're in workshops teaching people who are just starting an AI,"
+  },
+  {
+    "segment_id": "s01181",
+    "start_seconds": 2794.38,
+    "end_seconds": 2795.22,
+    "text": "how to build GPTs."
+  },
+  {
+    "segment_id": "s01182",
+    "start_seconds": 2795.22,
+    "end_seconds": 2796.22,
+    "text": "And it's like, oh, this is brilliant."
+  },
+  {
+    "segment_id": "s01183",
+    "start_seconds": 2796.22,
+    "end_seconds": 2797.78,
+    "text": "Like I get it, I see it."
+  },
+  {
+    "segment_id": "s01184",
+    "start_seconds": 2797.78,
+    "end_seconds": 2799.34,
+    "text": "And now it's just like, just blow it up."
+  },
+  {
+    "segment_id": "s01185",
+    "start_seconds": 2799.34,
+    "end_seconds": 2801.06,
+    "text": "Like the one thing that was super into it."
+  },
+  {
+    "segment_id": "s01186",
+    "start_seconds": 2801.06,
+    "end_seconds": 2802.54,
+    "text": "Yeah. Yeah."
+  },
+  {
+    "segment_id": "s01187",
+    "start_seconds": 2802.54,
+    "end_seconds": 2804.98,
+    "text": "All right, Paul, that comes to the end of our time,"
+  },
+  {
+    "segment_id": "s01188",
+    "start_seconds": 2804.98,
+    "end_seconds": 2806.1,
+    "text": "end of our questions."
+  },
+  {
+    "segment_id": "s01189",
+    "start_seconds": 2806.1,
+    "end_seconds": 2808.54,
+    "text": "Appreciate you being game to answer all these,"
+  },
+  {
+    "segment_id": "s01190",
+    "start_seconds": 2808.54,
+    "end_seconds": 2810.54,
+    "text": "especially I'm sure you're getting tons of questions."
+  },
+  {
+    "segment_id": "s01191",
+    "start_seconds": 2810.54,
+    "end_seconds": 2812.22,
+    "text": "I have tons of speaking to do at make on,"
+  },
+  {
+    "segment_id": "s01192",
+    "start_seconds": 2812.22,
+    "end_seconds": 2814.34,
+    "text": "but it's been an awesome event so far."
+  },
+  {
+    "segment_id": "s01193",
+    "start_seconds": 2814.34,
+    "end_seconds": 2815.18,
+    "text": "Thanks for doing this."
+  },
+  {
+    "segment_id": "s01194",
+    "start_seconds": 2815.18,
+    "end_seconds": 2816.58,
+    "text": "Yeah, thanks everyone who's been here."
+  },
+  {
+    "segment_id": "s01195",
+    "start_seconds": 2816.58,
+    "end_seconds": 2818.3,
+    "text": "I know we have a bunch of podcast listeners here."
+  },
+  {
+    "segment_id": "s01196",
+    "start_seconds": 2818.3,
+    "end_seconds": 2820.02,
+    "text": "We're actually, when this is airing,"
+  },
+  {
+    "segment_id": "s01197",
+    "start_seconds": 2820.02,
+    "end_seconds": 2821.94,
+    "text": "we're probably going to be in our live lunch"
+  },
+  {
+    "segment_id": "s01198",
+    "start_seconds": 2821.94,
+    "end_seconds": 2823.34,
+    "text": "that we talked about on the podcast."
+  },
+  {
+    "segment_id": "s01199",
+    "start_seconds": 2823.34,
+    "end_seconds": 2825.86,
+    "text": "So now we got a bunch of podcast listeners that joined us."
+  },
+  {
+    "segment_id": "s01200",
+    "start_seconds": 2825.86,
+    "end_seconds": 2829.3,
+    "text": "We're going to do kind of an exclusive lunch Q&A"
+  },
+  {
+    "segment_id": "s01201",
+    "start_seconds": 2829.3,
+    "end_seconds": 2832.22,
+    "text": "with them tomorrow, which will be today for you all."
+  },
+  {
+    "segment_id": "s01202",
+    "start_seconds": 2832.22,
+    "end_seconds": 2833.98,
+    "text": "But yeah, thanks everybody for listening."
+  },
+  {
+    "segment_id": "s01203",
+    "start_seconds": 2833.98,
+    "end_seconds": 2835.14,
+    "text": "Thanks for being here if you're here."
+  },
+  {
+    "segment_id": "s01204",
+    "start_seconds": 2835.14,
+    "end_seconds": 2838.58,
+    "text": "And if you're not here, we'd love to see you at make on 2027,"
+  },
+  {
+    "segment_id": "s01205",
+    "start_seconds": 2838.58,
+    "end_seconds": 2840.58,
+    "text": "which I would imagine we'll be announcing the dates for"
+  },
+  {
+    "segment_id": "s01206",
+    "start_seconds": 2840.58,
+    "end_seconds": 2841.42,
+    "text": "if we haven't already."
+  },
+  {
+    "segment_id": "s01207",
+    "start_seconds": 2841.42,
+    "end_seconds": 2842.2599999999998,
+    "text": "Did we announce the dates?"
+  },
+  {
+    "segment_id": "s01208",
+    "start_seconds": 2842.2599999999998,
+    "end_seconds": 2843.74,
+    "text": "I don't think so."
+  },
+  {
+    "segment_id": "s01209",
+    "start_seconds": 2843.74,
+    "end_seconds": 2844.86,
+    "text": "Okay, I won't announce them yet."
+  },
+  {
+    "segment_id": "s01210",
+    "start_seconds": 2844.86,
+    "end_seconds": 2846.2599999999998,
+    "text": "Yeah, I know."
+  },
+  {
+    "segment_id": "s01211",
+    "start_seconds": 2846.2599999999998,
+    "end_seconds": 2847.9,
+    "text": "I'm pretty sure it's next October though."
+  },
+  {
+    "segment_id": "s01212",
+    "start_seconds": 2847.9,
+    "end_seconds": 2848.86,
+    "text": "All right, thanks everyone."
+  },
+  {
+    "segment_id": "s01213",
+    "start_seconds": 2848.86,
+    "end_seconds": 2849.7,
+    "text": "Thanks, Paul."
+  },
+  {
+    "segment_id": "s01214",
+    "start_seconds": 2850.54,
+    "end_seconds": 2852.66,
+    "text": "Thanks for listening to AI Answers."
+  },
+  {
+    "segment_id": "s01215",
+    "start_seconds": 2852.66,
+    "end_seconds": 2856.34,
+    "text": "To keep learning, visit smarterx.ai,"
+  },
+  {
+    "segment_id": "s01216",
+    "start_seconds": 2856.34,
+    "end_seconds": 2859.82,
+    "text": "where you'll find on-demand courses, upcoming classes,"
+  },
+  {
+    "segment_id": "s01217",
+    "start_seconds": 2859.82,
+    "end_seconds": 2863.22,
+    "text": "and practical resources to guide your AI journey."
+  },
+  {
+    "segment_id": "s01218",
+    "start_seconds": 2863.22,
+    "end_seconds": 2865.54,
+    "text": "And if you've got a question for a future episode,"
+  },
+  {
+    "segment_id": "s01219",
+    "start_seconds": 2865.54,
+    "end_seconds": 2867.14,
+    "text": "we'd love to hear it."
+  },
+  {
+    "segment_id": "s01220",
+    "start_seconds": 2867.14,
+    "end_seconds": 2868.14,
+    "text": "That's it for now."
+  },
+  {
+    "segment_id": "s01221",
+    "start_seconds": 2868.14,
+    "end_seconds": 2872.46,
+    "text": "Continue exploring and keep asking great questions about AI."
+  }
+]

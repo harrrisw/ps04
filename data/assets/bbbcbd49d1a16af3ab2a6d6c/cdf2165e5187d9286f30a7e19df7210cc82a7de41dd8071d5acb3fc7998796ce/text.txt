@@ -1,0 +1,533 @@
+So, from prompting to delegating five AI tips, here are our wonderful sponsors, please do
+visit them when you get a chance.
+Here are the June tips that we covered, so they're useful to keep in your mind before
+we move into the September tips, using AI to help create better prompts, make sure that
+if you're trying to get something to work, it's not working, take a screenshot, post
+that into the AI and say, how should I do this?
+Or here's an image of something, maybe you've just taken a photocopy of an Ikea builder
+at home wardrobe, and you can put that in and ask AI to help you.
+Using two models to verify your analysis, so you run the analysis in one program, and
+then you test it in a second model, Claude testing co-pilot, Gemini testing chat GPT,
+for example.
+Using the AI that's built into your regular programs is really a key step, and scheduling
+prompts, so every Friday it's going to do you a summary of all your meetings for next
+week.
+For example, and you can see the recordings of all of those from the June broadcast, they're
+up on the No My website.
+Today, the theme is going to be moving from prompting to delegating.
+Prompting was all about asking one question at a time, and then you keep iterating through
+steering the AI, you get great results, but it's quite labour-intensive, quite slow.
+Now we want to think about how can we delegate that, so get a whole piece of work, provide
+sources, rules and checks, and ask the AI to stop when the human judgment is required.
+So tip zero, I did a tip zero last time around as well, to cheat on the number five a little
+bit.
+This time I want you to think about how can AI make you brighter and avoiding ways that
+it makes you dumber.
+So if you ask AI to write your email for you, you will get less good at writing emails.
+If you ask it to write proposals for you, you ask it to take your report and correct it,
+it's going to make you less good in the way that most of us started using calculators
+and our arithmetic became less good.
+But if you ask AI to tell you how to improve the email, it will make you better at writing
+emails.
+If you ask it, what are the main problems with this report, then it's going to make you brighter.
+So a lot of what we're looking at today is designed to improve your skills, not replace
+you with the AI.
+So we're going to ask AI to find the context.
+We're going to move from schedules to triggers.
+I'm going to tell you to do the story finding first.
+Use AI as a hostile reviewer.
+And then you want to spend the AI intelligence tokens or money where it matters most.
+So this is the first one.
+Fight netting AI find the context.
+So what you often do is you want to work on a document, a report or something like this,
+so you upload it.
+You want it to have a look at two or three emails you've received to try to create a
+new outcome, so you paste copies of those emails into the AI.
+Instead of that, what I would like you to try to do within the realms of what your IT department
+will permit is point the AI at the relevant files, ask it to have a look in the right
+section of SharePoint or OneDrive or Google Drive or on your hard disk, ask it to read
+your outlook or read your Gmail in order to call this information, ask it to reconstruct
+decisions, find open questions, gather background from those.
+And then when it works with you, ask it to tell you where it got that information from,
+ask it about any gaps in coverage, where was it not able to read something?
+So here's one example, and I use this one a lot I actually talked about in LinkedIn recently.
+When I have a meeting, like all of us, I record the transcript, but when I'm asking for an
+analysis of the meeting, I actually ask it to grab the materials that were supplied to
+the meeting.
+I ask it to review my emails on this topic and then create a summary of what was decided,
+what the action points were, who's going to be doing them, highlight anything we plan
+to discuss and did not cover.
+So it's got the agenda and it's got the email discussions before the meeting happened.
+So it can tell me about things which did not happen in the meeting.
+If I only use the transcript to the meeting, I won't know about that unless somebody piked
+up and joined the meeting and said, you know that we didn't talk about A, B and C.
+And then ask it to indicate anything that's a contradiction or a problem within that.
+So maybe there is somebody who couldn't attend the meeting but had a very different opinion
+in the emails in the run up to it.
+It can highlight that.
+So this webinar, I asked it, CHATCHPT on this occasion, I want you to access the slides
+in the recordings of the June tips course, I want you to look at the marketing for the
+September course, I want you to look at my recent post and articles on AI and also my
+emails over the last three months.
+Recommend 10 possible topics for the September webinar so I can choose and tweak five of them.
+And this is like a bonus tip, whenever you want to do something like find five topics,
+ask it to generate 10, if you're trying to find a best solution, ask it to generate three.
+If you ask it to generate one, it will normally come up with the same ideas as you.
+If you ask it to generate five, it's probably going to come up with the four of the same
+five that you would do is not taking you anywhere extra.
+So ask for a bigger number and then look at what they have in common.
+See if it can give you a new perspective.
+This slide is not for reading right now on the screen, you'll be glad to know.
+This is a reference slide when you download a copy of my slides and it tells you what the
+rules are today in terms of being able to ask things to do.
+So if we take chat GPT, it can connect to all the Microsoft stuff so I can read all of
+my outlook and things like that, which at GPT, I can look at my calendars, it can look
+at my Gmail, and when I'm using the codecs desktop version, I can very happily read the
+stuff that's on my desktop too.
+And there's a slightly different configuration available for all of them, but most of them
+have a lot of power.
+It changes a bit depending on which license you have.
+It changes nearly every week and your IT department will have some rules about what can
+be done.
+So you'll need to check that.
+But really, all of this process of asking it to read the background, read the context, it's
+better at not missing something that you are.
+So I talked about being brighter and being dumber.
+Most of us will tend to forget things.
+So having this in addition to pull in the information is a great way of doing it.
+So here's a work to example.
+I asked Gemini to have a look at my Gmail account and create a list of the running event
+organizations I tend to deal with.
+I do a lot of races.
+I do park runs, 10Ks, half-marathons, marathons, ultra-racers.
+And in 2027, I want to do at least one major event each month, ranging from half-marathons
+to multi-stage altars.
+So look at my Google calendar to find out which months don't already haven't invented
+them.
+And then use the list of sources to suggest three or four for each month without a key
+race.
+Make the three or four varied, say, two to three in the UK, one or two overseas.
+So I've got some scope.
+I've asked it to go and search for the organizations it should be using.
+I don't just want to list if everybody advertises organizations.
+I want the ones I've already fairly comfortable with.
+It comes back and it says, right, here are the companies that you tend to associate
+with, MDS, Spine, and so on, the Fell Running Association.
+Then it comes back and it starts to go through the year for me.
+Here are some ideas for February, here's some ideas for March, and so on.
+And then I could go through and find out various criteria and start booking things through.
+And I can run that on a regular basis.
+And that's what I mean by asking it to access the material we already have.
+The takeaway, use a narrow project scope.
+Don't ask it to search all your emails for things that are interesting or anything like
+that.
+Allow the AI to roam across a wide range of sources, including the internet and things
+like that quite often.
+But make sure that the AI access is in place and consistent with your organization's rules.
+Ask it where it's getting its information from.
+Is it citing sources?
+Ask for any gaps or uncertainty, very straightforward guess, is anything missing?
+You get in the AI to do the prep and then you are interacting at the smart stuff, the critical
+decision making.
+Tip number two is to move from schedules to triggers.
+So in June we covered a prompt that runs at a fixed time.
+So the next thing is we want to run when something happens.
+So if a brief comes in, a transcript, a data set, a client email arrives.
+And when you're learning how to do this, start with drafting things, extracting things, classifying
+things, do not start with automatically sending replies, do not start with automatically
+deleting files, that's super advanced.
+And define the trigger narrowly and include checks before anything leaves the organization.
+One of those checks needs to be a human check.
+So we could have a new brief triage.
+When a brief arrives, an email request or something like that, AI could extract the objective,
+the audience, the method, the deadline, miss information and risks, then draft a clarification
+email for review, but it wouldn't send that email and it might well share this information
+relatively widely inside your organization with the people who need to be consulted.
+A transcript follower.
+So when a webinar meeting transcript becomes available, the AI can summarize the key questions,
+action points, possible follow-up content.
+If any of you have used N8, N8, N8, N8, N, sorry, or Zapier, Zapier is the one I use,
+you'll know that you can do these things there as well, but you can do them inside most of the
+LLMs.
+So here's a specific example that I set up, which I use.
+I told chat GPT, whenever a new email arrives in my connected Gmail account, decide whether
+it's a genuine inquiry about tickets or registration for a new MR event or webinar or course, ignore
+automated ticket confirmations, receipts, marketing emails, spam messages that mainly mention
+tickets without asking a question.
+If it is a ticket inquiry, then I want you to email Ray at new MR, use subject ticket inquiry
+and then whatever their original subject was, include from sender name and email, original
+copy, the incoming inquiry verbatim, and then I want you to suggest a reply, but do not
+send it to the sender, only send it to rayatnewemr.com.
+Now I said never send things outside your organization, so this is coming into my Gmail account and
+I'm sending it to my new MR account, this is staying inside my organization.
+What I received when I did a, actually what I sent, here is the dummy email that I sent
+to that Gmail account, D&O MR, I want to attend a training course on AI, can you tell
+me what courses you're offering this year, how I buy a ticket and what the costs are.
+And so it forwarded that to my new MR account and it says, here's the original inquiry,
+and here's it suggested reply.
+So we're currently offering two AI-focused courses, story tending with AI and data insight,
+you can see the courses on these links, if you have a particular time zone or question
+about which course is the better fit, please let me know.
+So the AI searched my information for me, it didn't just say thank you for contacting
+it, it actually pulled a good solution, I can look at this, I can then make a decision do
+I want to add in prices at this level, or do I want to let them read the prices when
+they click on these links.
+So what are the takeaways, I can see that there's something in the chat stream, so I'll
+have a look at that in a second.
+The takeaway from this tip, think about moving away from schedules to triggers, you should
+use schedules for some things, I use them a lot, but a trigger says run this when X happens,
+so we're brief transcripts support, keep the first version really narrow and it should
+be reversible, if it's fired on the wrong stuff, you don't want whatever it did to cause
+a sequence that can't be under and human approval should remain the default for sending publishing
+and deleting.
+So do not use AI to write emails, but then state AI to set up draft emails for you, your
+ticketing system.
+So when do you use AI to draft emails, and when do you think we shouldn't?
+I'm going to be quite clear on this, I don't ask an AI to rewrite my email without finding
+out what is wrong with my email, that is the key set there.
+I will quite often ask AI from all of this information, suggest an email.
+And here is a case where we would do this, I'm asking it to automatically suggest a response
+to a ticketing query, I am then going to read that and edit it.
+I also extensively write an email and then ask the AI to critically review it and you're
+going to see a good example of that in one of the other tips.
+My real objection is when it's end to end, if you're using AI to write it and then it
+sends it, that is the fundamental weakness I think.
+Do the story finding first, and this is something I see people doing a lot.
+They will get a hold of some data, they've got a lot of some transcripts or some survey
+data, and they're jumping into write this as a report, or they have a workshop meeting
+and then they say now write this as a proposal.
+I think that is usually too soon, you need to build the context.
+So ask the AI to search and load up the brief, the proposal, the project plan, the raw data,
+previous reports, emails on this topic.
+Then ask the AI to tell you what seems to matter in this new data, what surprises are
+there, what contradictions can we see.
+As for evidence, not just themes or fluent summaries, make the AI show you the numbers,
+the basis, quotes and uncertainty before you decide on which story to focus on.
+So we've got some survey data coming in.
+Before we ask the report, ask the AI to identify candidate findings, surprising numbers, subgroup
+differences, weak bases, tensions in the story, which cross breaks are worth running next.
+And when you're asking it to look at subgroup differences, don't say, are there differences
+between men and women, are there differences between younger people and older people, are
+there differences between people in the south and people in the north.
+Are there groups of people who have a different view or a different set of answers to other
+groups of people and please look at all possible types of groups, not just simple demographics.
+So you don't want it to replicate your sort of step by step trawling but missing the big
+fish sort of approach.
+You want it to look at are there groups with differences and if so, what are they.
+Qual extract, give AI interview notes, open ends and ask for possible findings with exact
+supporting quotes, alternative explanations, weak spots and the client decision that each
+one of these might help inform.
+So let's think about the case, maybe we've done a customer satisfaction study for a hotel.
+So we're going to ask the AI to access the questionnaire, the RFQ, the proposal, the research
+plan, highlight what the business and research questions are and what the implicit assumptions
+are that the client is making.
+Access the data and ask the AI to check it.
+Is it right?
+Are there problems?
+We're going to do that before we find the story and then evaluate whether this data can
+even answer those business questions because if it doesn't, we're going to want to start
+gathering some more data, some more information, some cross-references before we get too deep
+into it.
+We've got a framing issue.
+Then we can ask you, what are the main trends and patterns in the data?
+What are the main contradictions, curiosities, correlations and clusters?
+Then maybe give me 10 ideas for using this data to answer the client's needs.
+Review and iterate these to find the best story and then this is one of those cases where massively
+test it with a second model.
+So give Gemini the same data and background information as you gave Claude and give Gemini
+Claude's answer and ask it questions like, is this a valid interpretation of this data?
+Are there any flaws in the approach taken and are there better solutions it could have
+looked at?
+So don't ask it to generate the same.
+It's generative AI, it mostly won't and unless you're using a deterministic piece of software,
+it will generate different answers.
+So a deterministic piece of software is the mean, for example, will always give you the
+same answer, should always give you the same answer, cluster analysis is going to give
+you different answers.
+So we're asking, is it valid, is it appropriate?
+So take away, do the story finding first, ask what is going on here, before you even
+think about, write me a report, separate candidate findings from the final claims.
+Look for surprises, contrast tensions, missing explanations, make the AI show evidence and
+uncertainty and then use your judgment to choose the story and then we're going to use
+AI to help tell that story.
+So we're using AI to help us check the information that we've got everything there, that we understand
+the client's questions.
+We're using AI then to say, here are all the relevant nuggets of information that you might
+find in there, we're asking AI to help us identify what the answer is and only then, once we know
+what the answer is in terms of actual steps and pieces of information, would we start
+to say now, what is the story?
+How do we string all this together?
+So it's a coherent message.
+So yeah, interesting question here, are there any tips for identifying or preventing AI from
+making hallucinations or inherent bias?
+So there are a lot of things we can do.
+The first thing to say is hallucinations now are much rarer than they used to be.
+If you're using the top-end models, for example, the incidence rate is way lower.
+You can reduce it still further by telling it, do not make up quotes, do this in a, only
+use things that are evidenced and so on.
+There is still the Western bias, these are more Western capitalist societies, if you are
+doing a piece of analysis on data from Nigeria, that's probably going to be a little bit more
+risky than using analysis on Australia, the United Kingdom, France, USA, etc.
+So all of that is going to help, giving it context is going to help, but then the final
+step is this two-model stage.
+You want to ask it to check whether or not this information is right by getting another model
+to check it.
+So very interestingly, how reliable is using AI for statistical analysis?
+I think using SPSS or SaaS is more trustworthy.
+I would always use display for stuff that needs to be right.
+I'm getting very good analysis because I do a lot of side-by-side analysis and that is
+where asking the second model to come into play.
+You need to make sure, and this is really the part of a second course, not what we're
+covering today, but you want to know that it's running Python and you want to know, you want
+to look, ask to look at the Python it's running to see what sort of choices it's making, but
+it can certainly do a very good cluster analysis, factor analysis, it can calculate all of the
+means, standard deviations, it can search for differences within groups, and then ask you
+whether you've got things like multi-coloniality problems and one of the VIF statistics.
+It's pretty happy with all of that now.
+It's the better end of the pay models if they're in a thinking mode and if they are not the
+free versions, et cetera.
+But then you attest that with another model.
+Clustral analysis found the Python AI generates is inconsistent, so in Gemini Networks I fixed
+Python to get the same answer, wondered what you think.
+Clustral analysis should give you a different answer every time you run it, and the way that
+the statistical packages like SPSS deal with it is they budge the algorithm, so it will
+always give you the same answer, so if you are looking for two random seeds out of a data set
+of a thousand, well obviously every time you run it you would get in all probability two
+different start points, that would give you two different solutions, two different clusters.
+So you can use a technique like say, pick two random start positions, we'll have the first
+and the second record please, and if you shuffle a data file that goes into most statistical
+packages, it will give you a different cluster solution, clustering is unstable, so if you're
+trying to evaluate a cluster solution, what you're asking the AI to do, say your second
+AI that's a referee, is this a good solution, not is this the best solution, because the
+best solution is not knowable with the type of iterative techniques that we use for cluster
+analysis, unless you've got a trivially short amount of data.
+Now in terms of story finding and courting, I'll just do a quick bit of advertising, we do have
+two courses coming up in October, one on story finding with AI, one we're sort of telling with AI,
+they're both about 90 minutes, they're platform agnostic, and they go into much greater depth
+on these sort of things. Use AI as a hostile reviewer is the fourth tip, so don't just ask AI
+to polish something you created, ask it to look for significant problems and likely client objections,
+let it build a context from the brief proposals emails, and then ask it to focus on unsupport
+a claims, inconsistent numbers, missing caveats, tell it not to rewrite things, you actually want to
+know what's good and bad in terms of your proposal if it's a report, and then separate genuine problems
+from style preferences. So client report check, give the AI the source tables, a draft report,
+ask it to find mismatch numbers and sporty claims, missing caveats. Now this check is in addition to
+your check, it can only be good news, propose stress tests, so you're going to write a proposal
+to a client, give the AI the proposal you're preparing, and ask where a client data protection
+reviewer operations team would push back, build the context, ask it to review the RFQ,
+the emails, the transcripts, all of those bits and pieces, ask it to instead of things like
+vague scope and realistic timing. So this is wall gaming, and this has become a major
+tool in most of the big clients that I talk to now, they will take a proposal and they're
+wall gaming it, they're red teaming it to see what questions might they be asked.
+So here is an example of using this approach, but now with emails. Let's assume that I'm a bit
+clunky with emails. So here is a whole stream of emails between me and my colleagues in the ACME
+research company, and this is purely fictional data. And I'm about to write this email, thanks all,
+I think we're in danger of watering this down, where the churn ends up at 16%, or 80%, the
+evidence still points to a serious problem. 1.4 million is clearly an estimate, not an audited number.
+The Burming commentary are particularly bad, but customers elsewhere raise service issues. I don't
+think that operational failure is unreasonable simply because operations dislike the wording.
+Several people also told me these issues have been raised before, including one who said
+market had been warned about the Burmingam last year. Daniel, yes, the quote is Johnson
+hotels. Everyone here knows we lost them, so I'm not sure confidentiality is really an issue
+internally. The procurement director was clear that poor service was a major factor.
+Laura, the regional managers, obviously Steve, I can remove the clues, but we shouldn't let HR
+sensitivities obscure the management issue. Nothing in the report, it, whoops, has been shared outside
+Acme. I propose to make a few wording changes, send the final version of the board on Friday.
+If there's something genuinely wrong, rather than merely uncomfortable, please tell me by midday
+tomorrow. And so I then asked AI to review my email, and here's the sort of things that I
+asked it to do. You can see those when you down at the slides, but you would tweak it differently
+anyway. And it came back and said, well, there's some major issues, 16% or 18% serious.
+Turn data are not yet reconciled. Your conclusion is too definite. 1.4 million is clearly an estimate.
+Actually, the email chain says the underlying inputs are wrong, not merely an approximation.
+Operations dislikes the wording. Dismiss the legitimate challenge about extrapolating from
+two locations. Yes, the quote is Johnson Hotales identifies a customer who specifically asks not
+to be attributed. The regional managers, obviously Steve, explicitly identifies an employee who HR
+said should not be identifiable. And then next, the bottom in the list, send the final version of
+the board on Friday, conflicts with the CEO's instructions not to circulate it beyond this group.
+And then it's willing to go through and pull up medium issues. I do this with my problematic
+clients, and I do it in some of the other work that I do. It keeps finding stuff in my emails
+that changes where I am setting the agenda. And my intention is to give people choices,
+but actually I have given choices amongst things that I think are OK. And little bits like that.
+Or, hey Ray, that's passive aggressive again. We'll come back in that feedback. So we can use this
+hostile reviewer in all sorts of ways. As for suggested next steps, don't just ask for a rewrite.
+So what is it said about my email? Okay, well, first thing is don't send it yet. That's the top
+advice given to me. Validate the evidence because it looks like I don't have great evidence.
+Check those serious allegations. So either remove the allegation about Mark or back it up.
+Fix the confidentiality. Be honest that you've shared this with beta retail.
+If it's in the email stream, it's going to come out.
+So the takeaway, use AI to challenge, not flatter or polish. This comes back a little bit to the
+questionnaire about hallucinations. You can prime your AI to take a particular role. So you are a
+cynical and thorough member of the red team. Your job is defined fault if fault can be found.
+And setting things up that way. You want to ask material problems, not just a general rewrite.
+Make it quote the problem and identify the source of the problem.
+And then treat the review as a useful challenge, not as independent truth. So as I said, I use this
+a lot with my reports, my presentations, very much with my emails. I probably accept two thirds
+of the complaints AI has about my material. So it is simply my preference and my style.
+So I'm just going to go a quick look at the chat stream. We've got a few bits and pieces.
+This one goes back to the stats. Can AI be used to design CBC and max diff studies?
+I've not tried it with CBC, so I would want to experiment. In max diff, yes, it's pretty
+straightforward and I've certainly done that. All the number crunching ASCII analysis is done
+in the product itself. The AI simply chooses the approximate variables and tests them.
+So one of the really fascinating things about using AI and this is ASCII here and display
+is most of these programs have great AI in them. And if you are already in the program, that is
+going to be a stronger way of doing it.
+Yeah, so we have to talk a lot more about using AI for clustering. I think you need to know a lot
+about clustering before you are likely to get a good solution from AI. But that is also true
+if you're using Displayer or SPSS or latent class.
+So the fifth and final tip, spend intelligence where it matters. So don't always use the same model.
+Certainly don't use the one that is auto setting because it will be right sometimes but not all the
+time. More power could be costing you or your employer more money and it will usually take longer.
+So routine work needs different effort from analysis or advice. Use stronger reasoning
+where an error would matter using to the two models tip from the June. So I would always use a really
+high level of awareness in my checking model. I might have something quicker for the generation
+depending on what the generation was. So routine reformatting. If we just want a rough summary
+into a clean email slide outline meeting note that we are going to check, then we can use a quite
+cheap, inefficient, fast, not inefficient, not thinking mode type model.
+As it changed the medium, as it introduced anything that wasn't there. But if we've got
+something consequential, we're going to use one the strongest workflow to interpret it,
+to identify what is happening. And we want it to help us find that things that need the human judgment.
+So just a quick look at it in co-pilot, then I would look at the model here and say, well,
+we've got choices. We can use sonnet or opus. We can use GPT open AI inside co-pilot. We can have
+quick response. We can have think deeper. I looked at one of the blogs I wrote and I asked it to
+summarize the blog and the quick response was fine. It was, I had everything that I really needed to
+see there. The think deeper was a bit slower and it was a little bit better. I then asked them to say,
+review what's happened in the world in the last six months since I wrote this blog and give me a
+list of things that might need updating this article. And the quick response was really quick
+and it wasn't good enough to use it. It got something in there that was fundamentally
+poor. Think deeper was slower and it was really good. So experimenting with this level of brightness
+to be able to move forwards and backwards. So all of that is going to be harder to see.
+And we've got some questions, variations in the chat stream. I'll take those at the end because they're
+quite useful at that point. Differences. This issue about choosing a model is more important for
+Claude than the others. Then it's more important for GPT than Gemini and it's at the moment least
+impactful for co-pilot. When you are using APIs, codecs, Claude co-work, then the cost of tokens
+and credits can really rock it up. If you start using loops to control your agents
+in Claude and if you haven't told it not to use top-end models for every sub-agent,
+you'll find that you've run out of your week or months credit really quickly. Higher models,
+higher effort, cost more. And the more agentic your solutions, the more it is. So this is
+something that we are going to be thinking about more in the future. How do we optimize our token
+usage? And that means using the right models for the right purposes. Take away low-risk work,
+use fast-to-chip models, simple checks by you are enough because you want to be able to,
+if you're going to get the results quickly, you want to see that wrong quickly. Medium risk work,
+then you're going to ask it to check the sources, structure, a second level checking there. And
+once we're into the higher risk stuff, we want to use the strongest reasoning and calculations
+that we can afford and then we want good human judgment coming in there. And then we might want
+to use a power model as a final check in the process. So the key reminders from this,
+what outcome do I need is what you need to think about before you delegate. Which sources and tools
+may AI use is really important. I own my company, so I make the decision consistent with my contracts
+with my clients about what AI can access. I also only use paid accounts so that they do not
+record any of my information. It's one of the reasons that I didn't try fable when it came out
+because anthropics store your data for a period of time after that. And that was inconsistent with
+how I operate. You need to make sure that you've got rules and checks that it must follow when you're
+delegating to it. You need to make sure it knows when it has to stop and ask you. And then you
+think about how well I know the result is good enough. Let's say you wanted to code
+a thousand open-ended responses and you think, oh, well, let's pick up quite a cheap
+algorithm for doing that. If you checked a thousand responses, it would have been quicker to done
+it by hemp. So you've got to have a strategy, a way of thinking about it that will deal with it.
+Now you might use a media model to do the coding and then a second model on a higher level to just say,
+is each one of these representations a valid match back to the first one? And give it some leeway
+about what a valid match is. So I've done this in a device agnostic way. I've not really spelled
+out how it's different in Gemini and Japanese UBT. So how do you do this? Ask AI how to achieve it,
+your AI. You're using Gemini. You say, okay, using Gemini. How do I do this? Keep the question focused
+on what you want to happen. Don't tell it how it should do it. So you might say, when an email
+arrives talking about X, I want to add a record to an Excel file. Tell me how best to do that.
+Don't say, I want you to use a trigger event and then create agent tasks that will lose such
+and such. You'll get a better answer by telling it, what have you got? What do you want the result to
+be? And asking how to get there. And then if you don't like its best solution, you might say,
+show me three ways that I could achieve this because one of those may be better for you.
+So let's go to Q&A and I'm going to look at the questions.
+So I, when I'm using Cloud, I will tend to use Optus, but then you've got the level of thinking and
+depth with Copilot. I tend to use Think Deeper. I will tend to be more Jet GPT, but other people
+are more Claude. I use somebody else saying, I use Python clustering, I use AI to help interpret
+the factors, persona profiles. I use a generic hypothetical segmentation, how much stress tests
+the numbers. I think those are all good ideas. Somebody else is using late in gold,
+yeah, an excellent clustering program. Late in class analysis has got some real advantages.
+You can find, if you ask AI to do the segmentation, it's using K means, which is kind of a bit primitive
+and old-fashioned. So you might want to move on. A bit of interaction there, but somebody else
+is using late in class in display a quite a lot. Yeah, there is late in class in there. It's an
+excellent set of programs in Q display. Everybody who's not familiar, Q and display are effectively
+the same program. If I remember correctly, Q is the app and display is the online version.
+And I think the usage base is very much towards display these days.
+So there are five tips. I'd love to hear if you've got any questions about those five.
+If you've got any suggestions for about what you'd like me to cover in November,
+then that would be great because it will help shape the way the thinking is going.
+That's okay. So just while I give you a little bit long to see if any more questions come in,
+I'd be interested to know which of these things that I've talked about today. Do you think you
+are going to, that you haven't thought about this way before and you will start using soon?
+The next episode of this series is on the 70th of November. We've got those two training courses.
+I mentioned. And remember that the recording of the June session and the slides are still available.
+So we've got a tip here. Some success by doing the following. Using skills in the workflow to
+standardize the input and output structure, keeping human in the loop for key decisions before making
+progress in the workflow, making the workflow, export artifacts. So I'm going to pack a
+few of those because there's some really good points in there. First of all, I don't like the
+phrase human in the loop. I think that human in the loop can too often mean a person who is a rubber
+stamper. You were generating stuff out of AI now, 10 times faster than we were last year.
+Are we using 10 times more humans to check it? Are we found some way of making the humans 10
+times faster? No, we haven't. We need professionally driven expert intervention. So in control of the
+process. Then to come back to the first of those bullets, skills is something we may well cover
+in the November one. You can now create skills. These are simple text files, everything called
+markdown. And they tell the AI how to do the job. So they make it much more likely that it's going
+to do it the same way every time you can tweak those skills. You can, with certain limitations,
+take a skills file from Claude and run it on chat GPT. In theory, you can do it completely.
+In practice, it will sometimes need a little bit of a tweak, but that makes those skills portable.
+And then making the workflow export artifacts. So you want to output what it's done. I will very
+often get it to output the summary of everything we looked at. And I'm going to have that as a document.
+And I could load that into say I've done that in Gemini. I could load that into Claude at the start,
+next time it becomes part of the evidence and the context that we build up. Artifacts in Claude have
+a special meaning as well in that they can be an interactive product that you produce an HTML product
+which allows you to interrogate it. All of those things are really useful.
+So thinking about using graphic, creating it for graphical user interfaces, using it for
+R and using it for creating GUIs for R and Python apps. Probably a little bit of a specialized area,
+but happy to have a think about that. That is one of the zones where people are very much more Claude
+than they are any other platform. Getting different AI models to market this homework.
+Yeah, that's a really important point. Like in the idea of generating 10s, that's two things from the
+files. Are the skills files available? I know at least one company that is thinking of marketing
+its skills files as a product. The difficulty is making sure that they're not copied because
+they are simply text files. They have what's called meltdown. But it's an interesting idea.
+Adding in the brief and the analysis material is, yeah, I'm glad that people are picking up on that.
+Yeah, and somebody else who sees the human in the loop is selling us, I was short. I think that's
+is a key feature. And always from the beginning, I was slightly nervous about the expression human.
+We don't call other people humans. We call them people respondents, colleagues, participants,
+all sorts of things. Robots call as humans. So I'm not sure we really want to build that into our system.
+How to create impactful presentations using AI, call and quant, which AI tool would you recommend?
+This is kind of the one that has not been perfectly done yet. There are some really nice tools out
+that do part of it. But I think that they all leave you a little bit short. So my tip at the moment
+is I generate a written debrief, one page, two pages before I try to get it to generate
+PowerPoints. I don't want to be looking at a PowerPoint presentation and saying, this isn't right. That's
+a really slow way of iterating, I find. I'm much happier with getting it to generate a description
+of the flow of the information and then working from there with that to generate it. So for this
+presentation I used today, I uploaded the June presentation. I uploaded the results of the work
+that I had done about designing what tips we should cover, points I particularly wanted to make,
+and then asked it to move forward and create the slides. I could have, but it's not my style,
+then asked it to make really good graphics. And it would do that, particularly if I could tell it
+what I mean by really good graphics. So I think that is the way at the moment I would be using
+the AI to generate slides. I think we are very close to having some stuff that will do that.
+So will AI be unbiased if you ask which AI model would you recommend for specific tasks?
+So I ask it will definitely be biased. So I will tend to ask the big four,
+which models provide good solutions to the following problems, please rank them.
+And you pretty much ignore where they put themselves in that ranking. So you end up with four sets of
+rankings, but each one has a blank piece in it, and then you can look at that overall and get a
+sense. So when I looked at which ones have a most sensitive to using the expensive model,
+the copilot, the Gemini, and Claude were all pretty clear that it's Claude is the most expensive,
+and then it's Chachie PT, and then it's Gemini, and then it's copilot. Except for Chachie PT,
+who thought that it was nearly as good as copilot is way better than Claude and Gemini,
+and Claude thought that Chachie PT was nearly as bad as Claude. So that was the bias that Claude
+put into the process there. So again, this is why asking in different platforms, that sort of question,
+you could use free LLM's ones you're not paying for. I almost never use an LLM that I'm not paying
+for because you get less security. I'm not using it if I can't get the value back from it.
+But those sort of questions about how good are the different LLM's at this. Questions,
+if you don't care if that question was published to the internet and the answer,
+then you can use it on a free LLM. It's really when you don't want the question or the answer
+publishing that you want to be that safe zone. For a workflow to take content and generate
+positive tailings to a targeted profiles, any model you recommend, it's very hard to do that
+because today's best model is not going to be tomorrow's best model. So if we were to go back
+nine months, Gemini Pro was the most powerful of the models. It is now seventh, eighth, ninth,
+something like that in the series. I personally don't use Grok and it will light Grok. The latest
+innovation from Grok, however, particularly with Grok, but is right up there at the top of the situation.
+We're seeing a similar thing with some of the Chinese open sources. It is more about what you do
+than the power. We now have enough power in the AI in the top 20 AI tools are probably good enough
+for 90% of the work you're doing. You really need to be doing things like advanced,
+latent class analysis, choice based con joint user interface, graphical user interfaces for
+our applications. That sort of level, you're still going to need to be a bit choosy if you're making
+commercial products. But for most other users, because we're not handing over what we're doing
+entirely to AI, most of them are capable of doing it if you use them carefully, constructively
+as part of your team. Okay, well, we better call that a day. So let's put our sponsor slide back
+on the page. And hopefully see you all again soon.

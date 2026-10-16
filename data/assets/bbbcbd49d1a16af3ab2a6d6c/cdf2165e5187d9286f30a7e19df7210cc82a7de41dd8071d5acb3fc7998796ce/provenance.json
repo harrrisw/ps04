@@ -1,0 +1,20 @@
+{
+  "item_id": "youtube:XCmsCJcD0Kw",
+  "source_id": "newmr-workflow-video",
+  "publisher_id": "newmr-the-future-place",
+  "kind": "youtube",
+  "title": "NewMR  - 5 AI Tips  - September 2026",
+  "url": "https://www.youtube.com/watch?v=XCmsCJcD0Kw",
+  "published_at": "2026-09-22T20:24:42Z",
+  "retrieved_at": "2026-10-16T15:35:40.461471Z",
+  "media_url": null,
+  "native_id": "XCmsCJcD0Kw",
+  "underlying_id": "youtube:XCmsCJcD0Kw",
+  "original_publication_basis": "YouTube release/upload metadata",
+  "transcript_basis": "local speech recognition; manually verify quoted segments against audio",
+  "media_path": "data/media/bbbcbd49d1a16af3ab2a6d6c/XCmsCJcD0Kw.m4a",
+  "content_hash": "d8f5cfd38650f22846fe7670a296afc03869bee53c8ec7a37822b0cb6a689b6f",
+  "version_id": "cdf2165e5187d9286f30a7e19df7210cc82a7de41dd8071d5acb3fc7998796ce",
+  "text_path": "data/assets/bbbcbd49d1a16af3ab2a6d6c/cdf2165e5187d9286f30a7e19df7210cc82a7de41dd8071d5acb3fc7998796ce/text.txt",
+  "segments_path": "data/assets/bbbcbd49d1a16af3ab2a6d6c/cdf2165e5187d9286f30a7e19df7210cc82a7de41dd8071d5acb3fc7998796ce/segments.json"
+}

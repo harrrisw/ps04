@@ -1,0 +1,39 @@
+Most marketing teams have rolled out AI tools. Far fewer have changed how they work with them in their jobs.
+The gap between adoption and adaptation is what Pam Boiros will address at MAICON 2026 in her session, "AI Adaptation: The People Side of Scale."
+Boiros is a fractional Chief Marketing Officer at Bridge Marketing Advisors and an AI strategist who has led marketing organizations at companies including Skillsoft and meQuilibrium. She is also the co-founder of Women Applying AI, a global community focused on helping women build practical, hands-on AI skills.
+Adaptation Is a Different Way of Working
+For leaders who feel they've already done the hard part by rolling out AI tools, Boiros draws a sharp line between what's been accomplished and what still lies ahead.
+"You know you've moved from AI adoption to AI adaptation when AI stops feeling like a separate initiative and starts changing how the work itself gets done," Boiros says.
+Adoption is relatively easy to spot: people have access to tools, attend training, and individual use cases start to surface. Adaptation looks different. Teams begin redesigning workflows around what humans and AI each do best. Managers coach AI-assisted work and set expectations for quality. People have enough confidence to experiment, enough judgment to challenge the output, and enough clarity about guardrails that they aren't constantly wondering what's allowed.
+The measurement changes too. Leaders start asking better questions: Are we producing better work? Are people spending more time on work that requires human judgment, creativity, and relationships? Have we created repeatable ways of working that can survive the next tool or model change?
+Building Block Teams Can Underestimate
+Boiros has identified five building blocks of AI adaptation:
+- Skills
+- Workflows
+- Guardrails
+- Measurement
+- Culture
+The one most teams underestimate, she says, is culture.
+“Culture shows up in what people actually feel safe and empowered to do every day," Boiros says.
+AI asks people to learn in new ways and try things they might not be good at yet. They might also have to admit when they don't know something and rethink parts of a job they've spent years mastering. In cultures that reward certainty and polished answers, people default to caution. Some avoid AI entirely. Others experiment quietly and keep what they learn to themselves.
+The teams making the most progress do the opposite. They create environments where curiosity is valued, experimentation is expected, and sharing what didn't work is as useful as sharing what did. When leaders use AI themselves, talk openly about what they're learning, and give people room to experiment responsibly, they send a powerful signal, and AI starts becoming a team capability rather than an individual productivity hack.
+Why Resistance Isn't What Leaders Think
+After three years of training marketers and teams, Boiros says the most common source of resistance is fear, although it might not be obvious.
+It often shows up as "I don't have time to learn another tool," or "I'm not sure this is relevant to my job," or "I tried AI once, and the result wasn't great." Underneath is uncertainty about role, career, and whether it's already too late to catch up.
+"That's why I don't think the answer is simply more training," Boiros says. "What works better is creating space for people to learn without feeling like they're taking on a second job."
+Her approach is to start with work people already need to do. Give them protected time to experiment. Make learning collaborative so peers can see how others are using AI and ask questions without feeling exposed. Small wins matter more than grand transformation plans. When someone uses AI to improve a real workflow or produce a better result, the conversation shifts from "Why do I have to use this?" to "Where else could this help me?"
+What Boiros Will Explore at MAICON
+This session is for leaders at all levels who need to drive AI adaptation, not just adoption, across a team. Boiros will unpack what has to shift after the pilot: building confidence and trust, turning scattered experimentation into repeatable workflows, reducing resistance without burning people out, and setting the processes and guardrails that make AI safer and easier to use.
+What You'll Gain from Boiros' Session
+Attendees will leave with a practical playbook they can use immediately, including:
+- The five building blocks of AI adaptation — skills, workflows, guardrails, measurement, and culture — and how to apply each
+- Real examples from three years of training marketers and teams
+- Specific ways to reduce resistance without burning people out
+- A framework for turning scattered experimentation into repeatable workflows that survive the next tool or model change
+Join Us at MAICON 2026
+Boiros joins an expert lineup focused on real-world AI strategy, implementation, and leadership.
+Boiros will focus on what it really takes to adapt to AI: shifting not just tools, but how teams think, work, and make decisions. She brings a mix of curiosity, real-world experience, and just enough edge to spark honest conversation and meaningful takeaways.
+Follow Boiros before MAICON 2026:
+Join us at MAICON 2026 to hear Boiros and 50+ other AI and business leaders. Register today.
+Cathy McPhillips
+Cathy McPhillips is the Chief Marketing Officer at SmarterX and Marketing AI Institute

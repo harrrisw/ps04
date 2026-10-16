@@ -1,0 +1,36 @@
+{
+  "decisions": [
+    {
+      "item_id": "feed:2c25b90b4d946f5465573b24",
+      "version_id": "3e683028db8f1ab63661c3b92cf399ce60e4a69befa825279869b322fe044ae7",
+      "decision": "defer",
+      "reason": "Relevant to AI-assisted research workflow and context management, which could inform small-business evidence handling, but the evidence is a single NN/g article based on a study of expert Claude users and does not inspectably establish performance gains for small businesses. Credibility is moderate as a named publisher with an identifiable study, yet the passage provides no sample size, methods detail, or reproducible comparison against a baseline; uncertainty remains about transferability to budget-constrained nontechnical users. Potential cross-post/republished discussion is not indicated, but the piece should be treated as a method-oriented insight rather than validated outcome evidence.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:2e0f0e66d0123645439edc17",
+      "version_id": "7851500fad1a1fd32a47738d59237b256015c0d5ac0598c3b0f88ac631919844",
+      "decision": "reject",
+      "reason": "Although relevant to customer/market research, this is a vendor case-study page from quantilope and therefore has a strong commercial incentive to present its platform as effective and fast. The claims about turnaround time, real-time visibility, and commercial impact are not supported by an inspectable methodology, baseline comparison, or independent corroboration; the evidence is mainly attributed quotes and marketing framing from the vendor and client. Uncertainty is high, and the page does not provide enough methods detail to verify cost savings or comparative effectiveness, so it should not be used as evidence for the brief.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:2e19ca9487c9451754b6e5fd",
+      "version_id": "08a9d9310567015ee3fe5c8246142a41488c80eafd0b21087d233816cec6513d",
+      "decision": "reject",
+      "reason": "This is a TechCrunch event promotion, not substantive research on AI tools for customer, competitor, or market research. It offers no inspectable methods, no evidence about tool capabilities, and is overtly commercial in nature because it promotes ticket sales and discounts for an event. Relevance is low to the central question, credibility for research claims is absent, and there is no useful uncertainty to preserve beyond noting it is unrelated promotional material.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:322af46ae21ad26443092c84",
+      "version_id": "9f30df8aae6955ccd9ebb00d720767e9ff808618a7cd4b3318a5ccefcb4bbe71",
+      "decision": "accept",
+      "reason": "Highly relevant as a practical, evidence-linked method article on synthesizing qualitative research into empathy maps, which maps directly to customer-feedback analysis and interview synthesis for small businesses. Credibility is stronger than a generic opinion piece because it gives concrete workflow steps, explicitly requires each note to trace to a transcript/session note, and warns that AI should not generate evidence; however, it is still a methods article rather than a field test, so claims about efficiency are limited and should be read cautiously. There is no clear commercial incentive beyond NN/g editorial content, but the piece usefully supplies a repeatable, inspectable process and flags uncertainty where research is missing; it also overlaps conceptually with the context-library article as a repeated claim that AI assistance needs traceable source evidence.",
+      "piece_ids": [
+        "01",
+        "02",
+        "03"
+      ]
+    }
+  ]
+}

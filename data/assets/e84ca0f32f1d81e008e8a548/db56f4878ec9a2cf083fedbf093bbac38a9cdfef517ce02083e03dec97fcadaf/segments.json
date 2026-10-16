@@ -1,0 +1,2744 @@
+[
+  {
+    "segment_id": "s00001",
+    "start_seconds": 0.0,
+    "end_seconds": 14.72,
+    "text": "Hello, everybody, welcome to another episode of the Green Book Podcast. I'm Karen Lynch."
+  },
+  {
+    "segment_id": "s00002",
+    "start_seconds": 14.72,
+    "end_seconds": 20.96,
+    "text": "I'm happy to be hosting today. And on this episode, we're going to be talking about two"
+  },
+  {
+    "segment_id": "s00003",
+    "start_seconds": 20.96,
+    "end_seconds": 26.8,
+    "text": "individuals who are part of an organization, well, it's now called Boson. It was the VST"
+  },
+  {
+    "segment_id": "s00004",
+    "start_seconds": 27.2,
+    "end_seconds": 34.88,
+    "text": "trials that you might know them as, but they were critical to securing the win at IEX Europe,"
+  },
+  {
+    "segment_id": "s00005",
+    "start_seconds": 34.88,
+    "end_seconds": 40.56,
+    "text": "a double win, actually, in the Insight Innovation Competition. So we're joined by Charlotte Kittle"
+  },
+  {
+    "segment_id": "s00006",
+    "start_seconds": 40.56,
+    "end_seconds": 47.2,
+    "text": "and Yasmin Sinusi. And they, again, took to the stage, did their startup pitch and walked away"
+  },
+  {
+    "segment_id": "s00007",
+    "start_seconds": 47.2,
+    "end_seconds": 52.32,
+    "text": "with two different awards, both the Audience Favorite Award and the Industry Impact Award."
+  },
+  {
+    "segment_id": "s00008",
+    "start_seconds": 52.32,
+    "end_seconds": 56.16,
+    "text": "I'll explain a little bit about what those are, just momentarily, but first I want to just take a"
+  },
+  {
+    "segment_id": "s00009",
+    "start_seconds": 56.160000000000004,
+    "end_seconds": 61.52,
+    "text": "minute and welcome them both to the show and allow them both to introduce themselves to you,"
+  },
+  {
+    "segment_id": "s00010",
+    "start_seconds": 61.52,
+    "end_seconds": 65.12,
+    "text": "kind of what their role is. I'm going to stop there for a minute and say welcome to the Green"
+  },
+  {
+    "segment_id": "s00011",
+    "start_seconds": 65.12,
+    "end_seconds": 73.2,
+    "text": "Book Podcast, ladies. Thank you, Karen. I'm Charlotte, obviously. And I head up the Insight"
+  },
+  {
+    "segment_id": "s00012",
+    "start_seconds": 73.2,
+    "end_seconds": 80.88,
+    "text": "part of Boson, as it is now. It's difficult to remember the new name. So yeah, my background"
+  },
+  {
+    "segment_id": "s00013",
+    "start_seconds": 80.96,
+    "end_seconds": 86.88,
+    "text": "actually is all in market research. Well, the Insight world. I'm done a lot of big stint in"
+  },
+  {
+    "segment_id": "s00014",
+    "start_seconds": 86.88,
+    "end_seconds": 93.28,
+    "text": "communications, innovation, and then retail and moving to Boson was very much about me moving"
+  },
+  {
+    "segment_id": "s00015",
+    "start_seconds": 93.28,
+    "end_seconds": 101.75999999999999,
+    "text": "into the tech world, but still retaining quite a lot of insight and can retail part of my job,"
+  },
+  {
+    "segment_id": "s00016",
+    "start_seconds": 101.75999999999999,
+    "end_seconds": 106.96,
+    "text": "which I loved. I'll hand over to you, Yasmin. And I work with Charlotte, so my name is Yasmin."
+  },
+  {
+    "segment_id": "s00017",
+    "start_seconds": 107.68,
+    "end_seconds": 113.44000000000001,
+    "text": "And I work with her on the Insight team. It's been amazing just to learn from Charlotte with all"
+  },
+  {
+    "segment_id": "s00018",
+    "start_seconds": 113.44000000000001,
+    "end_seconds": 118.32000000000001,
+    "text": "the experience that she's just mentioned. I also work on the client side with another tool that"
+  },
+  {
+    "segment_id": "s00019",
+    "start_seconds": 118.32000000000001,
+    "end_seconds": 124.4,
+    "text": "we have as well. So it's been great to kind of get both sides of Insight, but also the client success"
+  },
+  {
+    "segment_id": "s00020",
+    "start_seconds": 124.4,
+    "end_seconds": 130.72,
+    "text": "of it as well. Yeah, I love that it's amazing. And I went to Boson. So thank you for correcting me"
+  },
+  {
+    "segment_id": "s00021",
+    "start_seconds": 130.72,
+    "end_seconds": 134.0,
+    "text": "right from the beginning without really correcting me. You're both so subtle about that."
+  },
+  {
+    "segment_id": "s00022",
+    "start_seconds": 134.96,
+    "end_seconds": 139.76,
+    "text": "So normally I say in the very beginning, let's make sure I've got the pronunciation right,"
+  },
+  {
+    "segment_id": "s00023",
+    "start_seconds": 139.76,
+    "end_seconds": 145.6,
+    "text": "and yet I totally took for granted that I knew how to pronounce the name. So anyway, I'm so glad"
+  },
+  {
+    "segment_id": "s00024",
+    "start_seconds": 145.6,
+    "end_seconds": 152.48,
+    "text": "you're both here. I don't know who wants to kind of take this one, but for listeners who aren't very"
+  },
+  {
+    "segment_id": "s00025",
+    "start_seconds": 152.48,
+    "end_seconds": 156.32,
+    "text": "familiar with the company, let's just talk about, you know, what the company does, kind of what"
+  },
+  {
+    "segment_id": "s00026",
+    "start_seconds": 156.32,
+    "end_seconds": 163.44,
+    "text": "problem it solves because that will set the stage to actually what you pitched on stage and why"
+  },
+  {
+    "segment_id": "s00027",
+    "start_seconds": 163.44,
+    "end_seconds": 170.32,
+    "text": "kind of the new kind of the, you know, how you leveled up and why it did, you know, secure such"
+  },
+  {
+    "segment_id": "s00028",
+    "start_seconds": 170.32,
+    "end_seconds": 176.8,
+    "text": "win. Yeah, so, Vazin, as it is now, yeah, and I found it really difficult when I was learning"
+  },
+  {
+    "segment_id": "s00029",
+    "start_seconds": 176.8,
+    "end_seconds": 181.92,
+    "text": "the pitch, this phrase, like, you know, we'll attest to this. I spent a lot of time saying it"
+  },
+  {
+    "segment_id": "s00030",
+    "start_seconds": 181.92,
+    "end_seconds": 189.36,
+    "text": "that we are a retail data AI platform. And what that means in essence is that we care a lot about"
+  },
+  {
+    "segment_id": "s00031",
+    "start_seconds": 189.36,
+    "end_seconds": 196.48000000000002,
+    "text": "planograms, which is about shelf data. So where product sit on shelf, how much space they take up,"
+  },
+  {
+    "segment_id": "s00032",
+    "start_seconds": 197.44000000000003,
+    "end_seconds": 204.56,
+    "text": "how that changes, how we can weak, how we can influence those types of decisions with retailers"
+  },
+  {
+    "segment_id": "s00033",
+    "start_seconds": 204.56,
+    "end_seconds": 213.12,
+    "text": "and shoppers. So I guess our reason for being, and we spoke a bit about this in the pitch,"
+  },
+  {
+    "segment_id": "s00034",
+    "start_seconds": 213.12,
+    "end_seconds": 219.6,
+    "text": "is that there's this huge data set, a planogram data set, essentially, that all retailers have."
+  },
+  {
+    "segment_id": "s00035",
+    "start_seconds": 220.4,
+    "end_seconds": 228.0,
+    "text": "And brands want access to it, essentially. And we have kind of recognized that. And so what we do"
+  },
+  {
+    "segment_id": "s00036",
+    "start_seconds": 228.0,
+    "end_seconds": 235.28,
+    "text": "is work with retailers to take their big data sets. And we've created a kind of data infrastructure"
+  },
+  {
+    "segment_id": "s00037",
+    "start_seconds": 236.24,
+    "end_seconds": 240.72,
+    "text": "out of which we have developed a number of tools, which allows brands to access"
+  },
+  {
+    "segment_id": "s00038",
+    "start_seconds": 240.8,
+    "end_seconds": 248.4,
+    "text": "a bit of planogram data. So you can either access it, you know, from a understanding what's on shelves"
+  },
+  {
+    "segment_id": "s00039",
+    "start_seconds": 248.4,
+    "end_seconds": 255.12,
+    "text": "right now. So you can say, I'm interested in what's on Kroger's shelf in Ohio, I don't know,"
+  },
+  {
+    "segment_id": "s00040",
+    "start_seconds": 255.12,
+    "end_seconds": 259.52,
+    "text": "and you can access that piece of data. So you can say the here and now versus the past,"
+  },
+  {
+    "segment_id": "s00041",
+    "start_seconds": 259.52,
+    "end_seconds": 265.44,
+    "text": "we can visualize things with people, we, Jals and I spent a lot of time testing new ideas from brands,"
+  },
+  {
+    "segment_id": "s00042",
+    "start_seconds": 265.44,
+    "end_seconds": 271.84,
+    "text": "which is super interesting and like very relevant to the insight world. And then, and we'll talk,"
+  },
+  {
+    "segment_id": "s00043",
+    "start_seconds": 271.84,
+    "end_seconds": 277.04,
+    "text": "probably talk about this in a bit more detail, but we've added this Ask Vase and layer, where we"
+  },
+  {
+    "segment_id": "s00044",
+    "start_seconds": 277.04,
+    "end_seconds": 283.92,
+    "text": "have all of that data, which you can then use your own AI, but essentially the brands can access it"
+  },
+  {
+    "segment_id": "s00045",
+    "start_seconds": 283.92,
+    "end_seconds": 292.72,
+    "text": "using their own AI tools to ask it questions like, where's the space on shelf for me to launch"
+  },
+  {
+    "segment_id": "s00046",
+    "start_seconds": 292.72,
+    "end_seconds": 298.56,
+    "text": "when you product, what should I D list, what's changed in different places. So I think you,"
+  },
+  {
+    "segment_id": "s00047",
+    "start_seconds": 299.12,
+    "end_seconds": 304.88000000000005,
+    "text": "you summed up really well in Amsterdam when it was about kind of, we've taken something that"
+  },
+  {
+    "segment_id": "s00048",
+    "start_seconds": 304.88000000000005,
+    "end_seconds": 311.44000000000005,
+    "text": "hides in plain sight and made it accessible to brands. Yeah. And I think that's exactly it."
+  },
+  {
+    "segment_id": "s00049",
+    "start_seconds": 312.40000000000003,
+    "end_seconds": 318.8,
+    "text": "For those of you listening, the industry impact award is given up by Green Book. So at each event,"
+  },
+  {
+    "segment_id": "s00050",
+    "start_seconds": 319.68,
+    "end_seconds": 325.44,
+    "text": "this year, we started to award three different awards. There's the experts choice award, which"
+  },
+  {
+    "segment_id": "s00051",
+    "start_seconds": 325.44,
+    "end_seconds": 329.92,
+    "text": "is given by the panel of the judges that review all of the applicants to the inside innovation"
+  },
+  {
+    "segment_id": "s00052",
+    "start_seconds": 329.92,
+    "end_seconds": 334.32,
+    "text": "competition. And then they, they choose the top five and then the top five pitch for the inside"
+  },
+  {
+    "segment_id": "s00053",
+    "start_seconds": 334.32,
+    "end_seconds": 339.44,
+    "text": "innovation competition on, you know, live at the event. And then the judges then choose from that,"
+  },
+  {
+    "segment_id": "s00054",
+    "start_seconds": 339.44,
+    "end_seconds": 344.8,
+    "text": "those top five, you know, which ones they deem as sort of the, the, like this, what they deem as"
+  },
+  {
+    "segment_id": "s00055",
+    "start_seconds": 344.88,
+    "end_seconds": 352.40000000000003,
+    "text": "maybe an investable scalable idea from, from that mindset, you know, they're kind of thinking about"
+  },
+  {
+    "segment_id": "s00056",
+    "start_seconds": 352.40000000000003,
+    "end_seconds": 358.32,
+    "text": "who would they, who went they back financially. Then there's the audience favorite award, you"
+  },
+  {
+    "segment_id": "s00057",
+    "start_seconds": 358.32,
+    "end_seconds": 362.0,
+    "text": "know, that's kind of crowdsourcing. And when we can't get into their minds necessarily,"
+  },
+  {
+    "segment_id": "s00058",
+    "start_seconds": 362.0,
+    "end_seconds": 366.56,
+    "text": "we imagine it has to do with what's resonating with the audience, like what they either are like,"
+  },
+  {
+    "segment_id": "s00059",
+    "start_seconds": 366.56,
+    "end_seconds": 372.24,
+    "text": "that would work for me, or I can see the use cases for that, or gosh, I like their stage presence,"
+  },
+  {
+    "segment_id": "s00060",
+    "start_seconds": 372.24,
+    "end_seconds": 376.8,
+    "text": "they told a good story, or they really convicted me. We're not really sure what the crowd is looking"
+  },
+  {
+    "segment_id": "s00061",
+    "start_seconds": 376.8,
+    "end_seconds": 383.12,
+    "text": "for. But that was one of the awards that you won was audience favorite. But the industry impact award,"
+  },
+  {
+    "segment_id": "s00062",
+    "start_seconds": 383.12,
+    "end_seconds": 387.44,
+    "text": "you know, green book is looking for something that we believe really will impact the future of"
+  },
+  {
+    "segment_id": "s00063",
+    "start_seconds": 387.44,
+    "end_seconds": 393.04,
+    "text": "insights or is addressing an immediate need that we are tapped into by being tapped into the industry"
+  },
+  {
+    "segment_id": "s00064",
+    "start_seconds": 393.04,
+    "end_seconds": 400.16,
+    "text": "the way we are. And yeah, hiding in plain sight, you know, we, we, in my experience, I'll talk from"
+  },
+  {
+    "segment_id": "s00065",
+    "start_seconds": 400.16,
+    "end_seconds": 406.64000000000004,
+    "text": "my own experience first. I have a background, qualitative researcher, many of my clients, if not,"
+  },
+  {
+    "segment_id": "s00066",
+    "start_seconds": 408.08000000000004,
+    "end_seconds": 413.6,
+    "text": "I would say 90% of them were CPG brands who were sold in retail establishments, you know,"
+  },
+  {
+    "segment_id": "s00067",
+    "start_seconds": 413.6,
+    "end_seconds": 420.72,
+    "text": "whether it was Kroger or anybody in the, you know, in any family of retail shops."
+  },
+  {
+    "segment_id": "s00068",
+    "start_seconds": 422.72,
+    "end_seconds": 428.8,
+    "text": "Fred Meyer, all of the large, all of the large chains, I'll just stay there. And they"
+  },
+  {
+    "segment_id": "s00069",
+    "start_seconds": 430.16,
+    "end_seconds": 434.48,
+    "text": "we looked at planet grams a lot, right? A lot of decisions were made, whether it was in the"
+  },
+  {
+    "segment_id": "s00070",
+    "start_seconds": 434.48,
+    "end_seconds": 440.40000000000003,
+    "text": "supplement business or the food and beverage business, or the, you know, snack business,"
+  },
+  {
+    "segment_id": "s00071",
+    "start_seconds": 441.52000000000004,
+    "end_seconds": 446.16,
+    "text": "you know, a lot of decisions were made about packaged packages, what size package, where can we"
+  },
+  {
+    "segment_id": "s00072",
+    "start_seconds": 446.16,
+    "end_seconds": 450.96000000000004,
+    "text": "fit, how can we get, how can we get attention, or are we going to be on end caps, where are we going"
+  },
+  {
+    "segment_id": "s00073",
+    "start_seconds": 450.96000000000004,
+    "end_seconds": 456.88,
+    "text": "to have this type of promotion, and planet grams were a part of their daily lives when you were on"
+  },
+  {
+    "segment_id": "s00074",
+    "start_seconds": 456.88,
+    "end_seconds": 463.44,
+    "text": "a brand team. It was, it was one of the, again, daily facets of a brand manager's life was looking"
+  },
+  {
+    "segment_id": "s00075",
+    "start_seconds": 463.44,
+    "end_seconds": 470.8,
+    "text": "at planet gram data. So it was, when I saw you take the stage, I was like, oh, now that's an immediate"
+  },
+  {
+    "segment_id": "s00076",
+    "start_seconds": 470.8,
+    "end_seconds": 477.36,
+    "text": "use case. And so when we talked about it at Green Book, the day, you know, the night of the"
+  },
+  {
+    "segment_id": "s00077",
+    "start_seconds": 477.36,
+    "end_seconds": 482.15999999999997,
+    "text": "pitches, the event ends, we go into a room with closed stores, we talk about all the pitches."
+  },
+  {
+    "segment_id": "s00078",
+    "start_seconds": 482.72,
+    "end_seconds": 487.20000000000005,
+    "text": "That was really what it was, is like, this is something that it's like, this data exists,"
+  },
+  {
+    "segment_id": "s00079",
+    "start_seconds": 487.20000000000005,
+    "end_seconds": 494.96000000000004,
+    "text": "this need is strong, present, today they solved an immediate need, and it was visible, and all"
+  },
+  {
+    "segment_id": "s00080",
+    "start_seconds": 494.96000000000004,
+    "end_seconds": 499.04,
+    "text": "that information's right there, and you made it really usable for immediate decision making. So"
+  },
+  {
+    "segment_id": "s00081",
+    "start_seconds": 499.04,
+    "end_seconds": 506.40000000000003,
+    "text": "that is what we saw, anyway, that is, that is why we deemed it sort of worthy. So congratulations"
+  },
+  {
+    "segment_id": "s00082",
+    "start_seconds": 506.40000000000003,
+    "end_seconds": 510.88,
+    "text": "again, and we are really glad that the audience saw it as well, and we can just imagine that they"
+  },
+  {
+    "segment_id": "s00083",
+    "start_seconds": 510.96,
+    "end_seconds": 516.8,
+    "text": "were kind of with us, at least that's what we thought. So take me to that moment, that's what we"
+  },
+  {
+    "segment_id": "s00084",
+    "start_seconds": 516.8,
+    "end_seconds": 520.88,
+    "text": "thought, what were you thinking when you kind of won the double honor in that moment, when we"
+  },
+  {
+    "segment_id": "s00085",
+    "start_seconds": 520.88,
+    "end_seconds": 526.24,
+    "text": "announced it the next day? It was such an honor. I don't think, Charlotte, I mean, to what you"
+  },
+  {
+    "segment_id": "s00086",
+    "start_seconds": 526.24,
+    "end_seconds": 533.84,
+    "text": "think, but I don't think we expected to win both. It definitely was amazing to be up there after"
+  },
+  {
+    "segment_id": "s00087",
+    "start_seconds": 533.84,
+    "end_seconds": 539.44,
+    "text": "so many amazing teams, or, you know, before or after them. And the two awards meant two very"
+  },
+  {
+    "segment_id": "s00088",
+    "start_seconds": 539.44,
+    "end_seconds": 543.7600000000001,
+    "text": "different things, like you kind of spoke about, I think it was really nice to get the audience"
+  },
+  {
+    "segment_id": "s00089",
+    "start_seconds": 543.7600000000001,
+    "end_seconds": 548.96,
+    "text": "favorite, just because maybe they saw the value in that, and hopefully also liked our pitch too,"
+  },
+  {
+    "segment_id": "s00090",
+    "start_seconds": 548.96,
+    "end_seconds": 553.44,
+    "text": "and how he presented it. But they could see like, you know, people who, like you said,"
+  },
+  {
+    "segment_id": "s00091",
+    "start_seconds": 553.44,
+    "end_seconds": 558.08,
+    "text": "your clients who work in the industry, it saves them time. And I think a lot of these teams are"
+  },
+  {
+    "segment_id": "s00092",
+    "start_seconds": 558.08,
+    "end_seconds": 563.36,
+    "text": "really looking to save time at the end of the day, because there's a lot of data, Charlotte,"
+  },
+  {
+    "segment_id": "s00093",
+    "start_seconds": 563.36,
+    "end_seconds": 569.0400000000001,
+    "text": "mentioned to work with. And then industry impact, we do feel, obviously, you saw the"
+  },
+  {
+    "segment_id": "s00094",
+    "start_seconds": 569.04,
+    "end_seconds": 573.68,
+    "text": "pain that these people are probably feeling on a day-to-day basis, and to be able to help them"
+  },
+  {
+    "segment_id": "s00095",
+    "start_seconds": 573.68,
+    "end_seconds": 579.5999999999999,
+    "text": "was amazing. But also, I guess for the team, I wired a team of Aizen. I think it's everyone's"
+  },
+  {
+    "segment_id": "s00096",
+    "start_seconds": 579.5999999999999,
+    "end_seconds": 586.0,
+    "text": "working really hard to help people in the industry use this data and get the most out of it. So I"
+  },
+  {
+    "segment_id": "s00097",
+    "start_seconds": 586.0,
+    "end_seconds": 592.0799999999999,
+    "text": "think it was a nice win for all of us. Yeah, wonderful. Well, yes, congratulations again. So"
+  },
+  {
+    "segment_id": "s00098",
+    "start_seconds": 592.0799999999999,
+    "end_seconds": 597.92,
+    "text": "let's talk about the Aizen. The elephant in the room for us is Aizen. So here we are, for those of"
+  },
+  {
+    "segment_id": "s00099",
+    "start_seconds": 597.92,
+    "end_seconds": 602.64,
+    "text": "you listening, again, this recording is happening in September. The event was June, and all of a"
+  },
+  {
+    "segment_id": "s00100",
+    "start_seconds": 602.64,
+    "end_seconds": 608.64,
+    "text": "sudden we went from VST to Aizen. So the rebrand happened in a few short months, even though it"
+  },
+  {
+    "segment_id": "s00101",
+    "start_seconds": 608.64,
+    "end_seconds": 614.4799999999999,
+    "text": "was probably in the works all along, because these things don't happen quickly. But let's talk about"
+  },
+  {
+    "segment_id": "s00102",
+    "start_seconds": 614.4799999999999,
+    "end_seconds": 622.0,
+    "text": "the name change. What prompted it? Give me the backstory and how it better reflects the work that"
+  },
+  {
+    "segment_id": "s00103",
+    "start_seconds": 622.0,
+    "end_seconds": 626.88,
+    "text": "you're doing. Yeah, it's interesting. It was very much in the works. And it was a conversation we"
+  },
+  {
+    "segment_id": "s00104",
+    "start_seconds": 626.96,
+    "end_seconds": 634.56,
+    "text": "had was, do we go as VST, or do we go as Aizen? Yeah, we decided that VST was the right thing to"
+  },
+  {
+    "segment_id": "s00105",
+    "start_seconds": 634.56,
+    "end_seconds": 639.52,
+    "text": "do, because that's how we had applied to it. And that's what we were known as, you know, within"
+  },
+  {
+    "segment_id": "s00106",
+    "start_seconds": 639.52,
+    "end_seconds": 648.08,
+    "text": "that kind of award. And VST stands for virtual store trials, right? So, and that's exactly what"
+  },
+  {
+    "segment_id": "s00107",
+    "start_seconds": 648.08,
+    "end_seconds": 652.24,
+    "text": "we were when we were set up eight years ago. Like we were set up much more to kind of test"
+  },
+  {
+    "segment_id": "s00108",
+    "start_seconds": 652.24,
+    "end_seconds": 661.04,
+    "text": "ideas on shelf and to, you know, to help brands influence retailers. And that is still a very core"
+  },
+  {
+    "segment_id": "s00109",
+    "start_seconds": 661.04,
+    "end_seconds": 667.6,
+    "text": "part of what we do. That's what Yasmin and I do every day. But the data part of the business has"
+  },
+  {
+    "segment_id": "s00110",
+    "start_seconds": 667.6,
+    "end_seconds": 673.6,
+    "text": "become much bigger and is growing really, really fast. And virtual store trials was really,"
+  },
+  {
+    "segment_id": "s00111",
+    "start_seconds": 674.72,
+    "end_seconds": 679.76,
+    "text": "as a name, much smaller than the product and the proposition was really becoming."
+  },
+  {
+    "segment_id": "s00112",
+    "start_seconds": 680.64,
+    "end_seconds": 686.96,
+    "text": "And so we wanted to have a name that could encapsulate everything that we did and allow us"
+  },
+  {
+    "segment_id": "s00113",
+    "start_seconds": 686.96,
+    "end_seconds": 695.6,
+    "text": "to grow out of VST. And I think it was probably like we wanted a V, as still. And, you know,"
+  },
+  {
+    "segment_id": "s00114",
+    "start_seconds": 695.6,
+    "end_seconds": 701.76,
+    "text": "it just gave us the opportunity as well to relook at our look and feel and our brand colors,"
+  },
+  {
+    "segment_id": "s00115",
+    "start_seconds": 701.76,
+    "end_seconds": 706.72,
+    "text": "what we stood for, all of those different types of things. And the name probably is a"
+  },
+  {
+    "segment_id": "s00116",
+    "start_seconds": 706.72,
+    "end_seconds": 713.84,
+    "text": "more kind of technology name as well. It moves us from just, say, with a virtual commerce,"
+  },
+  {
+    "segment_id": "s00117",
+    "start_seconds": 713.84,
+    "end_seconds": 721.36,
+    "text": "because it's not just, like, but it takes us from insight to more than living within the inside world."
+  },
+  {
+    "segment_id": "s00118",
+    "start_seconds": 721.36,
+    "end_seconds": 726.4,
+    "text": "Was there any kind of, you know, question from current clients, did you have any explaining"
+  },
+  {
+    "segment_id": "s00119",
+    "start_seconds": 726.4,
+    "end_seconds": 732.24,
+    "text": "to do? Were they fully on board? Did they get it? Yeah, like, interestingly, a lot of clients have"
+  },
+  {
+    "segment_id": "s00120",
+    "start_seconds": 732.24,
+    "end_seconds": 740.0,
+    "text": "just gone, all right, that's fine. Because, cool, because, I mean, there's a couple of things in there,"
+  },
+  {
+    "segment_id": "s00121",
+    "start_seconds": 740.0,
+    "end_seconds": 745.28,
+    "text": "like, nothing in reality has changed to any of our clients. Like, it is the same account team,"
+  },
+  {
+    "segment_id": "s00122",
+    "start_seconds": 745.28,
+    "end_seconds": 751.28,
+    "text": "it's the same product, really, it's the same terms and conditions with our address doesn't change."
+  },
+  {
+    "segment_id": "s00123",
+    "start_seconds": 752.4,
+    "end_seconds": 760.08,
+    "text": "So the experience of who they interact with and the data they interact with hasn't changed."
+  },
+  {
+    "segment_id": "s00124",
+    "start_seconds": 760.1600000000001,
+    "end_seconds": 766.48,
+    "text": "Really, the names caught up with the experience that they're having, if nothing else. So,"
+  },
+  {
+    "segment_id": "s00125",
+    "start_seconds": 767.12,
+    "end_seconds": 772.1600000000001,
+    "text": "we've had a couple where we've needed to, you know, send a letter to explain what we're doing"
+  },
+  {
+    "segment_id": "s00126",
+    "start_seconds": 772.1600000000001,
+    "end_seconds": 778.0,
+    "text": "from a legal perspective, but that's as far as it's gone. And I think it was the right time,"
+  },
+  {
+    "segment_id": "s00127",
+    "start_seconds": 778.0,
+    "end_seconds": 784.4000000000001,
+    "text": "because if we were bigger than this, then it becomes a, oh, right, I need to remember who it is,"
+  },
+  {
+    "segment_id": "s00128",
+    "start_seconds": 784.4000000000001,
+    "end_seconds": 789.2800000000001,
+    "text": "but actually now we can kind of, like, really just pour ourselves into the Bayesian name and"
+  },
+  {
+    "segment_id": "s00129",
+    "start_seconds": 789.36,
+    "end_seconds": 792.72,
+    "text": "create awareness around there. Yeah, that's great. That's great."
+  },
+  {
+    "segment_id": "s00130",
+    "start_seconds": 793.52,
+    "end_seconds": 798.56,
+    "text": "So I want to dig into, you know, something that you said, which, again,"
+  },
+  {
+    "segment_id": "s00131",
+    "start_seconds": 798.56,
+    "end_seconds": 802.16,
+    "text": "you know, leads into the next part of this conversation and why this,"
+  },
+  {
+    "segment_id": "s00132",
+    "start_seconds": 803.52,
+    "end_seconds": 807.76,
+    "text": "why this product kind of jumped out at us and I'm imagining the audience. And there are,"
+  },
+  {
+    "segment_id": "s00133",
+    "start_seconds": 807.76,
+    "end_seconds": 813.12,
+    "text": "again, there were many brands in the audience in Europe this year in particular. So I imagine"
+  },
+  {
+    "segment_id": "s00134",
+    "start_seconds": 813.12,
+    "end_seconds": 817.12,
+    "text": "it spoke to them, but you were talking about, you know, part of what the brand needs to do and why"
+  },
+  {
+    "segment_id": "s00135",
+    "start_seconds": 817.12,
+    "end_seconds": 821.44,
+    "text": "they look at planogram data. So specifically, they need to convince retailers to give them shelf"
+  },
+  {
+    "segment_id": "s00136",
+    "start_seconds": 821.44,
+    "end_seconds": 828.16,
+    "text": "space and to give them not just shelf space, but the right shelf space or the most appealing shelf"
+  },
+  {
+    "segment_id": "s00137",
+    "start_seconds": 828.16,
+    "end_seconds": 835.68,
+    "text": "space, you know, eye level shelf space, you know, optimal shelf shelf space, if you will. And a lot"
+  },
+  {
+    "segment_id": "s00138",
+    "start_seconds": 835.68,
+    "end_seconds": 842.72,
+    "text": "of package design decisions are made based on where they're going to sit on the shelf. And there's,"
+  },
+  {
+    "segment_id": "s00139",
+    "start_seconds": 842.8000000000001,
+    "end_seconds": 847.44,
+    "text": "you know, one of the last projects that I worked on before I joined Green Book, it was, you know,"
+  },
+  {
+    "segment_id": "s00140",
+    "start_seconds": 847.44,
+    "end_seconds": 853.0400000000001,
+    "text": "there are trade offs of the cost of certain packages and the design there based on, well,"
+  },
+  {
+    "segment_id": "s00141",
+    "start_seconds": 853.0400000000001,
+    "end_seconds": 858.24,
+    "text": "if we do this size package, then we can't be in this area of the shelf. But if we do this size"
+  },
+  {
+    "segment_id": "s00142",
+    "start_seconds": 858.24,
+    "end_seconds": 862.1600000000001,
+    "text": "package, we can get to this area of the shelf, but it's not as optimal as this area of the shelf,"
+  },
+  {
+    "segment_id": "s00143",
+    "start_seconds": 862.1600000000001,
+    "end_seconds": 868.24,
+    "text": "and they won't move these packages unless we have this size package. I mean, it is so complex."
+  },
+  {
+    "segment_id": "s00144",
+    "start_seconds": 868.8,
+    "end_seconds": 876.8,
+    "text": "And, and I think that a lot of people don't really know this, but I'm wondering if in this world"
+  },
+  {
+    "segment_id": "s00145",
+    "start_seconds": 876.8,
+    "end_seconds": 882.16,
+    "text": "right now and this level of intelligence that you're offering, is there something going on"
+  },
+  {
+    "segment_id": "s00146",
+    "start_seconds": 882.16,
+    "end_seconds": 886.96,
+    "text": "right now that makes it even more critical to have this kind of this data and this intelligence"
+  },
+  {
+    "segment_id": "s00147",
+    "start_seconds": 886.96,
+    "end_seconds": 892.08,
+    "text": "at their fingerprint fingertips like what is happening in the ecosystem, the retail ecosystem"
+  },
+  {
+    "segment_id": "s00148",
+    "start_seconds": 892.08,
+    "end_seconds": 894.48,
+    "text": "that is kind of driving this need at this moment?"
+  },
+  {
+    "segment_id": "s00149",
+    "start_seconds": 895.12,
+    "end_seconds": 902.24,
+    "text": "It's a, it's a really good question. And it's a super interesting time in retail right now."
+  },
+  {
+    "segment_id": "s00150",
+    "start_seconds": 903.44,
+    "end_seconds": 908.32,
+    "text": "There's lots of sort of these big trends around, you hear that retailers don't actually make"
+  },
+  {
+    "segment_id": "s00151",
+    "start_seconds": 908.32,
+    "end_seconds": 914.72,
+    "text": "money from the food, they make money from the retail media they put in there. So the actual like"
+  },
+  {
+    "segment_id": "s00152",
+    "start_seconds": 915.76,
+    "end_seconds": 919.0400000000001,
+    "text": "making sure that they're making the profit from the products they have on the, on the"
+  },
+  {
+    "segment_id": "s00153",
+    "start_seconds": 919.12,
+    "end_seconds": 924.0,
+    "text": "fixture becomes more and more important. So retailers are looking at things like big"
+  },
+  {
+    "segment_id": "s00154",
+    "start_seconds": 924.0,
+    "end_seconds": 929.28,
+    "text": "range reviews all the time, but I think one of the big themes that we see is efficiency,"
+  },
+  {
+    "segment_id": "s00155",
+    "start_seconds": 930.64,
+    "end_seconds": 935.04,
+    "text": "which is coming through everywhere. So there's a lot of cuts coming through across categories,"
+  },
+  {
+    "segment_id": "s00156",
+    "start_seconds": 935.04,
+    "end_seconds": 940.4,
+    "text": "and so it's incredibly important at the moment for brands to know how much space is there."
+  },
+  {
+    "segment_id": "s00157",
+    "start_seconds": 940.9599999999999,
+    "end_seconds": 945.52,
+    "text": "And we get a lot of questions around that macro space, how much space does dairy"
+  },
+  {
+    "segment_id": "s00158",
+    "start_seconds": 945.52,
+    "end_seconds": 951.1999999999999,
+    "text": "take and how much space do I take within my subset of dairy. You know, so the questions aren't"
+  },
+  {
+    "segment_id": "s00159",
+    "start_seconds": 951.1999999999999,
+    "end_seconds": 958.48,
+    "text": "really just about this small bit of shelf. It's actually about the larger aisle or even the larger"
+  },
+  {
+    "segment_id": "s00160",
+    "start_seconds": 958.48,
+    "end_seconds": 964.24,
+    "text": "kind of area in, in the supermarket. So I'd say yeah, it's really important because of the"
+  },
+  {
+    "segment_id": "s00161",
+    "start_seconds": 965.1999999999999,
+    "end_seconds": 970.48,
+    "text": "range cuts. I think which are coming through a lot. There's also a lot of reimagining"
+  },
+  {
+    "segment_id": "s00162",
+    "start_seconds": 971.12,
+    "end_seconds": 976.48,
+    "text": "what the shop, how the shopper shops. So we, how I recently, I'd say within the last year,"
+  },
+  {
+    "segment_id": "s00163",
+    "start_seconds": 976.48,
+    "end_seconds": 983.9200000000001,
+    "text": "I wouldn't say before now there's a reimagining away from categories and towards occasions."
+  },
+  {
+    "segment_id": "s00164",
+    "start_seconds": 984.8000000000001,
+    "end_seconds": 989.28,
+    "text": "So if you imagine you go to a supermarket now, you're like, okay, cool. I have my chilled,"
+  },
+  {
+    "segment_id": "s00165",
+    "start_seconds": 989.28,
+    "end_seconds": 994.72,
+    "text": "I have my fresh, I have my ambient food, my frozen food, and my ambient food might be"
+  },
+  {
+    "segment_id": "s00166",
+    "start_seconds": 994.72,
+    "end_seconds": 1002.64,
+    "text": "tins and then pouch, whatever it is. But actually the reimagination is dinner time, lunch time"
+  },
+  {
+    "segment_id": "s00167",
+    "start_seconds": 1004.64,
+    "end_seconds": 1009.52,
+    "text": "at home with my children. So all of those things, as you as a researcher must have spoken about an"
+  },
+  {
+    "segment_id": "s00168",
+    "start_seconds": 1009.52,
+    "end_seconds": 1016.24,
+    "text": "awful lot like these, these, these, these quite difficult ideas, I think for consumers and shoppers"
+  },
+  {
+    "segment_id": "s00169",
+    "start_seconds": 1016.24,
+    "end_seconds": 1020.48,
+    "text": "to think about. But actually that's how they do think. I, you know, I want something that I can"
+  },
+  {
+    "segment_id": "s00170",
+    "start_seconds": 1020.48,
+    "end_seconds": 1024.56,
+    "text": "bring my family together with. And I think advertising has done that so well for so long."
+  },
+  {
+    "segment_id": "s00171",
+    "start_seconds": 1025.2,
+    "end_seconds": 1030.96,
+    "text": "And now I think retail is trying to catch up. And that is super hard. You think about the supply"
+  },
+  {
+    "segment_id": "s00172",
+    "start_seconds": 1030.96,
+    "end_seconds": 1037.6,
+    "text": "change, the space that this like does a can of beans go next to a can of soup. Like, what is it?"
+  },
+  {
+    "segment_id": "s00173",
+    "start_seconds": 1037.6,
+    "end_seconds": 1041.6,
+    "text": "What's it's with with what? So I think there's actually quite a lot of reimagining going on,"
+  },
+  {
+    "segment_id": "s00174",
+    "start_seconds": 1043.2,
+    "end_seconds": 1047.6,
+    "text": "which is difficult and difficult for brands to influence as well."
+  },
+  {
+    "segment_id": "s00175",
+    "start_seconds": 1048.08,
+    "end_seconds": 1054.0,
+    "text": "And I think also there's there's like some quite big trends around premiumization,"
+  },
+  {
+    "segment_id": "s00176",
+    "start_seconds": 1054.0,
+    "end_seconds": 1059.04,
+    "text": "which you might have also seen in the US is like people are eating out less. And so they're looking"
+  },
+  {
+    "segment_id": "s00177",
+    "start_seconds": 1059.04,
+    "end_seconds": 1066.24,
+    "text": "for the eat in option within the supermarket. So again, you have to make space. And how do you"
+  },
+  {
+    "segment_id": "s00178",
+    "start_seconds": 1066.24,
+    "end_seconds": 1072.32,
+    "text": "make space to take out of your core and add premium product? Who's doing that? Is it the big brands"
+  },
+  {
+    "segment_id": "s00179",
+    "start_seconds": 1072.32,
+    "end_seconds": 1077.1999999999998,
+    "text": "doing it? They're a challenge of brands. So that's, sorry, this was probably absolutely loads of other"
+  },
+  {
+    "segment_id": "s00180",
+    "start_seconds": 1077.2,
+    "end_seconds": 1082.16,
+    "text": "things happening. But I think those are the things that we hear most about, that brands are"
+  },
+  {
+    "segment_id": "s00181",
+    "start_seconds": 1082.8,
+    "end_seconds": 1090.0800000000002,
+    "text": "really being asked, tasked by the retailers to really think about. And so they're not just influencing"
+  },
+  {
+    "segment_id": "s00182",
+    "start_seconds": 1091.1200000000001,
+    "end_seconds": 1096.64,
+    "text": "should I have a multi pack or a single pack now? It is, do we have products that really fit"
+  },
+  {
+    "segment_id": "s00183",
+    "start_seconds": 1096.64,
+    "end_seconds": 1102.56,
+    "text": "what shoppers really want? And I think that's where supermarkets or retailers are really then looking"
+  },
+  {
+    "segment_id": "s00184",
+    "start_seconds": 1103.52,
+    "end_seconds": 1107.84,
+    "text": "to make the range right, and then ultimately make a bit more money."
+  },
+  {
+    "segment_id": "s00185",
+    "start_seconds": 1107.84,
+    "end_seconds": 1112.1599999999999,
+    "text": "Yeah, so much of my work was limited to again, package design is qualitative in nature. And it"
+  },
+  {
+    "segment_id": "s00186",
+    "start_seconds": 1112.1599999999999,
+    "end_seconds": 1118.0,
+    "text": "was largely on package design. And I did some, you know, some great eye tracking work with package"
+  },
+  {
+    "segment_id": "s00187",
+    "start_seconds": 1118.0,
+    "end_seconds": 1124.3999999999999,
+    "text": "design. And so this in my eyes were open to too much of this stuff. And so it was privy to"
+  },
+  {
+    "segment_id": "s00188",
+    "start_seconds": 1124.3999999999999,
+    "end_seconds": 1130.48,
+    "text": "backroom conversations and all of that. But my knowledge was limited. It didn't go into the data"
+  },
+  {
+    "segment_id": "s00189",
+    "start_seconds": 1130.48,
+    "end_seconds": 1137.44,
+    "text": "of it all, which is what I want to start to talk about next, because you're talking about data,"
+  },
+  {
+    "segment_id": "s00190",
+    "start_seconds": 1137.44,
+    "end_seconds": 1142.32,
+    "text": "right? So you're you're unlocking some data, and you're also bringing different data together. So talk"
+  },
+  {
+    "segment_id": "s00191",
+    "start_seconds": 1142.32,
+    "end_seconds": 1148.16,
+    "text": "about the data, all of the data points that you are bringing together, because that's that there's"
+  },
+  {
+    "segment_id": "s00192",
+    "start_seconds": 1148.16,
+    "end_seconds": 1155.04,
+    "text": "so much more in what you are offering than just what we're talking about. Yeah, share all the data"
+  },
+  {
+    "segment_id": "s00193",
+    "start_seconds": 1155.04,
+    "end_seconds": 1160.24,
+    "text": "points you're bringing together. So I can talk about it from like the retail data that we receive"
+  },
+  {
+    "segment_id": "s00194",
+    "start_seconds": 1161.3600000000001,
+    "end_seconds": 1167.76,
+    "text": "because that's the biggest source of data. And what the retailers share with us is"
+  },
+  {
+    "segment_id": "s00195",
+    "start_seconds": 1169.2,
+    "end_seconds": 1177.92,
+    "text": "for their whole estate, so every single shop that they have with any given geography, every week,"
+  },
+  {
+    "segment_id": "s00196",
+    "start_seconds": 1177.92,
+    "end_seconds": 1185.28,
+    "text": "they send us where every product sits. So imagine those are like one line of data each. That's like"
+  },
+  {
+    "segment_id": "s00197",
+    "start_seconds": 1185.28,
+    "end_seconds": 1191.2,
+    "text": "billions of lines of data we receive every week. But sounds very basic, like where something sits,"
+  },
+  {
+    "segment_id": "s00198",
+    "start_seconds": 1191.2,
+    "end_seconds": 1197.2,
+    "text": "but alongside that you get how many of them there are. So how many facings wide, facings high. So that"
+  },
+  {
+    "segment_id": "s00199",
+    "start_seconds": 1197.2,
+    "end_seconds": 1203.04,
+    "text": "gives you like an understanding of how much space they take up. You also get that. So I think we get"
+  },
+  {
+    "segment_id": "s00200",
+    "start_seconds": 1203.04,
+    "end_seconds": 1210.24,
+    "text": "all their dimensions, which is a very underestimated piece of data. Like who tells you about dimensions"
+  },
+  {
+    "segment_id": "s00201",
+    "start_seconds": 1210.24,
+    "end_seconds": 1215.44,
+    "text": "of products this data does not you try and go find that on the internet. It's so easy."
+  },
+  {
+    "segment_id": "s00202",
+    "start_seconds": 1217.2,
+    "end_seconds": 1222.8,
+    "text": "We also get within that like understanding of like casing and trace or like merchandising"
+  },
+  {
+    "segment_id": "s00203",
+    "start_seconds": 1222.8,
+    "end_seconds": 1229.76,
+    "text": "like approaches by different categories. And then alongside that we also get transactional data."
+  },
+  {
+    "segment_id": "s00204",
+    "start_seconds": 1229.76,
+    "end_seconds": 1235.76,
+    "text": "So we can understand from ultimately where it's planogram data, your distribution,"
+  },
+  {
+    "segment_id": "s00205",
+    "start_seconds": 1235.76,
+    "end_seconds": 1240.96,
+    "text": "like your true distribution as well, not just something as sold is something is on a shelf."
+  },
+  {
+    "segment_id": "s00206",
+    "start_seconds": 1242.16,
+    "end_seconds": 1248.8,
+    "text": "You can look at how much has been sold and it's not at total estate. It's by plan as well. So you can"
+  },
+  {
+    "segment_id": "s00207",
+    "start_seconds": 1248.8,
+    "end_seconds": 1255.68,
+    "text": "say that like that's very interesting. Now alongside that they will the retailer will tell us the type"
+  },
+  {
+    "segment_id": "s00208",
+    "start_seconds": 1255.68,
+    "end_seconds": 1262.72,
+    "text": "of store is so is it a convenience store due to a really big store. So we can start to cut your data"
+  },
+  {
+    "segment_id": "s00209",
+    "start_seconds": 1262.8,
+    "end_seconds": 1268.8,
+    "text": "that way. You can cut your data by affluence. So is it a store in an affluent area versus a less"
+  },
+  {
+    "segment_id": "s00210",
+    "start_seconds": 1268.8,
+    "end_seconds": 1275.84,
+    "text": "affluent area. And then you can add to that as a brand all of your attributes. So if we take"
+  },
+  {
+    "segment_id": "s00211",
+    "start_seconds": 1275.84,
+    "end_seconds": 1282.64,
+    "text": "dairy again as an example, great. Okay, I know it's all yogurt. Well, is it health? Is it protein?"
+  },
+  {
+    "segment_id": "s00212",
+    "start_seconds": 1282.64,
+    "end_seconds": 1289.28,
+    "text": "Is it Greek? Is it shots? Is it whatever? So you get all of that data and then you as a brand can"
+  },
+  {
+    "segment_id": "s00213",
+    "start_seconds": 1289.28,
+    "end_seconds": 1295.6,
+    "text": "add all of your attributes. So even all that great data you get from the retailer can bring"
+  },
+  {
+    "segment_id": "s00214",
+    "start_seconds": 1295.6,
+    "end_seconds": 1300.72,
+    "text": "everybody to the same level. But where you as a brand can make it your own is that you overlay"
+  },
+  {
+    "segment_id": "s00215",
+    "start_seconds": 1300.72,
+    "end_seconds": 1306.56,
+    "text": "all of your attribute data, which we can do within our system as well. And then also coming into"
+  },
+  {
+    "segment_id": "s00216",
+    "start_seconds": 1306.56,
+    "end_seconds": 1312.96,
+    "text": "that system is like open source data. So things like weather, which again, really obvious. But"
+  },
+  {
+    "segment_id": "s00217",
+    "start_seconds": 1313.28,
+    "end_seconds": 1319.68,
+    "text": "what has in the UK, we've had a massive heatwave with a 5P missile. Yeah, yeah, of course. You"
+  },
+  {
+    "segment_id": "s00218",
+    "start_seconds": 1319.68,
+    "end_seconds": 1329.04,
+    "text": "expect water to go up as sales or whatever. But has space gone up? Or what has been linked"
+  },
+  {
+    "segment_id": "s00219",
+    "start_seconds": 1329.04,
+    "end_seconds": 1332.64,
+    "text": "to weather patterns, what has been linked to location patterns, all that kind of stuff. So"
+  },
+  {
+    "segment_id": "s00220",
+    "start_seconds": 1333.68,
+    "end_seconds": 1338.88,
+    "text": "it's a lot of data coming in. And what our engineering team have done a brilliant job at is"
+  },
+  {
+    "segment_id": "s00221",
+    "start_seconds": 1338.96,
+    "end_seconds": 1345.6000000000001,
+    "text": "consolidating that into a very specific way that they look at it. We don't look at it like that."
+  },
+  {
+    "segment_id": "s00222",
+    "start_seconds": 1345.6000000000001,
+    "end_seconds": 1351.7600000000002,
+    "text": "We look at it through our app. We look at it in a much more, okay, to help show me the most common,"
+  },
+  {
+    "segment_id": "s00223",
+    "start_seconds": 1351.7600000000002,
+    "end_seconds": 1357.92,
+    "text": "like the most common planogram for dairy in the UK. And it pops up. We can look at it, we can"
+  },
+  {
+    "segment_id": "s00224",
+    "start_seconds": 1357.92,
+    "end_seconds": 1365.44,
+    "text": "analyze it, we can download it. It's an amazing source of data really. So for those of you who are"
+  },
+  {
+    "segment_id": "s00225",
+    "start_seconds": 1366.4,
+    "end_seconds": 1371.28,
+    "text": "audio only at the moment, the same thing is happening to me right now as happened to me"
+  },
+  {
+    "segment_id": "s00226",
+    "start_seconds": 1371.28,
+    "end_seconds": 1376.96,
+    "text": "when I was in Europe, I'm hanging on every word and I'm fascinated. So once again, it's happening"
+  },
+  {
+    "segment_id": "s00227",
+    "start_seconds": 1376.96,
+    "end_seconds": 1383.28,
+    "text": "again, because to me, my mind is mulling over the possibilities. I'm thinking, oh, imagine I am a"
+  },
+  {
+    "segment_id": "s00228",
+    "start_seconds": 1383.28,
+    "end_seconds": 1389.44,
+    "text": "dairy company and I'm trying to figure out if I'm making yogurt, small company making yogurt,"
+  },
+  {
+    "segment_id": "s00229",
+    "start_seconds": 1389.44,
+    "end_seconds": 1392.64,
+    "text": "I'm trying to figure out if I want to start making great yogurt, because I don't make"
+  },
+  {
+    "segment_id": "s00230",
+    "start_seconds": 1393.1200000000001,
+    "end_seconds": 1400.0,
+    "text": "yogurt right now, I can find out what kind of shelf space is allotted to the Greek yogurt"
+  },
+  {
+    "segment_id": "s00231",
+    "start_seconds": 1400.0,
+    "end_seconds": 1406.72,
+    "text": "in such and such an area. And I can also find out how much of it is moving in a specific area."
+  },
+  {
+    "segment_id": "s00232",
+    "start_seconds": 1406.72,
+    "end_seconds": 1413.5200000000002,
+    "text": "And I can find out seasonal trends in a specific area in certain stores. I can get all of this data"
+  },
+  {
+    "segment_id": "s00233",
+    "start_seconds": 1414.16,
+    "end_seconds": 1420.0,
+    "text": "that is very specific and very usable if I even want to broach a new category."
+  },
+  {
+    "segment_id": "s00234",
+    "start_seconds": 1420.72,
+    "end_seconds": 1429.92,
+    "text": "So it's driving category exploration, not just current brand exploration, am I right there?"
+  },
+  {
+    "segment_id": "s00235",
+    "start_seconds": 1429.92,
+    "end_seconds": 1433.6,
+    "text": "You are absolutely correct. And most of our clients are category people."
+  },
+  {
+    "segment_id": "s00236",
+    "start_seconds": 1434.72,
+    "end_seconds": 1439.2,
+    "text": "And that was a real shift for me moving out of brand and into category was quite a shift."
+  },
+  {
+    "segment_id": "s00237",
+    "start_seconds": 1441.04,
+    "end_seconds": 1445.84,
+    "text": "And I think like if we, what I just sort of explained, I realized is sort of the"
+  },
+  {
+    "segment_id": "s00238",
+    "start_seconds": 1446.48,
+    "end_seconds": 1452.24,
+    "text": "without the AI overlay, right, that's what you can do with just sort of looking at it yourself."
+  },
+  {
+    "segment_id": "s00239",
+    "start_seconds": 1452.24,
+    "end_seconds": 1458.48,
+    "text": "But if you, if you were like you say, right, I'm interested in this dairy category and I want to"
+  },
+  {
+    "segment_id": "s00240",
+    "start_seconds": 1458.48,
+    "end_seconds": 1466.1599999999999,
+    "text": "launch a new product, you can say you could ask knowing the current trends, the current sales,"
+  },
+  {
+    "segment_id": "s00241",
+    "start_seconds": 1466.1599999999999,
+    "end_seconds": 1472.0,
+    "text": "where is where's the white space within this within what's it there? Now, what what AI is"
+  },
+  {
+    "segment_id": "s00242",
+    "start_seconds": 1472.08,
+    "end_seconds": 1477.44,
+    "text": "finds difficult to do is to go, all right, well, yeah, come up with the protein yogurt before it"
+  },
+  {
+    "segment_id": "s00243",
+    "start_seconds": 1477.44,
+    "end_seconds": 1481.28,
+    "text": "existed. Probably could have done that. But it could say, right, well, it's really interesting."
+  },
+  {
+    "segment_id": "s00244",
+    "start_seconds": 1481.28,
+    "end_seconds": 1487.6,
+    "text": "There's no peach flavored one and it could start to like really give you ideas of where"
+  },
+  {
+    "segment_id": "s00245",
+    "start_seconds": 1487.6,
+    "end_seconds": 1493.04,
+    "text": "your current category could move. And the great thing about it with the AI overlay is that you"
+  },
+  {
+    "segment_id": "s00246",
+    "start_seconds": 1493.04,
+    "end_seconds": 1499.36,
+    "text": "can do that per planogram. So you could say in a one bay planogram, there's a real space for"
+  },
+  {
+    "segment_id": "s00247",
+    "start_seconds": 1499.3600000000001,
+    "end_seconds": 1504.8000000000002,
+    "text": "x, y, z. And in a six bay planogram, there's actually space for that times 10, you know, like,"
+  },
+  {
+    "segment_id": "s00248",
+    "start_seconds": 1504.8000000000002,
+    "end_seconds": 1511.2,
+    "text": "so your your recommendations to the retailer are not general. They're so super specific because"
+  },
+  {
+    "segment_id": "s00249",
+    "start_seconds": 1511.2,
+    "end_seconds": 1516.88,
+    "text": "it allows you to get to that level of detail. Yeah, it's really, you know, and again, I'm having"
+  },
+  {
+    "segment_id": "s00250",
+    "start_seconds": 1516.88,
+    "end_seconds": 1520.3200000000002,
+    "text": "the same kind of reaction that I was having in Europe, and I'm sure it's the same reaction that"
+  },
+  {
+    "segment_id": "s00251",
+    "start_seconds": 1520.3200000000002,
+    "end_seconds": 1525.7600000000002,
+    "text": "the audience had when they were listening to this. And I don't, I'm not just saying this, I don't"
+  },
+  {
+    "segment_id": "s00252",
+    "start_seconds": 1525.84,
+    "end_seconds": 1529.84,
+    "text": "know of anybody else doing any of this kind of work. It's a really unique business model and"
+  },
+  {
+    "segment_id": "s00253",
+    "start_seconds": 1530.56,
+    "end_seconds": 1536.8799999999999,
+    "text": "hats off to you and what your company is doing to both of you, really. You know, it is very,"
+  },
+  {
+    "segment_id": "s00254",
+    "start_seconds": 1536.8799999999999,
+    "end_seconds": 1542.8799999999999,
+    "text": "obviously, AI is enabling so much of the work that you do and so much of this analysis. And yet,"
+  },
+  {
+    "segment_id": "s00255",
+    "start_seconds": 1542.8799999999999,
+    "end_seconds": 1546.16,
+    "text": "you know, we're not really, we haven't mentioned that word yet, right? But we know that there's"
+  },
+  {
+    "segment_id": "s00256",
+    "start_seconds": 1547.44,
+    "end_seconds": 1553.44,
+    "text": "here we are. We haven't even talked about it yet. But but how, how, how are you approaching AI in"
+  },
+  {
+    "segment_id": "s00257",
+    "start_seconds": 1553.44,
+    "end_seconds": 1559.76,
+    "text": "such a way that it is just kind of up, you know, it's just sort of practical at this point. It's,"
+  },
+  {
+    "segment_id": "s00258",
+    "start_seconds": 1559.76,
+    "end_seconds": 1563.68,
+    "text": "it's not even, it's not even, it's not even part of a hype and part of the,"
+  },
+  {
+    "segment_id": "s00259",
+    "start_seconds": 1565.44,
+    "end_seconds": 1570.96,
+    "text": "it's not even what makes this great. And yet, it is power behind it, right? So how are you approaching"
+  },
+  {
+    "segment_id": "s00260",
+    "start_seconds": 1570.96,
+    "end_seconds": 1575.8400000000001,
+    "text": "it right now? I think everyone's being asked to use AI at the moment, but I think there's something"
+  },
+  {
+    "segment_id": "s00261",
+    "start_seconds": 1575.8400000000001,
+    "end_seconds": 1582.24,
+    "text": "that Charlotte mentioned in our pitch, you know, iX was the AI is only as good as the data that you"
+  },
+  {
+    "segment_id": "s00262",
+    "start_seconds": 1582.32,
+    "end_seconds": 1586.32,
+    "text": "give it. So it's really important that we're giving it, you know, the data and the work that's gone,"
+  },
+  {
+    "segment_id": "s00263",
+    "start_seconds": 1586.96,
+    "end_seconds": 1591.2,
+    "text": "work underneath it, actually get this data to be used while it's cleaning it, they need to be"
+  },
+  {
+    "segment_id": "s00264",
+    "start_seconds": 1591.2,
+    "end_seconds": 1597.52,
+    "text": "standardized. We have to make sense of the data before it can be used. So I think that is the easiest"
+  },
+  {
+    "segment_id": "s00265",
+    "start_seconds": 1597.52,
+    "end_seconds": 1604.72,
+    "text": "way for them clients and for category managers, even ask to then use the data well. And I think the"
+  },
+  {
+    "segment_id": "s00266",
+    "start_seconds": 1604.72,
+    "end_seconds": 1610.72,
+    "text": "fatigue is not necessarily with AI, at least it's just how people are using it. And people aren't"
+  },
+  {
+    "segment_id": "s00267",
+    "start_seconds": 1610.72,
+    "end_seconds": 1615.84,
+    "text": "necessarily describing and showing how to use it properly. So I think probably that's the way we're"
+  },
+  {
+    "segment_id": "s00268",
+    "start_seconds": 1615.84,
+    "end_seconds": 1620.4,
+    "text": "using. So it's kind of an extension, it's helping you do the things much quicker. It would otherwise"
+  },
+  {
+    "segment_id": "s00269",
+    "start_seconds": 1620.4,
+    "end_seconds": 1626.4,
+    "text": "take people hours or days even to find the same data. So it's kind of speeding up the process for a"
+  },
+  {
+    "segment_id": "s00270",
+    "start_seconds": 1626.4,
+    "end_seconds": 1632.48,
+    "text": "lot of people that can use it in our context. One of the things I know you all, you all have seen"
+  },
+  {
+    "segment_id": "s00271",
+    "start_seconds": 1632.48,
+    "end_seconds": 1638.48,
+    "text": "it, we interviewed Nick for an article recently. And one of the things he's shared about Vaz and"
+  },
+  {
+    "segment_id": "s00272",
+    "start_seconds": 1638.48,
+    "end_seconds": 1644.8,
+    "text": "strength is that it comes from years, nine years, actually, of continuous shelf and planogram data."
+  },
+  {
+    "segment_id": "s00273",
+    "start_seconds": 1645.68,
+    "end_seconds": 1653.92,
+    "text": "And one of the things that's linked to kind of the AI question is that we know that a foundation of"
+  },
+  {
+    "segment_id": "s00274",
+    "start_seconds": 1654.72,
+    "end_seconds": 1662.72,
+    "text": "solid data is critical when we are training AI and when AI has something to pull from."
+  },
+  {
+    "segment_id": "s00275",
+    "start_seconds": 1664.24,
+    "end_seconds": 1667.28,
+    "text": "Tell me how that's beneficial in your organization specifically."
+  },
+  {
+    "segment_id": "s00276",
+    "start_seconds": 1668.08,
+    "end_seconds": 1676.3999999999999,
+    "text": "I think having that history of data rather than building a company on an idea of AI is quite a"
+  },
+  {
+    "segment_id": "s00277",
+    "start_seconds": 1676.3999999999999,
+    "end_seconds": 1684.8,
+    "text": "different thing. And I haven't quite clocked to that, I think, until we started Ask Fazin."
+  },
+  {
+    "segment_id": "s00278",
+    "start_seconds": 1685.68,
+    "end_seconds": 1693.6,
+    "text": "And that part of the business is that we were, I think people talk a lot about moats, don't they?"
+  },
+  {
+    "segment_id": "s00279",
+    "start_seconds": 1693.68,
+    "end_seconds": 1699.8400000000001,
+    "text": "Right, they talk about like, how can we create like an idea that we can build and we can build"
+  },
+  {
+    "segment_id": "s00280",
+    "start_seconds": 1699.8400000000001,
+    "end_seconds": 1707.2800000000002,
+    "text": "continually? And I think that is that data, that like historical data gives us a bit of like AI"
+  },
+  {
+    "segment_id": "s00281",
+    "start_seconds": 1707.2800000000002,
+    "end_seconds": 1713.8400000000001,
+    "text": "mode, right? So we want to use AI to understand it better, to inform better decisions from our"
+  },
+  {
+    "segment_id": "s00282",
+    "start_seconds": 1713.92,
+    "end_seconds": 1722.2400000000002,
+    "text": "clients. And yeah, the data gives us a reason for being over and above, like we do AI, because"
+  },
+  {
+    "segment_id": "s00283",
+    "start_seconds": 1723.1200000000001,
+    "end_seconds": 1728.8000000000002,
+    "text": "we don't do AI, we're using it to make the decisions that are already being made, better"
+  },
+  {
+    "segment_id": "s00284",
+    "start_seconds": 1728.8000000000002,
+    "end_seconds": 1734.0000000000002,
+    "text": "decisions, faster decisions, more in depth decisions, right? And I think that's just, that's quite a"
+  },
+  {
+    "segment_id": "s00285",
+    "start_seconds": 1734.0000000000002,
+    "end_seconds": 1742.64,
+    "text": "clear distinction in how AI is used. Like Yasmin and I, and the rest of the team, we use AI all the"
+  },
+  {
+    "segment_id": "s00286",
+    "start_seconds": 1742.64,
+    "end_seconds": 1750.0800000000002,
+    "text": "time, we use it in, you know, in our everyday working life. But I wouldn't say that's how"
+  },
+  {
+    "segment_id": "s00287",
+    "start_seconds": 1750.0800000000002,
+    "end_seconds": 1757.76,
+    "text": "Vazin uses it, we're using it very specifically to help, yeah, help people ask questions. And I think"
+  },
+  {
+    "segment_id": "s00288",
+    "start_seconds": 1758.72,
+    "end_seconds": 1763.92,
+    "text": "big one for us as well is that we want to be quite AI agnostic. So we want to say, here's the data"
+  },
+  {
+    "segment_id": "s00289",
+    "start_seconds": 1763.92,
+    "end_seconds": 1770.0,
+    "text": "that we have created, and it is infrastructure, like structurally the same. So you can look at Tesco,"
+  },
+  {
+    "segment_id": "s00290",
+    "start_seconds": 1770.08,
+    "end_seconds": 1775.52,
+    "text": "you can look at Kroger, you can look at Carrefour, and all the data coming in will be a bit different,"
+  },
+  {
+    "segment_id": "s00291",
+    "start_seconds": 1775.52,
+    "end_seconds": 1780.72,
+    "text": "but we will structure it the same to allow you as a brand to go, okay, well, in the UK,"
+  },
+  {
+    "segment_id": "s00292",
+    "start_seconds": 1781.44,
+    "end_seconds": 1785.76,
+    "text": "this is what we look like in France, this is what we look like in the US, this is what we look like,"
+  },
+  {
+    "segment_id": "s00293",
+    "start_seconds": 1785.76,
+    "end_seconds": 1791.84,
+    "text": "do we look the same? Or not? Yeah, yeah. One of the questions I have is like, for an example,"
+  },
+  {
+    "segment_id": "s00294",
+    "start_seconds": 1791.84,
+    "end_seconds": 1799.52,
+    "text": "like when you talk about asvazin, you know, you can ask these questions of the data in plain"
+  },
+  {
+    "segment_id": "s00295",
+    "start_seconds": 1799.52,
+    "end_seconds": 1806.0,
+    "text": "language, right, you can just ask. Give me some examples, like how, you know, how are you able to"
+  },
+  {
+    "segment_id": "s00296",
+    "start_seconds": 1807.44,
+    "end_seconds": 1811.6,
+    "text": "how are you able to ask it in plain like, ask again, ask in plain language? Because that's an AI"
+  },
+  {
+    "segment_id": "s00297",
+    "start_seconds": 1811.6,
+    "end_seconds": 1817.76,
+    "text": "assist, right? So what are some of the types of questions where you can get this data, you know,"
+  },
+  {
+    "segment_id": "s00298",
+    "start_seconds": 1817.76,
+    "end_seconds": 1824.6399999999999,
+    "text": "data-backed answers, but you can ask in plain language. What are some examples or some kind of use cases"
+  },
+  {
+    "segment_id": "s00299",
+    "start_seconds": 1824.64,
+    "end_seconds": 1829.92,
+    "text": "that that you are able to share without sharing anything that's too proprietary?"
+  },
+  {
+    "segment_id": "s00300",
+    "start_seconds": 1829.92,
+    "end_seconds": 1837.44,
+    "text": "Yeah, too proprietary and it really, but yeah, like one of the big things that we support on"
+  },
+  {
+    "segment_id": "s00301",
+    "start_seconds": 1837.44,
+    "end_seconds": 1843.76,
+    "text": "our range reviews, which is such a category specific phrase, right, so a range review for"
+  },
+  {
+    "segment_id": "s00302",
+    "start_seconds": 1843.76,
+    "end_seconds": 1846.96,
+    "text": "people that maybe haven't heard of it, which I haven't before I worked at this company, is where"
+  },
+  {
+    "segment_id": "s00303",
+    "start_seconds": 1847.92,
+    "end_seconds": 1853.44,
+    "text": "retailers will say, we're reviewing the range, it's going to be new in September, you have this amount"
+  },
+  {
+    "segment_id": "s00304",
+    "start_seconds": 1853.44,
+    "end_seconds": 1858.64,
+    "text": "of time to influence it and then it will change. So askblazing can do two things out, we can look at"
+  },
+  {
+    "segment_id": "s00305",
+    "start_seconds": 1858.64,
+    "end_seconds": 1864.16,
+    "text": "a pre or post range review and I guess the post range review is where we can save a lot of time,"
+  },
+  {
+    "segment_id": "s00306",
+    "start_seconds": 1864.16,
+    "end_seconds": 1871.1200000000001,
+    "text": "which is a very simple, very simple job that takes about three days for a category manager to look"
+  },
+  {
+    "segment_id": "s00307",
+    "start_seconds": 1871.1200000000001,
+    "end_seconds": 1877.92,
+    "text": "at and what they're doing is saying, what has changed in a very simple language and so you can,"
+  },
+  {
+    "segment_id": "s00308",
+    "start_seconds": 1878.0,
+    "end_seconds": 1883.6000000000001,
+    "text": "essentially it's it's briefing the AI that askblazing to do, that's you would ask it,"
+  },
+  {
+    "segment_id": "s00309",
+    "start_seconds": 1884.72,
+    "end_seconds": 1890.88,
+    "text": "look at this time frame, look at this time frame, what has changed, tell me which, what's the share"
+  },
+  {
+    "segment_id": "s00310",
+    "start_seconds": 1890.88,
+    "end_seconds": 1899.04,
+    "text": "of like, what's the share of shelf by brands that's changed by subcategory, by different attributes,"
+  },
+  {
+    "segment_id": "s00311",
+    "start_seconds": 1899.04,
+    "end_seconds": 1905.6000000000001,
+    "text": "what new products have come on, what has been delisted and what impact there, so you can get"
+  },
+  {
+    "segment_id": "s00312",
+    "start_seconds": 1905.6000000000001,
+    "end_seconds": 1910.4,
+    "text": "that as a picture of what that looks like and then you could say, how does that change across the"
+  },
+  {
+    "segment_id": "s00313",
+    "start_seconds": 1910.4,
+    "end_seconds": 1916.0000000000002,
+    "text": "estate, so has that range review really cut hard for my brands in the north versus the south,"
+  },
+  {
+    "segment_id": "s00314",
+    "start_seconds": 1916.0000000000002,
+    "end_seconds": 1920.5600000000002,
+    "text": "you can ask all those types of questions and then you can even say like, how is this compared to"
+  },
+  {
+    "segment_id": "s00315",
+    "start_seconds": 1920.5600000000002,
+    "end_seconds": 1926.0800000000002,
+    "text": "the range review before or before and what was the impact of that on sales, what do we think the likely"
+  },
+  {
+    "segment_id": "s00316",
+    "start_seconds": 1926.0800000000002,
+    "end_seconds": 1933.68,
+    "text": "impact might be on sales now and yeah so that's and those range reviews happen every six months,"
+  },
+  {
+    "segment_id": "s00317",
+    "start_seconds": 1933.68,
+    "end_seconds": 1939.2,
+    "text": "so imagine every six months you have to sit down for half a week to a week and ask those"
+  },
+  {
+    "segment_id": "s00318",
+    "start_seconds": 1939.2,
+    "end_seconds": 1944.0800000000002,
+    "text": "questions of the data, loads of different excel sheets, you ask it through our phase in, I know"
+  },
+  {
+    "segment_id": "s00319",
+    "start_seconds": 1944.0800000000002,
+    "end_seconds": 1947.76,
+    "text": "because we've just done it for a client that that could reduce from three days to three hours,"
+  },
+  {
+    "segment_id": "s00320",
+    "start_seconds": 1948.3200000000002,
+    "end_seconds": 1952.0,
+    "text": "so what else can they do with their time, loads more that they can do with their time,"
+  },
+  {
+    "segment_id": "s00321",
+    "start_seconds": 1952.0,
+    "end_seconds": 1957.6000000000001,
+    "text": "so that quick. Yeah I just had supply chain management use cases in mind brain too, I was thinking"
+  },
+  {
+    "segment_id": "s00322",
+    "start_seconds": 1957.6000000000001,
+    "end_seconds": 1962.72,
+    "text": "about whenever there's a storm here in the US, whenever there are hurricanes, the things that"
+  },
+  {
+    "segment_id": "s00323",
+    "start_seconds": 1962.72,
+    "end_seconds": 1966.96,
+    "text": "you mentioned water before during the heat waves and I started to think whenever there's like the"
+  },
+  {
+    "segment_id": "s00324",
+    "start_seconds": 1966.96,
+    "end_seconds": 1973.52,
+    "text": "threat of a storm, the things that typically sell out, you know how interesting to track that trend,"
+  },
+  {
+    "segment_id": "s00325",
+    "start_seconds": 1973.52,
+    "end_seconds": 1979.68,
+    "text": "you know how early, how many days before a storm things are selling out of the space that they"
+  },
+  {
+    "segment_id": "s00326",
+    "start_seconds": 1979.68,
+    "end_seconds": 1986.24,
+    "text": "have allotted for them, I just imagine it would be at endless curiosity I would have working in an"
+  },
+  {
+    "segment_id": "s00327",
+    "start_seconds": 1986.24,
+    "end_seconds": 1991.84,
+    "text": "ecosystem like yours that there would be just question upon question that I would want to query"
+  },
+  {
+    "segment_id": "s00328",
+    "start_seconds": 1993.6000000000001,
+    "end_seconds": 1997.68,
+    "text": "and it feels like it can be almost endless, I would want to talk to it every day."
+  },
+  {
+    "segment_id": "s00329",
+    "start_seconds": 1998.48,
+    "end_seconds": 2001.6000000000001,
+    "text": "Yeah and I think that's that is exactly what you can do."
+  },
+  {
+    "segment_id": "s00330",
+    "start_seconds": 2002.56,
+    "end_seconds": 2010.56,
+    "text": "Yeah we did have one client who said I've just got Co-Plan for Tesco and I'm going on holiday"
+  },
+  {
+    "segment_id": "s00331",
+    "start_seconds": 2010.56,
+    "end_seconds": 2015.68,
+    "text": "tomorrow and I'm thinking about cancelling my holiday honestly because I'm so excited and I was like"
+  },
+  {
+    "segment_id": "s00332",
+    "start_seconds": 2015.68,
+    "end_seconds": 2021.1200000000001,
+    "text": "please go on holiday. It kind of changes what people are asking because they have that ability"
+  },
+  {
+    "segment_id": "s00333",
+    "start_seconds": 2021.2,
+    "end_seconds": 2026.4,
+    "text": "to ask so much now over like like Charlotte said the whole estate, they can ask more endless"
+  },
+  {
+    "segment_id": "s00334",
+    "start_seconds": 2026.4,
+    "end_seconds": 2031.3600000000001,
+    "text": "questions and this bits of detail they otherwise probably would have never been able to get to,"
+  },
+  {
+    "segment_id": "s00335",
+    "start_seconds": 2031.3600000000001,
+    "end_seconds": 2035.8400000000001,
+    "text": "they can now go into I don't know a specific product within a specific store and find out"
+  },
+  {
+    "segment_id": "s00336",
+    "start_seconds": 2035.8400000000001,
+    "end_seconds": 2040.0000000000002,
+    "text": "all that information where they otherwise couldn't have it would have taken days so they don't have"
+  },
+  {
+    "segment_id": "s00337",
+    "start_seconds": 2040.0000000000002,
+    "end_seconds": 2044.64,
+    "text": "the resources to do that so it opens up for a lot more to learn themselves."
+  },
+  {
+    "segment_id": "s00338",
+    "start_seconds": 2044.64,
+    "end_seconds": 2049.6,
+    "text": "Yeah yeah you know and I go back again I go back to putting the piece together about you know"
+  },
+  {
+    "segment_id": "s00339",
+    "start_seconds": 2049.6,
+    "end_seconds": 2053.2799999999997,
+    "text": "some of the package design work that I did for example where we were doing shelf testing with"
+  },
+  {
+    "segment_id": "s00340",
+    "start_seconds": 2053.2799999999997,
+    "end_seconds": 2059.44,
+    "text": "logos which might seem very straightforward but when you when you compare you know looking at logos"
+  },
+  {
+    "segment_id": "s00341",
+    "start_seconds": 2059.44,
+    "end_seconds": 2064.3199999999997,
+    "text": "on a shelf at loaf of bread for example we're looking at the logos on a loaf of bread and when"
+  },
+  {
+    "segment_id": "s00342",
+    "start_seconds": 2064.3199999999997,
+    "end_seconds": 2069.44,
+    "text": "you look at how bread is laid out on a shelf you know you don't see very much of that loaf of"
+  },
+  {
+    "segment_id": "s00343",
+    "start_seconds": 2069.44,
+    "end_seconds": 2073.44,
+    "text": "bread you see the you know the square the square on the the back of the loaf of bread"
+  },
+  {
+    "segment_id": "s00344",
+    "start_seconds": 2073.44,
+    "end_seconds": 2077.2799999999997,
+    "text": "sometimes you might see the top of it because bread is on shelves very interestingly."
+  },
+  {
+    "segment_id": "s00345",
+    "start_seconds": 2077.92,
+    "end_seconds": 2087.2000000000003,
+    "text": "But maybe you get two squares on you know a very large bread aisle and and it's not a lot and so"
+  },
+  {
+    "segment_id": "s00346",
+    "start_seconds": 2087.2000000000003,
+    "end_seconds": 2092.88,
+    "text": "you think about and yet it has to move right because bread is perishable. I just think about it it's"
+  },
+  {
+    "segment_id": "s00347",
+    "start_seconds": 2092.88,
+    "end_seconds": 2099.6000000000004,
+    "text": "just so interesting to think about it's just so interesting to think about it in certain categories"
+  },
+  {
+    "segment_id": "s00348",
+    "start_seconds": 2099.6000000000004,
+    "end_seconds": 2106.48,
+    "text": "how important it is to have this data about and tied to how much of it's purchased and so how much"
+  },
+  {
+    "segment_id": "s00349",
+    "start_seconds": 2106.48,
+    "end_seconds": 2112.8,
+    "text": "space is allotted and how quickly it is purchased and what day of the week it's purchased on"
+  },
+  {
+    "segment_id": "s00350",
+    "start_seconds": 2112.8,
+    "end_seconds": 2120.64,
+    "text": "and and the puzzle between does it change based on package redesigns all at once combining you"
+  },
+  {
+    "segment_id": "s00351",
+    "start_seconds": 2120.64,
+    "end_seconds": 2127.12,
+    "text": "know marketing questions with supply chain questions I just think again I can probably talk to you"
+  },
+  {
+    "segment_id": "s00352",
+    "start_seconds": 2127.12,
+    "end_seconds": 2132.88,
+    "text": "guys for hours about this because you have just piqued my interest so how do all of these relationships"
+  },
+  {
+    "segment_id": "s00353",
+    "start_seconds": 2132.88,
+    "end_seconds": 2138.8,
+    "text": "between these different roles in an organization's shopper insights category management you know"
+  },
+  {
+    "segment_id": "s00354",
+    "start_seconds": 2138.8,
+    "end_seconds": 2145.6,
+    "text": "the retail the retail execution teams how how is it a product like yours influencing how these"
+  },
+  {
+    "segment_id": "s00355",
+    "start_seconds": 2145.6,
+    "end_seconds": 2151.92,
+    "text": "teams interact internally within an organization because your your buyers or your clients are not"
+  },
+  {
+    "segment_id": "s00356",
+    "start_seconds": 2151.92,
+    "end_seconds": 2160.7200000000003,
+    "text": "just one. Yeah it's a good it's a good point and and I think that they probably need to be joined up"
+  },
+  {
+    "segment_id": "s00357",
+    "start_seconds": 2160.7200000000003,
+    "end_seconds": 2168.6400000000003,
+    "text": "a bit more I think that's our feeling generally is that you know the decision is the category"
+  },
+  {
+    "segment_id": "s00358",
+    "start_seconds": 2168.6400000000003,
+    "end_seconds": 2173.0400000000004,
+    "text": "manager is making about these things should be inherently linked to what the brand manager is"
+  },
+  {
+    "segment_id": "s00359",
+    "start_seconds": 2173.0400000000004,
+    "end_seconds": 2182.8,
+    "text": "making about these things and those clients where we work most effectively are are where all of those"
+  },
+  {
+    "segment_id": "s00360",
+    "start_seconds": 2182.88,
+    "end_seconds": 2190.32,
+    "text": "different parts of the business kind of work cross-functionally and a know that the data exists"
+  },
+  {
+    "segment_id": "s00361",
+    "start_seconds": 2190.32,
+    "end_seconds": 2194.96,
+    "text": "like I think sometimes this can sit within a category team and then you've got to the brand"
+  },
+  {
+    "segment_id": "s00362",
+    "start_seconds": 2194.96,
+    "end_seconds": 2199.44,
+    "text": "team they don't even know that the data exists right so so where cross-functionally that works"
+  },
+  {
+    "segment_id": "s00363",
+    "start_seconds": 2200.4,
+    "end_seconds": 2207.6800000000003,
+    "text": "much better decisions can be made you know things like we touched on a little bit earlier but"
+  },
+  {
+    "segment_id": "s00364",
+    "start_seconds": 2207.7599999999998,
+    "end_seconds": 2213.44,
+    "text": "you know like retail media is hugely based on the brand team getting it right when the category"
+  },
+  {
+    "segment_id": "s00365",
+    "start_seconds": 2213.44,
+    "end_seconds": 2216.7999999999997,
+    "text": "team don't talk to the brand team and they're like we've made some such signage and you think"
+  },
+  {
+    "segment_id": "s00366",
+    "start_seconds": 2217.6,
+    "end_seconds": 2222.96,
+    "text": "think you need to talk to the brand team because those you know you need them to work together"
+  },
+  {
+    "segment_id": "s00367",
+    "start_seconds": 2222.96,
+    "end_seconds": 2230.96,
+    "text": "to really elevate what's going on on fixture and so I guess yeah where they work together"
+  },
+  {
+    "segment_id": "s00368",
+    "start_seconds": 2230.96,
+    "end_seconds": 2236.0,
+    "text": "really well I think better decisions are made and where they're too separated you know that they"
+  },
+  {
+    "segment_id": "s00369",
+    "start_seconds": 2236.0,
+    "end_seconds": 2242.08,
+    "text": "live within different functions then it's much harder to enact good change I think what what you"
+  },
+  {
+    "segment_id": "s00370",
+    "start_seconds": 2242.08,
+    "end_seconds": 2251.36,
+    "text": "end up with is like principles of good right rather than actions of good well I'm looking"
+  },
+  {
+    "segment_id": "s00371",
+    "start_seconds": 2251.36,
+    "end_seconds": 2254.56,
+    "text": "up at the clock you know how I always say to people oh we'll definitely be off at a certain"
+  },
+  {
+    "segment_id": "s00372",
+    "start_seconds": 2254.56,
+    "end_seconds": 2259.28,
+    "text": "times I look at the clock and I get the 10 minute warning I think to myself all right it's time"
+  },
+  {
+    "segment_id": "s00373",
+    "start_seconds": 2259.28,
+    "end_seconds": 2263.68,
+    "text": "for me to to start to wrap and and ask the questions that I really need to ask before we wrap so"
+  },
+  {
+    "segment_id": "s00374",
+    "start_seconds": 2263.68,
+    "end_seconds": 2268.72,
+    "text": "what are you all you know most excited about pervasive build next I'm really excited about"
+  },
+  {
+    "segment_id": "s00375",
+    "start_seconds": 2269.7599999999998,
+    "end_seconds": 2276.7999999999997,
+    "text": "more retos but ultimately that's that's that's where like from a growth of company like"
+  },
+  {
+    "segment_id": "s00376",
+    "start_seconds": 2276.7999999999997,
+    "end_seconds": 2282.08,
+    "text": "commercially that's that's that's a really exciting space for us and we've got our two our"
+  },
+  {
+    "segment_id": "s00377",
+    "start_seconds": 2282.08,
+    "end_seconds": 2287.3599999999997,
+    "text": "two co-founders Nick and Josh been out in Bentonville for the last two weeks so we know who who lives in"
+  },
+  {
+    "segment_id": "s00378",
+    "start_seconds": 2287.36,
+    "end_seconds": 2294.0,
+    "text": "Bentonville yeah so that's you can kind of take what you want from that but yeah like the the"
+  },
+  {
+    "segment_id": "s00379",
+    "start_seconds": 2294.0,
+    "end_seconds": 2298.56,
+    "text": "view there is obviously we want to expand and grow and and I really that means just just just"
+  },
+  {
+    "segment_id": "s00380",
+    "start_seconds": 2298.56,
+    "end_seconds": 2306.48,
+    "text": "more of that data coming in and I'm super excited about the growth of like our visualization tool"
+  },
+  {
+    "segment_id": "s00381",
+    "start_seconds": 2306.48,
+    "end_seconds": 2312.6400000000003,
+    "text": "as well because off the back of more data I think there will come more need for clients to take"
+  },
+  {
+    "segment_id": "s00382",
+    "start_seconds": 2312.64,
+    "end_seconds": 2318.3199999999997,
+    "text": "what they learn and then build out future fixtures and like the things that we can do within that"
+  },
+  {
+    "segment_id": "s00383",
+    "start_seconds": 2318.3199999999997,
+    "end_seconds": 2325.2,
+    "text": "and the analysis that we can do for for the future um is is is very exciting and to get to a point"
+  },
+  {
+    "segment_id": "s00384",
+    "start_seconds": 2325.2,
+    "end_seconds": 2331.92,
+    "text": "where we can use looking backwards to look forwards um so at the moment we do a lot of kind of"
+  },
+  {
+    "segment_id": "s00385",
+    "start_seconds": 2331.92,
+    "end_seconds": 2336.48,
+    "text": "shelf testing where we do a lot of a b testing and we say what do we think the impact of these"
+  },
+  {
+    "segment_id": "s00386",
+    "start_seconds": 2336.48,
+    "end_seconds": 2343.44,
+    "text": "changes will be and we we me as Ollie and Jenny as our team so we can say yeah this is a great"
+  },
+  {
+    "segment_id": "s00387",
+    "start_seconds": 2343.44,
+    "end_seconds": 2350.96,
+    "text": "idea like run with this and and influence the research to make change but actually I think what"
+  },
+  {
+    "segment_id": "s00388",
+    "start_seconds": 2350.96,
+    "end_seconds": 2358.72,
+    "text": "we want to get to a point of is like actually let's let's ask AI to build out five different things"
+  },
+  {
+    "segment_id": "s00389",
+    "start_seconds": 2359.68,
+    "end_seconds": 2364.56,
+    "text": "from based on the data that we have and actually visualize it like let's see what that would look like"
+  },
+  {
+    "segment_id": "s00390",
+    "start_seconds": 2364.56,
+    "end_seconds": 2372.4,
+    "text": "can we can we come to something unexpected with the data that we we weren't you know expecting to see"
+  },
+  {
+    "segment_id": "s00391",
+    "start_seconds": 2372.4,
+    "end_seconds": 2378.08,
+    "text": "on on on shelves so and that really only comes from more data so I was going to say that change following"
+  },
+  {
+    "segment_id": "s00392",
+    "start_seconds": 2378.08,
+    "end_seconds": 2384.48,
+    "text": "what you said change out the fixture as well so like to see how you know over time we've helped"
+  },
+  {
+    "segment_id": "s00393",
+    "start_seconds": 2384.48,
+    "end_seconds": 2389.2,
+    "text": "to make these changes based on what clients are able to to build and analyze on their own fixtures"
+  },
+  {
+    "segment_id": "s00394",
+    "start_seconds": 2389.2,
+    "end_seconds": 2394.4,
+    "text": "to be able to use the tools we provide to actually see that happen in store I think that would be nice"
+  },
+  {
+    "segment_id": "s00395",
+    "start_seconds": 2394.4,
+    "end_seconds": 2398.56,
+    "text": "because as we've done a few and seen a few through working with you know leading serial brands for"
+  },
+  {
+    "segment_id": "s00396",
+    "start_seconds": 2398.56,
+    "end_seconds": 2404.56,
+    "text": "example they're able to argue after range review for a specific bay and like a protein bay for"
+  },
+  {
+    "segment_id": "s00397",
+    "start_seconds": 2404.56,
+    "end_seconds": 2409.76,
+    "text": "examples I think seeing more of that change and building on the tool to make people you know able"
+  },
+  {
+    "segment_id": "s00398",
+    "start_seconds": 2409.76,
+    "end_seconds": 2416.88,
+    "text": "to share that data I think is is really exciting as well yeah yeah super cool so as we wrap what's"
+  },
+  {
+    "segment_id": "s00399",
+    "start_seconds": 2416.88,
+    "end_seconds": 2422.08,
+    "text": "what's the question that you wish I'd asked that I that I didn't get to in our time together kind of"
+  },
+  {
+    "segment_id": "s00400",
+    "start_seconds": 2422.56,
+    "end_seconds": 2430.7999999999997,
+    "text": "your your your final word here that uh that I can I can let you let you uh let you chime in on I think"
+  },
+  {
+    "segment_id": "s00401",
+    "start_seconds": 2430.7999999999997,
+    "end_seconds": 2436.88,
+    "text": "probably what what it actually takes to make these recommendations um to the retailer that are"
+  },
+  {
+    "segment_id": "s00402",
+    "start_seconds": 2436.88,
+    "end_seconds": 2442.64,
+    "text": "actually executed in store um Charlotte and I are team only and Jenny we do work a lot on obviously"
+  },
+  {
+    "segment_id": "s00403",
+    "start_seconds": 2442.64,
+    "end_seconds": 2448.4,
+    "text": "the data behind it and that's obviously what the brands can can take straight to the retailer as"
+  },
+  {
+    "segment_id": "s00404",
+    "start_seconds": 2448.4,
+    "end_seconds": 2455.12,
+    "text": "like arguments case um but I think it's then going the last mile that there's the hardest part to"
+  },
+  {
+    "segment_id": "s00405",
+    "start_seconds": 2455.12,
+    "end_seconds": 2459.12,
+    "text": "then actually now you've got the data you then have to make that recommendation and it's quite"
+  },
+  {
+    "segment_id": "s00406",
+    "start_seconds": 2459.12,
+    "end_seconds": 2464.7200000000003,
+    "text": "difficult um for a retailer to actually implement that change so you just need to prove enough that"
+  },
+  {
+    "segment_id": "s00407",
+    "start_seconds": 2464.7200000000003,
+    "end_seconds": 2469.2000000000003,
+    "text": "you know the recommendation will be good and it will make a difference and help the category grow"
+  },
+  {
+    "segment_id": "s00408",
+    "start_seconds": 2470.0,
+    "end_seconds": 2476.32,
+    "text": "so I think that's probably a really hard bet we wish um you asked about just to see how people get"
+  },
+  {
+    "segment_id": "s00409",
+    "start_seconds": 2476.32,
+    "end_seconds": 2481.04,
+    "text": "that over the line at the end to actually make the recommendation real it's one of the hardest"
+  },
+  {
+    "segment_id": "s00410",
+    "start_seconds": 2481.04,
+    "end_seconds": 2486.8,
+    "text": "parts about being a researcher right is um it's not just deciding what recommendation to make but also"
+  },
+  {
+    "segment_id": "s00411",
+    "start_seconds": 2486.8,
+    "end_seconds": 2492.2400000000002,
+    "text": "then being persuasive enough about the recommendation and and then also kind of letting go of it because"
+  },
+  {
+    "segment_id": "s00412",
+    "start_seconds": 2492.2400000000002,
+    "end_seconds": 2498.88,
+    "text": "I was just having a conversation with another podcast guest recently about um you know what do"
+  },
+  {
+    "segment_id": "s00413",
+    "start_seconds": 2498.88,
+    "end_seconds": 2505.52,
+    "text": "you do it was actually somebody who spoke um uh do you remember the woman from Wex who spoke at"
+  },
+  {
+    "segment_id": "s00414",
+    "start_seconds": 2505.52,
+    "end_seconds": 2509.92,
+    "text": "Ix Europe and she was talking about like sometimes not every recommendation can be acted upon"
+  },
+  {
+    "segment_id": "s00415",
+    "start_seconds": 2510.64,
+    "end_seconds": 2515.7599999999998,
+    "text": "and um sometimes you make the recommendations and like even if it feels very much like that's"
+  },
+  {
+    "segment_id": "s00416",
+    "start_seconds": 2515.7599999999998,
+    "end_seconds": 2519.84,
+    "text": "the right recommendation sometimes you have to say well we cannot act on every single recommendation so"
+  },
+  {
+    "segment_id": "s00417",
+    "start_seconds": 2520.64,
+    "end_seconds": 2526.72,
+    "text": "um so that's the tricky part of research right is um you know you you sometimes put forth the"
+  },
+  {
+    "segment_id": "s00418",
+    "start_seconds": 2526.72,
+    "end_seconds": 2532.32,
+    "text": "best recommendation out there and then you have to let it go because it's not always in your hands right"
+  },
+  {
+    "segment_id": "s00419",
+    "start_seconds": 2532.32,
+    "end_seconds": 2538.0800000000004,
+    "text": "what do you clients do so exactly that yeah and and also I think like acknowledging that sometimes"
+  },
+  {
+    "segment_id": "s00420",
+    "start_seconds": 2538.0800000000004,
+    "end_seconds": 2545.84,
+    "text": "our clients have to do that too like yeah they really want to do might be right for the you know"
+  },
+  {
+    "segment_id": "s00421",
+    "start_seconds": 2545.84,
+    "end_seconds": 2550.96,
+    "text": "and it's that kind of um tension as well between brand and category because category you have to"
+  },
+  {
+    "segment_id": "s00422",
+    "start_seconds": 2550.96,
+    "end_seconds": 2556.0,
+    "text": "recommend what's right for category and brand one what's right for brand so that got tension"
+  },
+  {
+    "segment_id": "s00423",
+    "start_seconds": 2556.0,
+    "end_seconds": 2561.6000000000004,
+    "text": "internally and then if they're taking a joint recommendation to the retailer like how have they"
+  },
+  {
+    "segment_id": "s00424",
+    "start_seconds": 2561.6,
+    "end_seconds": 2566.48,
+    "text": "answered the tension of what's right for category and what's right for their brand and"
+  },
+  {
+    "segment_id": "s00425",
+    "start_seconds": 2566.48,
+    "end_seconds": 2574.48,
+    "text": "yeah obviously the best is both yeah but yeah yeah but can the company move forward so interesting"
+  },
+  {
+    "segment_id": "s00426",
+    "start_seconds": 2574.48,
+    "end_seconds": 2579.36,
+    "text": "such interesting stuff all right final question for you both then um and I'll let you both chime"
+  },
+  {
+    "segment_id": "s00427",
+    "start_seconds": 2579.36,
+    "end_seconds": 2583.7599999999998,
+    "text": "in on this because it's it's a big one you know green books tagline the future of insights and"
+  },
+  {
+    "segment_id": "s00428",
+    "start_seconds": 2583.7599999999998,
+    "end_seconds": 2587.2,
+    "text": "especially now that you've both been in this competition you both participated in a pitch"
+  },
+  {
+    "segment_id": "s00429",
+    "start_seconds": 2587.84,
+    "end_seconds": 2592.8,
+    "text": "um imagine you are now listening to future pitches you're you're it's next it's next year you're at"
+  },
+  {
+    "segment_id": "s00430",
+    "start_seconds": 2592.8,
+    "end_seconds": 2597.5200000000004,
+    "text": "IX Europe again you're listening to other pitches what what types of things do you expect to see"
+  },
+  {
+    "segment_id": "s00431",
+    "start_seconds": 2597.5200000000004,
+    "end_seconds": 2602.5600000000004,
+    "text": "what do you think the future has in store for insights professionals well I imagine that next"
+  },
+  {
+    "segment_id": "s00432",
+    "start_seconds": 2602.5600000000004,
+    "end_seconds": 2609.0400000000004,
+    "text": "year it will continue to be how how AI is being used and I think it'll be increasingly practical"
+  },
+  {
+    "segment_id": "s00433",
+    "start_seconds": 2609.0400000000004,
+    "end_seconds": 2614.2400000000002,
+    "text": "in its in its nature I think we've as this has been said many times but we've moved away from theory"
+  },
+  {
+    "segment_id": "s00434",
+    "start_seconds": 2614.2400000000002,
+    "end_seconds": 2620.1600000000003,
+    "text": "and in into practice right that's that's where we are so I'm excited to see how people are putting"
+  },
+  {
+    "segment_id": "s00435",
+    "start_seconds": 2620.1600000000003,
+    "end_seconds": 2628.1600000000003,
+    "text": "it into reality practice and and finding I think you know looking for something like we've done"
+  },
+  {
+    "segment_id": "s00436",
+    "start_seconds": 2628.1600000000003,
+    "end_seconds": 2636.1600000000003,
+    "text": "like find something that hasn't been done yet right I what what I you know you hear a lot of"
+  },
+  {
+    "segment_id": "s00437",
+    "start_seconds": 2636.7200000000003,
+    "end_seconds": 2641.84,
+    "text": "similar ideas I want to like a standout new way of thinking about about something"
+  },
+  {
+    "segment_id": "s00438",
+    "start_seconds": 2642.48,
+    "end_seconds": 2648.4,
+    "text": "um I want to see more women on that stage just putting it out there like there was us there was"
+  },
+  {
+    "segment_id": "s00439",
+    "start_seconds": 2648.4,
+    "end_seconds": 2653.52,
+    "text": "one other lady everyone else was involved so let's um let's get more more more of us up there"
+  },
+  {
+    "segment_id": "s00440",
+    "start_seconds": 2654.4,
+    "end_seconds": 2660.56,
+    "text": "um yeah so yeah that's what that's what I'll be looking for yeah there's anything to build on"
+  },
+  {
+    "segment_id": "s00441",
+    "start_seconds": 2660.56,
+    "end_seconds": 2666.1600000000003,
+    "text": "there um I guess again to follow Charlotte I think just at a point she mentioned on all the"
+  },
+  {
+    "segment_id": "s00442",
+    "start_seconds": 2666.1600000000003,
+    "end_seconds": 2670.7200000000003,
+    "text": "different teams that are kind of maybe working separately is to bring them all together if people"
+  },
+  {
+    "segment_id": "s00443",
+    "start_seconds": 2670.8,
+    "end_seconds": 2675.0400000000004,
+    "text": "can work more cross functionally across insights I think it would really help"
+  },
+  {
+    "segment_id": "s00444",
+    "start_seconds": 2675.0400000000004,
+    "end_seconds": 2680.2400000000002,
+    "text": "and obviously we're providing some answers and reports which is obviously very helpful but the"
+  },
+  {
+    "segment_id": "s00445",
+    "start_seconds": 2680.2400000000002,
+    "end_seconds": 2685.84,
+    "text": "evidence that kind of um helps for the decision making is is really quite important so it'd be"
+  },
+  {
+    "segment_id": "s00446",
+    "start_seconds": 2685.84,
+    "end_seconds": 2691.6000000000004,
+    "text": "nice to see how that kind of grows um as Charlotte said with the age of AI how that can help us grow"
+  },
+  {
+    "segment_id": "s00447",
+    "start_seconds": 2691.6000000000004,
+    "end_seconds": 2698.8,
+    "text": "and make it easier to make these decisions yeah yeah well um congratulations again to both of"
+  },
+  {
+    "segment_id": "s00448",
+    "start_seconds": 2698.8,
+    "end_seconds": 2703.2000000000003,
+    "text": "you but really great work that your company is doing I um I'm just I'm thrilled to know that"
+  },
+  {
+    "segment_id": "s00449",
+    "start_seconds": 2703.2000000000003,
+    "end_seconds": 2708.4,
+    "text": "you're doing it I'm thrilled to know your company exists and I'm really grateful um that I was there"
+  },
+  {
+    "segment_id": "s00450",
+    "start_seconds": 2708.4,
+    "end_seconds": 2714.48,
+    "text": "to to see what you put together because it was um it's just something that fascinates me in that I"
+  },
+  {
+    "segment_id": "s00451",
+    "start_seconds": 2714.48,
+    "end_seconds": 2720.1600000000003,
+    "text": "I know fascinated everybody in the audience really good work um really good work so thank you"
+  },
+  {
+    "segment_id": "s00452",
+    "start_seconds": 2720.1600000000003,
+    "end_seconds": 2725.36,
+    "text": "for joining me today thank you thank you for your time and thanks for like all the support"
+  },
+  {
+    "segment_id": "s00453",
+    "start_seconds": 2725.36,
+    "end_seconds": 2732.08,
+    "text": "in iX it was it felt like a really lovely space to be able to make that picture"
+  },
+  {
+    "segment_id": "s00454",
+    "start_seconds": 2732.6400000000003,
+    "end_seconds": 2738.0,
+    "text": "ah I'm so glad I'm so glad so that's our show for today friends Emma thank you for reading our"
+  },
+  {
+    "segment_id": "s00455",
+    "start_seconds": 2738.0,
+    "end_seconds": 2743.6800000000003,
+    "text": "producer extraordinaire really appreciate you big bad audio thank you for doing what you do for us"
+  },
+  {
+    "segment_id": "s00456",
+    "start_seconds": 2743.6800000000003,
+    "end_seconds": 2747.44,
+    "text": "time and time again and to everybody listening thank you for showing up week after week we really"
+  },
+  {
+    "segment_id": "s00457",
+    "start_seconds": 2747.44,
+    "end_seconds": 2753.68,
+    "text": "appreciate you for tuning in and we'll see you next time on the dream book podcast bye everyone take care"
+  }
+]

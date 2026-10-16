@@ -1,0 +1,32 @@
+{
+  "decisions": [
+    {
+      "item_id": "feed:3456154bf96b71b5b8377dbe",
+      "version_id": "b35115448f06a8d796eefd9ff3db44b6b04a4a50bf94abc54db26dcd321fb5cb",
+      "decision": "reject",
+      "reason": "Relevant only in a broad AI-work sense, but it is a TechCrunch conference report centered on Replit’s CEO promoting a “self-driving company” vision. It offers attributed anecdotes about Replit’s internal support workflow, not inspectable evidence of reliability, cost, or outcome quality for small-business customer/market research. Commercial incentive is material because the speaker is a vendor CEO discussing his own products and company, so the claims are promotional and not independently verified. No methods, baseline, or performance data are provided, and this is not about the research tasks in scope.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:353f11f42baad617b7387a62",
+      "version_id": "f46582acaee35a42665f405c3b962749f394e4d5cf8fdcfbe0c2bf40929e7f60",
+      "decision": "reject",
+      "reason": "The piece is mainly an essay about anthropomorphizing AI and robots, with only incidental mention that chatbots are used for customer service and job interview coaching. It does not provide a workable research workflow, a baseline comparison, or evidence on accuracy, traceability, cost, or practical effort for small-business research. The cited studies are unnamed and not inspectable here, so credibility for the broad behavioral claims is limited, and the article’s relevance to the central question is weak. No commercial relationship is central, but the lack of methods and direct evidence makes it unsuitable.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:39b505a7ba06431b7105dcd2",
+      "version_id": "7b33d4e66d86aafd7a15034fc478837860b83c18c99b250572eea3ccc1cdf2ea",
+      "decision": "reject",
+      "reason": "This is a promotional post for a talk and course content about GEO/AI visibility, not a substantive source on customer, competitor, or market research workflows. It is commercially incentivized because it points readers to paid training and self-promotion, and it gives no inspectable methods, sample, baseline, or evidence that the “REAL AI visibility measurements” are valid. It is therefore too thin and vendor-like for the brief’s evidence standard, with no reliable support for small-business research decisions.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:3bb2052fded1b227f2c8091a",
+      "version_id": "bd3299c6efcffdaf267d7034e2a889765c861113a267b328b80e48e84fb01c1a",
+      "decision": "reject",
+      "reason": "Relevant only indirectly: it discusses ambient AI devices and Amazon’s Bee launch, not research tools for customer, competitor, or market analysis. The article is a launch report built around executive statements, so the credibility is limited to attributed claims from a commercial vendor with obvious incentives to portray the product favorably. It contains no methods, no independent evaluation, and no evidence about research accuracy, traceability, or cost, so it does not withstand scrutiny for this brief.",
+      "piece_ids": []
+    }
+  ]
+}

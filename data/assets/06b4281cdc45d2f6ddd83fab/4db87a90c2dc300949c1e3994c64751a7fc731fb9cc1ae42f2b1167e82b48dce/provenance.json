@@ -1,0 +1,21 @@
+{
+  "item_id": "feed:849c1b75f58f080d47c7e603",
+  "source_id": "nngroup-written",
+  "publisher_id": "nielsen-norman-group",
+  "kind": "feed",
+  "title": "How AI Works and How Users Think About It: Study Guide",
+  "url": "https://www.nngroup.com/articles/ai-functionality-study-guide",
+  "published_at": "2026-09-25T17:00:00Z",
+  "retrieved_at": "2026-10-10T05:29:13.118013Z",
+  "media_url": null,
+  "native_id": "/articles/ai-functionality-study-guide/?1790355600",
+  "underlying_id": "feed:849c1b75f58f080d47c7e603",
+  "original_publication_basis": "feed published field",
+  "transcript_url": null,
+  "transcript_type": null,
+  "download_hash": "6d9cb88341591cd7ebfd4799e535a83003402e18ca50c5cfeb1e66187a07d2e1",
+  "content_hash": "2d8e87cb629274e2bfad06d8d36be1460eacabf813e1d770be13af986da828b5",
+  "version_id": "4db87a90c2dc300949c1e3994c64751a7fc731fb9cc1ae42f2b1167e82b48dce",
+  "text_path": "data/assets/06b4281cdc45d2f6ddd83fab/4db87a90c2dc300949c1e3994c64751a7fc731fb9cc1ae42f2b1167e82b48dce/text.txt",
+  "segments_path": null
+}

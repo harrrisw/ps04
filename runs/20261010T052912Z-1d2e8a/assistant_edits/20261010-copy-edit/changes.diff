@@ -1,0 +1,246 @@
+--- original/articles/01.md
++++ edited/articles/01.md
+@@ -3,13 +3,13 @@
+ **As of: 2026-10-10**  
+ *The Small Business Research Brief*
+ 
+-For a small-business researcher, the useful question about connected AI tools is whether they make evidence easier to inspect—and whether keeping that access working consumes the time they promise to free up. The supplied evidence supports a bounded pilot of connected competitor research. It does not establish affordable, dependable autonomous research. My interpretation is that the workflow deserves testing as a whole: retrieving material, checking sources, maintaining connections, and controlling what the agent can do. That argument connects [Crayon’s capability announcement](https://www.crayon.co/blog/insights-api), [Nielsen Norman Group’s user research](https://www.nngroup.com/articles/context-libraries), and [TechCrunch’s reporting on agent oversight](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead).
++For a small-business researcher, the useful question about connected AI tools is whether they make evidence easier to inspect—and whether keeping that access working consumes the time they promise to free up. The evidence reviewed here supports a bounded pilot of connected competitor research. It does not establish affordable, dependable autonomous research. My interpretation is that the workflow deserves testing as a whole: retrieving material, checking sources, maintaining connections, and controlling what the agent can do. That argument connects [Crayon’s capability announcement](https://www.crayon.co/blog/insights-api), [Nielsen Norman Group’s user research](https://www.nngroup.com/articles/context-libraries), and [TechCrunch’s reporting on agent oversight](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead).
+ 
+ ## What source access changes
+ 
+ Crayon says its Insights API makes collected competitive insights available to AI tools or developers. According to the company, results include metadata such as titles, summaries, dates, and tagged competitors; requesting further detail returns underlying text and source links. This is an attributed commercial capability claim, not independent evidence of effectiveness. [claim:01-C01] [Source: Crayon](https://www.crayon.co/blog/insights-api)
+ 
+-For desk research and competitor monitoring, my interpretation is that this capability merits attention because it offers a route from an AI answer back to material a researcher can inspect. A pilot could ask whether a reported competitor update actually supports the summary produced from it. Crayon’s announcement establishes what the vendor says is available; it does not establish that summaries are accurate, coverage is adequate, or the connection fits a small firm’s budget. Pricing, eligibility, geographic coverage, and small-business implementation effort are unspecified in the supplied evidence. [Source: Crayon](https://www.crayon.co/blog/insights-api)
++For desk research and competitor monitoring, my interpretation is that this capability merits attention because it offers a route from an AI answer back to material a researcher can inspect. A pilot could ask whether a reported competitor update actually supports the summary produced from it. Crayon’s announcement establishes what the vendor says is available; it does not establish that summaries are accurate, coverage is adequate, or the connection fits a small firm’s budget. Pricing, eligibility, geographic coverage, and small-business implementation effort are unspecified in the evidence reviewed here. [Source: Crayon](https://www.crayon.co/blog/insights-api)
+ 
+ ## The work behind the connection
+ 
+--- original/articles/02.md
++++ edited/articles/02.md
+@@ -3,7 +3,7 @@
+ **As of: 2026-10-10**  
+ *The Small Business Research Brief*
+ 
+-For a small-business researcher, the useful question is whether an AI-assisted finding can survive checking against the material behind it. The supplied evidence supports a practical argument: pilot AI on bounded tasks with inspectable outputs, and judge the entire workflow, including preparation and review. These sources describe classification, qualitative synthesis, and document checking. They do not establish comparative accuracy, lower total cost, or dependable time savings.
++For a small-business researcher, the useful question is whether an AI-assisted finding can survive checking against the material behind it. The evidence reviewed here supports a practical argument: pilot AI on bounded tasks with inspectable outputs, and judge the entire workflow, including preparation and review. These sources describe classification, qualitative synthesis, and document checking. They do not establish comparative accuracy, lower total cost, or dependable time savings.
+ 
+ Christopher Penn says lightweight classification models require users to supply the data and context. His account does not establish that these models generally replace frontier models. [claim:02-C01] In his [classification article](https://www.christopherspenn.com/2026/10/why-small-ai-models-like-jev-are-replacing-frontier-llms-for-classification-tasks?pk_campaign=feed&pk_kwd=why-small-ai-models-like-jev-are-replacing-frontier-llms-for-classification-tasks), Penn describes systems that return a category, score, or binary answer from supplied information. For sentiment scoring, his example requires both a post and a scoring rubric.
+ 
+@@ -17,7 +17,7 @@
+ 
+ Connecting these sources, my inference is that checking an AI-generated interview or survey finding against its original research artifact is a stronger acceptance rule than relying on agreement between agents. [claim:02-C04] [NN/g’s traceability requirement](https://www.nngroup.com/articles/empathy-mapping) and [Marketing AI Institute’s warning about shared errors](https://www.marketingaiinstitute.com/blog/ai-agents-as-fact-checkers) support that rule. They do not quantify how often it catches mistakes. Nor do these different tasks and accounts establish which tool performs best.
+ 
+-A repeatable pilot could use one bounded batch of existing research material. Define the task and acceptable output first. Preserve the originals, require source references, and record unsupported conclusions and corrections. Track preparation, operation, checking, and rework alongside any tool charges. These are evaluation recommendations: the supplied sources do not provide a validated savings estimate or a complete cost comparison. For competitor monitoring or desk research, use the same source-linked acceptance rule, while recognizing that this evidence contains no direct evaluation of those applications.
++A repeatable pilot could use one bounded batch of existing research material. Define the task and acceptable output first. Preserve the originals, require source references, and record unsupported conclusions and corrections. Track preparation, operation, checking, and rework alongside any tool charges. These are evaluation recommendations: the sources reviewed here do not provide a validated savings estimate or a complete cost comparison. For competitor monitoring or desk research, use the same source-linked acceptance rule, while recognizing that this evidence contains no direct evaluation of those applications.
+ 
+ The strongest counterargument is practical: checking consumes the same scarce attention that automation is supposed to release. Marketing AI Institute promotes commercial education and provides no controlled evaluation of its workflow; NN/g supplies methodological guidance, not proof of AI effectiveness. Penn’s specialist tuning experience may transfer poorly to a business with little technical support. The net benefit could remain unresolved even when outputs are traceable.
+ 
+--- original/articles/03.md
++++ edited/articles/03.md
+@@ -2,7 +2,7 @@
+ 
+ *The Small Business Research Brief — As of 2026-10-10*
+ 
+-For a small-business researcher deciding where to try AI, the useful starting point is one bounded customer question, retained research material, and a named person responsible for interpreting the result. This article’s argument is that a pilot should measure the work required to produce trustworthy decision support, including preparation, checking, and maintenance. A finished summary is only an intermediate output. The supplied evidence supports this evaluation approach; it does not establish that AI will save your business time or money.
++For a small-business researcher deciding where to try AI, the useful starting point is one bounded customer question, retained research material, and a named person responsible for interpreting the result. This article’s argument is that a pilot should measure the work required to produce trustworthy decision support, including preparation, checking, and maintenance. A finished summary is only an intermediate output. The evidence reviewed here supports this evaluation approach; it does not establish that AI will save your business time or money.
+ 
+ Nielsen Norman Group distinguishes asking AI to organize research evidence already collected from asking it to generate evidence the researcher does not possess. [claim:03-C01] Its [empathy-mapping guidance](https://www.nngroup.com/articles/empathy-mapping) also requires each note to connect to a specific research artifact, with unsupported notes labeled as assumptions. For your pilot, that suggests choosing material you can inspect: interview transcripts, qualitative survey responses, or support records. Ask the tool to organize that material while preserving the route back to it.
+ 
+@@ -20,7 +20,7 @@
+ 4. **Review contextual fit.** Ask who can assess language and cultural meaning for the market concerned. Record unresolved interpretation questions rather than accepting a fluent summary as sufficient.
+ 5. **Review decision support before expanding.** Document what the checked synthesis clarified, what it missed, and whether the total effort compares favorably with the manual process. Set the criteria before judging the result.
+ 
+-A meaningful counterargument is that this checking may consume the time the pilot was meant to save. The supplied sources do not resolve that objection. Recording the entire workflow makes it testable; a polished output alone cannot settle it. Nor does this customer-synthesis evidence validate competitor monitoring or automated desk research.
++A meaningful counterargument is that this checking may consume the time the pilot was meant to save. The sources reviewed here do not resolve that objection. Recording the entire workflow makes it testable; a polished output alone cannot settle it. Nor does this customer-synthesis evidence validate competitor monitoring or automated desk research.
+ 
+ Transferability remains limited. WEX is a global enterprise with specialist roles, so its practitioner’s framework cannot establish small-business staffing needs or ROI. These English-language sources do not directly represent non-English customers. Missing evidence includes independently evaluated small-business AI deployments, documented unsuccessful deployments, and customers’ views on data use. Handling and consent require separate evidence before customer material is shared.
+ 
+--- original/video_scripts/01.md
++++ edited/video_scripts/01.md
+@@ -1,7 +1,7 @@
+ # Connected research tools make evidence access easier—and oversight more important
+ 
+ **The Small Business Research Brief**  
+-**As of:** October 10, 2026  
++**As of:** 2026-10-10  
+ **Runtime:** Approximately 4 minutes, 30 seconds  
+ **Format:** Voiceover with diagrams and text; no avatar required. Claim markers and source lines are production annotations, not spoken narration.
+ 
+@@ -14,14 +14,14 @@
+ Build a simple four-step diagram: “Retrieve → Inspect sources → Maintain connections → Human decision.” Label it “Editorial synthesis: workflow to evaluate.” Avoid speed or performance graphics suggesting measured savings.
+ 
+ **On-screen source lines:**
+-Sources: Crayon, October 1; Nielsen Norman Group, October 9; TechCrunch, October 10, 2026. Links appear in the following scenes.
++Sources: Crayon, October 1; Nielsen Norman Group, October 9; TechCrunch, 2026-10-10. Links appear in the following scenes.
+ 
+ ## Scene 2 — What changed | 0:35–1:20
+ 
+ **Narration:**
+ Crayon says its announced Insights API makes competitor insights available to AI tools or developers. Alongside details such as titles, summaries, dates, and competitor tags, it says users can request underlying text and source links. That matters because a researcher could inspect the material behind a summary.
+ 
+-But this is a commercial capability claim from the company selling it. The supplied evidence does not establish accuracy, pricing, eligibility, geographic coverage, or how much implementation work a small business would face. Treat the announcement as a capability to investigate, with affordability and usefulness still open.
++But this is a commercial capability claim from the company selling it. The evidence reviewed here does not establish accuracy, pricing, eligibility, geographic coverage, or how much implementation work a small business would face. Treat the announcement as a capability to investigate, with affordability and usefulness still open.
+ 
+ **Visual:**
+ Show an illustrative insight card with empty fields: “Title,” “Date,” “Summary,” “Underlying text,” and “Source link.” Label prominently: “Illustrative structure based on Crayon’s announcement; not a product demonstration.” Display [claim:01-C01].
+@@ -53,7 +53,7 @@
+ Show “Internal evaluations” inside a clearly bounded box, with an internet connection marked “Suspended, according to disclosure.” Add “Transfer to small-business research remains uncertain.” Display [claim:01-C03].
+ 
+ **On-screen source lines:**
+-[TechCrunch — Report on Anthropic’s internal evaluation internet suspension](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead), published October 10, 2026 UTC. Reporting on vendor disclosures.
++[TechCrunch — Report on Anthropic’s internal evaluation internet suspension](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead), published 2026-10-10 UTC. Reporting on vendor disclosures.
+ 
+ ## Scene 5 — A pilot worth running | 2:45–3:40
+ 
+@@ -75,13 +75,17 @@
+ 
+ The opportunity is easier access to research material. Whether that becomes affordable, dependable research depends on what your pilot reveals about checking sources, maintaining connections, and retaining control.
+ 
+-This script was drafted with AI assistance using Codex and the supplied evidence. The student will produce and review the video in Google Vids; that review is still pending.
++Codex assisted with drafting this script from the cited sources.
+ 
+ **Visual:**
+-End with “Pilot decision: evidence quality + total effort + cost + human control.” Beneath it, show “Unresolved: small-business fit, geography, non-English markets, customer-data handling.” Display the AI assistance disclosure and “Student review pending.”
++End with “Pilot decision: evidence quality + total effort + cost + human control.” Beneath it, show “Unresolved: small-business fit, geography, non-English markets, customer-data handling.” Display the AI assistance disclosure.
+ 
+ **On-screen source lines:**
+ Limitations reflect the supplied three-source evidence set. All sources are written articles; media timestamp links are not applicable.
++
++## Student production and review notes — Not spoken
++
++Student editorial review is pending. Check claims, source metadata, timing, and captions before publication. Verify any media quotations against the original audio.
+ 
+ ## Draft YouTube description
+ 
+@@ -89,13 +93,13 @@
+ 
+ The practical takeaway is a bounded, repeated pilot that measures source quality, verification effort, connection maintenance, and actual costs. These sources do not establish ROI, comparative accuracy, or dependable autonomous research.
+ 
+-As of October 10, 2026.
++As of 2026-10-10.
+ 
+ Article: [ARTICLE LINK]
+ 
+-Citations:
+-- [CITATION 1: Crayon — Insights API Blog; October 1, 2026; LINK]
+-- [CITATION 2: Nielsen Norman Group — Context Libraries; October 9, 2026; LINK]
+-- [CITATION 3: TechCrunch — Anthropic internal evaluation report; October 10, 2026 UTC; LINK]
++Sources:
++- [Insights API Blog](https://www.crayon.co/blog/insights-api)
++- [Context Libraries: How AI Power Users Manage Context Engineering](https://www.nngroup.com/articles/context-libraries)
++- [Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead](https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead)
+ 
+-AI assistance: Codex helped draft the script from supplied evidence. Student production and review in Google Vids are pending. No tool performance tests or pilot results are presented.
++AI assistance: Codex helped draft this script from the cited sources. No tool performance tests or pilot results are presented.
+--- original/video_scripts/02.md
++++ edited/video_scripts/02.md
+@@ -1,7 +1,7 @@
+ # AI Research: Trace the Finding Before You Trust It
+ 
+ *The Small Business Research Brief · Brief 02*  
+-**As of:** October 10, 2026  
++**As of:** 2026-10-10  
+ **Runtime:** Approximately 4 minutes 20 seconds · Conversational narration  
+ **Production:** Voiceover with diagrams and text in Google Vids; no avatar required. Claim markers and source lines are production text, not spoken narration.
+ 
+@@ -93,25 +93,29 @@
+ 
+ The practical takeaway: pilot a specific task where you can inspect the evidence, then judge the complete effort. Traceability gives you something concrete to check; broad performance promises still need validation.
+ 
+-AI assisted in drafting this script from the supplied brief and evidence. The student will produce and review the video in Google Vids before publication.
++Codex assisted with drafting this script from the cited sources.
+ 
+ **Visual:**
+-Show “Still unknown: net time savings · comparative accuracy · total cost · transfer to your context.” Finish with the AI disclosure and “Student review pending.”
++Show “Still unknown: net time savings · comparative accuracy · total cost · transfer to your context.” Finish with the AI disclosure.
+ 
+ **On-screen source lines:**
+ Limitations of the three supplied sources. Written sources only; no media timestamps available.
++
++## Student production and review notes — Not spoken
++
++Student editorial review is pending. Check claims, source metadata, timing, and captions before publication. Verify any media quotations against the original audio.
+ 
+ ## Draft YouTube description
+ 
+ Can AI help a small business organize customer research without losing the evidence behind its findings? This brief examines classification, empathy mapping, and source-linked review—and why agent agreement alone cannot establish correctness.
+ 
+-As of October 10, 2026. These sources do not establish comparative accuracy, lower total cost, or reliable net time savings. Geographic applicability is unspecified; non-English performance is untested.
++As of 2026-10-10. These sources do not establish comparative accuracy, lower total cost, or reliable net time savings. Geographic applicability is unspecified; non-English performance is untested.
+ 
+ Article: [ARTICLE LINK]
+ 
+-Citations:
+-- [CITATION: Christopher Penn / Trust Insights, October 6, 2026]
+-- [CITATION: Nielsen Norman Group, supplied feed date October 2, 2026]
+-- [CITATION: Marketing AI Institute, September 23, 2026]
++Sources:
++- [Why Small AI Models Like Jev Are Replacing Frontier LLMs for Classification Tasks](https://www.christopherspenn.com/2026/10/why-small-ai-models-like-jev-are-replacing-frontier-llms-for-classification-tasks?pk_campaign=feed&pk_kwd=why-small-ai-models-like-jev-are-replacing-frontier-llms-for-classification-tasks)
++- [Empathy Mapping: The First Step in Design Thinking](https://www.nngroup.com/articles/empathy-mapping)
++- [How to Use AI Agents to Fact-Check and Copy Edit Your Content](https://www.marketingaiinstitute.com/blog/ai-agents-as-fact-checkers)
+ 
+-AI assistance disclosure: AI assisted with script drafting from the supplied brief and evidence. Student production and review in Google Vids are pending. No tool demonstrations or pilot results are presented.
++AI assistance: Codex helped draft this script from the cited sources. No tool performance tests or pilot results are presented.
+--- original/video_scripts/03.md
++++ edited/video_scripts/03.md
+@@ -1,7 +1,7 @@
+ # Pilot one research decision, then measure the work needed to trust it
+ 
+ The Small Business Research Brief · Brief 03  
+-**As of: October 10, 2026**  
++**As of: 2026-10-10**  
+ **Runtime:** 4:30 · Approximately 570 spoken words  
+ Production: Voiceover, captions, and simple graphics in Google Vids. No avatar required. Claim markers and source lines are production annotations, not spoken narration.
+ 
+@@ -72,7 +72,7 @@
+ 
+ Name an interpretation owner. Preserve unresolved questions. Customer-data handling and consent need separate evidence before disclosure to a tool.
+ 
+-Expand only if the comparison supports it. The supplied sources do not demonstrate that this pilot design works.
++Expand only if the comparison supports it. The sources reviewed here do not demonstrate that this pilot design works.
+ 
+ **Visual:**
+ Blank illustrative comparison table: “Task | Manual effort | Pilot effort | Corrections | Actual cost.” Leave all measurement cells empty. Add “Interpretation owner: [name].”
+@@ -89,13 +89,13 @@
+ 
+ The next step is a small, reviewable comparison. Keep the evidence, count the checking, and judge whether the work helps the decision.
+ 
+-AI assisted in drafting this script from supplied material. Student review and verification of the interview audio remain pending.
++Codex assisted with drafting this script from the cited sources.
+ 
+ **Visual:**
+ Hold readable cards for the missing evidence, followed by the disclosure. Finish on “Keep the evidence. Count the checking. Review the decision.” Use remaining scene time for reading pauses and the source end card.
+ 
+ **On-screen source lines:**
+-Limitations of the supplied evidence; no independent small-business performance or ROI results established. AI-assisted draft; student review pending.
++Limitations of the evidence reviewed here; no independent small-business performance or ROI results established. AI-assisted draft.
+ 
+ ## Student production and review notes · Not spoken
+ 
+@@ -105,12 +105,20 @@
+ 
+ Can AI help a small business synthesize customer research with evidence reliable enough to guide a decision? Brief 03 proposes a bounded pilot: retain source material, check traceability and local meaning, assign interpretation responsibility, and compare preparation, checking, costs, and maintenance with the manual process.
+ 
+-As of October 10, 2026. This pilot design is an editorial inference, not a tested intervention. The supplied sources do not establish small-business savings, ROI, or AI effectiveness.
++As of 2026-10-10. This pilot design is an editorial inference, not a tested intervention. The sources reviewed here do not establish small-business savings, ROI, or AI effectiveness.
+ 
+ Article: [ARTICLE LINK]
+ 
+-Citations: [FULL CITATIONS AND VERIFIED TIMESTAMPED LINKS]
++Sources:
++- [Empathy Mapping: The First Step in Design Thinking](https://www.nngroup.com/articles/empathy-mapping)
++- [180 - Rethinking Insights Impact with Nadine van Rooyen of WEX](https://episodes.captivate.fm/episode/7343a793-1681-4f1e-903b-04c3d1ca86d3.mp3#t=965.6,972.08)
++- [180 - Rethinking Insights Impact with Nadine van Rooyen of WEX](https://episodes.captivate.fm/episode/7343a793-1681-4f1e-903b-04c3d1ca86d3.mp3#t=972.72,979.6)
++- [Episode 23: Mpho Mpofu, Founder of Masutane – SOUTH AFRICA](https://www.youtube.com/watch?v=Z4Coq_GIcpo&t=375s)
++- [Episode 23: Mpho Mpofu, Founder of Masutane – SOUTH AFRICA](https://www.youtube.com/watch?v=Z4Coq_GIcpo&t=378s)
++- [Episode 23: Mpho Mpofu, Founder of Masutane – SOUTH AFRICA](https://www.youtube.com/watch?v=Z4Coq_GIcpo&t=380s)
++- [Episode 23: Mpho Mpofu, Founder of Masutane – SOUTH AFRICA](https://www.youtube.com/watch?v=Z4Coq_GIcpo&t=967s)
++- [Episode 23: Mpho Mpofu, Founder of Masutane – SOUTH AFRICA](https://www.youtube.com/watch?v=Z4Coq_GIcpo&t=979s)
++- [Episode 23: Mpho Mpofu, Founder of Masutane – SOUTH AFRICA](https://www.youtube.com/watch?v=Z4Coq_GIcpo&t=983s)
++- [Episode 23: Mpho Mpofu, Founder of Masutane – SOUTH AFRICA](https://www.youtube.com/watch?v=Z4Coq_GIcpo&t=985s)
+ 
+-Sources discussed: Nielsen Norman Group’s empathy-mapping guidance; Greenbook’s interview with Nadine van Rooyen of WEX; Insight Platforms’ interview with Mpho Mpofu.
+-
+-Disclosure: AI assisted with drafting from supplied sources. The student will produce and review the video in Google Vids. Review status: [ADD ACTUAL REVIEW STATUS BEFORE PUBLICATION].
++AI assistance: Codex helped draft this script from the cited sources. No tool performance tests or pilot results are presented.

@@ -1,0 +1,47 @@
+{
+  "stage": "write_video_scripts",
+  "status": "completed",
+  "input_count": 3,
+  "output_count": 3,
+  "started_at": "2026-10-10T14:33:44.406321Z",
+  "finished_at": "2026-10-10T14:36:42.819140Z",
+  "tools": [
+    "python",
+    "codex",
+    "codex",
+    "codex"
+  ],
+  "models": [
+    "gpt-6.1-sol",
+    "gpt-6.1-sol",
+    "gpt-6.1-sol"
+  ],
+  "cost_usd": null,
+  "cost_is_estimate": false,
+  "errors": [],
+  "notes": [],
+  "usage": [
+    {
+      "input_tokens": 22937,
+      "cached_input_tokens": 0,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 1819,
+      "reasoning_output_tokens": 0
+    },
+    {
+      "input_tokens": 23717,
+      "cached_input_tokens": 0,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 1853,
+      "reasoning_output_tokens": 42
+    },
+    {
+      "input_tokens": 58390,
+      "cached_input_tokens": 0,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 1977,
+      "reasoning_output_tokens": 24
+    }
+  ],
+  "elapsed_seconds": 178.422
+}

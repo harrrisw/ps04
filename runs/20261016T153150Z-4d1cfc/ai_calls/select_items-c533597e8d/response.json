@@ -1,0 +1,34 @@
+{
+  "decisions": [
+    {
+      "item_id": "feed:72a535417aa3ffbf6b976a17",
+      "version_id": "efa13cdcc746af3b1d00a66d786eb45f26ef72dd89e6f26ff28f13735b9c1ba0",
+      "decision": "reject",
+      "reason": "Irrelevant to the brief: this is a TechCrunch article about AI agents in Rivian cars, not a development that changes small-business customer, competitor, or market research. Credibility is ordinary newsroom reporting on a conference remark, but the content offers no inspectable workflow, research method, or evidence about research tools. Uncertainty is high because it is speculative product direction and not tied to the project’s evidence questions. Potential cross-post/duplicate claim risk is low here, but the item is outside scope.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:73628fb048a721e338800457",
+      "version_id": "6fe9c7df354692bac6864eb91826b27d6737c648a009d3c233424184418f7c2e",
+      "decision": "reject",
+      "reason": "Irrelevant to the research brief: this TechCrunch interview is about AI in filmmaking and digital likenesses, not customer, competitor, or market research for small businesses. While the publisher is credible for event coverage, the piece is an opinionated practitioner interview with no method, baseline, or inspectable evidence relevant to research workflows. Commercial incentives are not central beyond the media venue, and uncertainty remains too high for inclusion.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:752965c8de66da66e5df2ad5",
+      "version_id": "5abe1b23474971606e6a8d426b45adb40420140c80e7a7a7de3fd1286b12f0d9",
+      "decision": "defer",
+      "reason": "Topically relevant because it concerns competitive intelligence adoption and AI agents in sales workflows, which may affect competitor research delivery. However, this is a vendor blog with clear commercial incentive to promote Crayon’s platform and claims, and the article does not provide a fully inspectable method: the cited percentages appear to come from Crayon’s own 2026 State of Competitive Intelligence report, but no sample, questionnaire, benchmark design, or raw analysis is shown here. That makes the revenue-impact and adoption claims uncertain and not independently verifiable from the supplied passage alone. Also flags as a likely self-citation/cross-post of the vendor’s own report and repeated underlying claims about AI agents improving outcomes.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:7d90f9bab075038406ac3af2",
+      "version_id": "f896160d4ca8c75dbaac7226a1aa77822d1637afb64c8baf4fd9267bec4958ee",
+      "decision": "accept",
+      "reason": "Relevant as a practical, method-level explanation for improving AI outputs by improving input data quality, which directly informs small-business research workflows that rely on CRM, ERP, or other messy datasets. Credibility is moderate: Christopher Penn is a known practitioner, but this is an opinionated blog post rather than a formal study, so it should be treated as a qualified methodological argument, not proof of comparative performance or ROI. The passage is explicit about uncertainty by framing the claim as a general leverage point rather than a measured benchmark, and it does not overclaim effects. It is useful for the brief’s practical implications on data hygiene and traceability, despite lacking experimental methods.",
+      "piece_ids": [
+        "03"
+      ]
+    }
+  ]
+}

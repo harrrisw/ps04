@@ -1,0 +1,20 @@
+{
+  "stage": "run",
+  "status": "incomplete",
+  "input_count": null,
+  "output_count": null,
+  "started_at": "2026-10-16T15:31:50Z",
+  "finished_at": "2026-10-16T15:34:22.303812Z",
+  "tools": [
+    "bash"
+  ],
+  "models": [],
+  "cost_usd": 0,
+  "cost_is_estimate": false,
+  "errors": [
+    "One or more child stages failed; inspect their receipts"
+  ],
+  "notes": [],
+  "aggregation_only": true,
+  "elapsed_seconds": 0.0
+}

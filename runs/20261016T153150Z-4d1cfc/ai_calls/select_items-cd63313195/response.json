@@ -1,0 +1,18 @@
+{
+  "decisions": [
+    {
+      "item_id": "youtube:X-JA9VVnUBs",
+      "version_id": "46d01e611e9acd7192a39a42ae0e3d0320c251b0747f58dd348fdda1b81a2a3c",
+      "decision": "reject",
+      "reason": "Reject: this is a podcast episode focused on OpenAI DevDay and broad AI commentary, not evidence about AI tools for customer, competitor, or market research on a small-business budget. Credibility is limited to the host’s attributed opinions and vendor/event claims; the source is a promotional podcast with clear commercial incentives (Marketing AI Institute/Smarter X, plus MCON promotion) and no inspectable research method or comparative workflow. Uncertainty is high because several product names/capabilities are presented as announcements without independent verification, and the item does not materially address the brief’s evidence, cost, traceability, or practical research-use criteria. Piece_ids: [].",
+      "piece_ids": []
+    },
+    {
+      "item_id": "youtube:XH1u09pL0Hk",
+      "version_id": "47cc2dc889e178d6b72e18110912cf83dafe027214409bd6c54fec097e8bc961",
+      "decision": "reject",
+      "reason": "Reject: this episode is a live event Q&A about AI adoption, burnout, and personalized learning journeys, not a source on small-business market/customer/competitor research workflows. Credibility is mainly first-person commentary from hosts with strong commercial incentives (their institute, courses, and event promotion), and there is no methods section, baseline comparison, or inspectable evidence for research-tool performance. Uncertainty is substantial because the claims are anecdotal, overlap with the prior episode’s themes about agents/personalization, and do not provide verifiable material relevant to research accuracy, traceability, cost, or small-business decision support. Piece_ids: [].",
+      "piece_ids": []
+    }
+  ]
+}

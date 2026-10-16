@@ -1,0 +1,21 @@
+{
+  "item_id": "feed:e6965dd3c40f4c86dfd4360f",
+  "source_id": "strat7-written",
+  "publisher_id": "strat7",
+  "kind": "feed",
+  "title": "Loyalty isn’t broken, but the rules have changed",
+  "url": "https://strat7.com/blogs/loyalty-isnt-broken-but-the-rules-have-changed",
+  "published_at": "2026-10-13T09:53:01Z",
+  "retrieved_at": "2026-10-16T04:21:06.295251Z",
+  "media_url": null,
+  "native_id": "https://strat7.com/?p=57544",
+  "underlying_id": "feed:e6965dd3c40f4c86dfd4360f",
+  "original_publication_basis": "feed published field",
+  "transcript_url": null,
+  "transcript_type": null,
+  "download_hash": "276d37eaff1c32384a22a16a8f30e20ff1210b051536ecab834712ccbd0bc47d",
+  "content_hash": "f09532c05e512e79829145b63c319f221a3e63f5098a5992d48ed38c4fb1ab09",
+  "version_id": "37fdd2e47739b45f97d0979465090cb6942a66752cb60073676f3f9f845cc4b8",
+  "text_path": "data/assets/252d806a6e14fced2dc2964e/37fdd2e47739b45f97d0979465090cb6942a66752cb60073676f3f9f845cc4b8/text.txt",
+  "segments_path": null
+}

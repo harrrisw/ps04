@@ -1,0 +1,9 @@
+{
+  "model": "gpt-5.4-mini",
+  "usage": {
+    "prompt_tokens": 6896,
+    "completion_tokens": 747,
+    "total_tokens": 7643
+  },
+  "endpoint": "https://parley.api.mit.edu/v1/chat/completions"
+}

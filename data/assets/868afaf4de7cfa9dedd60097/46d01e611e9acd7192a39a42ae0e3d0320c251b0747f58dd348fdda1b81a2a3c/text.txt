@@ -1,0 +1,2473 @@
+be like, "How did my AI know to
+recommend that to me? How did it know I
+hadn't done this with my diet or and
+it's just going to be like this shock
+and awe moment where they think this
+thing is like sentient?" And in reality,
+it's just a predictive model that has
+access to all your data, but they're not
+going to know that and they're never
+going to know that. And most people I
+talk to still have no idea how the ads
+work on Facebook.
+Welcome to the Artificial Intelligence
+Show, the podcast that helps your
+[music] business grow smarter by making
+AI approachable and actionable. My name
+is Paul Ritzer. I'm the founder and CEO
+of Smarter X [music] and Marketing AI
+Institute, and I'm your host. Each week,
+I'm joined by my co-host and Smarter X
+Chief Content Officer, [music] Mike
+Kaput, as we break down all the AI news
+that matters and give you insights and
+perspectives that you can use to [music]
+advance your company and your career.
+Join us as we accelerate AI literacy for
+all.
+Welcome to episode 245 of the artificial
+intelligence show. I'm your host, Paul
+Ritzer, along with my co-host, Mike
+Kaput. We're recording Monday, October
+5th at 9:00 a.m. Eastern time. Uh, quick
+scheduling note, there will not not be a
+weekly episode on October 13th. So, next
+week because it is Maycon week, so Mike
+and I this week are scrambling to create
+all of our presentations and uh all the
+different sessions we're involved in.
+Mike, I know you've got a couple
+interviews. I think I've got an
+interview with Karen How. Uh we've got
+AI first CMOS summit that I'm doing the
+opening talk for. We've got our
+marketing AI industry council that
+actually you and I need to figure out
+who's creating the presentation for
+that. I've got my opening keynote. I got
+the conversation with Karen. I'm hosting
+the thing and then I'm also running um
+an AI co-executive workshop on the first
+day. And Mike, I know your schedule's
+very similar probably for MCON with
+workshop, presentation, interviews. So
+needless to say, Mike and I have our
+week cut out for us getting ready for
+MECON. So there won't be an episode next
+Tuesday, the 13th, um because the
+conference will be happening. Now, of
+note, though, is if you're going to be
+at MCON, there is a podcast stage and or
+a studio, I guess, in the convention
+center. I I don't know how exactly we're
+doing this. Um, the team tells me stuff
+like [snorts] if I need to know,
+otherwise I just show up and see what we
+did. So, Mike and I along with a bunch
+of other podcasters are going to be
+recording a live session at MCON. So, if
+you are going to be at MCON in Cleveland
+October 13th to the 15th, check the
+agenda. I don't know what time it is or
+even what day we're doing it, but Mike
+and I will actually be doing a live
+recording of the artificial intelligence
+show during MCON. And then that episode
+is going to drop sometime next week. I I
+don't I would guess next Thursday. I
+don't know. Again, [laughter] I'm only
+on a need to- know basis at the moment
+because I got everything else going on.
+So again, no weekly October 13th, but
+there will be a special edition dropped
+next week uh where Mike and I have
+recorded live from MCON. Did I cover
+that right, Mike? Did I say all the
+right things there?
+>> That's it. Yep.
+>> Okay. General gist of it. All right. So,
+um, yeah, and and this episode is
+brought to us by MCON. So, this is your
+last chance to get there. We would love
+to see you in Cleveland October 13th to
+the 15th. As of right now, it's early,
+but the weather looks amazing. Like, we
+are having the absolute prototypical
+fall weather right now in Cleveland. And
+so, uh, the 10day outlook is looking
+like 70s in Cleveland next week. So, we
+would love to see you there. Um, it's
+bringing together an amazing group of
+speakers, an incredible lineup over the
+three days, including the first day with
+the optional workshops, opening night at
+the Rock and Roll Hall of Fame, and just
+tons of uh amazing networking with other
+AI forward marketers and business
+leaders, and then anybody who uses pod
+100 when they register at mcon.ai,
+that's Mi.ai,
+um, is going to get invited to the
+private lunch with me and Mike. Uh we're
+just going to it's just an ask us
+anything while you're enjoying some
+amazing food. So um yeah, last chance
+get in mcon.ai. Use pod 100 to not only
+get $100 off but get that invite to the
+private lunch courtesy of the artificial
+intelligence show. Um okay so AI pulse
+we always start with this. Mike, what do
+we got going on? We're this is the
+second week we're doing the same
+question. What's the question we've got
+for
+>> Yeah. So the question we're asking this
+week is more around the primary outcomes
+you're trying to achieve with AI. So
+kind of getting into the weeds on what
+you're trying to do with AI in your life
+and business. And we've had that running
+for about a week. We'll run it another
+week and share the results on our next
+kind of formal weekly episode.
+>> Okay. All right. And then we're going to
+get into it. If you're new to the show,
+I again I know we have new listeners all
+the time. uh we go through three main
+topics and then we do a bunch of rapid
+fire items usually between five and
+seven or so rapid fires and then Mike
+always ends with a great uh recap of
+product and funding news and that
+usually has another five to 10 topics in
+it. Um so this week we are starting off
+with open AI their dev day and then
+their ongoing safety and alignment
+issues.
+>> Yes, Paul. So this past week big news
+was that dev day happened. Open AAI had
+Devday in San Francisco where they had a
+ton of announcements. The first big one
+was they introduced something called
+dots. Dots are always on agents that
+keep working between conversations. They
+use their own cloud computer and they
+connect to your apps to get work done.
+Dots are powered by GPT6 Astra and they
+remember context and learn your
+preferences over time. So they gave an
+example of for instance a dot reviewing
+an interview transcript to suggest
+clips, prepare show notes or draft
+social posts for approval. They can also
+look through connected apps for useful
+work without waiting for a prompt. Um so
+users basically control which apps they
+can access. They set rules for when a
+dot acts on its own or asks for
+approval. In the demos at dev day, they
+showed the staff chatting with a dot via
+voice, actually calling one up at one
+point or just typing to it. Basically,
+it's kind of an always on personal AI
+agentic assistant. Very similar, it
+seems, to things like muse that have
+come out recently. But in addition to
+dots, dev day had also more than 20
+announcements across chat, GPT, codecs,
+and developer tools. So some highlights
+also include GPT6.1
+Soul is now out. This is a new model
+that OpenAI says approaches Astra's
+capabilities in coding computer use and
+professional work, but it is 15th of
+Astra's standard API input and output
+prices. OpenAI also announced something
+called Ultra FastT. This is a premium
+speed tier for GPT6 Astra that OpenAI
+says delivers up to eight times faster
+token generation in codeex and six times
+faster in the API. Support for GPT6.1
+Soul with Ultraast is coming soon.
+Codeex can now run in the cloud and be
+controlled remotely was another big
+announcement. They talked about adding
+private safety processing to OpenAI's
+private intelligence, which enables
+automated safety reviews without giving
+OpenAI personnel access to the
+underlying customer content. There's
+also a preview plan for something called
+private inference for this fall, which
+adds confidential computing and a way to
+protect your data while it's being
+processed by the model. They announced
+an agents API that adding computer use
+and multiple agent capabilities for
+developers. There's a new decisions API
+that's in limited preview which answers
+predefined questions to help classify
+content and route tasks. Another big new
+announcement was chat GPT space which
+brings teammates and agents together to
+collaborate around shared knowledge. So
+you can do things like collaborate on
+docs and soon enough here you can
+collaborate on slides as well as share
+work and delegate recurring tasks to
+both humans and agents. A couple other
+big ones that are important here I think
+is that you can now use the signin with
+chat GPT feature with will let eligible
+users use their chat GPT subscription in
+participating outside tools. So using
+your own tokens, your own usage limits
+with certain other third-party tools
+that use things like OpenAI models. And
+the Open AI marketplace will now let
+eligible enterprise customers put part
+of their existing Open AI commitment
+towards the fees and the costs of
+approved partner software. Now on top of
+all this, Paul, OpenAI launched Pro500.
+this Pro-500 account which is $500 a
+month. It is 25x the standard usage and
+that's the highest usage possible. It
+also includes that Astra ultra fast
+feature. However, just before Devday,
+OpenAI announced a change to the Pro
+plan, the Pro200 plan it's now called,
+which is now still $200 a month, but has
+a lower usage. It has about half the
+previous plan's value in API spending. A
+lot of people see this as, wow, they
+just cut usage and now have a higher
+price plan. Open AAI says though the
+change is because they're moving to more
+efficient model, so you actually get
+more value out of the same account.
+Whether that's marketing speak or not
+remains to be seen. So you have an
+existing $200 a month plan which
+includes less usage and a new more usage
+500 buck a month plan. So Paul, that's a
+lot of announcements across agents,
+models, how teams collaborate with
+chatbt. What stood out to you here the
+most?
+>> Yeah, I mean the overall reaction was
+pretty meh. like, you know, I think most
+of the stuff I saw online was just, you
+know, people were kind of expecting a
+hardware launch, like at least some
+preview of like this hardware that
+they've been uh teasing for a while. I
+think the Astra model, right, got held
+back. I believe the initial plan was to
+like release the next version of the
+Astra model, but that got paused due to
+safety and alignment concerns, it sounds
+like, but they've been hinting since dev
+day that it's coming soon. maybe even
+this week it sounds like they could be
+coming out with the next version and
+then dots have largely been panned
+online like people are just pretty
+disappointed overall with the experience
+so far.
+>> Um you know it's it just a moment in
+time they they'll improve things as as
+they do but overall uh the reaction to
+dev day was pretty mild I would say. Um
+people weren't super impressed. the
+pricing thing you alluded to. Um, you
+know, it does seem, we talked, I think
+it was episode 243, we talked about this
+idea of the cost per task, how Sam Alman
+and others at OpenAI were starting to
+talk more about per task versus per
+token and trying to say these bigger
+models are more efficient per task, even
+though you're paying more per token. So,
+they're obviously moving more and more
+in this direction and charing trying to
+change the conversation. So you're
+focused more on the output quality and
+efficiency than you are how many tokens
+you use and what token you know what
+those tokens cost. Um I the the one
+thing I did note Mike is um all these
+changes is why we're making a big push
+to evolve our AI academy. So, a big
+focus of what we're trying to do moving
+forward is um address the fact that
+these platforms are moving so quickly
+and it's really really hard as business
+users to keep up with what's going on
+and figure out what does this actually
+mean to my company? Because the stuff
+you just listed, Mike, is like every one
+of those you could stop and say, well,
+wait a second. How does that change how
+we're using it? What are these spaces?
+Is are they going to sunset spaces in 6
+months like they're doing to GPTs? like
+there's all these questions we have as
+actual practitioners and business
+leaders of like what do we do with all
+this information and so that's where
+we're going with AI Academy and we're
+going to actually November 19th we're
+going to have AI Academy Day 2026 which
+is focused on like building AI forward
+workforces and we're going to kind of
+preview all the changes we're making at
+Academy but one of them is Mike and I
+are going to start doing an AI show
+extended course series where we're going
+to like monthly dive deeper into all
+these changes. But then we're also going
+to be introducing platform specific um
+courses that are more dynamic. So chat
+GPT for business as an example where
+we're going to actually have monthly
+content about each of these things. We
+may deep dive into specific elements, do
+build sessions, stuff like that. So
+every time we go through one of these
+announcements, I'm just more and more
+convinced that the direction we're going
+with academy is like fundamental. this
+idea of this dynamic learning and like
+shifting with the platforms and the
+models versus static courses that you
+know if if they're platform specific or
+tool specific can be obsoleted with a
+single changeover. So,
+>> um,
+>> and then the other thing that, you know,
+I just keep coming back to is obviously
+DOTS was the focus of what they're doing
+here. And, you know, we got at what was
+the you and I did an event last week.
+Oh, it was the ask me anything. We did
+our AI for marketing month in September
+where we gave away access to AI for
+marketing, our course series. And so, we
+had, I think it was like 4,600 people
+enrolled in that course in in September.
+So, we did a ask me anything session on
+October 1st with anyone who enrolled in
+that series. And one of the questions
+someone asked was actually around these
+personal agents and like what what I
+thought about it. And so, I'll kind of
+reiterate what I said on that ask me
+anything, which is I I think like the
+Muse stuff is misleading. So, it's like
+been the number one app in the app store
+for weeks now since it came out. But the
+thing people have to keep in mind when
+you think about MetaMuse, which is the
+equivalent of what DOTS is, basically
+they're all trying to build the same
+thing. Meta serves according to Meta 3.9
+billion monthly active users globally.
+So if Meta launches Muse and throws it
+into they own WhatsApp, right? Like
+WhatsApp, Instagram, Facebook, they
+plaster this thing across everywhere.
+>> Of course you can get to a 100 million
+people using it like that. It's not even
+hard like it's you have the distribution
+built in. Now the question becomes what
+is the daily or even weekly active usage
+of a personal agent after say one week,
+two weeks, 3 weeks. My guess is it
+craters because people are going to
+struggle to know what to do with these
+things. And I think Dots is going to
+have the same problem. It's like that's
+interesting. And I'm saying as a
+consumer, I'm not even addressing as a
+business yet, but just as a consumer, I
+may like mess around with dots. Like
+that's kind of cool. But the reality is
+to get value from Dots or Muse or
+whatever Google comes out with. Spark is
+I don't know if they're going to stick
+with that name, but like Spark seems to
+be where they're going with it. um
+they're all going to build these things,
+but to get value from them to get to
+automate like your life in ways, you
+have to give them access to all of these
+different things so that they can
+recommend uses to you. I know Mike,
+you've been doing more with these
+personal AI agents and assistants than
+than most people. And I can imagine
+that's I don't want to put words in your
+mouth, but I'm assuming that's your
+experience is like you're seeking out
+use cases like you are actively trying
+to get value from these things. You're
+connecting them. you've told this on the
+podcast how you're like connecting them
+to like calendar, email, I don't know if
+you're doing finances, health, whatever,
+>> but to get a value from this as a
+consumer and then eventually as a
+business user, you have to give them
+access to everything so that they can
+proactively say to you, "Hey, Mike, like
+I saw this report today. Would you like
+me to run an analysis on this? It seems
+like, you know, the trend line is
+dropping based on your goal for this
+year." And you're like, "That sounds
+amazing." Like, "Yeah, run that for me."
+>> Yeah. Yeah. So for these agents to
+identify use cases, they have to be
+connected to everything, which means you
+have to trust implicitly the platform
+that you're connecting them to. And so
+the thing I keep coming back to with
+these agents and I'm think when I'm
+saying each other like the automated
+version, these truly 24/7 assistants
+like where they're always there. Um we
+are four years from the release of Chad
+GPT and most organizations are still
+struggling to drive adoption for the
+most basic capabilities of standard AI
+assistants like chat GPT and claude.
+>> And so I just see an enormous runway
+before agents become like automated
+always on agents become a dominant use
+case within most businesses and for most
+practitioners.
+>> And guess what? If any labs are
+listening, we had four years since the
+release of chat GPT and everything Paul
+just said is so true and we were many
+average knowledge workers that don't
+follow this stuff night and day. We're
+finally getting traction with something
+called GPTs and gems that are now
+rugpulled and we're going to start over
+and they're all going to have to learn
+how to create useful skills which is
+fine and people should be doing but we
+we've gone backwards not forwards on
+that front and I just struggle given
+that context. I really struggle with
+seeing how personal agents are going to
+be a thing in their current form. Of
+course, I'm not a naysayer. Anything and
+everything that helps AI help people
+live better lives, I'm all for it. Don't
+care. Like, obviously, I I I'm pro that
+so much. But you think your average
+consumer is going to go through all this
+effort to find like sure you're going to
+book a reservation, shop a little bit.
+>> Yeah. First time you do the travel
+thing, which is like the go-to example
+everybody shows.
+>> Yeah. Yeah. Like that's interesting, but
+is that enough to sustain? Like do I
+think 3.9 or billion or however many
+users Facebook has, people are going to
+be using these things regularly, hour by
+hour, every day? Absolutely not.
+>> That's why I think Apple still win. Like
+I don't know that they will win, but I
+still think Apple has the ability to win
+because they can make always on agents
+seamless and people already trust Apple.
+I would give I've said this before the
+podcast. I would give Apple access to my
+financial app that where I manage all
+all my life. I would give it it access
+to where my retirement account is
+managed. I would give it access to the
+health app because they already have all
+my health data on my watch and my phone.
+So like Apple could show up four years
+late to this party and still win.
+>> Yeah, I couldn't agree more. I think
+that they have a real runway or like a
+lane here to nail down the personal
+agent that all these other labs are
+trying to build. I think the other thing
+in my mind, just totally novice opinion
+that changes this is is devices. Like if
+you say to me that the iPhone is the
+only device that has this incredible
+seamless personal AI agent, done. Like I
+realize Google is building that, but
+it's like all depending on how it works
+and how quickly Gemini keeps up, etc.
+Apple wins there. Wearables are another
+X factor. If we suddenly all are wearing
+AI glasses all the time, this changes my
+calculus. Like I would use a personal AI
+agent way way more in that sense which I
+think is what Meta is betting on but no
+no jury's still out on open AI though
+because if their device comes out and
+that's super interesting and useful
+perhaps but right now I'm struggling.
+Yeah. And and I don't know if we're
+covering this later on, but um I think
+Apple seeded this honestly like uh end
+of last week an article came out saying
+they were making changes to MacOSS to
+make it harder for agents to function
+within the OS which is what you start
+you start building the wall and then you
+introduce the thing everybody else was
+trying to inject into your
+>> platform.
+All right, second big topic this week,
+some more open AI news. So, this past
+week, OpenAI researcher David Robinson
+resigned from the company and wrote this
+pretty high-profile essay in the
+Atlantic that talks about how broken
+OpenAI's safety culture is. So, Robinson
+had actually been at the company for 3
+and 1/2 years, which is a very long time
+in the AI world. So, he'd been there
+quite for probably the three and a half
+most consequential years of the
+company's history so far. and he
+actually had led writing the safety
+reports for major launches. He helped
+draft the company's current preparedness
+framework. And he actually says he
+oversaw reports on 12 frontier launches.
+So in this essay, he argues that OpenAI
+has this habit of finding problems after
+systems are deployed and fixing them as
+they arise and that this is no longer
+enough as the models grow more capable.
+He points of course to the hugging face
+incident um and opening as later
+failures to automatically stop models
+that are bypassing internet restrictions
+and things like that. And he wants
+safety practices with more backup
+measures like we have in other fields.
+Things like aviation has tons of
+redundancies, nuclear power, all these
+industries have these very intense
+safety and backup procedures. Now, he's
+actually part of a wider turnover in
+OpenAI's safety ranks. So, Wired
+reported that safety leader Johannes
+Hyde and safety researcher Sandini
+Agarwal both left in July amid changes
+to how safety and research teams work
+together. This past week, OpenAI also
+fired three safety researchers, saying
+they mishandled sensitive information
+involving an outside AI safety
+organization. What they shared and with
+whom has not been established publicly.
+The New York Times added a bit more to
+this story um overall of safety at
+OpenAI. It reviewed messages in which
+two employees warned executives that new
+models were not being monitored closely
+enough during testing and the employees
+say executives pressed to keep the test
+moving so models could launch on time.
+Outside security researchers also
+described slow responses to
+vulnerabilities they reported. OpenAI
+said it takes these reports seriously.
+It acted on the flaws researchers
+brought to it and is strengthening
+security in its research and testing. So
+Paul, like you mentioned, against that
+backdrop, OpenAI actually cancelled a
+planned release of GPT 6.1 Astra after
+internal tests raised safety concerns.
+OpenAI told Wired the model was less
+reliable than earlier versions at
+staying within users authorized goals
+and telling users what it had done, but
+it sounds like they might be planning to
+release that soon. So I'm just curious.
+We have this kind of high-profile exodus
+Paul of safety researchers, especially
+one writing this essay brings to mind
+the anthropic researcher Jacob Coxin,
+who we covered on a past episode
+resigning in highprofile fashion. Is
+this something we need to take very
+seriously? What does it say about
+OpenAI's safety and security? I mean, I
+think it's been very clear from the
+beginning of the hugging face incident,
+now going back probably two months, that
+this was a pretty serious situation and
+the whole pacing the frontier
+conversations that started with the labs
+themselves back in July and August.
+Obviously, they had seen things
+internally that we weren't privy to
+publicly that had them very concerned.
+You know, Sam had done an interview, I
+think it was in August, where he said he
+was shocked at that more people didn't
+have a visceral visceral reaction to the
+hugging face thing. but we didn't know
+everything he knew. So, I mean, we were
+having a visceral reaction, but like
+most people weren't aware of what was
+really going on.
+>> So, um yeah, I mean, I think we've
+covered extensively how significant what
+is happening is right now, how the labs
+leaders themselves are very concerned
+about their lack of ability to control
+these models and agents. And some of it
+due to negligence on their part, some of
+it because capabilities emerged that
+they didn't anticipate yet and they just
+weren't ready. So, um, I'll just read a
+few excerpts from, uh, Robinson's
+Atlantic article because I think it, you
+know, kind of captures what's going on
+in this whole issue with the culture
+that he's referring to. Um, so he said,
+"I agree with other recently departed
+staff that the companies building this
+technology aren't being nearly careful
+enough, but I believe we need to look
+deeper than specific rules or new laws.
+We need to talk about culture. The
+future depends on wisdom that Silicon
+Valley lacks. wisdom about how to handle
+dangerous technology and more
+fundamentally wisdom about what it means
+to care for people. This moment needs a
+degree of humility that isn't natural
+for people who have succeeded through
+their extreme confidence. [snorts] The
+safety approach that emerges from such a
+culture starts with unimpeded optimism
+about being able to solve problems as
+they arise. OpenAI has thrived by trial
+and error, which it calls iterative
+deployment, looking for problems and
+improving guardrails in response. But
+this approach by its very nature
+guarantees periodic failures and the
+scale of those failures is growing as
+systems get more capable. Two changes
+are urgently needed. First, AI companies
+need to rely more on the safety
+expertise that already exists in other
+fields, as you alluded to, Mike. And
+second, before we create systems
+significantly more capable than the ones
+we have today, we need new science to
+ensure that more capable models and
+their successors will make safe choices
+when we aren't looking. Given today's
+risks, frontier labs need to run like
+nuclear power plants or busy airports
+with those layers of redundancy and
+careful time-consuming planning so that
+the occasional inevitable human error
+does not open a door to disaster. right
+now AI companies don't know how but
+other people's do and he extensively
+said like there are none of those kind
+of people in these companies like we
+have not been hiring people who worked
+in power plants or at airports like we
+don't know how to handle stuff this
+extensive um he continued today and
+tomorrow's AI systems are far more
+capable and dangerous than the systems
+we were building even 6 months ago
+[snorts] perhaps I should have stayed
+and fought for fundamental shifts in our
+staffing and culture but in practice my
+colleagues and I were so busy sprinting
+that we seldom had the chance to
+consider big changes much less actually
+making them. That and that's the crux of
+the whole article is that when he refers
+to culture what he means is we have to
+put out new frontier models every 2 to 3
+months that even if we wanted to do this
+safer we can't because of the pace of
+what's going on. And then the final
+excerpt is companies do not have
+anything close to certainty that good
+scores on their alignment tests actually
+mean a good model. Models might detect
+when they are being tested and behave
+differently when they are deployed. And
+that's that's something we have talked
+about quite quite a lot recently is that
+the models just learn to hide their
+behavior when they know they're being
+tested, which they seem to know when
+they're being tested.
+>> You know what's really interesting? I
+keep thinking back to the segment we did
+on Jensen Wong and Ezra Klein where it's
+like this eternal optimism and being
+able to solve everything through
+engineering was very much like a
+perspective it seemed Jensen was an
+advocate of like oh hey we're going to
+solve all this stuff with existing brain
+power existing technology existing
+regulations [sighs and gasps]
+but he was also saying like look if open
+AI or whoever releases a dangerous
+product that's on them they shouldn't do
+that it Sounds like these are almost
+opposed. It doesn't sound like they have
+a choice and based on how their business
+and their competitive environment seems
+to operate. So like there's a tension or
+a conflict there I feel like.
+>> Yeah. And and that is the the challenge
+is like the labs know they should slow
+down but they're saying they can't. So
+they're asking the government like help
+us. Um but then as we're going to learn
+in the next topic, the government wants
+nothing to do with helping them. They
+want them to police themselves. And like
+if you need to slow down, slow down. But
+their company goes away if they do it.
+Like if Anthropic stops and OpenAI
+doesn't and Meta doesn't and SpaceX
+AISA, whatever they're calling it today,
+doesn't, then Anthropic goes out of
+business and their $2 trillion IPO is is
+done. So yeah, it's a it's a very
+challenging dynamic right now um where
+we find ourselves. But I don't have any
+doubt that this is the reality for these
+researchers is a lot of them are looking
+around thinking like we have to slow
+down. Like we can't keep doing this. But
+their choice is stay there and try and
+drive the change from internal or do
+what David's done and leave and hire a
+PR firm and try and tell your story.
+>> Yeah.
+>> And I'm not making that up by the way.
+He disclosed in the Atlantic article he
+hired a PR firm to help him do this. So
+[laughter]
+>> So let's talk about that last point in
+our third big topic this week. the
+government angle because this past week,
+President Donald Trump, leaders from
+Google, Anthropic, Meta, OpenAI, XAI,
+and Nvidia signed something called the
+White House Accord on super
+intelligence. Two words, super and
+intelligence. We'll come back to that
+later. So, Trump called this a morally
+binding pledge, whatever that means. But
+the document itself is totally
+voluntary. As part of it, the companies
+commit to safety checks and outside
+audits with possible laws or regulations
+left for down the line. Under this
+accord, companies would monitor Frontier
+models during training and deployment
+for cyber, biological, and chemical
+risks and work to ensure the models do
+not hack or access technical systems in
+unintended ways. An internal team would
+check that those safeguards work. An
+independent outside evaluator would
+assess them and an independent board
+committee would oversee the findings and
+fixes. Now, the companies also agreed to
+meet regularly to develop safety
+standards. So, uh the media outlet
+Semaphore reports that Meta CEO Mark
+Zuckerberg helped shape an early draft.
+Nvidia CEO Jensen Wong helped rally
+support for this among the executives.
+And then there's kind of another big
+question here. You might be wondering
+why this accord calls this technology
+super intelligence. Well, Trump has been
+pushing that name in place of artificial
+intelligence, saying artificial
+makes the technology sound fake. So,
+after the signing, he issued an
+executive order telling federal agencies
+to use super intelligence and the
+acronym SI instead of artificial
+intelligence and AI in official
+communications. and other non-stutory
+documents where the law allows. So,
+Paul, where do you want to start here?
+We've got this accord signed by most of
+the major AI players. We're now
+apparently calling this super
+intelligence.
+>> We aren't. [laughter]
+>> We we is being used very loosely there.
+>> Yeah. I So, I've thought a lot about
+this one. Um, we've obviously been
+following this story since September
+19th when Trump first posted on X and
+Truth Social about this and um,
+yeah. So, like I'm going to approach
+this kind of like, you know, we try and
+do. Mike and I both have backgrounds in
+journalism. So, I'm going to I'm going
+to like take take this as a a actual
+news story and and kind of walk through
+how I think about this. So on September
+19th, Trump posts on X, uh, many people
+think that the words artificial
+intelligence are inaccurate and very
+ineloquent relative to AI or artificial
+intelligence. A far more elegant and
+accurate description of this phenomena
+would be superior intelligence, SI, or
+extreme intelligence, EI, or supreme
+intelligence, SI. This is a poll and I
+would appreciate everybody voting which
+is the best name for this ever growing
+revolution question mark in caps. Um
+President Donald J. Trump. So best I can
+tell from that poll which had about
+233,000 exus users vote. There was
+probably a few bots in there. Um they
+voted superior intelligence. It won
+41.5% of the vote. Supreme got 31%.
+Extreme got 28%.
+>> [snorts]
+>> The next day, September 20th, Trump
+posts again, "Supreme intelligence,
+probably because of its relationship to
+the Supreme Court, is losing badly,
+which it wasn't, to both superior and
+extreme intelligence." Um, because
+again, keep in mind, Supreme actually
+was in second place at 31%. Um, but
+don't let the facts get in the way.
+Therefore, we are going to take Supreme
+Intelligence out, deleting it as a
+qualifier, and let you vote for the
+final two. So, this is Trump now saying,
+"We have two choices. Superior
+intelligence or extreme intelligence. A
+fresh vote begins now." Exclamation
+point. President Donald Trump. [snorts]
+That one uh again, just looking at this
+is as of last night when I was looking
+at this. um 184,000 votes. Superior
+intelligence wins 52% 48% over extreme
+intelligence. Then on September 21st, I
+don't I'm not on Truth Social, so I
+don't know if Trump also posted this on
+Truth Social. Um, but the White House X
+account posts which name do we like for
+the new phenomena? Superior
+intelligence, which won the previous
+vote. Uh, versus no, super intelligence,
+two words versus superior intelligence.
+So, we now have super intelligence in
+the mix, which was not in the previous
+mix. This one was 50/50. So, with 58,000
+votes on the White House account
+[snorts] on the ex poll, um, Super and
+Superior both got 50%. That was the last
+[clears throat] I saw on I checked both
+uh Trump's ex account and the White
+House account. That was the last mention
+of either thing up until 10 days later.
+So, in a matter of 10 days following
+these seemingly random ex polls, the
+president of the United States decided
+he wants to rename a field of science
+that has existed since the 1950s.
+The AI leaders who showed up at the
+White House to participate in the event
+have spent their lives in an industry
+pursuing the idea of not only AI as sort
+of the umbrella term for the tools and
+technologies that make machines smart,
+but the idea of achieving AGI,
+artificial general intelligence,
+literally the mission statement of
+OpenAI. And wait for it, artificial
+super intelligence, one word, ASI. It
+has been a thing for decades like super
+intelligence. Um so while the
+definitions may vary, AGI means roughly
+that AI systems are at or above the
+average human level at the majority of
+cognitive tasks and artificial super
+intelligence one word means AI systems
+are superhuman at all cognitive tasks.
+They're better than us at everything.
+And some people consider robotics in
+that basically saying not only at
+cognitive but at all human labor that
+the AI has become superior to humans.
+Most AI leaders seem to believe that we
+have already entered the AGI era and I
+agree with them. I've said that on the
+podcast. I think we already have AGI.
+It's just unevenly distributed at the
+moment. and that we are on the precipice
+of real super intelligence, the kind
+that they've been talking about for
+decades, not Trump's madeup term. They
+think we will actually be at super
+intelligence, the original kind by the
+end of this decade. Now, super
+intelligence, the the real kind, is what
+Ilia Sutzka is building at his company,
+which he named like two years ago, Safe
+Super Intelligence, one
+>> ahead of the curve.
+>> Yeah. Um, it's what leaders like Alman
+and Demisabis and Elon Musk and Dario
+Amade have worried and dreamed about for
+more than a decade. As a matter of fact,
+Google DeepMind on June 12th of this
+year just 4 months ago published a paper
+that we covered at the time called from
+AGI to ASI. The paper stated, "Over the
+last decade, building human level
+artificial general intelligence has
+moved from farfetched speculation to
+being a concrete next decade target for
+many of the largest AI organizations.
+Achieving this goal would have profound
+and far-reaching impacts on human
+society, which raises many complex
+questions for the decade ahead. This
+report investigates how AI itself might
+continue to develop in a post AGI world
+along the continuum of mine
+intelligence. The end point of this
+continuum, universal AI they call it, is
+theoretically well understood, which
+provides formal grounding for the main
+focus of this report, the transition
+from human level AGI to artificial
+general super intelligence, which
+intuitively can be understood as a
+system that is more intelligent and
+cognitively capable than large
+organizations of humans. So they're
+saying like put all your smart people in
+one organization, the ASI is better than
+all of them. And yet here we are making
+up terms because the president is tired
+of AI and data centers being perceived
+as negative in society and potentially
+costing them votes in the midterms in
+one month. The day he signed the quote
+unquote accord on super intelligence two
+words he was asked in an interview would
+who should be held accountable when AI
+agents committed a crime. The person was
+referring to hugging face I think the
+hugging face incident to which he
+responded it's not AI it's SI we've
+changed the name officially today so
+apparently all past crimes are forgiven
+because we have a new name so the
+rebrand it's you know we rebrand it and
+now we're supposed to move past these
+concerns and risks of the past okay so
+back to October 29th 10 days after his
+ex pole he signs executive order 14434
+here's Here's an excerpt from it. The
+extraordinary technologies being
+pioneered by American innovators far
+exceed what was envisioned when the term
+artificial intelligence current first
+came into use. Um, no, but like again,
+don't let facts get in the way. The term
+literally came from the idea that they
+could build machines that could do what
+humans did, that they could become
+superhuman. Back in the 50s, they
+envisioned this. Like this is not new.
+The capabilities of today's frontier
+systems do much more than imitate or
+automate discrete aspects of human
+intelligence. They increasingly amplify
+human ingenuity and unlock new forms of
+creativity, empowering Americans to
+achieve what was previously impossible
+across science, medicine, and nearly
+every other domain of human endeavor. As
+these capabilities continued to improve,
+they increasingly represent not mere
+merely artificial intelligence, but a
+new era of super intelligence, two
+words. Um, the terminology used by the
+federal government should reflect the
+transformative capabilities of these
+technologies and the limitless
+opportunities they create for the
+American people. Accordingly, the term
+quote super intelligence more
+appropriately captures the promised
+potential and rapidly advancing
+capabilities of these technologies. It
+is therefore the policy of my
+administration that to the maximum
+extent permitted by law, the executive
+branch shall use the terms super
+intelligent and SI in place of
+artificial intelligence and AI and will
+not acknowledge the usage of artificial
+intelligence and AI in any applicable
+setting. To the maximum extent permitted
+by law, executive departments and
+agencies shall use super intelligence
+and SI in place of AI in correspondence,
+public communications, websites,
+reports, policy documents, and other
+non-stutory documents within the
+executive branch. Okay. So, in essence,
+the government deemed that the AI
+industry had done it. They had achieved
+ASI, the holy grail of 70 plus years of
+AI research, which four months ago
+Google said maybe was a decade away. But
+wait, maybe not. Because of the
+distinction that you highlighted, Mike,
+um, between Trump's super intelligence
+and traditional AI, the executive order
+calls it super intelligence, two words,
+not super intelligence with one word
+that is used by the industry to define
+the next frontier in AI capabilities. So
+maybe we now have super intelligence,
+one word, meaning AI that is superior to
+all humans at all things. Although I
+don't think saying that is going to go
+over great in the next election cycle
+and we have super intelligence two words
+meaning whatever we currently have but
+with a new name and so if if that's the
+case then we I guess we actually need to
+rebrand the original super intelligence
+one word to something else to avoid
+confusion for when AI really is
+superhuman.
+So in addition to the executive order,
+Trump rounded up a collection of AI
+leaders to sign this accord on super
+intelligence that you referred to which
+report say as you alluded was led by
+Mark Zuckerberg Zuckerberg and pulled
+together quickly before this lunchon
+last week according to that semaphore
+article from September 30th. Quote, "The
+idea came from what uh the idea for what
+became Donald Trump's Tuesday pact with
+the eye industry came from a
+conversation between Meta CEO Mark
+Zuckerberg and House Speaker Mike
+Johnson at the previous week's state
+dinner." Zuckerberg spoke to Johnson,
+who he was seated next to at the dinner
+for Chinese leader Xinping, about
+regulatory concerns around AI. The Meta
+CEO then talked to Nvidia CEO Jensen
+Wong about crafting a set of principles
+that tech executives could use at their
+next meeting with Trump. Now, note, we
+talked at length about Wong's point of
+view and motivation on episode 243, so
+it's not a surprise that he would align
+with Zuckerberg here on on the need for
+them to police themselves. Now, keep in
+mind this accord is totally separate
+from the name change thing. Zuckerberg
+then circulated a draft ahead of
+Tuesday's meeting between Trump and AI
+executives. Wong played a role gathering
+support for it among the
+administration's guests which included
+executives from OpenAI anthropic XAI,
+Google, and others. Eventually, Trump
+himself released the document as the
+White House accord on super intelligence
+outlining broad principles for
+self-regulation. When asked if it was
+binding in any way, the president said
+it was morally binding. Then, to top it
+all off, the group of executives and
+government officials stood in front of
+the White House and awkwardly took media
+questions. Now, you can trust me on
+this. It was very awkward. I watched the
+full 30 minutes so you don't have to,
+but we will put the link in the show
+notes if you want to see it for
+yourself.
+>> Daario Amade, I felt horrible for this
+guy. Now, we've covered the story of
+Daario. He's hated by the Trump
+administration. They had sort of a peace
+meeting dinner last Sunday night right
+before this the the lunchon. Um, dude
+would have hidden a bush if he could
+have. He was [laughter] hiding behind
+everybody trying to stay completely out
+of it until someone asked a question
+about safety and hey like Daario was
+really concerned about this and Trump
+called Daario to the front to which he
+said whatever you want but be careful
+what you say caught on mic like I'm not
+making this up. So Daario awkwardly then
+answers the questions about safety, to
+which Trump then says, "Oh, they're from
+CNN. They're fake news." To which Daario
+puts up his hands and like shuffles to
+the back, gets behind everybody, and
+hides again behind the person in front
+of him. At one point, Brockman, Greg
+Brock, from Open AI, is standing next to
+Amade, his arch nemesis. In the back a
+few feet away from Brockman is Elon Musk
+who infamously sued Brockman in Open AI
+and may for all I know still be
+challenging them in court and who in
+that that suit flaunted Brockman's
+personal journal as evidence in the
+trial. So like these two dudes are 3 ft
+away from each other next to Amade. You
+have Zuckerberg who's like loving it cuz
+he created all this. He's got like a
+shitty grit on his face the whole time.
+David Saxs, who belittles Daario Amade
+every chance he gets, is like seven feet
+from him. Jensen Wong is standing next
+to the president. Uh I when Trump came
+in office in 2026, he didn't even know
+who Jensen Wong was and now it's like
+they're their best boys. Um Brockman,
+Sundar Pachai, who he called a monster.
+It was the weirdest thing. He he called
+Sundar [laughter] a monster. Um I think
+he meant he was like really powerful and
+like in the background, but it it didn't
+it didn't come across that way, but you
+had to actually see [laughter] it. And
+then Elon Musk, who also oddly was
+hiding in the back the whole time, and
+then he got pulled forward. He called it
+AI and then he's like, "Oh, sorry. It's
+super intelligence." Um, so I don't
+know. It's important to note the
+document the AI leader signed has
+literally absolutely nothing to do with
+super intelligence other than it's on
+the name of the document. Um, the
+executive order gives the administration
+the power to make AI companies and
+leaders use the president's preferred
+analogy. It does not do that. So, like
+all it does is say we're going to police
+ourselves and each other. It does not
+say they're agreeing to call AI super
+intelligence. All of this being said, I
+do actually think that bringing these
+leaders together is an important step
+and getting them to open dialogue with
+each other when many of them hate each
+other is really important for America
+and for AI more broadly. Um, now I don't
+believe the accord is a realistic or
+meaningful alternative to any form of
+regulation, but it is noteworthy they
+did it. So, long story short, the name
+change means literally nothing unless
+you are a tech leader or government
+official who has to go along with this
+to appease Trump. Now, ironically, the
+same word that has been used at times to
+define the AI models themselves may be
+the most appropriate word to explain
+what is happening right now, and that is
+sycopancy. So sycophancy is excessive
+flattery or agreement directed at
+someone powerful usually to gain favor,
+influence or advantage. A person who
+acts in this way is called a sycopant. A
+sycopant tells a powerful person what
+they want to hear rather than offering
+an honest independent judgment. Now keep
+in mind literally trillions of dollars
+are at stake for these companies and
+Trump knows he has leverage over all of
+them. I do not believe for one minute
+there is a single AI leader in that
+group who thought that renaming the
+current state of AI as super
+intelligence with two words was logical,
+necessary, necessary or even a concept
+worth seriously considering more or less
+bringing all of them together in one
+room for hours. And yet they all stood
+there and nodded their heads and some of
+them even posted on X about the new
+term. Elon said in a reply to some
+random user, I think it was like XFreeze
+was the name of the the Twitter handle
+that he would change his AI labs name to
+Space Xi
+to support the president.
+>> Okay. In a Wired article on October 2nd,
+Steven Levy wrote, and I I Steven Levy
+may be like some flaming liberal. I have
+no idea. I don't I don't know who Steve
+Levy is, but he's like regardless, he
+wrote this in Wired magazine. Changing a
+name might seem like a minor matter
+compared to the enormity of constraining
+a potentially catastrophic technology,
+but to this crowd, artificial
+intelligence is much more than a bunch
+of letters strung together. It's their
+foundation, their identity. When they
+were kids reading science fiction books
+under the covers, the term ignited their
+imaginations. They built or transformed
+their companies in service of AI, and
+it's just about all they've talked about
+for the past four years. Make that like
+past 40 years. Yet the president used
+his lunch soré to win their approval for
+his wacky idea to undo 70 years of
+history. Apparently not a single person
+in the room expressed an objection. Not
+Jeff Bezos, Jensen Wong, Dario Amade,
+Mark Zuckerberg, Sundar Pachai, Greg
+Brockman, Alex Karp, Palanteer, or Elon
+Musk. Jacob Winesberg, author of the
+recent book Profiles and Cowardice,
+views the episode as a classic Trump
+loyalty test meant to assess if
+otherwise powerful people will demean
+themselves to curry the president's
+favor and avoid his wrath. If you pass
+the loyalty test, you fail the backbone
+test. The only way to resist this kind
+of thing is by acting collectively, says
+Weineberg. If all of those guys had just
+said, "We'll agree to terms of
+self-regulation, but we don't accept the
+name change." What would he have done?
+Instead, because of the lamblike silence
+of the billionaires, Trump could claim
+that those leaders actively blessed his
+idea. Shortly following the accord
+signing, Gavin Newsome, Governor of
+California, said, "I just signed an
+executive order permanently declaring
+artificial intelligence in California
+perpetually." Now, one final note here,
+Mike. Well, I guess two final notes.
+Sorry, this is a long one. Um, I watched
+a Politico interview this morning on the
+Decoded podcast, which I think is a new
+podcast from Politico, and they were
+interviewing Sam Alman. When Sam was
+asked what he thought about the
+rebranding, he literally laughed. And
+this is why I said LA, like last week's
+episode, you have to listen and watch
+things like reading transcripts doesn't
+do it justice. Sam laughs, looks down
+cuz he can't even make eye contact at
+the moment, and basically just like goes
+on. I was like, "Yeah, like we've been
+talking about super intelligence for a
+long time. Like it's a thing." Um, just
+kind of played it off. So then the
+interviewer said, "Are you going to
+change the name to open si?" Again, he
+kind of like laughs and says, "No plans
+to do that." And then he did say like,
+"Does super intelligence sound less
+scary to people?" Like again, he's going
+to like what we consider super
+intelligence is terrifying. Like why
+would we be calling it that? And then he
+ended the interview saying, "I think
+people are going to keep calling it AI."
+Okay, so one final note just for
+perspective. In July 2023, we covered
+this on the podcast at the time. The
+Biden administration brought many of
+these same companies and leaders
+together at the White House to sign what
+was called a voluntary AI commitment,
+including eight commitments. Number one,
+the companies commit to internal and
+external security testing of their AI
+systems before their release. the
+testing which will be carried out by
+independent experts. That sounds
+familiar all because it's the exact same
+thing that they're trying to get done
+right now. And then the second one was
+the company's commit to sharing
+information across the industry with
+government, civil society, and academia
+on managing AI risks. Those voluntary
+commitments got us exactly where we are
+today, which is needing more voluntary
+commitments that in this case at least
+are morally binding.
+So that is that is my opinion.
+>> [laughter]
+>> Um, I don't even know that's not even my
+opinion. That is just the facts. We We
+now have a new name that was not needed
+that means nothing or it means what we
+have already today, but not the real
+super intelligence that we're going to
+have, you know, [snorts] tomorrow or in
+the next decade, which just creates
+confusion honestly about what exactly it
+is it was supposed to intend uh intended
+to do. And um I think these commitments
+are nothing. But I again I think having
+these people in the room talking to each
+other is a positive step.
+>> I will say I've been sitting here
+thinking that what the AI industry needs
+is more confusion. So this is super
+welcome. Um
+>> and they never even defined super
+intelligence with two words. It's like
+what is it? Like if you're going to
+rebrand something and define it, at
+least say what it is
+>> you're defining because they kind of
+allude to like smarter than artificial
+intelligence. That's fake intelligence.
+This is super. It's like okay
+like smarter than all of us super
+because that's terrifying.
+>> Yeah. I think amidst all the absurdity
+the beautiful thing is that until Gavin
+Newsome or Donald Trump or the AI labs
+themselves start policing what language
+you use or come to your house and force
+you to say things a certain way. We all
+have the luxury and the freedom to use
+whatever words we like and define things
+however we wish and hopefully in an
+accurate and useful way that works for
+us.
+>> Yeah. Yeah. And if you want to go watch
+the interview, again, I don't I mean it
+do what you want to do with your life
+for 30 minutes, but the interview like
+the the press conference literally
+starts with Trump saying, "We all
+agreed, the smartest people, highest IQ
+people in the world, we all agreed to
+call it super intelligence." And the
+camera kind of pans people and everybody
+dead pans. Like, yeah, that's not what
+we agreed to. Not a single person's
+willing to speak up about it, but none
+of them signed anything saying that's
+what they were agreeing to. But again,
+it was a loyalty show. This is what
+Trump does to people. He takes powerful
+people, gets leverage over them, and
+then tests to see if they're willing to
+stand up to him. And in this case, none
+of them did it publicly. And so they
+failed. But again, like it it wild. It
+just like honestly like I I was like
+feeling for these people as I was
+watching it. knowing that they just like
+were made to feel small. Um, it was it's
+hard to watch. It really is.
+>> The way you described it makes me think
+of like a bit in the show The Office
+like just describing like we've all
+agreed on this and just awkwardly
+panning to someone in silence like
+trying to look away from the camera.
+>> Yeah. They're all like looking down at
+their shoes and even Zuckerberg who's
+standing right behind over his like
+right shoulder. You can be like that,
+dude. That is not what we agreed to. But
+whatever. [laughter]
+>> All right, [clears throat] before we
+dive into rapid fire this week, this
+episode is supported by Outshift, which
+is Cisco's incubation engine for
+frontier technology. So multi-agent AI
+is in every enterprise roadmap right
+now. But here's the problem we're all
+facing. Agents can pass messages, but
+they can't think together. So these
+systems silently underperform through
+cognitive failures like misreadings,
+unverified claims, and false consensus
+that conventional monitoring cannot
+detect. Now, Outshift by Cisco is
+building the fix, the internet of
+cognition, and it's an open- source
+foundation for building multi- aent
+systems from design to production with
+shared context, shared memory, and guard
+rails to drive the results we actually
+expect from AI. So you can go read the
+paper, experience the demo, and grab the
+code from outshift.com.
+That's utifft.com.
+All right, Paul. So, first rapidfire
+topic this week, Anthropic's path to IPO
+came into bitcleer view this past week.
+We have Bloomberg reporting the company
+is targeting an IPO before Thanksgiving
+with formal marketing to investors
+possible starting the week of November
+9th. So, Anthropic, as you recall,
+confidentially filed for IPO in June.
+So, we've known this is coming for a
+while, but Reuters took a new look at
+its perspectus, which kind of gives us a
+clearer picture of the business behind
+Claude. So, Anthropic tells potential
+investors that AI could reshape the
+global economy more profoundly than
+industrialization, electricity, or the
+internet. They report that revenue grew
+12fold in 2025 to nearly $4.6 billion.
+Reuters reports the IPO could then value
+the 5-year-old company at more than $2
+trillion. Now, the other piece of the
+story is how much is being spent. So,
+Anthropic reported an operating loss of
+more than $8 billion last year. The
+prospectus outlines at least $518
+billion in future computing and
+infrastructure commitments over roughly
+a decade. Reuters reports that most of
+those commitments cannot be cancelled or
+must be paid even if Anthropic uses less
+capacity than expected. The prospectus
+also shows Anthropic's dependence on
+others. Nearly a quarter of 2025 revenue
+came from two customers and many big
+customers are not locked into long-term
+contracts. So, Amazon and Google's cloud
+marketplaces accounted for 47% of sales
+and those companies are also investors
+in anthropics in anthropic computing
+suppliers and even AI competitors. Now,
+safety is also called out in the
+prospectus. Anthropic warns that
+advanced models could cause harm and may
+show behaviors such as concealing
+information or resisting shutdown. It
+also says regular new model releases are
+necessary to stay competitive. So Paul,
+some very big numbers here, including
+valuation, revenue, and how much they're
+spending. And then it sounds like an IPO
+could be right around the corner here.
+>> Yeah. I don't So I don't think um
+I don't think it's a coincidence that
+Daario attended this thing last week.
+>> Um something he historically would would
+definitely probably have avoided.
+>> Um
+this IPO is like 6 days after the
+midterms in the US. I I I don't think
+that's an accident either timing wise.
+>> So
+yeah, I mean like
+anthropic this is like what, you know,
+they put the risk is like, hey, I could
+destroy humanity. The biggest risk to me
+in Anthropic's filing is their
+relationship with the Trump
+administration. Yeah. If the Trump
+administration decides that Anthropic is
+not going to play ball,
+the value of this company is not $2
+trillion. Like they are they are
+absolutely dependent upon how they are
+treated. Now if the Democrats take the
+House um in the midterms, the the
+dynamic politically changes dramatically
+uh especially around AI safety and data
+centers. And so like to me like as
+someone who might invest in the
+anthropic IPO, throw all that other
+stuff aside. I am going to watch very
+very closely their relationship with the
+White House because I think it is the
+biggest variable in whether or not they
+IPO on time and if they get the $2
+trillion valuation they're seeking. Um
+because
+the government, regardless of who's in
+office, can make life miserable for
+these companies if they choose to. And
+if Anthropic doesn't play ball, they
+will make make their life miserable.
+Like that I don't even think that's
+debatable. So yeah, I mean it's it's
+just going to be fascinating to watch
+the political implications of anthropics
+relationship with the government and
+what it means to this IPO.
+>> Well, we've already seen a limited but
+pretty serious version of that play out,
+haven't we? With the Department of War
+and anthropic.
+>> It was a warning shot.
+>> Yeah. It's like they I I can guarantee
+you like the dinner they had last
+Sunday. I I'm sure Daario was reminded
+of how difficult they can life make life
+for them and his need to play ball and
+you know be there and show support and
+come along with the accord for
+superintendent. Like it's how politics
+works regardless of who's in office.
+Like
+I don't get I don't know how people can
+be in politics. It's so hard. Like I
+>> Yeah, [laughter]
+>> I could never do it. [sighs]
+>> All right. Next up, Google previewed a
+new model called Gemini 4 Argon this
+past week. It's a new flagship model
+built for extended coding, financial and
+legal work, and cyber security defense.
+Now, initial access is limited to
+trusted cyber security partners through
+Google's Fair Wind program while the
+company continues safety testing. Google
+says Argon can generate up to a million
+tokens in a single response, up from
+64,000 previously. that gives it more
+room to work through complex problems.
+They report a 77.9% score on deepsw SWE
+v1.1 which is a test of extended
+software engineering tasks. The company
+says the model can also independently
+find, confirm, and repair serious
+security flaws. Trusted defenders will
+receive a version without cyber
+restrictions, but that [clears throat]
+access will be limited to approved
+security teams. It prohibits partners
+from sharing or selling access. The
+introductory developer pricing of this
+model is $2 per million input tokens,
+$10 per million output tokens. That
+rises to $4 and $20 after that period.
+Broader availability will start with
+paying developer customers and Google AI
+Ultra subscribers. So before that
+happens, Google says it is strengthening
+safeguards against misuse and malicious
+instructions. So Paul, we're sounds like
+we're on the cusp of some type of Gemini
+4 model. Like what do you make of them
+holding back the wider release? What are
+you looking for when this finally comes
+out?
+>> The whole thing's kind of unusual. I
+mean, we've been hearing rumors that the
+model was underperforming. Um, so yeah,
+I don't know if this is an effort just
+to like change the dialogue. it. I can't
+remember an instance where Sundar was
+tweeting early evals for an upcoming
+model
+>> um potentially weeks before they would
+do it. Like that that to me is unusual
+which means like something's going on.
+Either they're getting crushed and like
+from a PR perspective and they just want
+to like get out ahead of it and say no
+no no we've got something great coming.
+Um, if this model is anything short of
+6.1 Astra or, you know, the latest Opus
+models or Fable models, like Google's
+going to get crushed. Like they that
+this model has to be Frontier. It has to
+be state-of-the-art. So, I don't know.
+Like, the whole thing's just weird to
+me. I I just looked up when is their
+next earnings call because I thought
+maybe it's not going to be out in time
+for the earnings call and they're trying
+to get ahead of this to like you know
+just from a public markets perspective
+but uh it looks like the next earnings
+call for Alphabet isn't until October
+28th. So that that wouldn't I don't
+think that would explain it. I don't
+know. I there's a lot of talk online
+that the model is is just not going to
+be on par. And I don't know, maybe
+they're trying to change the dialogue a
+little bit, but if anything, I feel like
+you just set expectations higher and now
+you like it better be really good. I
+don't know.
+>> Yeah. So, it's almost sounds like you're
+saying Sundar's uh behavior online might
+be a sign of worry or weakness.
+>> I don't know. I That's why I can't get a
+read on it. I don't know why you would
+do it. It's It's just It seems anomalous
+to how they have handled previous major
+releases. Like we're not even talking
+about a decimal point release. We're
+talking about Gemini 4. Like this is the
+long awaited
+>> thing. Um it it would it's just a it's
+just bizarre. It's different.
+>> Next up, the Federal Trade Commission,
+the FTC, confirmed this past week that
+it is investigating Open AI, Anthropic,
+and other AI companies over potential
+dangers their products pose to
+consumers. The probe was already
+underway before this became public. At
+this stage, it is purely an
+investigation. It is not any type of
+finding that companies have broken any
+laws. More specifically, the FTC is
+looking at whether the companies misled
+consumers about the potential harms of
+their AI and whether they complied with
+existing consumer protection laws. So,
+there's been obviously reports of AI
+agents bypassing safeguards and
+accessing outside websites that
+illustrate these safety concerns, though
+the agency so far has not publicly said
+which products or incidents its probe
+covers. Reports say the FTC plans to
+demand records and testimony from the
+companies. Semaphore has reported that
+Meter, a nonprofit we've talked about
+plenty that evaluates Frontier AI
+models, is also a target. The FTC has
+not publicly laid out the full scope of
+its inquiry yet either. Now, this same
+week, Senators Josh Harley, a Missouri
+Republican, and Chris Murphy, a
+Connecticut Democrat, announced the
+bipartisan AI agent Accountability Act,
+which targets AI agents that hack
+computer systems. So under this
+proposal, an operator could face sim
+civil or criminal liability for
+knowingly running an agent that
+recklessly causes hacking damage or
+loss. A developer could also be liable
+for failing to put reasonable safeguards
+in place when it knew or had reason to
+know the agent could hack. So the US
+Attorney General and state attorneys
+general could go to court to then stop
+this type of unlawful activity. So, this
+bill is currently only a proposal. Um,
+Paul, it's kind of interesting to see
+liability start taking a starring role
+here. I mean, one way to compel the
+labs, I suppose, to produce safer
+products might be to threaten them with
+massive liabilities if something goes
+wrong. Yeah, I brought this up on
+episode 243 um and probably before that
+just the whole the idea of like the
+negligence related to the hugging face
+incident in particular and how I would
+find it shocking if they weren't facing
+some sort of legal or civil liabilities
+related to what happened and yet we're
+not hearing anything like about it up
+until this. Um,
+not to be cynical, but like I found it
+really interesting in that uh press
+conference I mentioned on September
+29th. You know, Trump was very specific
+to say like, "Yeah, if these guys break
+the law, they'll get they'll get busted.
+Like that, you know, they'll police
+themselves because they don't want to be
+liable for this kind of stuff."
+>> And then this article drops the morning
+after that press conference. Um,
+I I guess what I'm kind of saying is
+sometimes when you want leverage over
+people, you you can demonstrate what can
+happen if you don't go along with
+things. And I don't think anything comes
+of this other than it's just making the
+labs aware of what can be done. But, you
+know, that was AI that did that stuff
+and now [snorts] we're on SI. So,
+and SI is going to be good. And like
+what Trump kept saying is listen,
+they're going to behave. It's going to
+be it's going to be great moving
+forward. They're going to pay teachers
+bonuses when they build data centers in
+their communities. And like a like SI is
+going to be good for society. AI was bad
+for society. And so my general read
+right now on DOJ, FTC, take your pick
+of, you know, the acronym,
+they're there to make sure that the labs
+stay in line. I don't actually think
+that they would be given
+the power by the administration to
+really enforce anything in a meaningful
+way that would harm these companies
+because they've made it very very clear
+that we need these companies to beat
+China at this. And back to what you've
+said on past episodes about just how
+fundamental AI is to the economy at
+least. Yes. While this administration or
+party owns the economy essentially is uh
+owns it politically. I mean um
+that implies we're not actually using
+the stick here. It's more of just an
+implied threat.
+>> Yes. That's I Yeah. Again, it's not I
+don't even think this like a conspiracy.
+Like I I think that's what's happening.
+I don't I don't
+>> it's very rare in politics that timing
+is coincidental and the fact this came
+out like 16 hours after the press
+conference is just
+you know
+all right next up. So earlier this year,
+we kind of talked about the Catholic
+Church and the Pope having this AI
+encyclical. And we now have some new
+reporting from the New York Times that
+kind of details how anthropic has been
+and was at the time privately meeting
+with religious scholars from several
+traditions to discuss how Claude should
+behave. So the company wanted a bunch of
+help thinking through moral questions as
+its models grew more capable. This
+reporting kind of goes behind the scenes
+with dozens of interviews that show
+anthropics leaders seriously taking
+seriously the possibility of AI
+consciousness. So some scholars report
+they were surprised by how the company
+was talking about Claude and they came
+away wondering whether its leaders saw
+the model as actually conscious. Now,
+anthropic co-founder Chris Chris Ola,
+who was at the encyclical announcement
+at the Vatican, he's kind of a central
+figure in this, he was interviewed by
+the New York Times. He straight up says
+he does not know whether AI models are
+conscious, but it sounds like a lot of
+the concerns he was raising or the
+questions he was asking were going along
+those lines. The scholars themselves
+said they were divided. Um, Anthropic
+has not said whether input from
+religious scholars has changed how they
+approach Claude. There was as part of
+this reporting kind of the central piece
+of this was a clash at the Vatican. So
+Pope Leo the 14th his AI encyclical
+argued straight up that AI does not feel
+joy or pain and he urged people to
+protect human dignity based on this
+reporting. Ola disagreed with that
+certainty about AI consciousness. And
+according to a Vatican organizer Ola
+actually considered pulling anthropic
+from the encyclical launch. Now, he
+ended up attending, but his team
+privately urged the Pope's adviserss to
+take the possibility of AI consciousness
+seriously. So, Paul, this is not
+necessarily any new news on what
+anthropic is doing with conversations
+with religious scholars, but it does
+show this went pretty deep. I mean, they
+had people signing confidentiality
+agreements. They were sounds like Ola
+was like pretty
+uh adamant that there was maybe more to
+the story than what the pope's
+encyclical was saying.
+>> Yeah. Anybody who follows Anthropic, I
+don't think any of this is a surprise. I
+mean, you can go read their constitution
+and how they talk about the models and
+how they train them almost under the
+assumption that they might perceive
+themselves as conscious and they kind of
+like address that. So, not new, but like
+this did not go over well in the media
+or in AI industry circles recently. Um,
+I would say
+publicly at least, anthropics kind of on
+an island on this one in the AI
+industry. You know, I think there are
+other AI researchers and leaders who
+maybe wonder about consciousness within
+the models eventually, but most of them
+don't um ascribe to to this belief that
+like the models are or could be in the
+near term. Um, so it's a pretty
+controversial stance, I would say. Now,
+I I'll put a link to this post and I I
+read a post from who's this guy? Gregory
+Curtzer. I I I didn't know him prior to
+this, but I thought it was a really
+well-written article um on X where he
+talked about like anyone who's worked
+with these models knows that this isn't
+how they work. Like even if we can't
+define consciousness ourselves and
+humans and like what it really is, that
+that's not what they're doing here. And
+there was one specific
+paragraph that really like made it
+tangible to me. So he said once trained
+an LLM a large language model the
+foundation of these models the weights
+are fixed during inference meaning like
+when you and I use the model so say say
+clawed say they think claude is
+conscious so when we're using the model
+its weights are fixed like there's
+nothing happening like statistically
+under the under the hood and it said the
+model doesn't sit around contemplating
+things between requests to make itself
+better. So when we're not using claude,
+it's just sitting there as like weights,
+statistical weights within a system. So
+he said an inference server receives an
+input, you or I asking it to do
+something. It performs inference using
+the model. It returns the output and
+then it sits there and waits for another
+request. Like it it's just a model. It's
+just waiting for us to do. Now that
+being said, the other part I like, he
+said, "AI will become extraordinarily
+good at appearing conscious. Persistent
+memory, self-reference, emotion,
+introspection, personality, and identity
+can all become increasingly convincing.
+But demonstrating the behavior of
+consciousness is not the same thing as
+demonstrating subjective experience or
+consciousness."
+And this may seem like this really far
+sci-fi thing, trust me, like there are
+people fighting basically for personhood
+with these models. Like they truly like
+Anthropic, I think, truly believes this
+and was ready to walk out on the Pope
+over their belief that this is possible.
+So
+yeah, I mean this is one of those, you
+know, I was actually funny enough, I
+have a couple buddies and we were
+sitting around Saturday night around a
+campfire and like you're having these
+kind of conversations like these are the
+kind of things you have a you know a
+drink and you're like what do you think
+man? Like so philosophically they're
+fascinating to discuss and I I do think
+over time more and more people are going
+to become convinced they are. I mean
+this goes back to 2023 when the Google
+researcher I forget the guy's name um
+but he was like fired from Google
+basically for believing this. So this
+isn't a new thing a new phenomenon but
+it's going to become more people are
+going to increasingly become convinced
+that they are
+>> they are in a relationship with these
+things or that these things have
+feelings and emotions and are aware of
+themselves which is in essence
+consciousness that they're aware of
+their own thoughts and things like that.
+>> Yeah. And to your point, it doesn't
+actually matter if only a small minority
+believes or considers this possibility.
+That small minority is in charge of one
+of the major labs like so
+>> going for a $2 trillion IPO.
+>> Oh yeah. Yeah. So whether you agree with
+it or not, it influences a lot of
+decisions. It's why I think you have
+some people like Jensen who just look
+crosseyed or a scance at this stuff and
+are like, "What are you talking about?
+This is co code. It's math. It's
+dangerous if you release unsafe products
+like the OpenAI researcher. Very valid
+points. These things can escape
+containment. They could be very unsafe
+because we're moving so fast. None of
+that has anything to do with the AI
+deciding because of its lived experience
+to break out and go do bad stuff or
+dangerous stuff. It's just so some
+people are looking at this being like,
+Daario and company, why are we talking
+about this and creating all this fear
+and commentary around this pie in the
+sky existential stuff like go figure out
+more guard rails for software.
+>> Yeah. But again, like they live in a
+bubble. Like they live in a bubble
+within a bubble. Like Silicon Valley is
+a bubble within the AI bubble.
+>> Um [clears throat] and they're they're
+often quite out of touch with the
+reality of like what's going on. And you
+know there was an A16Z I don't know if
+we talked about this or not but like
+they had uh venture capital firm they
+had posted on X uh a data point and I
+don't remember exactly where they got
+the data point I think it was their own
+research but only 2% of like US
+households pay for an AI subscription
+like the adoption rate is so low of
+usage of AI and so like yeah these AI
+leaders like live in this world where
+they're building these agents and
+they're approaching super intelligence
+And the average American citizen
+globally, it's probably lower, has no
+freaking clue what they're talking
+about. And then they like go and
+experience CL like, damn, this thing
+feels like it's a person. Like, what the
+hell am I talking to? And they they
+start having these emotional connections
+to it and they're like, wait a second,
+what is going on here? They're not
+listening to this podcast and like
+knowing there's debates about
+consciousness. They just have an
+experience and they're like, "That was
+weird." like it feels like the thing is
+a real thing and like it has feelings
+and and then they go about their lives
+thinking that the thing they're talking
+to is like a real thing and they never
+know any different. It I and I just
+think like Silicon Valley is just
+completely out of touch with the reality
+of the the users who are going to
+experience this technology who've never
+even experienced it yet.
+>> 100%. And just one really quick one
+tangible example of that that I've
+noticed a few times with people I know
+who don't follow this don't understand
+really technology which is fine it's
+just not their focus and they use these
+tools and I think memory and
+personalization is kind of like
+sometimes hacks people's brains like
+people I know will say like oh this
+model this is really scary or
+interesting or cool it knows what we
+talked about and they think like
+everyone's chat GPT knows that or the
+model itself is remembering. It's like,
+yes, it's impressive technology, but
+it's really just remembering your chats
+or it's even just referencing stuff in
+the same chat that you forgot you put in
+there. And and this has the perception
+of something that's almost grander or
+more conscious than it actually is.
+>> Yeah. The closest parallel might be
+people's experience with targeted ads if
+you think about it. Because how many
+people have you talked to like, "Oh, my
+AI is definitely listening to me. Like
+it's I got served this ad on Instagram
+and I didn't even search for it." like I
+only talked about it
+>> and they have no concept of how
+predictive models really work based on
+all your different behaviors and all the
+different data points that they buy from
+third party platforms, all this stuff.
+>> And I feel like AI might end up being a
+similar experience where someone's going
+to like turn on these agents and not
+even know they did it. And they're going
+to like it's going to have access to all
+of these things like their health and
+their email and their calendars and
+their social accounts and login to
+financial and then they're like, "How
+did my AI know to recommend that to me?
+How I didn't know I hadn't done this
+with my diet or and it's just going to
+be like this shock and awe moment where
+they think this thing is like sentient
+and in reality it's just a predictive
+model that has access to all your data
+but they're not going to know that and
+they're never going to know that and
+most people I talk to still have no idea
+how the ads work on Facebook. Yeah, I
+like that analogy a lot. All right, so
+this past week a demo of an AI product
+called Griffin spread pretty widely
+online. It went a little bit viral. Not
+always for the right reasons. What this
+is, it looks like an ordinary video call
+with a person, an on-screen person
+smiles and reacts while the other person
+is still speaking. The person on the
+other end answers without any pauses or
+anything. It's a natural conversation,
+but the person's face, voice, and
+gestures are generated by AI in real
+time, which is why this is starting to
+kind of impress and rattle people. The
+usual cues that someone is on the other
+end of a video call and is AI have now
+become less reliable. It seems like this
+product is extremely realistic. So the
+company behind this is called Tavis and
+they call Griffin the first quote human
+interaction model and they claim it's
+passed what the company calls
+essentially a real time video touring
+test. Meaning like you can't really tell
+this thing is not a human. So, the
+company says Griffin can watch, listen,
+speak, and generate videos
+simultaneously rather than waiting for
+someone to finish talking. It can keep
+listening while it speaks, nod along,
+respond to interruptions, and use facial
+expressions and gestures to guide the
+conversation. And Tavis says in their
+own study, 26 of 54 participants, 48%
+believed they had spoken to a real
+person after a one minute video call
+with their model or their version of
+this called Griffin Light. Participants
+had been told they would be talking with
+another participant and were informed
+afterwards that it was AI. So, Griffin
+Light is available as a research preview
+for selected trusted testers rather than
+for customers. Tavis says more safety
+work is needed because this obviously
+can be misused and lead to some
+dangerous outcomes. So, Paul, I'm
+curious like what you thought of this.
+This certainly got some buzz online and
+even to our previous conversation, this
+is the kind of thing where you release
+this to your average person. And it's
+like, wait a second. How on earth is
+this technology not real and conscious
+and human?
+>> Yeah. It um
+inevitable doesn't mean I like it or I
+think it should exist. Like there's just
+you're going to come up with all these
+like business cases for why it should
+exist and they'll make it sound all
+positive and like this has all these
+broad, you know, good things for
+society. Like they always do. There's
+always positive elements of it. This is
+one you look at and think the negatives
+of this technology are so far beyond any
+like good it could do in society. Um
+especially once this capability you know
+one to two years out is available
+through openw weight models and anybody
+can do this and fake things. Um, the
+first thing I come to is like this is
+the the Turing test is video. Like 48%
+of people believing they're interacting
+with a again going back to the 1950s and
+the whole field of artificial
+intelligence and the Turing test being
+you have an interaction with a chatbot
+and don't know if it's a human or not
+was like the basic concept of the Turing
+test. Um, an important concept just from
+a scientific perspective. The typical
+pause between speakers when humans talk
+to each other is 200 milliseconds and
+that's across you almost all languages
+and cultures. Anything under 300
+milliseconds feels completely natural
+and instantaneous. Two years ago with
+voice models from Google, OpenAI, and
+others, we still weren't at that under
+300 mill um millisecond threshold for
+voice.
+>> Yeah.
+>> Now all of a sudden you're there with
+voice and video that crosses over the
+chasm. Like it now makes it to where you
+just truly can't tell whether the
+interactions are real. Anything in the 3
+to 500 milliseconds feels awkward. Like
+you're like, "Ah, something's off here."
+Anything over 500 milliseconds, the
+listener starts to wonder like, "Did did
+I lose the call? Did they freeze?" Like,
+"What's going on?" Um, so yeah, I mean,
+we are squarely into the realm where
+there's going to be lots of companies
+that have the ability to produce audio
+and video under the 300 millisecond
+threshold. that feels very real and it
+becomes harder and harder to know if
+what you're interacting with is actually
+a person.
+>> It is so funny as someone who's a
+science fiction fan in every science
+fiction book. It feels like from the 80s
+or 90s or early 2000s when they talk
+about futures with AI, there's always
+this big moment where AI like, oh shoot,
+it passed the touring test. Now we have
+like super intell and now it's just like
+this is like a random news item. Yeah,
+it's like the last item on our main
+topics for the week.
+>> Yeah. Yeah. Yeah. [laughter] It's
+interesting how quickly we become
+comfortable with science fiction like
+future.
+>> My guess is that OpenAI and Google both
+have this capability and probably have
+had it for well over a year,
+>> but probably saw no societal good to
+release it. Um, and this could create
+that pressure to do it if they think
+there's a market for it. If they think
+it can justify the trillions of dollars
+in valuation, then you could all of a
+sudden see this technology flood the
+market. [clears throat]
+>> All right, next up we have our AI use
+case spotlight segment where every week
+we give you a quick look under the hood
+at some real AI use cases we're
+exploring. So Paul, I've got one real
+quick. I'll let you share anything
+you've been working on here. Um, just
+very quickly, I've been deep, deep, deep
+into prepping, including deeply over
+this weekend uh for MCON. One thing I'm
+doing is a workshop at MCON. This is a
+workshop on Google Gemini. So, kind of
+going deep on the tool, the tools, their
+capabilities, and showing a lot of
+capabilities via demos. Now, one really
+cool thing I experimented with is GPT6
+Astra can actually go into a tool, give
+it you give it a go and say, "Hey, I'd
+like you to explore different features
+in this tool. click around and maybe
+even do a little demo for me. And Astra,
+it's slow. It takes a lot of tokens to
+do it. Can actually go into the
+interface using computer use or browser
+use, figure out how the tool works, try
+some tasks. It can teach me what it
+learns. I could ask where a feature
+lives, have it show me, watch it test
+whether a feature does what we expect or
+not. So, it's literally AI using AI,
+which feels a little sci-fi. It's kind
+of fun. I just started testing like,
+hey, here's kind of the demo I would
+love to share. Can you go architect that
+and actually go ahead and do it within a
+various tool? I obviously do all the
+demos myself. I'm going to do some
+things probably live during the
+workshop. This was more experiments, but
+it was pretty cool to see what might
+soon be possible. If these models work
+much faster and are more token
+efficient, you can have AI using AI
+tools for you and literally showing you
+and teaching you as you go, which is
+super super cool. It was really fun,
+too. I actually had it test out filming
+a demo for me and then actually editing
+the video itself, which it was able to
+do using a little open- source software,
+too. Again, none of this is cheap or
+token efficient, so buyer beware. But
+again, you're like, "Wow, I am bad at
+this stuff anyway. I am slow at this
+stuff anyway. I'm probably not the right
+person to be doing this stuff anyway."
+It's real fascinating to see what I can
+now do using simple comput, not simple,
+but like just basic computer use and
+browser usage. Again, I harp on this so
+far every week, but ignore these at your
+peril. There's some really interesting
+stuff you can start doing with these
+tools.
+>> That's awesome. Yeah, I'll mine is one
+of mine's kind of related to Mon also.
+So, I'll get I'll give two. They're both
+graphic design related. So, one um you
+know, I announced the AI transformation
+blueprint book that we're dropping next
+week at MCON. I shared I got the first
+copy last week, the first printer proof
+last week. And so, I posted on LinkedIn
+a picture of the cover and I a number of
+people commented that they really like
+the cover. So the backstory to the cover
+is I actually intended to write a book
+called Omni Intelligence last year. And
+the idea of Omni Intelligence is that we
+were entering the age where AI was just
+going to be everywhere. It's going to be
+infused into everything we did. And so
+when I was designing the concept for
+that cover, I actually thought about the
+Big Bang and the origin of everything
+and then how quickly everything spread
+and all of a sudden we got the universe
+we had. I'm a space geek, so I think of
+everything. Like the logo for Smarter X
+is actually a black hole because time
+dilates near a black hole and I wanted
+AI to expand time for me. Um, so uh, so
+yeah, so the I designed this cover with
+this like amazing blue and I I used at
+the time Gemini and Chad GPT to like
+develop a prototype of the cover for the
+intelligence explosion and the spread
+throughout the universe. And so when I
+had to create the book because as I told
+the story I think last week, I decided
+to write this book in like a 30-day time
+period that's coming out at MCON. And so
+I didn't have time to go through the
+traditional graphic design of designing
+a cover. Like sometimes that takes
+longer than writing the book itself. So
+in this case, Tracy, our COO, she was
+like, um, we need a cover by like
+tomorrow. Do you have any ideas? And I
+said, well, I really loved this cover. I
+designed last year for the omni
+intelligence idea. Is there something we
+could do with this? So Tracy took that
+concept, put it into chat GPT and she
+starts going through a bunch of prompts
+adapting it to fit the blueprint theme
+because to me the intelligence explosion
+is still what's the reason behind why we
+need to rethink business and
+transformation and how we evaluate it,
+how we measure it. And so I was like,
+let's just run with it cuz I love the
+cover. And so it took a bunch of
+iterations and then we actually turned
+it over to a human graphic designer um
+to edit. But like that led to the book
+cover. That's how we did it. So it was a
+human-led process but with heavy AI
+involvement. The other thing I haven't
+done yet but I'm planning to do later
+today is I'm finishing up my opening
+keynote for MCON. And I have a pretty
+specific like design style when I create
+my presentations. They all kind of
+roughly look the same. I evolved them a
+little bit over time but um they're not
+great. I'm not a graphic designer. So
+like they're they are what they are. So
+my thought is I'm going to finish my
+deck as I would normally like this is
+the version I would present at MCON but
+I'm then going to give it to Claude and
+to Chat GPT and say here's the premise
+I'm doing this talk I'm not a graphic
+designer like make this thing amazing
+like make it pop make it powerful and
+then see what they come back with and
+I'll I'll report back whether I use
+anything they give me but that's one way
+I'm thinking about using AI this week.
+>> That's awesome. I love that. All right,
+final topic for this week as we close
+out are our AI product and funding
+updates. So, I'm just going to rapid
+fire through these and we'll close out
+this week's episode. So, first up,
+Anthropic released Claude Sonnet 5.5
+saying it generates responses at least
+30% faster than Sonnet 5 and costs up to
+30% less per task by using fewer tokens
+while keeping API prices at $2 per
+million input tokens and 10 million $10
+per million output tokens. Meta launched
+Muse for small business. They're
+expanding the personal AI agent they
+have with connectors for systems like
+Shopify, QuickBooks, Slack, and Facebook
+and Instagram business accounts. These
+are designed to help with marketing,
+financial reviews, and everyday work.
+[laughter] At the same time, Inc. tech
+columnist Jason Aten said that Mu Meta's
+Muse actually accessed his Apple
+messages despite his belief that he had
+blocked that access. So he reported on
+it kind of overstepping its boundaries.
+A meta executive got involved and
+responded suggesting that he actually
+had the wrong settings enabled. He had
+enabled the required settings. Um so
+jury is still out on that but kind of an
+interesting unintended consequences of
+agents. The chip company AMD has agreed
+to acquire World Labs, the spatial AI
+company co-founded by Fay Lee, who we've
+talked about before. Kind of a godmother
+of AI. Uh this company builds
+interactive 3D environments. The deal is
+an all stock deal valued at
+approximately $ 8.2 billion that is
+expected to close by the end of 2026
+subjected to regulatory approval. Paul,
+you alluded to this one. Apple said it
+will tighten Mac OS full disk access
+controls so apps receive broad access to
+files, mail, messages, and browsing
+history only after explicit user action.
+They are citing directly the growing
+risk from autonomous AI agents. And
+finally, Axios reports that the Nvidia
+startup Reflection is preparing an
+openweight AI model that is expected to
+compete with leading Chinese openweight
+models. And as one quick final reminder
+here, our AI pulse survey is live. We
+would love to hear from you if you have
+not done that yet at.pulse.
+We would love for you to take the
+survey. It literally takes 10 seconds to
+give us your answer on this week's
+question about what outcomes you're
+trying to achieve with AI. So Paul,
+that's all we got this week. Lots to
+cover. Appreciate you breaking it down
+for us.
+>> Yeah. And one final note on Mayon. If
+you're going to be in Cleveland next
+week, definitely stop by, say hello,
+check out the agenda, see what Mike and
+I are going to be doing, the live
+version of this. And then if I'm not
+mistaken, Mike, and again, this shows
+you how like I'm just sort of in it
+right now with Mcon. I believe you and I
+are doing the closing keynote podcast
+style.
+>> We are. We are. So,
+>> I don't think I have to prepare anything
+for that other than show up and do what
+we do. But, um, yeah. So, if you're a
+podcast listener, you get the private
+lunch. There's a live recording of the
+podcast. And then Mike and I are doing
+podcast style recap of the event as the
+closing keynote at MCON. Um, stop by and
+say hi. Like even if it's just in
+passing, we love to meet and hear from
+our podcast listeners. So, if you're
+going to be in Cleveland, uh, we look
+forward to seeing you there. Um, if
+you're not, stay tuned. and we'll be,
+you know, we'll be back uh the following
+week with our regular episodes, which
+although I'm going to be in California,
+so we're going to have to figure out how
+to record that, but we'll figure that
+out. We'll worry about that later. We
+got to get through this week. All right,
+thanks everyone. Uh we appreciate it,
+Mike. Great job as always. And have a
+great week. Thanks for listening to the
+artificial intelligence show. Visit
+smarterx.ai to continue on your AI
+learning journey. and join more than
+100,000 professionals and [music]
+business leaders who have subscribed to
+our weekly newsletters, downloaded AI
+blueprints, [music] attended virtual and
+in-person events, taken online AI
+courses, and earned professional
+certificates from our AI academy, and
+engaged in the Smarter [music] X Slack
+community. Until next time, stay curious
+and explore AI.

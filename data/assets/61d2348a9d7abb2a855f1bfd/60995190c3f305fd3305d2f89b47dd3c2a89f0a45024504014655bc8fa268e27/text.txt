@@ -1,0 +1,27 @@
+There are many AI tools to help build presentations or slide decks. We’ve experimented with many of them and found some are pretty good, others are generic or pretty awful. 
+Often, we come back to doing much of the work manually.
+But when we recently used OpenAI’s GPT-6 Astra (and its computer use capabilities) to build a presentation deck directly inside Keynote, the result was pretty incredible. (Computer use means the model can work inside an app, click through it, and take actions on your computer.)
+AI got roughly 80% of the way there on the first build inside Keynote. It handled sizing, alignment, formatting, issues that it didn’t always get right in earlier AI experiments or took hours of human time to do.
+What remained, the 20% needed to finish the project, required creative judgment from a human: the slides that required a special touch or the narrative that needed expert editing.
+It’s important to remember: AI accelerates the build. Humans elevate the result.
+The goal is spend more time on the thinking behind the presentation and the script, and less time on formatting and nitty-gritty fixes on individual slides. Tools such as Astra are getting us closer to that.
+A Step-by-Step Approach
+For our use case experiment, we started with a full outline, a bunch of research, and some preliminary narratives and scripts that were all human-created and illustrated the overall content and direction. Then we followed these steps:
+Step 1: Define your aesthetic first
+A clear aesthetic is needed to avoid a generic-looking presentation. We gave it guidance on logos, branding, and examples of preferred slides. It took a lot of back and forth to get the look right. Spending this much time, every time, doesn’t make sense, so it's important to create a reusable skill or template once you get the aesthetic right.
+We recommend establishing a reusable prompt, document or skill to use next time.
+Step 2: Give AI structure, not a blank slate
+AI performs dramatically better when you bring organized material to the session, not a vague brief. For a presentation, that means having your outline, key points or full script mapped out before you ask AI to build anything. We used a script.
+Step 3: Let AI handle the first build
+With your aesthetic defined and your content structured, watch what Astra does, where you can literally observe it working inside Keynote. Note what it got right and what it missed. It’s fascinating to watch.
+Step 4: Apply your judgment to the final 20%
+This is where the human touch comes in. Review the draft against your brand standards, your audience's expectations, and your own creative instincts. Identify what needs a human touch and spend your time there.
+Step 5: Capture what you learn for next time.
+The real long-term value of this process isn't the asset you just built but what you learned about working with AI to build it. Pay attention to what made the biggest difference. Over time, this becomes an institutional capability. Teams that document their AI workflows get dramatically better results than teams that start from scratch every time.
+You can also apply your learning to other apps that Astra can work inside.
+One Big Caveat
+Employing computer-use agents such as GPT-6 Astra to click through desktop apps — in this case, Keynote — burns through a lot of tokens, making it potentially expensive. Be aware that using these capabilities can lead to extra costs, so it might not be right to use this often in the current token-pricing environment. But it is a good experiment to run and understand AI’s advancing capabilities, as well as demonstrate what's possible within your other apps.
+This post draws on the AI Use Case Spotlight segment of Episode 239 of The Artificial Intelligence Show, hosted by Paul Roetzer and Mike Kaput. To listen to the full Episode 239 of The Artificial Intelligence podcast, visit: https://podcast.smarterx.ai/shownotes/239
+For more on building AI-ready marketing teams, explore AI Academy at academy.smarterx.ai.
+Mike Kaput
+Mike Kaput is the Chief Content Officer at SmarterX and a leading voice on the application of AI in business. He is the co-author of Marketing Artificial Intelligence and co-host of The Artificial Intelligence Show podcast.

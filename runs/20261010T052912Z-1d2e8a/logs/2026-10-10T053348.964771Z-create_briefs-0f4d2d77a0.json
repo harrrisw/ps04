@@ -1,0 +1,31 @@
+{
+  "stage": "create_briefs",
+  "status": "failed",
+  "input_count": 39,
+  "output_count": 0,
+  "started_at": "2026-10-10T05:33:48.964771Z",
+  "finished_at": "2026-10-10T05:35:21.927944Z",
+  "tools": [
+    "python",
+    "codex"
+  ],
+  "models": [
+    "gpt-6.1-sol"
+  ],
+  "cost_usd": null,
+  "cost_is_estimate": false,
+  "errors": [
+    "Invalid briefs: [{'artifact': '01-C02', 'severity': 'error', 'explanation': 'Decision does not assign this item to this piece'}, {'artifact': '01-C04', 'severity': 'error', 'explanation': 'Decision does not assign this item to this piece'}]"
+  ],
+  "notes": [],
+  "usage": [
+    {
+      "input_tokens": 93991,
+      "cached_input_tokens": 0,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 4276,
+      "reasoning_output_tokens": 101
+    }
+  ],
+  "elapsed_seconds": 92.953
+}

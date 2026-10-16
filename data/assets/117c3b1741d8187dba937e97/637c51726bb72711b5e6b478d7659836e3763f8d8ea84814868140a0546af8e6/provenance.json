@@ -1,0 +1,21 @@
+{
+  "item_id": "feed:5249679bff53ff0ef61fb9fc",
+  "source_id": "techcrunch-ai-written",
+  "publisher_id": "techcrunch",
+  "kind": "feed",
+  "title": "Meta launches an open-weight AI model that runs on Macs",
+  "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs",
+  "published_at": "2026-10-15T20:04:53Z",
+  "retrieved_at": "2026-10-16T04:21:06.438229Z",
+  "media_url": null,
+  "native_id": "https://techcrunch.com/?p=3178309",
+  "underlying_id": "feed:5249679bff53ff0ef61fb9fc",
+  "original_publication_basis": "feed published field",
+  "transcript_url": null,
+  "transcript_type": null,
+  "download_hash": "6a1097da17f0f6b003dbe627f4dd369955c6248d3886be09f2a1f00a082be3cd",
+  "content_hash": "a8fdcf2eb5bd6ad522416f7f0bc63b9ab1557ff2a0c6cde3c32d7910e1bf2e77",
+  "version_id": "637c51726bb72711b5e6b478d7659836e3763f8d8ea84814868140a0546af8e6",
+  "text_path": "data/assets/117c3b1741d8187dba937e97/637c51726bb72711b5e6b478d7659836e3763f8d8ea84814868140a0546af8e6/text.txt",
+  "segments_path": null
+}

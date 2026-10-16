@@ -1,0 +1,66 @@
+[
+  {
+    "source_id": "marketing-ai-written",
+    "publisher_id": "marketing-ai-institute",
+    "kind": "feed",
+    "url": "https://www.marketingaiinstitute.com/blog/rss.xml",
+    "max_items": 10,
+    "perspective": "AI practitioner education; commercial training and event incentives"
+  },
+  {
+    "source_id": "quantilope-written",
+    "publisher_id": "quantilope",
+    "kind": "feed",
+    "url": "https://www.quantilope.com/resources/rss.xml",
+    "max_items": 10,
+    "perspective": "Research platform vendor; product claims require independent scrutiny"
+  },
+  {
+    "source_id": "crayon-written",
+    "publisher_id": "crayon",
+    "kind": "feed",
+    "url": "https://www.crayon.co/blog/rss.xml",
+    "max_items": 10,
+    "perspective": "Competitive intelligence vendor; assess transfer to small businesses"
+  },
+  {
+    "source_id": "strat7-written",
+    "publisher_id": "strat7",
+    "kind": "feed",
+    "url": "https://strat7.com/feed/",
+    "max_items": 10,
+    "perspective": "Research consultancy; professional experience and commercial incentives"
+  },
+  {
+    "source_id": "techcrunch-ai-written",
+    "publisher_id": "techcrunch",
+    "kind": "feed",
+    "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "max_items": 10,
+    "perspective": "Technology journalism; reject general AI stories unrelated to market research"
+  },
+  {
+    "source_id": "insight-platforms-video",
+    "publisher_id": "insight-platforms",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/@InsightPlatforms/videos",
+    "max_items": 3,
+    "perspective": "Research technology demonstrations; sponsored/vendor presentations are source claims"
+  },
+  {
+    "source_id": "marketing-ai-video",
+    "publisher_id": "marketing-ai-institute",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/@MarketingAIInstitute/videos",
+    "max_items": 3,
+    "perspective": "Same publisher as marketing-ai-written; not an additional independent source"
+  },
+  {
+    "source_id": "greenbook-podcast",
+    "publisher_id": "greenbook",
+    "kind": "podcast",
+    "url": "https://feeds.captivate.fm/greenbook/",
+    "max_items": 4,
+    "perspective": "Research practitioner interviews; industry sponsorship and guest incentives"
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "publication_name": "The Small Business Research Brief",
+  "topic": "AI tools for customer, competitor, and market research on a small-business budget",
+  "audience": "Market researchers, marketing generalists, and owners at small businesses who know basic research methods but have limited time, budget, and technical support",
+  "central_question": "Where can AI research tools save small businesses time while producing evidence reliable enough to guide decisions?",
+  "scope": "Desk research, competitor monitoring, customer-feedback analysis, interview and survey synthesis; assess traceability, accuracy, cost, and practical effort. English-language sources with explicit geographic limitations.",
+  "exclusions": "Generic content creation, enterprise-only procurement, unsupported ROI claims, synthetic respondents presented as real customer evidence, and investment advice",
+  "voice": "Practical, accessible, analytically skeptical, specific about evidence and uncertainty",
+  "return_value": "A repeatable check on which new capabilities merit a small pilot and which claims still need validation",
+  "deadline": "2026-10-13",
+  "video_tool": "Google Vids",
+  "ai": {
+    "provider": "parley",
+    "model": "gpt-5.4-mini",
+    "timeout_seconds": 600,
+    "selection_batch_size": 4,
+    "max_evidence_chars_per_item": 16000,
+    "allow_paid_api": false
+  },
+  "collection": {
+    "max_media_mb": 150,
+    "allow_local_transcription": true,
+    "whisper_model": "base.en",
+    "youtube_transcript_mode": "local",
+    "refresh_media": false
+  }
+}

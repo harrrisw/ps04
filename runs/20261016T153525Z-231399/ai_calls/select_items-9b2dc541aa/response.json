@@ -1,0 +1,36 @@
+{
+  "decisions": [
+    {
+      "item_id": "feed:ee82a3e5fba61499f9fff7d8",
+      "version_id": "d3182546d74c2eeefa094e8b09a205d964fddb8e359508af0c3c35830c588892",
+      "decision": "reject",
+      "reason": "Relevant only in a very indirect, generic way: it is an event promo about adapting to AI in marketing, not an inspectable development about customer, competitor, or market research workflows for small businesses. Credibility is limited because it is a publisher-written promotional article about a conference session, with attributed opinions rather than methods or evidence. The piece offers no testable workflow, no data, and no performance evaluation; it also appears tied to a commercial event/promotion, so it adds marketing incentive without independent verification. No cross-post evidence here, but it does not materially support the brief.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:f072398f0cfdb133e7fbf93b",
+      "version_id": "856f2d93bf816515b4eb24d6294b890c9636894c63f967770e4252ae30400dec",
+      "decision": "reject",
+      "reason": "This is a consumer-device launch story, not a development about small-business research tools for desk research, competitor monitoring, feedback analysis, or interview/survey synthesis. Credibility is that of a standard news report on vendor announcements, but the item is driven by commercial product promotion and gives no methods, independent evaluation, or relevance to research workflows. The capability claims about note-taking and summaries are not evidence of research utility or accuracy, and there is no basis for the brief's central question.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:fdc58440adda72585d816c38",
+      "version_id": "f944c7db7465bfb15e0851f830bb2cb0fcd7ffea938af7c18a1a964a6bd1c8ac",
+      "decision": "reject",
+      "reason": "The article is a broad brand-strategy opinion piece about premium positioning, not AI tools or research methods. It has low relevance to the brief's question and provides no inspectable workflow, dataset, or evaluation. Credibility is limited by its consultancy framing and commercial incentive to promote advisory services; the claims about brand turnarounds and market behavior are unsupported by methods in the text. No useful uncertainty-resolving evidence for small-business research decisions.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "podcast:95a7820fb4dff4d6701109d0",
+      "version_id": "db56f4878ec9a2cf083fedbf093bbac38a9cdfef517ce02083e03dec97fcadaf",
+      "decision": "accept",
+      "reason": "This is directly relevant: it describes a retail data/AI platform that exposes planogram and shelf-space data to brands, plus an AI query layer for questions like what changed, where to launch, and what to delist. That connects to competitor and market research tasks, especially shelf monitoring and retail assortment analysis. Credibility is moderate: the source is a practitioner interview with clear first-person descriptions and detailed segments, but it is still a vendor-affiliated conversation about its own product, so the capabilities are attributed rather than independently verified. Uncertainty remains about actual accuracy, completeness, and small-business cost/effort because no methods, validation study, baseline comparison, or pricing are provided; the audience-favorite/industry-impact awards flag interest but do not verify effectiveness. Potential cross-post/ownership ambiguity is also present because the podcast transcript notes a name change (VST/Boson/Aizen) and is audio-transcribed, so quoted passages should be verified against the recording. Relevant piece_ids: [\"01\",\"02\",\"03\"].",
+      "piece_ids": [
+        "01",
+        "02",
+        "03"
+      ]
+    }
+  ]
+}

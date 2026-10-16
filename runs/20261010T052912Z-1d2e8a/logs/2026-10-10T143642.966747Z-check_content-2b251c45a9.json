@@ -1,0 +1,17 @@
+{
+  "stage": "check_content",
+  "status": "completed",
+  "input_count": 4,
+  "output_count": 1,
+  "started_at": "2026-10-10T14:36:42.966747Z",
+  "finished_at": "2026-10-10T14:36:44.116472Z",
+  "tools": [
+    "python"
+  ],
+  "models": [],
+  "cost_usd": 0,
+  "cost_is_estimate": false,
+  "errors": [],
+  "notes": [],
+  "elapsed_seconds": 1.156
+}

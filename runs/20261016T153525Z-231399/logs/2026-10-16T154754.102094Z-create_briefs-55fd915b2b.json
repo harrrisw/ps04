@@ -1,0 +1,20 @@
+{
+  "stage": "create_briefs",
+  "status": "completed",
+  "input_count": 3,
+  "output_count": 3,
+  "started_at": "2026-10-16T15:47:54.102094Z",
+  "finished_at": "2026-10-16T15:47:54.124314Z",
+  "tools": [
+    "python",
+    "assistant_editorial_correction"
+  ],
+  "models": [],
+  "cost_usd": 0,
+  "cost_is_estimate": false,
+  "errors": [],
+  "notes": [
+    "Assistant repaired invalid/misattributed citations and narrowed claims; source response preserved in runs\\20261016T153525Z-231399\\ai_calls\\create_briefs_repair-14f349c4de\\response.json. This is not an unattended model success or student approval. See assistant_edits/brief_repair/README.md."
+  ],
+  "elapsed_seconds": 0.015
+}

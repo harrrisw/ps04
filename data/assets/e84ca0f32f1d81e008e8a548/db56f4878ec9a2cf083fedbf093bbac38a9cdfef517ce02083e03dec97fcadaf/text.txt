@@ -1,0 +1,457 @@
+Hello, everybody, welcome to another episode of the Green Book Podcast. I'm Karen Lynch.
+I'm happy to be hosting today. And on this episode, we're going to be talking about two
+individuals who are part of an organization, well, it's now called Boson. It was the VST
+trials that you might know them as, but they were critical to securing the win at IEX Europe,
+a double win, actually, in the Insight Innovation Competition. So we're joined by Charlotte Kittle
+and Yasmin Sinusi. And they, again, took to the stage, did their startup pitch and walked away
+with two different awards, both the Audience Favorite Award and the Industry Impact Award.
+I'll explain a little bit about what those are, just momentarily, but first I want to just take a
+minute and welcome them both to the show and allow them both to introduce themselves to you,
+kind of what their role is. I'm going to stop there for a minute and say welcome to the Green
+Book Podcast, ladies. Thank you, Karen. I'm Charlotte, obviously. And I head up the Insight
+part of Boson, as it is now. It's difficult to remember the new name. So yeah, my background
+actually is all in market research. Well, the Insight world. I'm done a lot of big stint in
+communications, innovation, and then retail and moving to Boson was very much about me moving
+into the tech world, but still retaining quite a lot of insight and can retail part of my job,
+which I loved. I'll hand over to you, Yasmin. And I work with Charlotte, so my name is Yasmin.
+And I work with her on the Insight team. It's been amazing just to learn from Charlotte with all
+the experience that she's just mentioned. I also work on the client side with another tool that
+we have as well. So it's been great to kind of get both sides of Insight, but also the client success
+of it as well. Yeah, I love that it's amazing. And I went to Boson. So thank you for correcting me
+right from the beginning without really correcting me. You're both so subtle about that.
+So normally I say in the very beginning, let's make sure I've got the pronunciation right,
+and yet I totally took for granted that I knew how to pronounce the name. So anyway, I'm so glad
+you're both here. I don't know who wants to kind of take this one, but for listeners who aren't very
+familiar with the company, let's just talk about, you know, what the company does, kind of what
+problem it solves because that will set the stage to actually what you pitched on stage and why
+kind of the new kind of the, you know, how you leveled up and why it did, you know, secure such
+win. Yeah, so, Vazin, as it is now, yeah, and I found it really difficult when I was learning
+the pitch, this phrase, like, you know, we'll attest to this. I spent a lot of time saying it
+that we are a retail data AI platform. And what that means in essence is that we care a lot about
+planograms, which is about shelf data. So where product sit on shelf, how much space they take up,
+how that changes, how we can weak, how we can influence those types of decisions with retailers
+and shoppers. So I guess our reason for being, and we spoke a bit about this in the pitch,
+is that there's this huge data set, a planogram data set, essentially, that all retailers have.
+And brands want access to it, essentially. And we have kind of recognized that. And so what we do
+is work with retailers to take their big data sets. And we've created a kind of data infrastructure
+out of which we have developed a number of tools, which allows brands to access
+a bit of planogram data. So you can either access it, you know, from a understanding what's on shelves
+right now. So you can say, I'm interested in what's on Kroger's shelf in Ohio, I don't know,
+and you can access that piece of data. So you can say the here and now versus the past,
+we can visualize things with people, we, Jals and I spent a lot of time testing new ideas from brands,
+which is super interesting and like very relevant to the insight world. And then, and we'll talk,
+probably talk about this in a bit more detail, but we've added this Ask Vase and layer, where we
+have all of that data, which you can then use your own AI, but essentially the brands can access it
+using their own AI tools to ask it questions like, where's the space on shelf for me to launch
+when you product, what should I D list, what's changed in different places. So I think you,
+you summed up really well in Amsterdam when it was about kind of, we've taken something that
+hides in plain sight and made it accessible to brands. Yeah. And I think that's exactly it.
+For those of you listening, the industry impact award is given up by Green Book. So at each event,
+this year, we started to award three different awards. There's the experts choice award, which
+is given by the panel of the judges that review all of the applicants to the inside innovation
+competition. And then they, they choose the top five and then the top five pitch for the inside
+innovation competition on, you know, live at the event. And then the judges then choose from that,
+those top five, you know, which ones they deem as sort of the, the, like this, what they deem as
+maybe an investable scalable idea from, from that mindset, you know, they're kind of thinking about
+who would they, who went they back financially. Then there's the audience favorite award, you
+know, that's kind of crowdsourcing. And when we can't get into their minds necessarily,
+we imagine it has to do with what's resonating with the audience, like what they either are like,
+that would work for me, or I can see the use cases for that, or gosh, I like their stage presence,
+they told a good story, or they really convicted me. We're not really sure what the crowd is looking
+for. But that was one of the awards that you won was audience favorite. But the industry impact award,
+you know, green book is looking for something that we believe really will impact the future of
+insights or is addressing an immediate need that we are tapped into by being tapped into the industry
+the way we are. And yeah, hiding in plain sight, you know, we, we, in my experience, I'll talk from
+my own experience first. I have a background, qualitative researcher, many of my clients, if not,
+I would say 90% of them were CPG brands who were sold in retail establishments, you know,
+whether it was Kroger or anybody in the, you know, in any family of retail shops.
+Fred Meyer, all of the large, all of the large chains, I'll just stay there. And they
+we looked at planet grams a lot, right? A lot of decisions were made, whether it was in the
+supplement business or the food and beverage business, or the, you know, snack business,
+you know, a lot of decisions were made about packaged packages, what size package, where can we
+fit, how can we get, how can we get attention, or are we going to be on end caps, where are we going
+to have this type of promotion, and planet grams were a part of their daily lives when you were on
+a brand team. It was, it was one of the, again, daily facets of a brand manager's life was looking
+at planet gram data. So it was, when I saw you take the stage, I was like, oh, now that's an immediate
+use case. And so when we talked about it at Green Book, the day, you know, the night of the
+pitches, the event ends, we go into a room with closed stores, we talk about all the pitches.
+That was really what it was, is like, this is something that it's like, this data exists,
+this need is strong, present, today they solved an immediate need, and it was visible, and all
+that information's right there, and you made it really usable for immediate decision making. So
+that is what we saw, anyway, that is, that is why we deemed it sort of worthy. So congratulations
+again, and we are really glad that the audience saw it as well, and we can just imagine that they
+were kind of with us, at least that's what we thought. So take me to that moment, that's what we
+thought, what were you thinking when you kind of won the double honor in that moment, when we
+announced it the next day? It was such an honor. I don't think, Charlotte, I mean, to what you
+think, but I don't think we expected to win both. It definitely was amazing to be up there after
+so many amazing teams, or, you know, before or after them. And the two awards meant two very
+different things, like you kind of spoke about, I think it was really nice to get the audience
+favorite, just because maybe they saw the value in that, and hopefully also liked our pitch too,
+and how he presented it. But they could see like, you know, people who, like you said,
+your clients who work in the industry, it saves them time. And I think a lot of these teams are
+really looking to save time at the end of the day, because there's a lot of data, Charlotte,
+mentioned to work with. And then industry impact, we do feel, obviously, you saw the
+pain that these people are probably feeling on a day-to-day basis, and to be able to help them
+was amazing. But also, I guess for the team, I wired a team of Aizen. I think it's everyone's
+working really hard to help people in the industry use this data and get the most out of it. So I
+think it was a nice win for all of us. Yeah, wonderful. Well, yes, congratulations again. So
+let's talk about the Aizen. The elephant in the room for us is Aizen. So here we are, for those of
+you listening, again, this recording is happening in September. The event was June, and all of a
+sudden we went from VST to Aizen. So the rebrand happened in a few short months, even though it
+was probably in the works all along, because these things don't happen quickly. But let's talk about
+the name change. What prompted it? Give me the backstory and how it better reflects the work that
+you're doing. Yeah, it's interesting. It was very much in the works. And it was a conversation we
+had was, do we go as VST, or do we go as Aizen? Yeah, we decided that VST was the right thing to
+do, because that's how we had applied to it. And that's what we were known as, you know, within
+that kind of award. And VST stands for virtual store trials, right? So, and that's exactly what
+we were when we were set up eight years ago. Like we were set up much more to kind of test
+ideas on shelf and to, you know, to help brands influence retailers. And that is still a very core
+part of what we do. That's what Yasmin and I do every day. But the data part of the business has
+become much bigger and is growing really, really fast. And virtual store trials was really,
+as a name, much smaller than the product and the proposition was really becoming.
+And so we wanted to have a name that could encapsulate everything that we did and allow us
+to grow out of VST. And I think it was probably like we wanted a V, as still. And, you know,
+it just gave us the opportunity as well to relook at our look and feel and our brand colors,
+what we stood for, all of those different types of things. And the name probably is a
+more kind of technology name as well. It moves us from just, say, with a virtual commerce,
+because it's not just, like, but it takes us from insight to more than living within the inside world.
+Was there any kind of, you know, question from current clients, did you have any explaining
+to do? Were they fully on board? Did they get it? Yeah, like, interestingly, a lot of clients have
+just gone, all right, that's fine. Because, cool, because, I mean, there's a couple of things in there,
+like, nothing in reality has changed to any of our clients. Like, it is the same account team,
+it's the same product, really, it's the same terms and conditions with our address doesn't change.
+So the experience of who they interact with and the data they interact with hasn't changed.
+Really, the names caught up with the experience that they're having, if nothing else. So,
+we've had a couple where we've needed to, you know, send a letter to explain what we're doing
+from a legal perspective, but that's as far as it's gone. And I think it was the right time,
+because if we were bigger than this, then it becomes a, oh, right, I need to remember who it is,
+but actually now we can kind of, like, really just pour ourselves into the Bayesian name and
+create awareness around there. Yeah, that's great. That's great.
+So I want to dig into, you know, something that you said, which, again,
+you know, leads into the next part of this conversation and why this,
+why this product kind of jumped out at us and I'm imagining the audience. And there are,
+again, there were many brands in the audience in Europe this year in particular. So I imagine
+it spoke to them, but you were talking about, you know, part of what the brand needs to do and why
+they look at planogram data. So specifically, they need to convince retailers to give them shelf
+space and to give them not just shelf space, but the right shelf space or the most appealing shelf
+space, you know, eye level shelf space, you know, optimal shelf shelf space, if you will. And a lot
+of package design decisions are made based on where they're going to sit on the shelf. And there's,
+you know, one of the last projects that I worked on before I joined Green Book, it was, you know,
+there are trade offs of the cost of certain packages and the design there based on, well,
+if we do this size package, then we can't be in this area of the shelf. But if we do this size
+package, we can get to this area of the shelf, but it's not as optimal as this area of the shelf,
+and they won't move these packages unless we have this size package. I mean, it is so complex.
+And, and I think that a lot of people don't really know this, but I'm wondering if in this world
+right now and this level of intelligence that you're offering, is there something going on
+right now that makes it even more critical to have this kind of this data and this intelligence
+at their fingerprint fingertips like what is happening in the ecosystem, the retail ecosystem
+that is kind of driving this need at this moment?
+It's a, it's a really good question. And it's a super interesting time in retail right now.
+There's lots of sort of these big trends around, you hear that retailers don't actually make
+money from the food, they make money from the retail media they put in there. So the actual like
+making sure that they're making the profit from the products they have on the, on the
+fixture becomes more and more important. So retailers are looking at things like big
+range reviews all the time, but I think one of the big themes that we see is efficiency,
+which is coming through everywhere. So there's a lot of cuts coming through across categories,
+and so it's incredibly important at the moment for brands to know how much space is there.
+And we get a lot of questions around that macro space, how much space does dairy
+take and how much space do I take within my subset of dairy. You know, so the questions aren't
+really just about this small bit of shelf. It's actually about the larger aisle or even the larger
+kind of area in, in the supermarket. So I'd say yeah, it's really important because of the
+range cuts. I think which are coming through a lot. There's also a lot of reimagining
+what the shop, how the shopper shops. So we, how I recently, I'd say within the last year,
+I wouldn't say before now there's a reimagining away from categories and towards occasions.
+So if you imagine you go to a supermarket now, you're like, okay, cool. I have my chilled,
+I have my fresh, I have my ambient food, my frozen food, and my ambient food might be
+tins and then pouch, whatever it is. But actually the reimagination is dinner time, lunch time
+at home with my children. So all of those things, as you as a researcher must have spoken about an
+awful lot like these, these, these, these quite difficult ideas, I think for consumers and shoppers
+to think about. But actually that's how they do think. I, you know, I want something that I can
+bring my family together with. And I think advertising has done that so well for so long.
+And now I think retail is trying to catch up. And that is super hard. You think about the supply
+change, the space that this like does a can of beans go next to a can of soup. Like, what is it?
+What's it's with with what? So I think there's actually quite a lot of reimagining going on,
+which is difficult and difficult for brands to influence as well.
+And I think also there's there's like some quite big trends around premiumization,
+which you might have also seen in the US is like people are eating out less. And so they're looking
+for the eat in option within the supermarket. So again, you have to make space. And how do you
+make space to take out of your core and add premium product? Who's doing that? Is it the big brands
+doing it? They're a challenge of brands. So that's, sorry, this was probably absolutely loads of other
+things happening. But I think those are the things that we hear most about, that brands are
+really being asked, tasked by the retailers to really think about. And so they're not just influencing
+should I have a multi pack or a single pack now? It is, do we have products that really fit
+what shoppers really want? And I think that's where supermarkets or retailers are really then looking
+to make the range right, and then ultimately make a bit more money.
+Yeah, so much of my work was limited to again, package design is qualitative in nature. And it
+was largely on package design. And I did some, you know, some great eye tracking work with package
+design. And so this in my eyes were open to too much of this stuff. And so it was privy to
+backroom conversations and all of that. But my knowledge was limited. It didn't go into the data
+of it all, which is what I want to start to talk about next, because you're talking about data,
+right? So you're you're unlocking some data, and you're also bringing different data together. So talk
+about the data, all of the data points that you are bringing together, because that's that there's
+so much more in what you are offering than just what we're talking about. Yeah, share all the data
+points you're bringing together. So I can talk about it from like the retail data that we receive
+because that's the biggest source of data. And what the retailers share with us is
+for their whole estate, so every single shop that they have with any given geography, every week,
+they send us where every product sits. So imagine those are like one line of data each. That's like
+billions of lines of data we receive every week. But sounds very basic, like where something sits,
+but alongside that you get how many of them there are. So how many facings wide, facings high. So that
+gives you like an understanding of how much space they take up. You also get that. So I think we get
+all their dimensions, which is a very underestimated piece of data. Like who tells you about dimensions
+of products this data does not you try and go find that on the internet. It's so easy.
+We also get within that like understanding of like casing and trace or like merchandising
+like approaches by different categories. And then alongside that we also get transactional data.
+So we can understand from ultimately where it's planogram data, your distribution,
+like your true distribution as well, not just something as sold is something is on a shelf.
+You can look at how much has been sold and it's not at total estate. It's by plan as well. So you can
+say that like that's very interesting. Now alongside that they will the retailer will tell us the type
+of store is so is it a convenience store due to a really big store. So we can start to cut your data
+that way. You can cut your data by affluence. So is it a store in an affluent area versus a less
+affluent area. And then you can add to that as a brand all of your attributes. So if we take
+dairy again as an example, great. Okay, I know it's all yogurt. Well, is it health? Is it protein?
+Is it Greek? Is it shots? Is it whatever? So you get all of that data and then you as a brand can
+add all of your attributes. So even all that great data you get from the retailer can bring
+everybody to the same level. But where you as a brand can make it your own is that you overlay
+all of your attribute data, which we can do within our system as well. And then also coming into
+that system is like open source data. So things like weather, which again, really obvious. But
+what has in the UK, we've had a massive heatwave with a 5P missile. Yeah, yeah, of course. You
+expect water to go up as sales or whatever. But has space gone up? Or what has been linked
+to weather patterns, what has been linked to location patterns, all that kind of stuff. So
+it's a lot of data coming in. And what our engineering team have done a brilliant job at is
+consolidating that into a very specific way that they look at it. We don't look at it like that.
+We look at it through our app. We look at it in a much more, okay, to help show me the most common,
+like the most common planogram for dairy in the UK. And it pops up. We can look at it, we can
+analyze it, we can download it. It's an amazing source of data really. So for those of you who are
+audio only at the moment, the same thing is happening to me right now as happened to me
+when I was in Europe, I'm hanging on every word and I'm fascinated. So once again, it's happening
+again, because to me, my mind is mulling over the possibilities. I'm thinking, oh, imagine I am a
+dairy company and I'm trying to figure out if I'm making yogurt, small company making yogurt,
+I'm trying to figure out if I want to start making great yogurt, because I don't make
+yogurt right now, I can find out what kind of shelf space is allotted to the Greek yogurt
+in such and such an area. And I can also find out how much of it is moving in a specific area.
+And I can find out seasonal trends in a specific area in certain stores. I can get all of this data
+that is very specific and very usable if I even want to broach a new category.
+So it's driving category exploration, not just current brand exploration, am I right there?
+You are absolutely correct. And most of our clients are category people.
+And that was a real shift for me moving out of brand and into category was quite a shift.
+And I think like if we, what I just sort of explained, I realized is sort of the
+without the AI overlay, right, that's what you can do with just sort of looking at it yourself.
+But if you, if you were like you say, right, I'm interested in this dairy category and I want to
+launch a new product, you can say you could ask knowing the current trends, the current sales,
+where is where's the white space within this within what's it there? Now, what what AI is
+finds difficult to do is to go, all right, well, yeah, come up with the protein yogurt before it
+existed. Probably could have done that. But it could say, right, well, it's really interesting.
+There's no peach flavored one and it could start to like really give you ideas of where
+your current category could move. And the great thing about it with the AI overlay is that you
+can do that per planogram. So you could say in a one bay planogram, there's a real space for
+x, y, z. And in a six bay planogram, there's actually space for that times 10, you know, like,
+so your your recommendations to the retailer are not general. They're so super specific because
+it allows you to get to that level of detail. Yeah, it's really, you know, and again, I'm having
+the same kind of reaction that I was having in Europe, and I'm sure it's the same reaction that
+the audience had when they were listening to this. And I don't, I'm not just saying this, I don't
+know of anybody else doing any of this kind of work. It's a really unique business model and
+hats off to you and what your company is doing to both of you, really. You know, it is very,
+obviously, AI is enabling so much of the work that you do and so much of this analysis. And yet,
+you know, we're not really, we haven't mentioned that word yet, right? But we know that there's
+here we are. We haven't even talked about it yet. But but how, how, how are you approaching AI in
+such a way that it is just kind of up, you know, it's just sort of practical at this point. It's,
+it's not even, it's not even, it's not even part of a hype and part of the,
+it's not even what makes this great. And yet, it is power behind it, right? So how are you approaching
+it right now? I think everyone's being asked to use AI at the moment, but I think there's something
+that Charlotte mentioned in our pitch, you know, iX was the AI is only as good as the data that you
+give it. So it's really important that we're giving it, you know, the data and the work that's gone,
+work underneath it, actually get this data to be used while it's cleaning it, they need to be
+standardized. We have to make sense of the data before it can be used. So I think that is the easiest
+way for them clients and for category managers, even ask to then use the data well. And I think the
+fatigue is not necessarily with AI, at least it's just how people are using it. And people aren't
+necessarily describing and showing how to use it properly. So I think probably that's the way we're
+using. So it's kind of an extension, it's helping you do the things much quicker. It would otherwise
+take people hours or days even to find the same data. So it's kind of speeding up the process for a
+lot of people that can use it in our context. One of the things I know you all, you all have seen
+it, we interviewed Nick for an article recently. And one of the things he's shared about Vaz and
+strength is that it comes from years, nine years, actually, of continuous shelf and planogram data.
+And one of the things that's linked to kind of the AI question is that we know that a foundation of
+solid data is critical when we are training AI and when AI has something to pull from.
+Tell me how that's beneficial in your organization specifically.
+I think having that history of data rather than building a company on an idea of AI is quite a
+different thing. And I haven't quite clocked to that, I think, until we started Ask Fazin.
+And that part of the business is that we were, I think people talk a lot about moats, don't they?
+Right, they talk about like, how can we create like an idea that we can build and we can build
+continually? And I think that is that data, that like historical data gives us a bit of like AI
+mode, right? So we want to use AI to understand it better, to inform better decisions from our
+clients. And yeah, the data gives us a reason for being over and above, like we do AI, because
+we don't do AI, we're using it to make the decisions that are already being made, better
+decisions, faster decisions, more in depth decisions, right? And I think that's just, that's quite a
+clear distinction in how AI is used. Like Yasmin and I, and the rest of the team, we use AI all the
+time, we use it in, you know, in our everyday working life. But I wouldn't say that's how
+Vazin uses it, we're using it very specifically to help, yeah, help people ask questions. And I think
+big one for us as well is that we want to be quite AI agnostic. So we want to say, here's the data
+that we have created, and it is infrastructure, like structurally the same. So you can look at Tesco,
+you can look at Kroger, you can look at Carrefour, and all the data coming in will be a bit different,
+but we will structure it the same to allow you as a brand to go, okay, well, in the UK,
+this is what we look like in France, this is what we look like in the US, this is what we look like,
+do we look the same? Or not? Yeah, yeah. One of the questions I have is like, for an example,
+like when you talk about asvazin, you know, you can ask these questions of the data in plain
+language, right, you can just ask. Give me some examples, like how, you know, how are you able to
+how are you able to ask it in plain like, ask again, ask in plain language? Because that's an AI
+assist, right? So what are some of the types of questions where you can get this data, you know,
+data-backed answers, but you can ask in plain language. What are some examples or some kind of use cases
+that that you are able to share without sharing anything that's too proprietary?
+Yeah, too proprietary and it really, but yeah, like one of the big things that we support on
+our range reviews, which is such a category specific phrase, right, so a range review for
+people that maybe haven't heard of it, which I haven't before I worked at this company, is where
+retailers will say, we're reviewing the range, it's going to be new in September, you have this amount
+of time to influence it and then it will change. So askblazing can do two things out, we can look at
+a pre or post range review and I guess the post range review is where we can save a lot of time,
+which is a very simple, very simple job that takes about three days for a category manager to look
+at and what they're doing is saying, what has changed in a very simple language and so you can,
+essentially it's it's briefing the AI that askblazing to do, that's you would ask it,
+look at this time frame, look at this time frame, what has changed, tell me which, what's the share
+of like, what's the share of shelf by brands that's changed by subcategory, by different attributes,
+what new products have come on, what has been delisted and what impact there, so you can get
+that as a picture of what that looks like and then you could say, how does that change across the
+estate, so has that range review really cut hard for my brands in the north versus the south,
+you can ask all those types of questions and then you can even say like, how is this compared to
+the range review before or before and what was the impact of that on sales, what do we think the likely
+impact might be on sales now and yeah so that's and those range reviews happen every six months,
+so imagine every six months you have to sit down for half a week to a week and ask those
+questions of the data, loads of different excel sheets, you ask it through our phase in, I know
+because we've just done it for a client that that could reduce from three days to three hours,
+so what else can they do with their time, loads more that they can do with their time,
+so that quick. Yeah I just had supply chain management use cases in mind brain too, I was thinking
+about whenever there's a storm here in the US, whenever there are hurricanes, the things that
+you mentioned water before during the heat waves and I started to think whenever there's like the
+threat of a storm, the things that typically sell out, you know how interesting to track that trend,
+you know how early, how many days before a storm things are selling out of the space that they
+have allotted for them, I just imagine it would be at endless curiosity I would have working in an
+ecosystem like yours that there would be just question upon question that I would want to query
+and it feels like it can be almost endless, I would want to talk to it every day.
+Yeah and I think that's that is exactly what you can do.
+Yeah we did have one client who said I've just got Co-Plan for Tesco and I'm going on holiday
+tomorrow and I'm thinking about cancelling my holiday honestly because I'm so excited and I was like
+please go on holiday. It kind of changes what people are asking because they have that ability
+to ask so much now over like like Charlotte said the whole estate, they can ask more endless
+questions and this bits of detail they otherwise probably would have never been able to get to,
+they can now go into I don't know a specific product within a specific store and find out
+all that information where they otherwise couldn't have it would have taken days so they don't have
+the resources to do that so it opens up for a lot more to learn themselves.
+Yeah yeah you know and I go back again I go back to putting the piece together about you know
+some of the package design work that I did for example where we were doing shelf testing with
+logos which might seem very straightforward but when you when you compare you know looking at logos
+on a shelf at loaf of bread for example we're looking at the logos on a loaf of bread and when
+you look at how bread is laid out on a shelf you know you don't see very much of that loaf of
+bread you see the you know the square the square on the the back of the loaf of bread
+sometimes you might see the top of it because bread is on shelves very interestingly.
+But maybe you get two squares on you know a very large bread aisle and and it's not a lot and so
+you think about and yet it has to move right because bread is perishable. I just think about it it's
+just so interesting to think about it's just so interesting to think about it in certain categories
+how important it is to have this data about and tied to how much of it's purchased and so how much
+space is allotted and how quickly it is purchased and what day of the week it's purchased on
+and and the puzzle between does it change based on package redesigns all at once combining you
+know marketing questions with supply chain questions I just think again I can probably talk to you
+guys for hours about this because you have just piqued my interest so how do all of these relationships
+between these different roles in an organization's shopper insights category management you know
+the retail the retail execution teams how how is it a product like yours influencing how these
+teams interact internally within an organization because your your buyers or your clients are not
+just one. Yeah it's a good it's a good point and and I think that they probably need to be joined up
+a bit more I think that's our feeling generally is that you know the decision is the category
+manager is making about these things should be inherently linked to what the brand manager is
+making about these things and those clients where we work most effectively are are where all of those
+different parts of the business kind of work cross-functionally and a know that the data exists
+like I think sometimes this can sit within a category team and then you've got to the brand
+team they don't even know that the data exists right so so where cross-functionally that works
+much better decisions can be made you know things like we touched on a little bit earlier but
+you know like retail media is hugely based on the brand team getting it right when the category
+team don't talk to the brand team and they're like we've made some such signage and you think
+think you need to talk to the brand team because those you know you need them to work together
+to really elevate what's going on on fixture and so I guess yeah where they work together
+really well I think better decisions are made and where they're too separated you know that they
+live within different functions then it's much harder to enact good change I think what what you
+end up with is like principles of good right rather than actions of good well I'm looking
+up at the clock you know how I always say to people oh we'll definitely be off at a certain
+times I look at the clock and I get the 10 minute warning I think to myself all right it's time
+for me to to start to wrap and and ask the questions that I really need to ask before we wrap so
+what are you all you know most excited about pervasive build next I'm really excited about
+more retos but ultimately that's that's that's where like from a growth of company like
+commercially that's that's that's a really exciting space for us and we've got our two our
+two co-founders Nick and Josh been out in Bentonville for the last two weeks so we know who who lives in
+Bentonville yeah so that's you can kind of take what you want from that but yeah like the the
+view there is obviously we want to expand and grow and and I really that means just just just
+more of that data coming in and I'm super excited about the growth of like our visualization tool
+as well because off the back of more data I think there will come more need for clients to take
+what they learn and then build out future fixtures and like the things that we can do within that
+and the analysis that we can do for for the future um is is is very exciting and to get to a point
+where we can use looking backwards to look forwards um so at the moment we do a lot of kind of
+shelf testing where we do a lot of a b testing and we say what do we think the impact of these
+changes will be and we we me as Ollie and Jenny as our team so we can say yeah this is a great
+idea like run with this and and influence the research to make change but actually I think what
+we want to get to a point of is like actually let's let's ask AI to build out five different things
+from based on the data that we have and actually visualize it like let's see what that would look like
+can we can we come to something unexpected with the data that we we weren't you know expecting to see
+on on on shelves so and that really only comes from more data so I was going to say that change following
+what you said change out the fixture as well so like to see how you know over time we've helped
+to make these changes based on what clients are able to to build and analyze on their own fixtures
+to be able to use the tools we provide to actually see that happen in store I think that would be nice
+because as we've done a few and seen a few through working with you know leading serial brands for
+example they're able to argue after range review for a specific bay and like a protein bay for
+examples I think seeing more of that change and building on the tool to make people you know able
+to share that data I think is is really exciting as well yeah yeah super cool so as we wrap what's
+what's the question that you wish I'd asked that I that I didn't get to in our time together kind of
+your your your final word here that uh that I can I can let you let you uh let you chime in on I think
+probably what what it actually takes to make these recommendations um to the retailer that are
+actually executed in store um Charlotte and I are team only and Jenny we do work a lot on obviously
+the data behind it and that's obviously what the brands can can take straight to the retailer as
+like arguments case um but I think it's then going the last mile that there's the hardest part to
+then actually now you've got the data you then have to make that recommendation and it's quite
+difficult um for a retailer to actually implement that change so you just need to prove enough that
+you know the recommendation will be good and it will make a difference and help the category grow
+so I think that's probably a really hard bet we wish um you asked about just to see how people get
+that over the line at the end to actually make the recommendation real it's one of the hardest
+parts about being a researcher right is um it's not just deciding what recommendation to make but also
+then being persuasive enough about the recommendation and and then also kind of letting go of it because
+I was just having a conversation with another podcast guest recently about um you know what do
+you do it was actually somebody who spoke um uh do you remember the woman from Wex who spoke at
+Ix Europe and she was talking about like sometimes not every recommendation can be acted upon
+and um sometimes you make the recommendations and like even if it feels very much like that's
+the right recommendation sometimes you have to say well we cannot act on every single recommendation so
+um so that's the tricky part of research right is um you know you you sometimes put forth the
+best recommendation out there and then you have to let it go because it's not always in your hands right
+what do you clients do so exactly that yeah and and also I think like acknowledging that sometimes
+our clients have to do that too like yeah they really want to do might be right for the you know
+and it's that kind of um tension as well between brand and category because category you have to
+recommend what's right for category and brand one what's right for brand so that got tension
+internally and then if they're taking a joint recommendation to the retailer like how have they
+answered the tension of what's right for category and what's right for their brand and
+yeah obviously the best is both yeah but yeah yeah but can the company move forward so interesting
+such interesting stuff all right final question for you both then um and I'll let you both chime
+in on this because it's it's a big one you know green books tagline the future of insights and
+especially now that you've both been in this competition you both participated in a pitch
+um imagine you are now listening to future pitches you're you're it's next it's next year you're at
+IX Europe again you're listening to other pitches what what types of things do you expect to see
+what do you think the future has in store for insights professionals well I imagine that next
+year it will continue to be how how AI is being used and I think it'll be increasingly practical
+in its in its nature I think we've as this has been said many times but we've moved away from theory
+and in into practice right that's that's where we are so I'm excited to see how people are putting
+it into reality practice and and finding I think you know looking for something like we've done
+like find something that hasn't been done yet right I what what I you know you hear a lot of
+similar ideas I want to like a standout new way of thinking about about something
+um I want to see more women on that stage just putting it out there like there was us there was
+one other lady everyone else was involved so let's um let's get more more more of us up there
+um yeah so yeah that's what that's what I'll be looking for yeah there's anything to build on
+there um I guess again to follow Charlotte I think just at a point she mentioned on all the
+different teams that are kind of maybe working separately is to bring them all together if people
+can work more cross functionally across insights I think it would really help
+and obviously we're providing some answers and reports which is obviously very helpful but the
+evidence that kind of um helps for the decision making is is really quite important so it'd be
+nice to see how that kind of grows um as Charlotte said with the age of AI how that can help us grow
+and make it easier to make these decisions yeah yeah well um congratulations again to both of
+you but really great work that your company is doing I um I'm just I'm thrilled to know that
+you're doing it I'm thrilled to know your company exists and I'm really grateful um that I was there
+to to see what you put together because it was um it's just something that fascinates me in that I
+I know fascinated everybody in the audience really good work um really good work so thank you
+for joining me today thank you thank you for your time and thanks for like all the support
+in iX it was it felt like a really lovely space to be able to make that picture
+ah I'm so glad I'm so glad so that's our show for today friends Emma thank you for reading our
+producer extraordinaire really appreciate you big bad audio thank you for doing what you do for us
+time and time again and to everybody listening thank you for showing up week after week we really
+appreciate you for tuning in and we'll see you next time on the dream book podcast bye everyone take care

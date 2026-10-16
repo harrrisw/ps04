@@ -1,0 +1,383 @@
+Hello, everybody, welcome to another episode of The Green Book Podcast. I'm so excited.
+I'm Karen Lynch. I'm excited to be here with you with Sarah Snudden, who is no stranger
+to these podcasts with us. Sarah, I feel like not only have you been on The Green Book
+Podcast before, but you've been a stand in on the exchange. Thank you.
+So it's good to get exchanged. It's always good to have you here. So thank you for stepping
+up for this. This was a kind of a Hail Mary pass where I'm like, I need someone to debrief
+I-I-E-X-A-I with me. And you raised your hand and said, you know, I'll do it. Thank you
+so much for that.
+I'm a glutton for good content. And I-I-E-X-A-I was really fantastic. It was a lot coming
+at you. So definitely these will be some very hot takes, but it was it was hot stuff.
+For our listeners who don't know your background because I just assume everybody does at this
+point, but there are new listeners every week. So just give them the, you know, high level
+who you are. Yes, I had let's just say 20 something years, mostly on the client side starting
+at Clorox, working on a lot of GLAD and innovation and Clorox, laundry and cleaning products.
+And then over to seventh generation, the road last traveled to Vermont, then abruptly
+to coffee. I like to say that I worked my way up through from the trash bags and laundry
+stains into coffee where I stayed with Keirig for about seven years and then a brief foray
+into the supplier side, which I loved and and and may maybe my next move career wise. But
+I got my coffee band back together one more time at JDE Pete's and as they're in the process
+of merging now, I'm figuring out what will be next. So we'll go back into that because
+I think there was one comment in the back room or one, one request for kind of an example
+and you were like, let's talk basically, let's use coffee as an example. And I was like, she's
+always got coffee on our mind. I do. I do. I feel really lucky that I've had so much,
+so much coffee in my world. I think we've talked about that. Yeah.
+And when I was when I was a qualitative consultant too, I worked with a large coffee brand too.
+So like that's where you and I, you and I have that shared experience. So nothing like qualitative
+conversations about coffee man, it's just I actually once had a moderator tell me like coffee was
+a functional beverage and there was no emotional component. I was like, what? It wasn't a moderator
+that I had picked, but I was like, I'm not going to pick you again. Yeah. You do not understand the
+category. No. Yeah. That's so funny. Well, we are here everybody to debrief IAXI and just so you know
+the timing, the event took place on Wednesday and Thursday, September 23rd and 24th. Today,
+day of recording is Friday, September 25th. And this episode is launching on, well, technically,
+Monday night, September 28th or Tuesday release, September 29th. So this is quick turnaround
+for you. We want to get this debrief into the audience's hand as quickly as possible. So not
+even a week has gone by about the time you're hearing this from when the event took place.
+Certainly it's only it hasn't even been 24 hours since the event wrapped up for Sarah and I to be
+coming at you live to or coming at each other live to bring it to you. So these are top of mind
+debrief, debrief responses and Sarah and I have not connected about it. So what you're getting is
+unfiltered, unsynthesized really are top of mind debrief conversation. We both have taken notes.
+We're going to fire at each other like, you know, hey, what do you think? And see where we both go
+with this conversation. So I don't know where to start. It was I do I think we started the beginning.
+Um, let's go. And Abran Maldonado of Create Labs, I think was a fantastic way to start.
+And I appreciated his perspective and his thoughtfulness about what it takes to really make a great
+AI experience in a world where we're all thinking about content that really misses the mark with humans
+and how to like be thoughtful, be inclusive, really bring human perspectives from all different
+angles to the table. I loved how he teed up culture and and tack in culture. And honestly,
+I was really excited about his examples about making tacos while he did the RFP because
+that inspired me to make some chicken soup on day two as I was rapidly synthesizing,
+you know, and and listing with my with my own ears and not the accurate stuff. Yeah.
+Yeah. For those of you who missed that session, and we'll talk about how if you want these sessions,
+you can you can you can get there, Sarah and I will give you the details. But you know, one of
+the points that he made is, you know, with with the gentic AI, like the goal should not be to be
+more productive with with the with the time savings of AI. It shouldn't be to to produce
+more to have greater output. The goal should be to use more of our strategic thinking, like,
+allow that time for strategic thinking to come forward, allow more time for skill building or
+allow more time for relationship building. Like, let's use our time wisely. The time that we've gained
+back, let's use it wisely and not, you know, waste it away. And and when we're talking about
+economies of scale, he's like, yeah, let's let's, you know, save some time. And he's like, yeah,
+I'm going to use it actually on relationship building in his own life, right? And he's going
+to make, you know, make a good meal or whatever. And I was like, that's actually really great.
+You know, good way to look at it. Like, what are we doing with our time? And not just like,
+okay, I'll put my agent to work and I'll get more emails done or, you know, something like that.
+Like, what can I do? So there's not just all about productivity. I was like, brilliant way to look
+at it. And I feel like that exact theme was articulated from a really different angle in Stephanie
+Vance's description of the research process. And just how the reality is never what you set
+out for it to be like the it always takes longer to get this stakeholder alignment. And then
+there's the back and forth of, you know, doing it yourself or writing the survey or checking the
+programming. And and I appreciated how in that detailed kind of storytelling way she had of
+laying out the challenge. And because I think it's easy to kind of skip to the, you know,
+this gets you to the strategic business advisory part, but that definitely came through the business
+advisory part as a key theme as well for what we need to do. So I appreciated the the AYTM take on
+that because I've lived that so acutely and it's painful every time when you think like,
+okay, I'm going to make this happen fast and you are making it happen faster than it would if you
+were, you know, handing it off to someone else who you had to brief and go through the full service,
+you know, team working on it, but but still it's not the miracle of speed that you want it to be.
+Yeah, you know, and I think, you know, one thing, you know, as I jump sort of book-ending,
+book-ending the event, you know, you start at the beginning and I tend to go to the end,
+speed is one of those things that everyone is capable of now. Like, you know, let's just,
+let's just get their AI is allowing a lot of people to do a lot of the work faster.
+And so, so we know that. But, but that, that strategic thinking, right, that,
+that ability to to really bring judgment that was talked about in so many sessions,
+like throughout the event, that ability to to kind of use our strategic thinking skills,
+our critical thinking skills, our professional judgment, our experience to kind of level up
+and deliver against client objectives or stakeholder objectives and really answer the business
+questions at hand and pull it all together. That's where the real value is right now.
+And that's how we are serving in our role as insights professionals. And I thought that was
+loud and clear. Definitely loud and clear. Another talk that I really appreciated that had that
+theme to it. I mean, very clearly from the title, Volume Isn't Value was Melissa Raimi
+at Salesforce's talk, which was so rich that I'm definitely going to go back in. And I really
+think about that one again. But that had a lot of thinking about how you frame the problem and
+framing that problem is, is, is key in such a big, you know, like, if you're really going to be
+a strategic partner, really listening deeply, almost taking the qualitative skills that many of us have
+for consumer listening and applying it back to our organizations. And honestly, in that one,
+one of the other pieces that was kind of an aha for me. And I'll have to think more about it is,
+I think on kind of the most meta level of insights, consumer packaged goods was kind of like the,
+you know, the foundational kind of starting point for a lot of market research going back. And
+as I think about the interaction between what's happening now in the UX world, I almost feel like
+we've got a, it's almost going to be more of that ying and yang almost of like old school
+marketing product strategy. And branding meets like kind of the new UX thinking, because AI is
+so fundamentally kind of close to that UX kind of world, I feel like, that a lot of our points
+there made me just sort of say, Hmm, there's different muses coming in to our ecosystem that we
+need to listen to and pay attention to and just think about from a new angle, like if you've gotten
+comfortable in your, your world as a CBG person, or maybe you work finance, or you work in, you know,
+some other vertical like healthcare, thinking about the, the tech space is kind of an increasing
+muse of how we get our work done is feels valuable to me. Yeah, yeah, yeah, got it's really
+interesting. Um, side of our shadow to iOS, because that convergence is happening a lot there. And
+I'm just wondering if you're tapping into like a much larger trend, the agenda for iOS is loaded
+with that the convergence of UX and MRX has never been stronger from what I'm seeing on our agendas
+right now. So a lot of people are talking about, are talking about that, what those
+disciplines are learning from each other right now. So super, yeah, if I weren't early career
+researcher, I would, I would possibly think really differently about making sure that in the
+experiences I get, as I'm kind of making my way through a career journey, like getting, thinking
+about how you get closer to that earlier is, is probably a really important, you know, piece that
+didn't maybe used to stick out in that way. Yeah, yeah. Another thing I want to get to Melissa
+brought up again, this is Memphis Ramey at Salesforce. So she was like the second,
+second or third session of the day. So I think the third, because we had our quilts was in there,
+quilt AI, our title sponsor. Thank you so much, Guilt. I really appreciate you. And we'll probably
+bring you up again later. But, um, but Melissa touched on something called accountability offloading,
+which was a, that was probably the biggest, like mind blow, mind blow moment for me. I had never
+really heard of that before it or framed in that way. It was this whole idea that like, we can't just
+say, oh yeah, like that, you know, AI did that for me or like that output. Yeah, you know what,
+I use AI for that. And kind of like, not be accountable for the work that AI assisted us with,
+and not say, yeah, I know it's long, you know, AI had something to do with that or, you know,
+not kind of like use AI as an excuse for being, for being, you know, less accountable for the
+output that it's providing or something like that. Um, she brought that up. Meanwhile, like,
+Dan Wasserman at KGT, he made that point. Sarah Kling at Amazon made that point. She, I think,
+said like human in the loop only matters if someone actually owns the decision, like you have to own
+your decision. I think, um, Simpson, Carpenter and M and S made that point. I think they said the further
+an AI agent gets from a human who is accountable, the worst it's going to perform. So,
+throughout, that was like another thread that went through this event was, you know, accountability
+rests with, with the professional. So let's make sure the more reliant we get upon AI, we don't
+forget that we, the insights professionals, like, we cannot let go of our, um, our responsibility
+and the work that we're doing and like just kind of hand over the reins. You know, I think, um,
+Lisa Cordade said it. And what did she say? She said, um, cognitive offload is fine,
+but cognitive surrender is not like we cannot, like, we cannot, right? We cannot just say,
+you know, do it for me. We have to mindfully attach to all of our AI work.
+And I feel like the, the other side of that very same coin was, was very much this idea of
+business acumen and making the workflow into real business decisions, which is
+certainly a theme and certainly something that you see over and over if you're reading job
+descriptions in our industry, um, different places kind of put it in different ways. But, but that real
+understanding of what is your business doing? And I, I've made me reflect back on the reality of
+framing the problem because it, it's, it's always thought of as not as fast. Um,
+there was a time at Clorox when we went through one of those excellently facilitated kind of Myers-Briggs
+exercises where they have like the whole leadership team go through a problem and they had us like
+walk through like it was Z shape or, uh, you know, and, and at the start, there were those of us who
+spent, you know, more time framing the problem. You had some functions that were just itching to zip,
+zip along, um, sales. I remember that was you. Um, and, and when I think about the reality of,
+of what we need to use that time for and really get right, because if you're, if you're really
+truly trying to drive business action, understanding that frame up and there were some great examples
+of, of really spending the time to see the bigger need versus like the more superficial need,
+that, you know, I think a lot of times business comes to us with like, I just need to know if
+this copy works or doesn't work, but then the why behind it, we now have more and more access to
+and, and getting to that bigger understanding. Yeah. Okay. Real. Real. Yeah. So yeah, so what
+else you got for me? What else, what else mauled around in your brain? I, I think one of the themes
+that I saw come through, that I really liked, um, in a world and it kind of picks up where you
+left off on the like, you can't have, uh, what was it? There's cognitive offload and then cognitive
+checking out or whatever. Um, one, one of the, you know, like human out of the loop. No, thank you.
+Um, one of the things that I really appreciated was, was what I'll call the just do it theme and,
+and it came from really different angles, like, um, uh, the PAM for this, I thought did an amazing
+job. Talk about someone who just like saw an issue and was like, wait, people aren't, you know,
+validating thoroughly, like, who can I work with to really, you know, kick this type, kick the
+tires, kick the whole thing around and really check it out. And I, you know, again, with the 24 hour
+loops and solve the sessions ended and, and, you know, chicken soup to make and all the regular
+life things. Um, I, I really want to go and explore her talk more and follow up on some of those
+threads. But then also Leslie Willis's talk from a really different angle had that sort of like,
+hey, I, I'm not a coder, but I just, I saw vibe coding was a thing and I went for it and, and I,
+I just appreciated it from, from those two different angles. You know, people just kind of sharing
+their work in a world where, um, it does take work to do behavior change. And it does take work
+to figure out how to best, um, appropriate new technology into our lives. Yeah, I think with PAM,
+the, the, the soundbite that's in my head from PAM's talk, and again, this is, um, PAM, uh,
+purpose from Mondalees, uh, who was our, our first speaker on Thursday morning. One of the things
+the concepts that she brought up was, you know, remember we are, we are the teachers of RAI,
+not users. So stop thinking of yourself as a user and start thinking of yourself as, you know,
+you are the teachers of it. And, and that is now how I will be approaching it from now on. Like,
+like, it's so much more of an active role, not a passive role. And I, and I think like, that is
+to me was one of the more brilliant things that I walked away with, like, just a paradigm shift in
+my brain. So I'm so grateful for her for that. Um, I think one of the teachers, it's, it's almost
+like, um, maybe teaching at a boarding school, because I feel like there's the care and feeding
+of these data sets that is, you know, it's not just the, the, the teaching. I mean, that's a super
+important part of it. But the reality of how you refresh the data and how you keep this current,
+especially as you get into the synthetic, into the digital twins, like, into the whole world,
+where you're trying to get, you know, democratized access to insights in a way that still stays true
+to how fast the world is moving. One of the things that I liked about Pam Forbes's talk is, you know,
+thinking about the reality of heritage brands, like Mondalease has a lot of, and, and the reality of,
+like, you know, the brands that are coming up more, you know, through Ecom, through the social
+scroll, through all of those things, and how we track that top of mind awareness, Quantelope,
+uh, Quantelope's talked about it that I think really nicely, uh, but that, that mental availability,
+but the reality of how quickly that can change in the, the push and pull and the tension between
+heritage brands that mean something to some of us, some of the time, and, and the newer brands
+that are finding their demand moment or really zooming in on, on that context where they can
+activate that mental availability. Yeah, let's, let's, you know, you brought up synthetic and,
+I feel like we just have to, we had to just go there for a minute because there were obviously
+many sessions that, that reference synthetic data, digital twins, not exactly the same things,
+settled nuances, differences, um, but, you know, we weren't too far from that in a lot of sessions,
+right? Um, yes, Quantelope was one of them, um, you know, things I heard, and, you know,
+tell me if you heard the same thing or different things, like, you know, as I summarize, all of them
+is, you know, you know, obviously we're at the point where we know these exist, where, where
+starting to figure out where they fit in, you know, one of the right use cases for them, um, you know,
+there's, you know, people are saying like, yeah, we're using it early, you know, this is where,
+you know, it fits in, in certain use cases like early on, you know, maybe we're, we're, we're,
+we're doing some, you know, early testing with it. But it really does need real data underneath,
+right? We have to keep feeding it, we have to keep, you know, we have to keep feeding the machine,
+we have to keep, you know, keep it, it's an ongoing, it's an ongoing, almost circular,
+circular data ecosystem. You know, you can run it alongside real studies, but real studies have
+to keep going. So it's, it's almost like it's just additive. It's not necessarily a substitution,
+right? It's additive information. So, yeah. And it may not even be additive, it may be the
+democratization of access in a lot of ways, in a world where businesses run increasingly lean
+and speed is increasingly important. If there's a way to kind of amplify that consumer voice,
+I can get behind that. But for me, I think, and you have to be kind of careful about these words,
+but there's times in the insight space, when you need a nudge, you need like consumer guidance,
+I would call it like when you're developing a product or communications or you're on an,
+or, you know, sort of an iterate to greatness path. The reality when you really need to,
+to validate, and for me, I'll use validate in this context of, I need to really say, like,
+I need to be able to go to sales and say, this is how much volume we expect, or I know that this
+will deliver that, that to me is still where I'm a little, you know, I kind of top the breaks and
+think about, you know, really what's behind it in a different way, because the guidance is kind of,
+again, the iterate to greatness, you can always do another iteration. But those moments when you're
+getting to the final, final, and you've got to be ready to go, that that's one where I'm still,
+you know, where I personally would exercise a lot more caution.
+Methodologically, you know, I think you and I said this right before we got on, you know,
+one of the demos I was able to, to check out was Listen Labs demo of their, you know,
+AI moderation platform. And, you know, I'm particularly tuned into that one, you know, thank
+them as well for their sponsorship. I think that anybody in this industry would be foolish not to
+be paying attention to AI moderation and AI moderation platforms right now, because there's so much,
+that's so much that's happening in that space. And, you know, it's like every time I watch, and
+this is me as, you know, a three year veteran of qualitative research, you know, like, I wish I
+could poke more holes in them than I, than I can. And I kind of watch it. And I think, you know,
+I just, I shake my head and I think I'm, I'm really glad my career transitioned a little bit,
+because I am on board with that for the right, it's not for everything, you know, I'm still a big
+fan of ethnography in particular. But I think those demos are all worth watching, you know, whether
+great demos. And I feel like when it comes to AI assisted qual, and, you know, maybe, you know,
+thinking about like bouncing some of the other demos that were there, I feel like the reality
+with AI assisted qual is that it's taken a lot of share from quant and rightfully, because qual,
+like classical traditional qual always had trouble with speed. And so it became very precious and
+very like, you know, ideally precious and you'd use it, you'd prioritize it for strategic cases,
+but a lot of times too often, I feel like as practitioners, we were needing to get something
+and your chance, your options were like, you don't have time or money to really do traditional
+qual as well as you should. So you squeeze something that you really wanted to know the why, but you'll
+settle for the scale in an open end and really being able to get at the sort of words behind it
+and really think about that that richer, especially if you're asking provocative questions or, you know,
+I know in my own work, one of the ones was like, if we did new products, if you had to sit down with
+the CEO and explain it, you know, over coffee, what would you tell them? And I feel like those
+those richer answers are possible now in a way that that weren't. So I, you know, making research
+the great conversation instead of, you know, like, it's the 9.5 and a 10 point scale, you know.
+Yeah, yeah, no, I agree. I agree. I think that, I think that going back to
+what Ron Maldonado said in the very first session, I loved it at the end when he brought up,
+you know, I should say he had me at Christopher Nolan, right? Because of course he's so on my mind
+right now after, you know, I'm a big fan of the Odyssey and a lot of Christopher Nolan movies. But,
+you know, nobody really questions like what tools he used to make the movie, right? So nobody's really
+gonna say at the end of the day, if you produce some, you know, some brilliant results from your work
+and the outcome is, you know, is speaking for itself, not the output, but the outcome of the work.
+Like he was very clear about that. I think that a line like nobody praises the plastic and wires,
+you know, behind it all, like, yeah, fair, the silicon chips or cone chips or whatever. Yeah, yeah,
+nobody is going to say at the end of the day, what tool did you use, you know, what happened there.
+And I think that like the bottom line is that's what we have to start to do with AI. You know,
+we have to start to recognize it's one of the tools in our toolbox, right? It is one of the things.
+And that's, you know, we are creators. We are people doing the work and the tools are all in our
+toolbox. And, you know, that's what we are bringing forth. We are the, we are the thinkers, we are the,
+we are the, we are the, we are the thought partners. I think that's another word that was put out
+there. Another, I think Lisa Cordade had said that we are the thought partners that are hired to
+to do the work and, and help, help solve, solve challenges. And it doesn't matter what tools we're
+using. So anyway, another kind of sound bite that I really loved when he, when he shared that or
+put that slide up, it was brilliant. And I feel like that, that tension of the now what in the
+sounds of like, if we've, if we've changed our work patterns and we've made certain things that
+were really repetitive, like, you know, the example that Leslie Willis had of the direct TV,
+like comparison charts. And, you know, we've automated some of the stuff that kind of made us,
+like, not happy to do our jobs sometimes, you know, because it was just like, yes, everyone should
+have this. And hopefully, it's on me again to make these comparisons. And, and I feel like a
+bran kind of hit this point and, and Stephanie events. But, but I feel like quill day I opened up kind
+of an interesting connection and a bran Maldonado did too of like, to me, the culture angles are
+really interesting. And we're starting to hear culture used more and more in a lot of different
+ways. And I think for me, when I hear a word like that start to pop up in really different places,
+where it didn't used to be, I think like what's behind that. And, and you know, sometimes it's
+helpful to come back to Maslow's hierarchy of needs or what what's happening there. But,
+I think it's really belonging. Like, how do we find a way to belong in, in our groupings, in our
+human groupings and use AI to enable that? And I felt like quilt actually did a nice job of,
+of bringing that out to you in their talk. Because I guess I just think about like,
+what are we going to do with this, you know, supposed new time? And, and yeah, it's not just
+pump out more, more tests, like ideally it should be find some meaningful way to connect. And I feel
+like maybe that's articulated increasingly as culture, because it could be connect to all sorts of different
+things, culture of our organization, culture of, you know, movies and relaxation and cooking
+family and, you know, the world around us. Yeah. Well, thank you for that. And because at, you know,
+quilt AI, again, are title sponsors. So we're so great. I mean, we're thank, we're grateful for
+all of the sponsors that allow us to put, allow us to put on an event for free, first of all. So,
+you know, thank you for that. Three for attendees, not free for us, but free for attendees.
+So we're so grateful for their sponsor, their title sponsorship into all of our sponsors. So thank
+you for also for bringing them up in that context too, Sarah. I do want to send it. Yeah, go ahead.
+And a last thought on that is I feel like the role of the anthropologist, which always was sort of
+like, isn't that cute when business used to be kind of more sharper corners and harsher edges,
+but, but really, like when you think about brand value, you're trying to get people to pay somewhat
+more for something that probably if you blind tested is is a bit more of a commodity. And so
+what you really think about what's behind that, it is kind of an amazing, you're, you're selling
+a great intangible a lot in the time with brand of products. And that's like that belonging or
+that sense. And it's always been really hard to get at, because it feels kind of maybe not
+businessy enough. And maybe the world is going to be able to get better at pinning that. It's
+kind of like when, you know, 20 something years ago, when the world was still shifting from like,
+Oh, well, this is a rational product and their emotional products. And it's both, you know,
+it's both. Yeah, it's definitely bold. Sometimes more emotional. Yeah. Yeah, yeah.
+For everyone listening, I want to make sure that before Sarah and I wrap, you all understand that
+you all can access all of this content. I'm going to read this so that I get it right. For those of
+you who were there live, but you're wondering about your passes, you, if you had the free live access
+pass, you were only able to access it on demand for the first 72 hours. So you might not have that
+access anymore, because by the time this episode is airing, your on demand access has probably expired.
+If you purchased the live and on demand pass, you will have access for the next six months.
+If you would like, now anybody can purchase the on demand pass, that is still available to purchase.
+It's only $175 and you get six months of access to the recordings and downloaded content. Many of
+the speakers are saying here, take my presentation, which is great, because a lot of people were saying
+that they just kept taking screenshot after screenshot of presentation decks, etc, etc. So
+$175 to get all of the content for six months, access to the recordings for six months and
+downloaded content. So that's how everybody can access all of the stuff that Sarah and I are
+talking about right now. Sarah, before I want to just say, like, when you think about, you know,
+the price of going to a conference and the amount of this was a conference worth of material to be
+sure. And you're getting it for, you know, price of, you know, a couple of dinners in San Francisco,
+you know, like, you know, it's to be fair, those great burritos and you can do that.
+Yes, you'll have to do your own uber eats. But really the amount of value you could pull from
+this and just the continuing education mileage that you might be able to get. Maybe your organization
+covers, it's worth, worth thinking about because there really was a conference worth of material
+here that you can process much more efficiently than you can process going to a conference in terms of
+the trade off of time and travel and all the things in between. So much. And we have really just kind
+of touched really the tip of the iceberg there. If there was one more thing for you to say, I don't
+want to get off this debrief without bringing up this point. Is there something else that you're
+like, Karen, we're not getting off without bringing up this one topic that I thought on my
+point in early and often, I think I learned that on the corporate side.
+That's great. That's great. Yeah, right. The all very clever. The only thing I want to bring
+up is it touched, we sort of touched on it, but it feels really critical to me. Also, you know,
+we talked about the beginning that accountability offload, like let's stay accountable to our work
+when we use AI. There was another part of it, which is that came up, I think, in the, again, this town
+hall. It's like, it's this, again, I was saying how, like, when you're a moderator, like, very often
+when you do the debrief, it's the last thing that stays with you so much. The town hall that I had,
+the very last session with Lisa Cordade and Barry Jennings and Dave Dugan from
+Dugan from Direct TV. So Barry Jennings, who's with them, Estimar now, he's ex-Microsoft at this point,
+and Lisa Cordade from Oregon. They, we were talking about all of these topics, but one of them,
+in particular, was this idea that we have to really challenge the results of AI sometimes. We have to
+use our critical thinking skills, look at what the output is, and we have to model this for
+kind of junior employees who don't have the benefit of the years of experience that we have,
+but they don't necessarily know what they're looking for, because they haven't done the work
+the way we have over 20, 30 years. So how will they know what good output is? Because AI output really
+looks good. It looks good. It makes sense to an untrained eye. It seems logical. The argument
+it makes looks logical. If you read it, it seems to make sense. But if you have the experience in
+the background, you can say, well, wait a minute, something's not right here. And you really have
+to be discerning when you read AI output. And we have a responsibility to
+junior staff members to not only challenge AI, because that's what our stakeholders deserve,
+but also model that for junior employees and say, wait a minute, we have to show them,
+no, like we have to show them, because they don't have the benefit of the years of experience
+that we have. And I just think that that's a responsibility that we have, not only to our
+stakeholders, but also to junior employees, because they're never going to learn it a different way,
+because they are now kind of, they're learning a way of life working with AI. They're not learning,
+they're not learning research the way we learned research. And I just think that's
+something that everybody should really pay attention to. It's one of those things that my brain,
+that will keep me up at night thinking about how people in their 20s are learning research right
+now. It is a different way of learning research. And on that sobering note, I think everybody
+think about that. I'm not saying it's a bad thing, but I think we have to be really mindful of
+how will they get data, the same kind of data analysis experience? How will they get early
+moderating experience? How will they get those skills if AI is what they're learning it on?
+How will they know what non-leading questions are? I mean, I know that sometimes when I've had
+AI draft a podcast brief, not for this one, but I've had a draft a podcast brief and I'm like,
+dude, that's a leading question. We cannot ask them that. And it's like, oh, you're right,
+that is a leading question. I'm like, duh, it doesn't know what a leading question is until
+it is trained that I will not ask a leading question. Yeah, and maybe more optimistically,
+that's where our human eyes and ears and experience all comes back into play. And really,
+when I think even back to anthropology, I feel like part of the power is the watch and listen
+and learn piece of it. And on the data side of insights, I feel like getting really quick. I
+think one of the talks talked about a potential split between the data side of the house and the
+kind of more strategic discussion side of the house. But I feel like the real power comes in
+that linkage of making sure that you, I don't know, sometimes I jokingly call it Rainman, like
+the movie, like you have to be the one who can kind of, you know, sadly, you're the one who has to
+count those toothpicks sometimes. And you get, you get a gut knowledge. I think part of what
+makes me a little, I'm not sure how I feel about synthetic on this front is sometimes I feel like
+that's literally like, when you get a consumer gut built into your leadership team, that inherently
+is kind of synthetic in the same way that like you could get, you know, robots to, you know,
+or AI to tell you that same thing. Like, you're, it's kind of like muscle memory or, you know,
+like it's in you, like, like Gatorade in the best classic commercial way, advertisement commercial
+like, you know, it's just, it's got a, you kind of have to soak in your space, I guess. And I don't,
+I don't know where it's going, but I feel like that, that human connector has to kind of be there.
+And, and once you do that, you enroll up your sleeves. Again, it's that accountability that I
+think is where, where the traction comes from. Yeah, and the credibility. Yeah, yeah, for real.
+Sarah, thank you so much for joining me for this. I really, I, I love talking to you and we could
+talk for hours, but. And thanks to Green Book that, I, I, X, AI, it was, it was a really good
+amount of contact into a tight space. Thank you. Thank you. Well, I appreciate you and your,
+I appreciate your attendance and I appreciate your time for this. Really. Thank you so much. Happy
+to help you. Glad, and thank you to Jamie at Big Bad Audio. I so appreciate what you do. And
+Emma for producing all of our sponsors once again and our attendees and all our listeners for the
+podcast. We'll see you next time for a whole new show. Talk to you later all. Bye.

@@ -1,0 +1,20 @@
+{
+  "stage": "create_series",
+  "status": "incomplete",
+  "input_count": null,
+  "output_count": null,
+  "started_at": "2026-10-16T04:36:23Z",
+  "finished_at": "2026-10-16T04:36:24.160846Z",
+  "tools": [
+    "bash"
+  ],
+  "models": [],
+  "cost_usd": 0,
+  "cost_is_estimate": false,
+  "errors": [
+    "One or more child stages failed; inspect their receipts"
+  ],
+  "notes": [],
+  "aggregation_only": true,
+  "elapsed_seconds": 0.0
+}

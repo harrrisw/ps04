@@ -1,0 +1,21 @@
+{
+  "item_id": "feed:f072398f0cfdb133e7fbf93b",
+  "source_id": "techcrunch-ai-written",
+  "publisher_id": "techcrunch",
+  "kind": "feed",
+  "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+  "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75",
+  "published_at": "2026-10-15T12:00:00Z",
+  "retrieved_at": "2026-10-16T04:25:06.378152Z",
+  "media_url": null,
+  "native_id": "https://techcrunch.com/?p=3177560",
+  "underlying_id": "feed:f072398f0cfdb133e7fbf93b",
+  "original_publication_basis": "feed published field",
+  "transcript_url": null,
+  "transcript_type": null,
+  "download_hash": "3256f9089633ad47ea982d3ed65d3374d1397d719ee71e05fe6cf192ed523f9f",
+  "content_hash": "5571a38d02f6dfa30f53c4ca500895fc2244eaaed40e050f2b717212ce78d0c9",
+  "version_id": "856f2d93bf816515b4eb24d6294b890c9636894c63f967770e4252ae30400dec",
+  "text_path": "data/assets/c1aafbc722d390a0da4a31b3/856f2d93bf816515b4eb24d6294b890c9636894c63f967770e4252ae30400dec/text.txt",
+  "segments_path": null
+}

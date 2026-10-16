@@ -1,0 +1,38 @@
+{
+  "decisions": [
+    {
+      "item_id": "feed:2e0f0e66d0123645439edc17",
+      "version_id": "7851500fad1a1fd32a47738d59237b256015c0d5ac0598c3b0f88ac631919844",
+      "decision": "defer",
+      "reason": "Relevant to competitor/market research only indirectly: it is a vendor case study about quantilope’s brand-tracking workflow for Vita Coco, which could inform a pilot on structured tracking and Category Entry Points. However, credibility is limited because this is a vendor-published promotional piece with clear commercial incentives, and the claimed speed/efficiency gains and commercial impact are not independently verified or backed by a worked comparison, sample details, baseline, or methods. Useful as a source_claim about an attributed customer experience, but not strong enough to accept as evidence of effectiveness; also overlaps with broader claims about AI-assisted research workflow rather than a distinct new capability.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:2e19ca9487c9451754b6e5fd",
+      "version_id": "08a9d9310567015ee3fe5c8246142a41488c80eafd0b21087d233816cec6513d",
+      "decision": "reject",
+      "reason": "Not relevant to the brief’s question: this is a TechCrunch event promotion about ticket discounts for Disrupt 2026, not a development in AI research tools for customer, competitor, or market research. It offers no inspectable evidence, methods, or tool capability, and its commercial objective is explicit. No usable uncertainty to resolve because the topic is plainly outside scope.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:322af46ae21ad26443092c84",
+      "version_id": "9f30df8aae6955ccd9ebb00d720767e9ff808618a7cd4b3318a5ccefcb4bbe71",
+      "decision": "accept",
+      "reason": "Highly relevant methodological guidance for small-business research: it explains how to build empathy maps from traceable research artifacts, how to distinguish evidence from assumptions, and when AI can help organize existing evidence rather than invent it. Credibility is strong because Nielsen Norman Group is a specialist UX research publisher and the article provides concrete workflow steps, caveats, and source-tracing requirements. Uncertainty remains that it is general UX guidance rather than a comparison of AI research tools, but that limitation is explicit and useful; no unsupported performance claims are made. Repeated underlying claim with adjacent source families: the insistence on traceability and human review aligns with other retained guidance, so flag for synthesis rather than treating as independent empirical validation.",
+      "piece_ids": [
+        "02",
+        "03"
+      ]
+    },
+    {
+      "item_id": "feed:32944883b9dff85a7148008d",
+      "version_id": "b192c0ca1da12bd242489506681f276f83473000ed4152d9795eac13ccc33ed1",
+      "decision": "accept",
+      "reason": "Relevant because it describes an API for Crayon’s competitive-intelligence data that could help a small team operationalize competitor monitoring and downstream AI workflows. Credibility is moderate: it is a vendor announcement with clear commercial incentives, so the described capabilities are attributed claims rather than independently proven results. Still, it contains concrete, inspectable functionality details—full-text/source links, tags, ratings, call clips, win/loss records, and read-only API access—which are directly useful for evaluating workflow fit; however, there are no performance benchmarks, user-study methods, or small-business evidence, so effectiveness and cost/effort remain uncertain. Flag as a vendor cross-post/announcement-type claim needing corroboration before treating as evidence of outcomes, and note the repeated underlying claim that structured source-linked data improves research workflows.",
+      "piece_ids": [
+        "01",
+        "02"
+      ]
+    }
+  ]
+}

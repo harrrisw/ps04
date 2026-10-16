@@ -1,0 +1,36 @@
+{
+  "decisions": [
+    {
+      "item_id": "feed:32944883b9dff85a7148008d",
+      "version_id": "b192c0ca1da12bd242489506681f276f83473000ed4152d9795eac13ccc33ed1",
+      "decision": "accept",
+      "reason": "Relevant to competitor research for small businesses: it announces an Insights API that exposes Crayon’s collected competitive data with full-detail fields, source links, and read-only access, which could save time in building internal competitor-monitoring workflows. Credibility is limited because this is a vendor announcement, so capabilities are attributed claims rather than independently verified performance; the beta-customer examples are anecdotal and no methods, benchmarks, or small-business outcomes are provided. Commercial incentive is material because the piece is overtly promotional and aimed at getting users to buy/use Crayon, so treat it as useful for capability scouting but not proof of effectiveness. Flag as a potential cross-post/republished marketing announcement tied to the Crayon publisher rather than independent corroboration.",
+      "piece_ids": [
+        "01",
+        "02",
+        "03"
+      ]
+    },
+    {
+      "item_id": "feed:3456154bf96b71b5b8377dbe",
+      "version_id": "b35115448f06a8d796eefd9ff3db44b6b04a4a50bf94abc54db26dcd321fb5cb",
+      "decision": "reject",
+      "reason": "Not relevant enough to the brief’s research task: it is a TechCrunch event/interview about a broader ‘self-driving company’ workplace vision and Replit’s coding agents, not a concrete, inspectable development in customer, competitor, or market research. Credibility is moderate as a reported talk, but the article provides no methods, baselines, or evidence that would inform research workflows or reliability for small-business evidence use. The commercial context is strong because it centers Replit’s product and executive messaging, making it promotional commentary rather than an evidence-backed research development. No useful small-business research capability or validated workflow is described, so it does not support the central question.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:353f11f42baad617b7387a62",
+      "version_id": "f46582acaee35a42665f405c3b962749f394e4d5cf8fdcfbe0c2bf40929e7f60",
+      "decision": "reject",
+      "reason": "This is a general-interest feature about anthropomorphism and AI psychology, with only incidental mention of a job-interview practice bot; it does not materially address AI tools for customer, competitor, or market research. Credibility is mixed: it quotes researchers and mentions a lawsuit, but offers no methods, sample details, or inspectable workflow relevant to research use. There is no usable evidence on accuracy, cost, traceability, or small-business applicability, and the piece is not framed as a validated tool report. No commercial claim is central here, so there is nothing to rescue for the brief.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:39b505a7ba06431b7105dcd2",
+      "version_id": "7b33d4e66d86aafd7a15034fc478837860b83c18c99b250572eea3ccc1cdf2ea",
+      "decision": "reject",
+      "reason": "Primarily a self-promotional marketing post about AI visibility and GEO/agentic search, not a concrete source-linked research workflow for customer, competitor, or market research. The author asserts expertise and promotes free visibility platforms, but provides no methods, baseline comparison, or inspectable evidence that would let a small business judge reliability or relevance. Commercial incentives are material because the post drives traffic to a course and Trust Insights offerings, so the claims should be treated as promotional and unverified. It may overlap conceptually with search/monitoring, but it does not furnish evidence strong enough for the brief.",
+      "piece_ids": []
+    }
+  ]
+}

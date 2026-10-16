@@ -1,0 +1,36 @@
+{
+  "decisions": [
+    {
+      "item_id": "feed:7d90f9bab075038406ac3af2",
+      "version_id": "f896160d4ca8c75dbaac7226a1aa77822d1637afb64c8baf4fd9267bec4958ee",
+      "decision": "defer",
+      "reason": "Relevant only in a broad, generic sense: it argues that data quality strongly affects AI outputs, which could inform small-business use of AI research tools on CRM/ERP data. Credibility is limited because this is an individual practitioner essay with self-promotional context (course, Slack group, consulting brand) and no inspectable method, measurements, or comparative evidence. The main claim is plausible but unsupported as a verified finding, so the uncertainty is too high for acceptance. No cross-post is evident here, but the piece mainly repeats a common underlying claim rather than providing new evidence.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:849c1b75f58f080d47c7e603",
+      "version_id": "4db87a90c2dc300949c1e3994c64751a7fc731fb9cc1ae42f2b1167e82b48dce",
+      "decision": "accept",
+      "reason": "Highly relevant because it is a source-linked study guide on how AI works, user mental models, trust, hallucinations, prompting, and AI literacy—directly useful for evaluating when AI research tools are reliable enough for small-business desk research and synthesis. Credibility is stronger than a generic blog post because it is a Nielsen Norman Group research resource that explicitly points to underlying articles and observed user patterns, though it remains a guide rather than a single fresh experiment. Uncertainty remains around the strength of individual linked claims because this item is a curated overview, not a standalone methods report, but the traceable structure and practical workflow focus make it suitable for inclusion. No commercial incentive is apparent beyond standard consultancy content, and no cross-post issue is evident.",
+      "piece_ids": [
+        "01",
+        "02",
+        "03"
+      ]
+    },
+    {
+      "item_id": "feed:9b5446bea79d40805fc10d3e",
+      "version_id": "12085ef4368b03fd065341d410d51aefb0a32bdf79b2842509dee8208e25e1dc",
+      "decision": "defer",
+      "reason": "Topically adjacent but not directly about small-business research workflows: it discusses digital PR and AI visibility rather than customer, competitor, or market research. Credibility is limited because the article is promotional coverage of an upcoming conference session, relies on a quoted practitioner, and cites Fractl’s proprietary data without disclosing the underlying method, sample, baseline, or independent verification; the session itself is a vendor/agency presentation with clear commercial incentives. The claims about which publishers move the needle for AI visibility may be useful hypotheses, but the missing methods and marketing context make the evidence insufficient for acceptance. Potential cross-post/announcement concerns also apply because this is event promotion rather than a standalone research publication, and the same underlying claim about contextual authority is repeated in a sales-oriented frame.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:abee21cd43487c4410ade61e",
+      "version_id": "49a0671efb2afbc69de5a2ca4a1438773dde50a1d72f65cd57af3846a8139a99",
+      "decision": "defer",
+      "reason": "Relevant in a limited way because it describes practical agent workflows for transcription, local models, note capture, and retrieval, which could inform low-budget research operations. However, credibility is constrained by the first-person, self-promotional format and the absence of inspectable evaluation: no benchmark, error rate, task comparison, or documented cost/accuracy analysis is provided for the workflow claims. Several passages repeat familiar claims about agents and local AI tools without independent validation, and the newsletter is also a promotional vehicle for courses and products, adding commercial incentive. Useful as practitioner commentary, but the evidence is not strong enough to accept as a vetted recommendation, and it is not a cross-post of another source based on the material shown.",
+      "piece_ids": []
+    }
+  ]
+}

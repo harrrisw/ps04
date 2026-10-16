@@ -1,0 +1,22 @@
+{
+  "stage": "select_items",
+  "status": "failed",
+  "input_count": 25,
+  "output_count": 0,
+  "started_at": "2026-10-10T05:18:22Z",
+  "finished_at": "2026-10-10T05:18:22Z",
+  "tools": [
+    "python",
+    "codex"
+  ],
+  "models": [
+    "provider default (model ID not reported)"
+  ],
+  "cost_usd": null,
+  "cost_is_estimate": false,
+  "errors": [
+    "A ChatGPT Codex login is required. Paid API authentication is disabled for this project."
+  ],
+  "notes": [],
+  "elapsed_seconds": 0.11
+}

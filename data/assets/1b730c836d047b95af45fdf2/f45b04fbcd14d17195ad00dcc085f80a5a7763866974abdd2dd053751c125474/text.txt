@@ -1,0 +1,393 @@
+Hello everyone, welcome to another episode of The Green Book Podcast. I am hosting today.
+I am Karen Lynch. You know me. I'm so happy to be hosting another episode with somebody
+who I'm so happy to have met at IIEX Europe this year. She took to the stage after an
+invitation from me. I'm talking to Nadine Von Royen. She works for a company called Wex
+which we'll get into and explain in just a moment. Her title is Senior Effectiveness
+Manager and I want to tell you a whole lot about Wex and a whole lot about her title
+and what she does there. But for those of you who do not know, she'll explain. They have
+a headquarters in Portland, Maine which was really, you know, kismet for us because one
+of our employees lives up in Portland, Maine and yet she lives in the Netherlands. So that's
+why we brought her to IIEX Europe. But before we get too far into that, I would just want
+to say Nadine, what a pleasure to have you. You're welcome to The Green Book Podcast.
+Thank you, Karen. Thank you so much for having me. I'm looking forward to this conversation.
+Likewise, likewise. And, you know, every time I speak to you, it just makes me smile. So
+I have the feeling this will be one of those conversations where I will be smiling almost the
+entire time. So for those of you who are audio only, I'm so sorry, you will not see the ear
+to ear grin that I have because Nadine is such a pleasure. Let's start with the company
+because again, I had never heard of Wex. And then when I talked to Dana Stanley, like I
+said, who lives in Portland, Maine, he said, Oh, yeah, Wex, they're headquartered in Portland,
+Maine. I kept saying to myself, that is so interesting. So please give our listeners
+a little context on Wex, what the company does, who it serves, you know, take it from
+there. Perfect. So I think you are right. Probably not a lot of people have heard about
+Wex. And that's probably because we are a B2B company. So we are a commerce platform. And
+we operate in areas like mobility and corporate payments. And so our main type of customer
+would be people within other businesses. So if you're not in the corporate payment space,
+or if you haven't got a fleet that you ran, then most likely you haven't heard about what
+it is that we we actually do. But we are a global company. And so our headquarters, as
+you say, is in Portland, Maine, that's a really big part of who we are. And it's also where
+we're started. But we do operate in EMEA. And that's why I sit in the Netherlands. And we
+operate in APAC. And we've got multiple lines of businesses and multiple regions and multiple
+offices, that is. Yeah, yeah, that's so yeah. And tell me a bit about your role, you know,
+senior effectiveness manager, and then how it connects to the insights function, which
+is, again, of the utmost importance to our industry.
+Yes, for sure. So I think that, you know, insights can obviously be really big. And with Wex being
+such a data driven company, as you can imagine, you know, with corporate payments. And there's
+probably a lot of insights that goes around. But my area that I focus on is really on
+marketing. And so I would say majority of the insights that I deal with is customer insights
+of bringing that voice of a customer through to the rest of the business. And my I agree
+with you, my title is maybe a bit of a mouthful for some people. And most, I mean, even my
+mom doesn't know exactly what I do. But what what it means is basically, I'm in the marketing
+department, I would look at how we make our investments and what we're getting in return
+for those investments. So what is the effectiveness of the areas that we are deciding to spend our
+time and our energy and our money? And are we getting the right type of return for that
+investment that we're making? And is it is an investment? Is it marketing spent specifically
+then? This is this is for marketing spend specifically, yes. And I think we'll probably get there
+a little bit later. But that is how this whole question came up, like, how do we then substantiate
+the fact that we need insight and that we need people to work on insights to help the rest of
+the business? But we'll get there, I'm sure. Yeah, yeah, we'll get there. So tell us a little bit
+about kind of your, if you don't mind. And again, this is kind of like just leading you there,
+what led you to this type of role, a little bit about your background that brought you to this
+type of position? Yeah, very, I would say very interesting, maybe not the most normal path that
+I've taken. I actually did study marketing at university. And I got my masters. And then I went
+and I worked for a data agency. So we worked customer insights. We, it's basically looking at all of
+the transaction data that, you know, if you go to the supermarket, and then understanding how customer
+behavior happens there. And then I came into this role with Wix, they were looking for a data
+analyst within marketing. And somehow that role just kind of evolved into, okay, but, you know, yes,
+we need a data analyst to give us insights on what what is happening within the data. But more
+importantly, we actually need to make sure that we have a measurement framework for all the pieces
+of marketing that we do. And that that is how the role evolved. And that is how I got to this
+position. Yeah, yeah, I'm glad you share that because that to me seems to be the important, the
+important background piece for a role like yours would be the proficiency in that data analytics.
+You would, you would almost have to have it at a company like yours, the ability to see the
+information or the intelligence in the data to be able to then assess the ROI. And then, you know,
+answer some of those, you know, kind of strategic questions, which again, yes, we will get into,
+but what are the, you know, kind of beyond just proof of ROI, are there other types of business
+questions that your work is supporting beyond just marketing ROI for campaigns or what have
+Well, I mean, I think that, and I think this is an ongoing discussion that that we're having,
+like marketing ROI, that is obviously a really important piece. But I think that marketing as a
+function goes so much further and the value that we bring as a department is so much more and goes
+beyond just like an ROI number. And I know some maybe the finance people listening will be,
+oh my goodness, did she just say that? I think that there are connections that we have with other
+parts of the business and there's value that you bring to other parts of the business that's not
+only like revenue related. And so when majority of my work, I will admit majority of my work
+is finance related. And so I speak to the finance department very often, and we make sure that we
+are aligned. But I also speak to other departments and, you know, sometimes like our senior director
+needs to make a decision. And I think that's where the real value comes in is bringing in all these
+bits and pieces that you know about the company and about the business and different departments
+and how they operate, bringing that together and then enabling people to make better decisions.
+And I think that is, it is like the big part of it is the numbers and the ROI ME, but it's not
+only the numbers, I think it's actually more complex than that.
+Yeah, yeah. And that's probably our good segue to your talk, right?
+Yes indeed. Have you sat in on your talk? So for those of you who are not able to be at
+IACT Europe, and I'm so sorry, because it was a great event this year. I mean, I think I say
+that after every event, and I think I say that every year after every event, but Nadine's talk,
+she spoke with a co-worker of hers, and it was titled From Insights to Impact,
+Rethinking What Success Looks Like. So let's kind of go back in time to you coming up with that talk.
+Talk to us about kind of what prompted it, what brought you to the idea, the concept for the talk,
+and then we'll kind of dig into, you know, what the conversation entailed.
+I think, like many talks, it probably came from a point of pain, a pain that we had felt for maybe
+a number of years of, you know, constantly going back and forth, and this concept of, you know,
+trying to show a romy impact and really substantiating why it is that we need an insights department.
+In our case, the colleague that I was doing the presentation with, she is our insights and
+research manager. And so we work really closely together to try and understand, you know, what
+impact are we delivering? And we were so focused on the outcome of the impact or the outcome of the
+insights that we kept just bumping our head against the same thing. And every year we'd be like, okay,
+what was the impact of all of our insights? And that was, you know, coming round and round that
+circle over and over again and not having a good care answer. That was really what forced us to kind
+of stop and rethink where we were and where we were going and how we were going to approach this.
+Yeah. Yeah. So why do you think, you know, kind of when we get there, at this point in time,
+this became kind of a critical conversation to have, not just at your organization,
+but I'm talking now across the industry, right? Because it was very well received, that particular
+talk. I was in the audience, I can kind of feel it. And it's not just that you had, you know,
+fascinating takeaways, which again, we'll get to momentarily, but why do you think now that this
+was sort of resonated with a lot of people, not just within your organization?
+I'm going to propose something. And maybe, you know, people out there are listening,
+they can come back and they can tell us what they think about it. But I think that our whole
+industry is is maturing and has matured quite a lot. If I look at, you know, the last 20 years,
+you know, where we've come from to where we are now. And I think, you know, if we think about like
+actionable outcomes or actionable insights, that that was the one of the main drivers of our industry
+and what we wanted to go for. That makes a lot of sense to me why that would be a key outcome.
+But I almost feel like we are maturing beyond that. And we're starting to take a little bit of a
+step back and realize that that is not the only measure of success of where we are and
+the value that we're driving within the business. There's this whole chain of events that happens
+before that that actually drives value and that enables people to make better and more informed
+and clearer decisions. And so I think that is why this is maybe becoming such a key topic is just,
+you know, we are evolving and we are moving with the times and there's a lot of changes happening
+in the world. I'm sure, well, I know you are aware of it because I've seen all the topics at the events.
+And I think all of that just starts showing a little bit of the complexity of how, you know,
+when insights comes closer to the business, because that is the context we're talking about,
+that we really need to start looking a little bit more closely at that complexity and not just
+skim over it. So let's get to kind of the big takeaways. So what were the takeaways that you
+wanted people to have walking away from your talk? I think the first thing was just to evaluate,
+are they really looking at and understanding the true impact that their insights are having.
+And I think maybe for some of the people that already felt the pain that we had felt for those
+years, that maybe we could help them accelerate their path to expanding and maybe exploring a new
+way of understanding and showing the value of the insights that they're producing. So they don't have
+to go through all of the pain, but just realize there are other people just like me. We thought
+we couldn't possibly be the only ones who are having this pain. So maybe there are others just
+like me having the same challenge and let's work on it together. Here's one way we've thought of,
+but maybe you've got some other good ideas we can add. I think that there was one of the charts,
+and we'll get into kind of the the the the meat of the story that I wanted to talk to you about.
+One of the charts you had was sort of a it was sort of this ladder ladder step by step process of
+walking people through a project and and there was a pinnacle point at the end at nearing the end
+of a project where you challenged the status quo of a project, for example, which was
+not every idea needs to spur an action, not every or not every project needs to result in
+a recommended action item. And and that's that hit me at my core as somebody who has
+has been, you know, been reinforced was was taught and then has reinforced every research
+project I had done for 30 years. There were resulting recommendations and action items and
+every everything had to be every report had had actions attached to it and recommendations and
+and in and findings weren't actionable, then it was deemed a failure, you know, I mean, and if
+I weren't if I wasn't persuasive in my delivery of of everything that didn't spur on action and
+my definition of an insight was an unexpected human truth that you can act upon and everything
+was pushing us towards actionability. Yes, you had this moment in your in your presentation,
+which was not every insight, right, needs to be actionable. And you do not need to take action
+and some things can literally just go sit on a shelf. And you put that out there and the audience
+was so silent in that moment. And imagine, did you feel that on stage as well? There was sort of
+this, you know, there was just this moment of, well, that challenged the status quo, you know, and
+and it wasn't it wasn't as provocative. I'm being very dramatic as I say that. But
+but we all felt that moment of so much of what we do is that action had become the primary measure
+of value. And you challenged all of us in in a single moment in in that. Anyway,
+I just would love for you to unpack that a bit for all of us. And here's where you please expand
+because it was it was both it was poignant and significant and timely all at the same in that same
+moment on that stage. And it is really why I wanted to follow up with you for a broader audience.
+Absolutely. And like I said, I didn't mean to be provocative. I don't want to, you know,
+but the reality is I think that even if our insights on let me take a step back, I think
+I think that there is still a truth in in having action ability in our insights and having
+recommendations based on our insights. But I don't think that the success of that insight
+should be measured on whether that recommendation gets implemented or not. Because I think that
+the the complexity of the reality of business, you know, like just what what everybody has to
+go through all the different pieces of the puzzle that has to come together for that recommendation
+to really make it all the way to become actionable. I think that there is so much value that gets
+added. So you mentioned that I see it almost like a value chain like at every step of the value chain,
+the insight that you've provided adds a little bit of value. So, you know, first it's we started
+off with it being trusted. So that's really about did the the research was the research done in a
+really solid and good way. Can we trust the insights that has come from this? And I know that's what the
+researchers love. They, you know, they love. Have we have we reduced the bias? Have we done this
+consistently? Do we have the right audience? Have we asked the right questions? Are we not, you know,
+leading the the answers or anything like that? So that's that's the like critical foundation,
+like really the starting point. But that's not the only part. And I think that we have brought that
+together with business and we've kind of connected it directly to, okay, so you've got really good
+research. And you've got a really good recommendation. We want you to do this based on insights from
+this research, maybe a specific question that you passed. And then nothing happens, you know,
+nobody actually goes and implements. But there are so many reasons why that insight might not be
+implemented. There are there are countless reasons why. And I don't know if we we're
+still going to get to this, but I kind of see it as like a piece of a puzzle. So if you think about
+every department within your business, they when you have a business question that you want to
+answer a decision that needs to be made, every department has their own pieces of the puzzle
+that needs to be put together. I like to think that the marketing insights, the voice of the
+customer is probably the most important pieces, maybe some of the corner pieces. And if it's a
+face, maybe it's the the eyepiece that really shows you what this picture is going to be and
+what the outcome is going to be. But if you if you bring in all of those different pieces,
+you might see something that makes you go in a completely different direction to what you
+originally thought would be the the right area or the right direction to go. And maybe I can give
+you an example at this stage. I mean, it's I'm going to keep it quite vague, I would say, but
+you know, just imagine if a lot of our lot of insights or a lot of these business questions
+would come from research that was done. And we find from the customers that they are not very happy
+with an app. So, you know, they're using this app, they're not very happy with it. They want
+some additional features to be added to the app. So we make the recommendation based on that inside,
+we need to have these features added to this app. But then once you start putting those
+puzzle pieces into the bigger puzzle that's being built within the business and you find out from
+the tech team that they are busy working on more important projects or they're busy working on
+other customer requests for features to the app. And you know, their line, you know, their backlog is
+so big that your this new recommendation is not going to make it to the top of that line.
+You know, things like that, that is just the reality of operating in our business. And there
+are ways to get around that. And you know, you can investigate, but at the end of the day,
+it's all going to, you know, come back together and you're going to have to make decisions. And that's
+where prioritization was one of those steps. You're going to have to make decisions, you're going to
+have to make prioritization calls. There was, I was listening to an economist this week. I don't
+know if I say his name correctly, Thomas Seale or Saul. And he was saying there are no solutions,
+there are only trade-offs. And I think that is 100% correct. And I think that is exactly what happens.
+And when we only focus on that insight that results in action, we completely miss the chain of trade-offs
+that's happening in the middle. And you know, at the end of the day, that's just heartening for the
+insights agent. And maybe it has nothing to do with the way that you delivered the recommendation.
+I mean, sometimes the recommendations are 100% correct, and they should be done. But in context of
+the risk of the business, they just don't have the same priority that you would want to have.
+And I just think that, again, the reason why this landed with me, and I believe why it landed with
+so many others in that room, who are perhaps on the supplier side. Let me be particularly clear
+about that. You know, there's a little side bar here. There's a bit of a dopamine rush when you are
+a supplier and you deliver recommendations, and then you see something on the shelf, for example,
+that you worked on. And you're like, yes, I recommended that direction for that package design,
+because I heard the consumers say they preferred it, and they went in that direction, and I'm so
+glad. And you feel like you were a part of something, right, that ultimately, and it's like, it does
+not happen. It does not happen all that often. But you feel like you are a part of something big,
+right? And it feels so gratifying, and you just feel like you were so successful on that project.
+But there are, you know, for every one of those, there are dozens where you're like,
+hmm, don't know if anything ever happened, you know, there.
+Exactly. So that's, you know, you have this disheartened feeling often where you're like,
+I don't think they ever did anything with that. Or maybe you're really close to the team, and you
+know, they didn't really do anything with that because you heard back from legal, or you heard
+back from your clients that legal shot it down, or R&D shot it down, or who knows exactly.
+So I think that that does happen a lot. And I think the feeling is that perhaps you should
+have known what all those complications are, or, you know, perhaps you should have thought of that,
+you know, and there's no way you could possibly know all the complexities and the nuances on
+the client side, you can't possibly. Exactly. So I feel like there was, there was something in the
+way you presented it all that felt like a bit of a sigh of relief. It explained and demystified
+something happening within, you know, within the client corporate organization that made so much
+sense. Yeah. And you know, Karen, I think maybe this will help because what happened was we, you
+know, we went around this corner of like, or this circle every time, okay, what impact have we had
+nothing measurable, what impact have we had, but we've done all this hard work. And eventually,
+it kind of got to a point where we said, okay, let's, let's just stop, let's be real. If we
+took this function away today, what would the impact be? And when we did that, that was when
+the value of the insights really revealed itself. Because that was when we realized it's not only
+about seeing the product on the shelf, which I agree with you, that is such a good feeling. It really,
+really is. But I think if we only measure ourselves by that feeling and that feeling of success,
+then how would I argue sometimes 80% of the work that we do day in and day out, I think we were
+just completely missing the positive feedback that we could be getting from the value that we are
+actually creating. Try and tell your GM that you're going to be taking the customer, the voice of
+the customer out of all of the pictures or all of the decisions. And you very, very quickly start
+realizing, you know, even if they don't go anywhere, there is value that is added.
+So let's talk a little bit about that, because you did talk about the decision,
+the kind of the quality of the decisions, right, decision quality also. So let's talk about that.
+Because if if we reframe our thinking and or reframe our thinking of success and what success
+looks like to be the quality of the decisions we make based on the insights that we provide,
+if we can get to that place, tell me what that looks like. Tell me how that reframing can look
+for all of us. So I think maybe I'm going to answer your question by talking a little bit about
+what a quality decision looks like. And I think one of the best ways that I can maybe bring this
+across is if you thinking about, let's say you're thinking about buying a car and you go out and
+you want to buy a car. So you go to your closest car dealer and you say, I want to buy a car.
+And they hand you a set of keys, they give you a car, you pay them and off you go. Okay,
+you've got a car, but have you got the right car? Have you, you know, there's so many things around
+that car, maybe they give you a moped and you can't drive a moped in, you know, in a city or,
+you know, maybe you have to drive long distances, you have to have a few bits more of information
+to really make sure that you're getting the right car for the purpose that you're using. So a good
+car dealer would ask you, okay, Karen, what are you going to use the car for? Are there any features?
+What is your budget? You know, is it a long distance car? Is it a city driving car? There's a lot of
+these aspects of purchasing a car that needs to be understood before you can make the right
+decision. And then obviously, once you have that information, that's when the trade-offs happen.
+So that's when you start deciding, I'm willing to give up this, but I'm not willing to give up
+that. I can do this, but I won't do that. And it's the same thing in business when we are making
+decisions. So the, we all have to, in business, you have to be comfortable with making decisions
+without having all the information, right? But there are key pieces of information, bits of that
+puzzle that I was talking about, that you have to have at least as a framework to know that you are
+going in the right direction. Can you make the decision and not know, you know, what the framework
+is? Absolutely. But you're most likely end up with any old car. You don't know, is it brand model,
+what it is. And so that is what what Insights does. And that is what I think how those come together.
+The more insights that you have, the better your picture is, and the better you can actually make
+a good decision on which direction to go. And the analogy used of the puzzle, you, you, you
+at least have to have the, the borders, right? Exactly. The least need to have the edges done.
+And then you have as many pieces of the puzzle on the inside done as possible. But perhaps don't
+need all of them to see what it's going to look like. We'll never have all of them. I mean, you,
+you have to learn to make decisions without seeing everything. But I think like, you know, in my world
+anyway, and with arena who did the project with me, like cast voice of the customer, that is really,
+really important. So you also have to decide which of those pieces is really important and
+are you willing to invest in to, to make sure that you're making the right decisions?
+You know, one of, one of the takeaways that, you know, you would kind of promised in the talk,
+and then you did get to was that sometimes, sometimes the journey is a little bit messy,
+and it's not necessarily a linear path. And I'm, again, I'm now I'm, I just got back from a vacation.
+I took this vacation, we did a lot of puzzles. So the puzzle analogy is staying in my head,
+and I'm thinking about there's not one way to put together a puzzle. That's for sure. You know,
+sometimes that's a pretty messy journey. And sometimes it comes together in many different ways,
+you know, and so I'm picturing puzzle, putting together puzzles, like sometimes it doesn't come
+together in anyway. You know, you might always start with the border, but you know, the way it
+comes together is missing some pieces. So this idea that, that it, that it's sometimes
+is kind of messy, and it's not always a straight line. So talk to me a little bit about why that's
+important for, for insights professionals to kind of at least acknowledge and, and the mindset
+that that, that they should have around that. I think why, why that's important is because
+from insights and from research, you know, we like to work things in a very linear fashion.
+There's a certain order that things needs to happen in to get to a good end product.
+But as soon as you have produced that insight, it doesn't work like that anymore, because
+you've got so many different stakeholders within business, you've got so many different
+aspects. The complexity is just, you know, exponentially bigger than what you would face within the
+actual running of a research project. And so, you know, I think maybe in a textbook,
+things would look really, really pretty and really clear and you'd be like, oh, we get an
+insight and then we go to this person and then we have that, then we have a decision and then it
+it becomes an outcome. But in reality, we have to face the fact that there are so many different
+aspects that's happening. And I think once we embrace that and really like draw into it and,
+and not try and shy away from it, that's when the insights and the business, almost like
+partnership just becomes stronger and you start working closer together and it builds stress
+and it builds those connections. And that also means that eventually you can have more of an
+impact and more of an influence because you really do understand and show you understand the complexity
+that that happens. Well, that's good. That's a great segue to my kind of this last area that
+I don't want to talk to you about, which is kind of treating your stakeholders as audience.
+You know, now, of course, you serve marketing. So it's even more critical when one part of your
+staple stakeholder group is marketing, but you have to win the mode or over, right? Now,
+we talk a lot in the insights industry about storytelling and how we have to,
+you know, we have to, we have to package insights as a story to share with our audience,
+but you kind of packaged it a little differently. You kind of packaged it as, you know, kind of
+winning them over, you know, and you just use the word just now as kind of influencing them,
+which is actually a bit more like marketing language. So I find that very interesting.
+You didn't use the word storytelling, you didn't use the words that the insights industry
+traditionally uses, you use marketing talks. So I'd love to learn from you a little bit about how
+you think about your internal stakeholders and what it looks like in practice to you to work with
+them. So let me just maybe be very clear. I think storytelling is great. And I think it's a really,
+really key part. I almost assume that it's a given, to be honest. So I think that storytelling is
+really important for, you know, for presenting the insights to the team. But I think that what's
+often missed, and maybe this is where those two functions just need to come together a little
+bit closer, is that each of your stakeholders within the business, and yes, I'm in the marketing team,
+but most of the stakeholders that we would be influencing is not within the marketing team.
+They would be the sales team or the customer service team or the GM or the finance team
+or account managers. And each of them have a different interest in whatever insight it is that
+we are generating. And so what we've tried to do, and I think what Arena has done a really good job in,
+is every kind of insight or area that we want to influence, you have a bit of a stakeholder map,
+either you've created it or you are very aware of who your stakeholders are. And you adjust the message
+based on who those stakeholders are. And you know that customer service will be interested
+in how they need to speak to the customer. But finance would be interested in what that's going
+to mean for the bottom line, for example. And every story that we tell has an aspect of all of those
+things. And so it's just about making sure that you tailor the story to what you know that
+stakeholder is really going to be interested in. And Caron, another thing, I mean with AI, we really
+have no excuse not to understand their stakeholders because it's so easy. You just go and you ask from
+a finance perspective, what would you think about this or how would this land with you? Would this
+message come across? And so it's become a lot easier for us to tailor that message to the stakeholders.
+And it's just, you know, I find that there's so much more acceptance when they feel like they
+have been understood, rather than you coming in with this beautiful story that makes so much sense
+in the insights world. But in their worlds, it's, you know, on the periphery. And they're like,
+we don't know what to do with this. It makes so much more sense. It's it's taking storytelling
+to the next level to make it, you know, a story that resonates. That is that is actually,
+you know, kind of winning them over and influencing them to to to something else to the next level.
+Exactly. Yeah. Well, well said Nadine. Well said, you know, here it is. I've told you that we would
+be, you know, wrapping up by the top of the hour. And I've told you once again what my timing is.
+So here we are. We could go on forever. So let me let me turn around and say,
+what do you wish that I had gotten to that I haven't quite gotten to yet before we wrap up?
+Is there a question that you wish I had asked that I hadn't gotten to?
+You know, I think that there is maybe one question, but maybe a little bit glad that you
+didn't ask it. But I think that I think that it's something to be put out there and maybe a bit of a
+challenge as well is, okay, so if we're saying that we want to measure value at each of these levels,
+like, what does that actually look like? Do you know what I mean? Like on on a slide,
+what what does that actually look like in in practice? And of course, I have my ideas and we
+have gone down that route and we have got an approach for that. But I think that that's something that
+that people should be thinking about and figuring out for themselves, how am I going to to show
+this to my stakeholders and in a way and then again think about who your stakeholders are and
+what they would be interested in in a way that's going to make them reevaluate the way that your
+insights are influencing the way that decisions are being made within the business.
+And it's almost like speaking of AI, you know, it's almost like, you know, in advance of a project,
+I would almost want to go in there and say, you know, I'm about to embark on this project,
+what would stakeholder X want to get out of this project before I even begin? What would stakeholder
+Y want to get out of this project before I even begin? Like, here's what I'm taking to the field.
+This is the business question I'm answering. What are the nuances I should I should go after
+for these different stakeholder groups, knowing the constraints of the project, right? This is what
+I'm doing for stakeholder Y, but I know I'm going to be responsible for stakeholders, you know,
+QY or QZ and T as well. Because even though I'm doing this for this stakeholder, the other
+ones are listening as well. So there's lots of things we can do with kind of AI in our back pocket
+to get ahead of some of that. And, and, and I always, you know, one of them,
+Stephen Covey's habits, seven habits of highly successful people is always beginning with the
+end in mind. And I, I have adopted that one of always beginning with the end in mind. And I would
+probably do some of that thinking in advance. 100%. That's my favorite one of his habits.
+Of course it is. This is why you and I are. Yes.
+We go there first friends go there first. So yeah, exactly. And find and, and get ahead of those,
+those stakeholder interests so that you can meet their needs up front. So Nadine, such a pleasure.
+Well, then my last question is, you know, the, the green book tagline and everything we, we often
+think about when we, when we do programming and when we embark on events or, or podcasts is,
+you know, we talk about the future of insights. In your opinion, what do you think the future of
+insights is all about for professionals in our space? Well, I mean, I think that this, this topic
+that we've just discussed, I think that it's almost like maybe a leading indicator to,
+to where we will be going where insights and business just start integrating a lot closer.
+Um, unfortunately, I can't answer this without mentioning AI. Like, I think that AI is just
+really changing the, the landscape and changing the way that, that insights is being performed,
+the way that it's being delivered. And, and like we've just been talking about the way that the,
+the value to the business is being shown. But I think that with those changes, the, the key thing
+that we can bring as, as, um, insights of managers or, or insights professionals
+is there's an aspect that AI will never be able to cover. And that's the, the human touch, the,
+the relationship, the, there's just, there's an aspect that it will never be able to, um,
+to replicate. And I think that that is where, where we are headed, where we're facing this,
+you know, this messiness that, that we've spoken about with the business and then the,
+the keen insights coming into this messy, messy business. And I'm working with AI to overcome
+some of those complexities by making sure that we stay on top of and, and keep the,
+the real humanness that cannot be replicated. I agree with you. 100% does not surprise to me.
+What a pleasure to have you on the show today. I am so glad you joined me.
+Thank you so much for having me. This was such a lovely conversation. Thank you, Karen.
+Oh, you're very, very welcome. I appreciate you. And, um, I wish you a great rest of your day today.
+Thank you, you too. Until next time. Until next time. And thank you to our producer, Emma. Thank
+you so much. And to our, um, editor Big Bad Audio. Thank you for doing all you do. And to our
+listeners. Thank you for tuning in week after week. We really appreciate you for, for showing up
+for us. And because you do that, we will keep showing up for you. So that's it for now. Bye-bye,
+everybody. Take care.

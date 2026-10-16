@@ -1,0 +1,21 @@
+{
+  "item_id": "feed:cef868a2ca35f25b510b9dfc",
+  "source_id": "techcrunch-ai-written",
+  "publisher_id": "techcrunch",
+  "kind": "feed",
+  "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
+  "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
+  "published_at": "2026-10-10T00:18:32Z",
+  "retrieved_at": "2026-10-10T05:20:44Z",
+  "media_url": null,
+  "native_id": "https://techcrunch.com/?p=3176323",
+  "underlying_id": "feed:cef868a2ca35f25b510b9dfc",
+  "original_publication_basis": "feed published field",
+  "transcript_url": null,
+  "transcript_type": null,
+  "download_hash": "e186f09db73ad1986d35dbd5849f108e15bc7e7143b68625580fef917a7d3aca",
+  "content_hash": "19487335f12327b4092828e9588ca8da082649a426651f1bf396b11dc07da694",
+  "version_id": "82238ba8d615ae707a3f14a0dd44a88fe0811f48e1b48173694842d2eca286ab",
+  "text_path": "data/assets/6a92ced084ef3896f2b51353/82238ba8d615ae707a3f14a0dd44a88fe0811f48e1b48173694842d2eca286ab/text.txt",
+  "segments_path": null
+}

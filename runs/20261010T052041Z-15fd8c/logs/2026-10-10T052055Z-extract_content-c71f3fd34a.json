@@ -1,0 +1,28 @@
+{
+  "stage": "extract_content",
+  "status": "incomplete",
+  "input_count": 60,
+  "output_count": 28,
+  "started_at": "2026-10-10T05:20:55Z",
+  "finished_at": "2026-10-10T05:24:55Z",
+  "tools": [
+    "faster-whisper",
+    "python",
+    "trafilatura",
+    "yt-dlp"
+  ],
+  "models": [
+    "base.en",
+    "base.en"
+  ],
+  "cost_usd": 0,
+  "cost_is_estimate": false,
+  "errors": [
+    "youtube:ri-lf65Ss5Q: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests",
+    "youtube:pTLdkUZVpEk: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests"
+  ],
+  "notes": [
+    "Reused saved media evidence for youtube:Z4Coq_GIcpo"
+  ],
+  "elapsed_seconds": 240.265
+}

@@ -1,0 +1,21 @@
+{
+  "item_id": "feed:3456154bf96b71b5b8377dbe",
+  "source_id": "techcrunch-ai-written",
+  "publisher_id": "techcrunch",
+  "kind": "feed",
+  "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+  "url": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company",
+  "published_at": "2026-10-16T12:55:09Z",
+  "retrieved_at": "2026-10-16T15:31:54.957933Z",
+  "media_url": null,
+  "native_id": "https://techcrunch.com/?p=3178541",
+  "underlying_id": "feed:3456154bf96b71b5b8377dbe",
+  "original_publication_basis": "feed published field",
+  "transcript_url": null,
+  "transcript_type": null,
+  "download_hash": "e06ec783388510ab8d8fa9098a4270f1fb9409152fd97ca7cdb5cde6b97f0c6a",
+  "content_hash": "8de819ac357afb90e6053d126443aac365cd7afb484e20c5121dbfa359566d13",
+  "version_id": "b35115448f06a8d796eefd9ff3db44b6b04a4a50bf94abc54db26dcd321fb5cb",
+  "text_path": "data/assets/afc40aef39088a250c93f4e9/b35115448f06a8d796eefd9ff3db44b6b04a4a50bf94abc54db26dcd321fb5cb/text.txt",
+  "segments_path": null
+}

@@ -1,0 +1,35 @@
+{
+  "decisions": [
+    {
+      "item_id": "feed:54c849e0b3cea3f17b20dfd0",
+      "version_id": "da1c161a51d71ac1c86e6063cc3187a9656765dc00085b5aed728c611f4ebdaa",
+      "decision": "accept",
+      "reason": "Relevant to the brief because it gives an inspectable, research-backed framework for deciding when to disclose AI use, which affects trust in customer/market-research outputs and the handling of AI-assisted content. Credibility is moderate-to-good: it cites multiple peer-reviewed studies and distinguishes proactive vs third-party disclosure, but the article itself is a secondary synthesis from Nielsen Norman Group rather than a new field test. Uncertainty remains about transfer to small-business research workflows because it measures audience reactions to disclosures, not downstream research quality or ROI. Flag for human review: the article is about disclosure effects and may be useful for research communication, but it is not a direct capability comparison; no commercial incentive beyond the publisher’s thought-leadership role is evident.",
+      "piece_ids": [
+        "02",
+        "03"
+      ]
+    },
+    {
+      "item_id": "feed:59b9d94ff2c9ada3816bfcac",
+      "version_id": "54063a175277dae4ae650db7f043fed6522b79982994c6eccd8094d3cdce24d7",
+      "decision": "reject",
+      "reason": "Not relevant enough to the central question: this is a podcast promo about data-center NDAs and AI-agent trust, not a substantive, inspectable account of AI tools for customer, competitor, or market research on a small-business budget. Credibility is weak for editorial use because the text contains only promotional framing and episode-teaser claims, with no methods, evidence, or concrete workflow. The item also appears cross-posted/podcast-derived from TechCrunch Equity, so it does not add independent evidence. Commercial incentive is material because the page is promotional audio content rather than reported analysis.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:61a8902882e1fbd021c4f0f8",
+      "version_id": "857abe3befec2e548d802aacc033b22d36a7bffd342309daaf4bfc1574fdc250",
+      "decision": "reject",
+      "reason": "Irrelevant promotional content: this is a sales page for TechCrunch Founder Summit tickets, not evidence about AI research tools or research methods. Credibility is not the issue so much as applicability—the text is marketing copy with a clear commercial incentive and no inspectable method, data, or claim relevant to small-business research decisions. No reliable evidence here warrants inclusion.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:6ae2be6a27254cfe4127bbbf",
+      "version_id": "5b8c222e05a15bb76b0727cb3aadf6da4a387b287c39a1a77108077bf600b304",
+      "decision": "reject",
+      "reason": "This is a product-launch announcement for Google’s Universal Cart shopping tool, aimed at consumer e-commerce convenience rather than customer, competitor, or market research. While it describes capabilities, it provides no methods, evaluation, or evidence that would help a small business judge research reliability, cost, or workflow fit. Credibility is limited to vendor self-reporting, so effectiveness claims remain unverified. Commercial incentive is material because it is a vendor announcement for Google’s commerce products.",
+      "piece_ids": []
+    }
+  ]
+}

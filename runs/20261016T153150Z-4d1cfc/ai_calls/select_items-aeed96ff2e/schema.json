@@ -1,0 +1,53 @@
+{
+  "type": "object",
+  "properties": {
+    "decisions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "item_id": {
+            "type": "string"
+          },
+          "version_id": {
+            "type": "string"
+          },
+          "decision": {
+            "type": "string",
+            "enum": [
+              "accept",
+              "reject",
+              "defer"
+            ]
+          },
+          "reason": {
+            "type": "string"
+          },
+          "piece_ids": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "enum": [
+                "01",
+                "02",
+                "03"
+              ]
+            }
+          }
+        },
+        "required": [
+          "item_id",
+          "version_id",
+          "decision",
+          "reason",
+          "piece_ids"
+        ],
+        "additionalProperties": false
+      }
+    }
+  },
+  "required": [
+    "decisions"
+  ],
+  "additionalProperties": false
+}

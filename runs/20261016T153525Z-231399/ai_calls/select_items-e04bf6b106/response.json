@@ -1,0 +1,34 @@
+{
+  "decisions": [
+    {
+      "item_id": "feed:e04ea648fbd6970f7125fa17",
+      "version_id": "a215ff683af197cea303d74aa26ca22a89f5c307612737c33582f4586dd7331e",
+      "decision": "reject",
+      "reason": "Relevance is poor for the brief: this is a consumer-product authentication startup story about luxury goods chips, not AI tools for customer, competitor, or market research. Credibility is limited to a vendor/press-style announcement with attributed claims from the founder and no inspectable evaluation, baseline, or methods; the company’s investor ties create commercial incentive. Uncertainty is high because no performance evidence or small-business research use case is provided.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:e1141e704ec8a0229aa812cc",
+      "version_id": "064d50e387796be90cdba3aea8bb2aa8248317c7fe8fe66a5c1392ff9521d4be",
+      "decision": "defer",
+      "reason": "Potentially relevant because it describes using a survey and AI-assisted preparation to pivot a workshop agenda based on audience needs, which touches research workflow and practical use of AI. However, credibility is limited to a first-person practitioner account with no inspectable survey instrument, response data, baseline, or reproducible method, so the claimed benefits cannot be verified. It is also strongly self-promotional and the article offers no evidence that the process generalizes to small-business research tasks; this is insufficient for acceptance but not grounds for outright rejection.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:e3536a2078a19512bfe2a637",
+      "version_id": "a9fb4a4160007d323de6b8c8dcc02ea8a0510f1e29c9e51addb1124687959622",
+      "decision": "reject",
+      "reason": "The piece is essentially a tech-news novelty feature about a Theranos-themed website and a company promo, not a development in AI research tooling for small-business market, customer, or competitor research. Credibility is weak for the relevant claim because it contains no evaluated workflow, no methods, and no evidence of performance; the promotional angle for Extend creates commercial incentive. Uncertainty is high and the underlying claims are unrelated to the brief’s research-use question.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:e6965dd3c40f4c86dfd4360f",
+      "version_id": "37fdd2e47739b45f97d0979465090cb6942a66752cb60073676f3f9f845cc4b8",
+      "decision": "accept",
+      "reason": "Relevant to the brief because it discusses AI-assisted analysis of unstructured customer/loyalty data, synthetic audiences, and the need to combine qualitative, behavioral, and contextual evidence when measuring loyalty. Credibility is moderate: it is a branded event recap with clear attribution to multiple named practitioners and explicit caution about synthetic audiences, but it lacks a published method or worked comparison, so performance claims remain limited. The piece usefully supports practical guidance on what AI can and cannot do, while uncertainty remains about transferability and the commercial setting of the event should be kept in view.",
+      "piece_ids": [
+        "03"
+      ]
+    }
+  ]
+}

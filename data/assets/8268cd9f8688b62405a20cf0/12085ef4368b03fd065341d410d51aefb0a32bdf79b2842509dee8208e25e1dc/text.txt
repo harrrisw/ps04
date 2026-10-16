@@ -1,0 +1,31 @@
+Traditional public relations taught marketers to pitch stories and build relationships with journalists. That work still matters, but it no longer decides whether a brand shows up when a buyer asks ChatGPT, Gemini, or Google's AI Overviews for a recommendation.
+That gap between how PR has been practiced and how visibility is now earned is what Nicole Franco will address at MAICON 2026 in her session, "Entity-Led Digital PR Workflows: Using Commentary, AI Prompts, and Media Partnerships to Build SME Authority in Search."
+Franco is the Head of Digital PR and AI Innovation at Fractl, a data-driven digital PR and content marketing agency that has earned national media coverage for their clients.
+Rethinking PR as an Entity Engine
+For marketers who still think of PR as pitching stories to journalists, Franco reframes the discipline around a bigger idea: the entities that carry a brand's authority — subject matter experts, products, the brand itself — and the connected system that promotes them.
+"The best way to think about this is to identify a cohesive metric across your entities and see how you can create and repurpose content across all media," Franco says.
+That means the digital PR campaign, the LinkedIn post amplifying the journalist's coverage, the thought leadership byline, and the expert commentary in a breaking news story are not separate tactics. They are part of a single engine that builds SME authority across social, search, and AI.
+High-Authority Media and Your Brand
+Franco's team has proprietary data on which publishers actually move the needle on AI visibility, and one of the clearest lessons contradicts a long-standing assumption about "big" media.
+"High-authority media is great, but in the context of your brand," Franco says.
+She points to a concrete example: a food brand chasing LLM visibility should prioritize a placement in All Recipes over a placement in a broader business publication, even one with strong domain authority. A career or HR brand would flip that priority. The publication that wins in the LLMs depends on where the brand's audience already lives and which sources the models cite for that vertical.
+The takeaway for digital PR teams: authority is contextual. Chasing the biggest logo isn't the same as chasing the placement that will actually show up when a buyer asks an AI model for a recommendation.
+Turning Commentary Into a Data Asset
+Franco will also walk through what she calls "scaling commentary as a structured data asset" — a workflow that treats expert quotes less like PR filler and more as raw material journalists (and models) can actually use.
+"Think of quotes like data points, sound bites, or clips a journalist will use in their story," Franco says. "They don't want the same commentary or AI slop that many PRs might be sharing. They want raw, uncut, candid sound bites that will add substance to their stories."
+That reframing changes the workflow. Instead of delivering polished paragraphs on every trending topic, teams build a repeatable system for producing emotionally compelling, surprising commentary from their SMEs. This is what is more likely to earn coverage when a story is breaking.
+What Franco Will Explore at MAICON
+Franco's session is for PR, communications, and marketing leaders who need to modernize how their brand shows up in search and in AI-generated answers. She'll unpack the entity-led PR framework, share Fractl's proprietary data on which publishers actually influence AI visibility, and walk through the commentary workflow her team uses to earn coverage at scale.
+What You'll Gain from Franco's Session
+Attendees will leave with a practical playbook, including:
+- The entity-led PR framework and how to apply it across social, search, and AI channels
+- A contextual approach to media targeting that prioritizes AI-visibility impact over raw domain authority
+- A repeatable workflow for scaling expert commentary as a structured data asset
+- An understanding of Fractl’s efforts that have earned key media placements
+Join Us at MAICON 2026
+Franco joins an expert lineup focused on real-world AI strategy, implementation, and leadership.
+At MAICON, she will focus on helping PR and marketing leaders build SME authority that both humans and machines will recognize.
+Follow Franco before MAICON 2026:
+Join us at MAICON 2026 to hear Franco and 50+ other AI and business leaders. Register today.
+Cathy McPhillips
+Cathy McPhillips is the Chief Marketing Officer at SmarterX and Marketing AI Institute

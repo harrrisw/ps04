@@ -1,0 +1,22 @@
+{
+  "stage": "select_items",
+  "status": "failed",
+  "input_count": 55,
+  "output_count": 0,
+  "started_at": "2026-10-16T15:31:02.831462Z",
+  "finished_at": "2026-10-16T15:31:03.437757Z",
+  "tools": [
+    "python",
+    "parley"
+  ],
+  "models": [
+    "openai"
+  ],
+  "cost_usd": null,
+  "cost_is_estimate": false,
+  "errors": [
+    "Parley HTTP 400: check the MIT API documentation; no automatic retry was made"
+  ],
+  "notes": [],
+  "elapsed_seconds": 0.609
+}

@@ -1,0 +1,3 @@
+# Local review-video rendering (not a substitute for Google Vids/HeyGen production).
+Pillow>=12,<13
+imageio-ffmpeg>=0.6,<1

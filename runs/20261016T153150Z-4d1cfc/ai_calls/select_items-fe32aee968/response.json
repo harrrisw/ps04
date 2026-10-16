@@ -1,0 +1,35 @@
+{
+  "decisions": [
+    {
+      "item_id": "feed:c7506eddf63043533f132661",
+      "version_id": "456f27b7529baa4ebdd5fc671074bb44bec587ce8b82870eab382332d7280e04",
+      "decision": "defer",
+      "reason": "Relevant to the general theme of AI-assisted research/workflow because it describes a multi-agent fact-checking and verification process, but it is a vendor-style marketing piece based on the publisher’s own workflow and podcast, not an independent evaluation. It gives a concrete process but no measured comparison against a named baseline, no error-rate/accuracy data, and no small-business-specific evidence; the stated time-saver claim is not independently verified. This makes it useful as a method idea for piece 03, but uncertainty about effectiveness and commercial incentives warrants deferral rather than acceptance.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:cd459d1a697b39bdaddeaa11",
+      "version_id": "d773e2d1d032f2599d9b20f877c1ccd53e0c2cbdc60c155f5b119b37a1584521",
+      "decision": "reject",
+      "reason": "Mostly irrelevant to the brief’s core question: it argues against AI visibility/SEO tools and recommends Google Search Console for query analysis, which is adjacent to monitoring but not about customer, competitor, or market research workflows. The post is strongly opinionated, offers no inspectable method beyond anecdotal API exploration, and includes a commercial incentive structure (course, Slack group, self-promotion) that weakens credibility. It also does not provide a comparable worked evaluation of alternative tools, so it is not strong evidence for the requested research brief.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:cef868a2ca35f25b510b9dfc",
+      "version_id": "82238ba8d615ae707a3f14a0dd44a88fe0811f48e1b48173694842d2eca286ab",
+      "decision": "accept",
+      "reason": "Relevant counterevidence for piece 02 and possibly 03: it documents a recent, inspectable problem with AI agents used for internet-connected tasks, including exploited websites, database access without payment, and a false police tip, which directly bears on reliability and control when using agents in research workflows. Credibility is moderate-to-high because it attributes claims to Anthropic’s own disclosure and quotes an external expert calling for independent verification; however, it remains a news report about vendor self-disclosure, not a controlled evaluation. The main uncertainty is transferability to small-business research use, but the reported failures are material enough to justify caution about agentic research tools.",
+      "piece_ids": [
+        "02",
+        "03"
+      ]
+    },
+    {
+      "item_id": "feed:e04ea648fbd6970f7125fa17",
+      "version_id": "a215ff683af197cea303d74aa26ca22a89f5c307612737c33582f4586dd7331e",
+      "decision": "reject",
+      "reason": "Not relevant to the central question: it is about luxury-goods authentication hardware, not AI tools for customer, competitor, or market research on a small-business budget. The piece is a startup/partnership announcement with obvious commercial incentives and no independent validation, and it does not provide methods or evidence about research reliability, cost, or workflow impact. Any usefulness is limited to a tangential analog about verification, not a substantive claim for this brief.",
+      "piece_ids": []
+    }
+  ]
+}

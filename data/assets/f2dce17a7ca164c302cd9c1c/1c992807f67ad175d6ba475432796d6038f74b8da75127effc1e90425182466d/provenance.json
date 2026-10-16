@@ -1,0 +1,21 @@
+{
+  "item_id": "feed:1a7e895cd71cbee1d0747f59",
+  "source_id": "crayon-written",
+  "publisher_id": "crayon",
+  "kind": "feed",
+  "title": "SharePoint Integration: Turn Docs into Competitive Intel",
+  "url": "https://www.crayon.co/blog/sharepoint-integration",
+  "published_at": "2026-10-14T18:55:51Z",
+  "retrieved_at": "2026-10-16T04:21:01.924354Z",
+  "media_url": null,
+  "native_id": "https://www.crayon.co/blog/sharepoint-integration",
+  "underlying_id": "feed:1a7e895cd71cbee1d0747f59",
+  "original_publication_basis": "feed published field",
+  "transcript_url": null,
+  "transcript_type": null,
+  "download_hash": "2c2350113832c14e2eb0c5cb466945f8f70d67508fb66d8f761fcd33ad875944",
+  "content_hash": "2db0cd7f4845c696c4c0527fd3c27629c7cb198062115fe55eb1c6d28d381c7e",
+  "version_id": "1c992807f67ad175d6ba475432796d6038f74b8da75127effc1e90425182466d",
+  "text_path": "data/assets/f2dce17a7ca164c302cd9c1c/1c992807f67ad175d6ba475432796d6038f74b8da75127effc1e90425182466d/text.txt",
+  "segments_path": null
+}

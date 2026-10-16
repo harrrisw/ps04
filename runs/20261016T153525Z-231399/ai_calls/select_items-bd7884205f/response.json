@@ -1,0 +1,32 @@
+{
+  "decisions": [
+    {
+      "item_id": "feed:51cb8a799f9ac10833e347d2",
+      "version_id": "8e2ccb0557a3e908224d0c1570a505f7149a8d85f35a5c74ca60f605a4463b62",
+      "decision": "reject",
+      "reason": "This is a conference-promo roundup about podcast recordings at MAICON, not a development that changes small-business customer/competitor/market research. Its relevance is weak beyond generic AI marketing chatter, and the piece is promotional with clear commercial incentive to drive attendance and podcast listening. It contains no inspectable research workflow, methods, evidence quality, or uncertainty relevant to the brief, so it cannot support the central question.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:5249679bff53ff0ef61fb9fc",
+      "version_id": "637c51726bb72711b5e6b478d7659836e3763f8d8ea84814868140a0546af8e6",
+      "decision": "reject",
+      "reason": "This is a vendor-style announcement about an open-weight model and desktop/agentic capabilities, but it is about a general AI model rather than a small-business research workflow. The article relies on Meta’s attributed performance claims and promotional framing, with no independent benchmarking, baseline, or methods for accuracy/cost/effort, so credibility is limited for decision use. Commercial incentive is material because the company is marketing model capabilities and API availability; the claim is therefore not strong evidence for research-tool usefulness.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:5287e3546947811570948bf7",
+      "version_id": "41a2b9788cb81469d5e54592faa4275d53d1dd2bc9d2051a62ea6be8eaacc5b7",
+      "decision": "reject",
+      "reason": "This is an event-day promotional agenda for TechCrunch Disrupt, not source material about AI research tools or evidence practices for small businesses. It is primarily marketing for ticket sales and conference attendance, with no inspectable methods, no research workflow, and no substantive claim about customer, competitor, or market research capability. Relevance is too low and the commercial incentive is explicit.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:532ec74f5c214f3259a765fe",
+      "version_id": "ea6be83ea71c74d35fe92289b60d2365f77a8945e3525a3d73723e11ceb9911a",
+      "decision": "reject",
+      "reason": "This profile of a recycling-robot startup is outside the brief’s scope: it concerns robotics for waste sorting, not AI tools for customer, competitor, or market research. The article includes startup marketing and fundraising context plus ROI-style estimates from the founder, but those claims are unsupported by a worked comparison or disclosed methods and are not relevant to the intended research audience. It is also a likely repeated underlying claim type seen in many startup-profile pieces: company traction plus self-reported economics, which should not be treated as evidence here.",
+      "piece_ids": []
+    }
+  ]
+}

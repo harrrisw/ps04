@@ -1,0 +1,32 @@
+{
+  "decisions": [
+    {
+      "item_id": "feed:5249679bff53ff0ef61fb9fc",
+      "version_id": "637c51726bb72711b5e6b478d7659836e3763f8d8ea84814868140a0546af8e6",
+      "decision": "reject",
+      "reason": "This is a single-vendor launch announcement about an open-weight model and Mac support, not evidence about small-business customer/competitor/market research workflows. Credibility is limited because performance and “most capable” claims come from Meta’s own evaluation results, with no independent method, baseline, or inspector-friendly workflow; the story also includes clear commercial incentives to promote the product. Uncertainty is high on real-world research usefulness, cost, and traceability for the target audience.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:5287e3546947811570948bf7",
+      "version_id": "41a2b9788cb81469d5e54592faa4275d53d1dd2bc9d2051a62ea6be8eaacc5b7",
+      "decision": "reject",
+      "reason": "This is a conference-program/promotional piece for TechCrunch Disrupt, not a substantive development in AI research tools for small-business market research. Its credibility for the topic is weak because it mainly advertises sessions, tickets, and sponsors; there is no inspectable method, evidence, or result relevant to customer/competitor evidence gathering. Commercial incentives are material, since the page is designed to sell event passes.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:532ec74f5c214f3259a765fe",
+      "version_id": "ea6be83ea71c74d35fe92289b60d2365f77a8945e3525a3d73723e11ceb9911a",
+      "decision": "reject",
+      "reason": "This is a robotics startup profile about recycling automation, which is outside the brief’s scope of AI tools for customer, competitor, and market research. The claims are also mostly company-reported traction and ROI estimates with no disclosed method, baseline, or independent verification, and the pitch context creates strong commercial incentives. It is not relevant to small-business research workflows, and the underlying claim set is too uncertain for this publication.",
+      "piece_ids": []
+    },
+    {
+      "item_id": "feed:544196d3339ee3487c9ed977",
+      "version_id": "ec10baa20a0b7a9c0eee01d7b58c9c01814705d3ceeff19faddb928b57a8f754",
+      "decision": "defer",
+      "reason": "This is relevant as a governance/evaluation development for frontier AI systems, which could affect trust in tools that small businesses might use for research. However, the article is about Anthropic allowing METR employee-level access and does not provide the evaluators’ findings, the assessment method, or any direct evidence of tool performance for market research tasks. Credibility is partial because the arrangement is company-announced and may improve transparency, but the actual claims remain unverified; defer until METR’s published assessments or comparable inspectable results are available. Cross-post/ownership ambiguity is not evident here, but the underlying claims are still incomplete.",
+      "piece_ids": []
+    }
+  ]
+}

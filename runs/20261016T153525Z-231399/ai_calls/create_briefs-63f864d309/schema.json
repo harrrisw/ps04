@@ -1,0 +1,133 @@
+{
+  "type": "object",
+  "properties": {
+    "briefs": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "piece_id": {
+            "type": "string",
+            "enum": [
+              "01",
+              "02",
+              "03"
+            ]
+          },
+          "title": {
+            "type": "string"
+          },
+          "question": {
+            "type": "string"
+          },
+          "argument": {
+            "type": "string"
+          },
+          "synthesis": {
+            "type": "string"
+          },
+          "limitations": {
+            "type": "string"
+          },
+          "claims": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "claim_id": {
+                  "type": "string"
+                },
+                "statement": {
+                  "type": "string"
+                },
+                "type": {
+                  "type": "string",
+                  "enum": [
+                    "reported_fact",
+                    "source_claim",
+                    "inference"
+                  ]
+                },
+                "evidence": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "item_id": {
+                        "type": "string"
+                      },
+                      "version_id": {
+                        "type": "string"
+                      },
+                      "locator": {
+                        "type": "object",
+                        "properties": {
+                          "type": {
+                            "type": "string",
+                            "enum": [
+                              "text",
+                              "segment"
+                            ]
+                          },
+                          "quote": {
+                            "type": [
+                              "string",
+                              "null"
+                            ]
+                          },
+                          "segment_id": {
+                            "type": [
+                              "string",
+                              "null"
+                            ]
+                          }
+                        },
+                        "required": [
+                          "type",
+                          "quote",
+                          "segment_id"
+                        ],
+                        "additionalProperties": false
+                      }
+                    },
+                    "required": [
+                      "item_id",
+                      "version_id",
+                      "locator"
+                    ],
+                    "additionalProperties": false
+                  }
+                }
+              },
+              "required": [
+                "claim_id",
+                "statement",
+                "type",
+                "evidence"
+              ],
+              "additionalProperties": false
+            }
+          }
+        },
+        "required": [
+          "piece_id",
+          "title",
+          "question",
+          "argument",
+          "synthesis",
+          "limitations",
+          "claims"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "error": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "briefs",
+    "error"
+  ],
+  "additionalProperties": false
+}
