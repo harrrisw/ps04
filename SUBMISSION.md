@@ -6,7 +6,7 @@
 
 **Deadline supplied:** Tuesday, October 13, 2026
 
-**Status:** Pipeline implemented and tested; three October 10 article drafts and matching scripts pass mechanical checks, and the student has uploaded all three videos to YouTube (links below). Student feedback is recorded and implemented in policy version 3. Live collection ran again on October 16. Final source verification, Google Vids/HeyGen production evidence, editorial approval, Substack article publication, and the technical demonstration remain outstanding. October 16 work is after the supplied October 13 deadline.
+**Status:** Pipeline implemented and tested; three October 10 article drafts and matching scripts pass mechanical checks, and the student has uploaded all three videos to YouTube (links below). Student feedback is recorded and implemented in policy version 3. Live collection ran again on October 16. All three Substack articles are published and accessible without sign-in. A 5:43 AI-narrated technical walkthrough is included. Final source verification, Google Vids/HeyGen production evidence, editorial approval, and student reflection remain outstanding. October 16 work is after the supplied October 13 deadline.
 
 The original course requirements are retained in [docs/ASSIGNMENT.md](docs/ASSIGNMENT.md),
 and the required contracts remain in [ARCHITECTURE.md](ARCHITECTURE.md).
@@ -28,15 +28,14 @@ The student supplied all three YouTube upload links on October 16, 2026. YouTube
 oEmbed endpoint returned the matching titles and channel **Harris Wang** without
 authentication for all three. Unlisted YouTube videos are acceptable; public
 listing is not required. Full playback has not been independently checked.
-Substack article links remain pending.
+All three Substack article bodies were accessible without sign-in on October 16 and link to their matching videos. See [access checks](docs/audit/publication_checks.json).
 
 [Three narrated MP4 review copies and matching articles](docs/VIDEO_REVIEW.md) are available locally. The videos
 run 4:43, 4:12, and 4:31 and passed full audio/video decoding. They were rendered
 locally with synthetic narration; Google Vids/HeyGen production is still pending.
 The student subsequently requested local delivery. The six files, captions, source
 descriptions, and checksums are saved in [the local delivery folder](deliverables/20261010T052912Z-1d2e8a/)
-and [ZIP archive](deliverables/20261010T052912Z-1d2e8a.zip). Local delivery does not
-satisfy the assignment's separate external publication requirement.
+and the local-only ZIP `deliverables/20261010T052912Z-1d2e8a.zip`. The six external publication links follow.
 
 The [current review packet](runs/20261010T052912Z-1d2e8a/REVIEW.md) links all six
 drafts and their supporting passages. [Assistant copy edits](runs/20261010T052912Z-1d2e8a/assistant_edits/20261010-copy-edit/README.md)
@@ -44,15 +43,15 @@ preserve original outputs and diffs; they are not student corrections or approva
 
 | Piece | Purpose | Substack article | YouTube video |
 | --- | --- | --- | --- |
-| 01 | What changed and why it matters | Pending publication | [AI for Competitor Research: Check the Evidence Before You Automate](https://youtu.be/qWxMqmFNnIw) |
-| 02 | Which claims withstand scrutiny | Pending publication | [Can You Trust AI Research? How to Check Its Claims](https://youtu.be/Ej1c8o_LTf8) |
-| 03 | Implications and what to watch | Pending publication | [Is AI Research Worth the Effort? Run a Small-Business Pilot](https://youtu.be/oUOU5CditYM) |
+| 01 | What changed and why it matters | [Read article 01](https://mingxiwang.substack.com/p/pilot-the-evidence-trail-before-automating) | [AI for Competitor Research: Check the Evidence Before You Automate](https://youtu.be/qWxMqmFNnIw) |
+| 02 | Which claims withstand scrutiny | [Read article 02](https://mingxiwang.substack.com/p/make-ai-research-earn-its-place-with) | [Can You Trust AI Research? How to Check Its Claims](https://youtu.be/Ej1c8o_LTf8) |
+| 03 | Implications and what to watch | [Read article 03](https://mingxiwang.substack.com/p/pilot-one-customer-question-and-count) | [Is AI Research Worth the Effort? Run a Small-Business Pilot](https://youtu.be/oUOU5CditYM) |
 
 The upload mapping and verification scope are retained in
 [publication_links.json](runs/20261010T052912Z-1d2e8a/publication_links.json).
 Uploading the local renders does not by itself document Google Vids/HeyGen production.
 
-**Separate 4–6 minute technical demonstration:** Not yet recorded.
+**Separate technical demonstration:** [Watch/download the 5:43 AI-narrated walkthrough](deliverables/technical-demo/technical-demo.mp4). [Script, captions, storyboard, and validation](deliverables/technical-demo/README.md) are included. This is a walkthrough of saved artifacts, not a live run; student review is pending.
 
 ## Setup and Execution
 
@@ -88,7 +87,7 @@ exclude hardware, electricity, and any existing account subscription.
 
 ## Architecture and Manual Handoffs
 
-The component contracts are in [ARCHITECTURE.md](ARCHITECTURE.md). All 16 required
+The [implemented architecture diagram](docs/IMPLEMENTATION.md) shows the complete flow. The component contracts are in [ARCHITECTURE.md](ARCHITECTURE.md). All 16 required
 Bash entry points are implemented. The two workflows only coordinate their stages.
 Each substantive component has its own focused Python implementation. Only
 `data/store.sh` and its owning implementation read/write the persistent index.
@@ -100,11 +99,13 @@ Exact requests, responses, JSON schemas, and usage events live in each run's
 
 The pipeline stops for human review. Matching approval is required before packaging,
 and content changes invalidate that approval. Google Vids production, Substack and
-YouTube publishing, link verification, and the technical demonstration remain
-manual handoffs. See [docs/HUMAN_REVIEW.md](docs/HUMAN_REVIEW.md) and
+YouTube publishing, link verification, and review of the AI technical demonstration remain
+manual handoffs. Publication links supplied by the student are recorded above; the updated YouTube descriptions must still be pasted into the uploaded videos. See [docs/HUMAN_REVIEW.md](docs/HUMAN_REVIEW.md) and
 [docs/PRODUCTION.md](docs/PRODUCTION.md).
 
 ## Evidence and Runs
+
+[Complete run inventory](docs/RUNS.md), including two partial October 16 attempts; [evaluation audit](docs/EVALUATION.md); [artifact hashes](docs/audit/artifact_inventory.json).
 
 The local index is `data/evidence/index.sqlite3` (ignored by Git). Retained evidence
 is in [data/assets](data/assets/), with immutable text/transcript versions and
@@ -149,10 +150,7 @@ a second live run. Each run retains mechanical date exclusions. Actual collectio
 failures and recovery are recorded in receipts. The tests use clearly fictional
 data in disposable isolated copies and do not count as live evidence.
 
-**Published claim trace:** Pending final reviewed/published content. The inspectable
-chain is article/script claim marker → brief claim → decision → item/version → exact
-text quote or transcript segment → source URL and timestamp. Do not describe an
-unpublished draft as a published claim.
+**Published claim trace:** [Crayon source → acceptance → brief 01-C01 → published article](docs/CLAIM_TRACE.md). The trace retains the exact source quote and version identifier, and distinguishes a vendor capability claim from evidence of effectiveness.
 
 ## Editorial Review
 
@@ -260,5 +258,4 @@ October 16 feedback.
 - **Next improvement:** Explain which change would most improve the system and why.
 - **Architectural tradeoff:** Explain why separate Bash interfaces plus focused Python components and a versioned SQLite store suit this project, including the cost of rebuilding the local index and verifying media-cache freshness.
 
-See [docs/DEMONSTRATION.md](docs/DEMONSTRATION.md) for a technical demonstration outline
-and the remaining repeatability requirements.
+See [docs/DEMONSTRATION.md](docs/DEMONSTRATION.md) for the completed AI walkthrough and the remaining repeatability requirements.

@@ -4,7 +4,7 @@ The practical takeaway is a bounded, repeated pilot that measures source quality
 
 As of 2026-10-10.
 
-Article: [ARTICLE LINK]
+Article: https://mingxiwang.substack.com/p/pilot-the-evidence-trail-before-automating
 
 Sources:
 - [Insights API Blog](https://www.crayon.co/blog/insights-api)

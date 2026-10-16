@@ -114,7 +114,7 @@ then paste it into the post editor. Check formatting and links before publishing
     archive = folder.with_suffix('.zip')
     with zipfile.ZipFile(archive,'w',compression=zipfile.ZIP_DEFLATED) as bundle:
         for file in sorted(folder.iterdir()):
-            if file.is_file():
+            if file.is_file() and not file.name.startswith('~$'):
                 bundle.write(file,arcname=folder.name+'/'+file.name)
     with zipfile.ZipFile(archive) as bundle:
         assert bundle.testzip() is None

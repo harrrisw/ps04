@@ -1,0 +1,11 @@
+{
+  "checked_on": "2026-10-16",
+  "retained_runs": 9,
+  "retained_hashed_files": 1215,
+  "referenced_evidence_files": 72,
+  "missing_evidence": [],
+  "untracked_evidence": [],
+  "broken_local_links": [],
+  "possible_parley_key_files": [],
+  "scope": "Local structural audit; not semantic source verification, external playback, or a grading prediction"
+}

@@ -2,7 +2,7 @@ Can AI help a small business organize customer research without losing the evide
 
 As of 2026-10-10. These sources do not establish comparative accuracy, lower total cost, or reliable net time savings. Geographic applicability is unspecified; non-English performance is untested.
 
-Article: [ARTICLE LINK]
+Article: https://mingxiwang.substack.com/p/make-ai-research-earn-its-place-with
 
 Sources:
 - [Why Small AI Models Like Jev Are Replacing Frontier LLMs for Classification Tasks](https://www.christopherspenn.com/2026/10/why-small-ai-models-like-jev-are-replacing-frontier-llms-for-classification-tasks?pk_campaign=feed&pk_kwd=why-small-ai-models-like-jev-are-replacing-frontier-llms-for-classification-tasks)

@@ -1,29 +1,32 @@
 [
   {
     "piece_id": "01",
-    "substack_url": null,
+    "substack_url": "https://mingxiwang.substack.com/p/pilot-the-evidence-trail-before-automating",
     "youtube_url": "https://youtu.be/qWxMqmFNnIw",
     "youtube_title": "AI for Competitor Research: Check the Evidence Before You Automate",
     "reported_by": "student",
     "checked_on": "2026-10-16",
-    "verification": "YouTube oEmbed returned matching title and channel Harris Wang without authentication; full playback and visibility setting not independently checked."
+    "verification": "YouTube oEmbed returned matching title and channel Harris Wang without authentication; full playback and visibility setting not independently checked.",
+    "substack_verification": "Full article body retrieved without authentication on 2026-10-16; matching YouTube link, as-of date and references present."
   },
   {
     "piece_id": "02",
-    "substack_url": null,
+    "substack_url": "https://mingxiwang.substack.com/p/make-ai-research-earn-its-place-with",
     "youtube_url": "https://youtu.be/Ej1c8o_LTf8",
     "youtube_title": "Can You Trust AI Research? How to Check Its Claims",
     "reported_by": "student",
     "checked_on": "2026-10-16",
-    "verification": "YouTube oEmbed returned matching title and channel Harris Wang without authentication; full playback and visibility setting not independently checked."
+    "verification": "YouTube oEmbed returned matching title and channel Harris Wang without authentication; full playback and visibility setting not independently checked.",
+    "substack_verification": "Full article body retrieved without authentication on 2026-10-16; matching YouTube link, as-of date and references present."
   },
   {
     "piece_id": "03",
-    "substack_url": null,
+    "substack_url": "https://mingxiwang.substack.com/p/pilot-one-customer-question-and-count",
     "youtube_url": "https://youtu.be/oUOU5CditYM",
     "youtube_title": "Is AI Research Worth the Effort? Run a Small-Business Pilot",
     "reported_by": "student",
     "checked_on": "2026-10-16",
-    "verification": "YouTube oEmbed returned matching title and channel Harris Wang without authentication; full playback and visibility setting not independently checked."
+    "verification": "YouTube oEmbed returned matching title and channel Harris Wang without authentication; full playback and visibility setting not independently checked.",
+    "substack_verification": "Full article body retrieved without authentication on 2026-10-16; matching YouTube link, as-of date and references present."
   }
 ]

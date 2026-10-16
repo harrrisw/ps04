@@ -1,5 +1,7 @@
 # Repeatability evidence and technical demonstration
 
+Completed AI version: [5:43 technical walkthrough, script, captions, and storyboard](../deliverables/technical-demo/README.md). This shows saved artifacts, not a new live execution. Student review remains pending.
+
 Deadline supplied: Tuesday, October 13, 2026. Live runs must occur during the
 assignment week, on two different actual days. Multiple runs on October 10 are
 useful recovery evidence but do not meet the different-day requirement.

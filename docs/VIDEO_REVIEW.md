@@ -2,7 +2,7 @@
 
 The three matching article/video pairs, captions, and source descriptions are also
 saved together in [deliverables/20261010T052912Z-1d2e8a](../deliverables/20261010T052912Z-1d2e8a/).
-For one-file transfer, use the [verified ZIP archive](../deliverables/20261010T052912Z-1d2e8a.zip).
+For one-file transfer, use the local ZIP `deliverables/20261010T052912Z-1d2e8a.zip`.
 Both the videos and ZIP are local files; Git ignores the large binary files.
 
 These are actual narrated MP4 files, rendered from the October 10 scripts. Each
@@ -15,9 +15,9 @@ Google Vids/HeyGen production remains undocumented.
 
 | Piece | Article | Video | Runtime | Upload description |
 | --- | --- | --- | --- | --- |
-| 01 — Competitor research | [Article](../runs/20261010T052912Z-1d2e8a/video_previews/01-article.md) | [Watch MP4](../runs/20261010T052912Z-1d2e8a/video_previews/01-video.mp4) | 4:43 | [Description and sources](../runs/20261010T052912Z-1d2e8a/video_previews/01-youtube-description.md) |
-| 02 — Checking AI claims | [Article](../runs/20261010T052912Z-1d2e8a/video_previews/02-article.md) | [Watch MP4](../runs/20261010T052912Z-1d2e8a/video_previews/02-video.mp4) | 4:12 | [Description and sources](../runs/20261010T052912Z-1d2e8a/video_previews/02-youtube-description.md) |
-| 03 — Designing a pilot | [Article](../runs/20261010T052912Z-1d2e8a/video_previews/03-article.md) | [Watch MP4](../runs/20261010T052912Z-1d2e8a/video_previews/03-video.mp4) | 4:31 | [Description and sources](../runs/20261010T052912Z-1d2e8a/video_previews/03-youtube-description.md) |
+| 01 — Competitor research | [Article](../runs/20261010T052912Z-1d2e8a/video_previews/01-article.md) | [Watch upload](https://youtu.be/qWxMqmFNnIw) | 4:43 | [Description and sources](../runs/20261010T052912Z-1d2e8a/video_previews/01-youtube-description.md) |
+| 02 — Checking AI claims | [Article](../runs/20261010T052912Z-1d2e8a/video_previews/02-article.md) | [Watch upload](https://youtu.be/Ej1c8o_LTf8) | 4:12 | [Description and sources](../runs/20261010T052912Z-1d2e8a/video_previews/02-youtube-description.md) |
+| 03 — Designing a pilot | [Article](../runs/20261010T052912Z-1d2e8a/video_previews/03-article.md) | [Watch upload](https://youtu.be/oUOU5CditYM) | 4:31 | [Description and sources](../runs/20261010T052912Z-1d2e8a/video_previews/03-youtube-description.md) |
 
 All three passed full video/audio decoding with FFmpeg. Storyboard contact sheets
 and the duration/hash manifest are in the same `video_previews/` folder. Captions

@@ -1,0 +1,16 @@
+Validation performed October 16, 2026
+
+Command: .tools/python/python.exe -X utf8 tests/test_pipeline.py
+Result: 27 tests passed in 19.519 seconds; exit code 0.
+
+Coverage includes bounded brief repair, exact evidence validation, citation links,
+partial collection failure, approval fingerprints, replay and version integrity,
+freshness windows, media coverage, Parley request/response handling and secret
+redaction, transcript parsing, and workflow failure propagation.
+
+The suite uses isolated fictional fixtures; these are not live source evidence.
+This file summarizes the observed test output rather than reproducing a terminal
+recording. No new paid model generation was used for this submission audit.
+
+Technical demo: 343.33 seconds; FFmpeg full audio/video decode passed.
+All seven storyboard scenes were visually inspected for readability and clipping.

@@ -1,0 +1,235 @@
+1
+00:00:00,000 --> 00:00:04,571
+This is an AI-narrated technical walkthrough of the Small Business Research Brief.
+
+2
+00:00:04,571 --> 00:00:09,142
+The audience is small-business market researchers who need useful evidence without a
+
+3
+00:00:09,142 --> 00:00:13,714
+large research budget. The project asks where AI tools deserve a practical
+
+4
+00:00:13,714 --> 00:00:18,285
+pilot, and where their claims still need testing. Three articles and their
+
+5
+00:00:18,285 --> 00:00:22,856
+matching videos have been published. This demonstration walks through real saved files
+
+6
+00:00:22,856 --> 00:00:27,428
+and records. It does not show a new live execution, and it
+
+7
+00:00:27,428 --> 00:00:31,999
+does not substitute for the student reviewing the work or explaining the
+
+8
+00:00:31,999 --> 00:00:36,570
+architecture.
+
+9
+00:00:36,570 --> 00:00:43,428
+The entry point is bash run dot sh. Sixteen Bash interfaces divide
+
+10
+00:00:43,428 --> 00:00:50,285
+orchestration, collection, storage, editorial work, checking, and packaging. The collectors discover feeds,
+
+11
+00:00:50,285 --> 00:00:57,142
+YouTube videos, and podcasts. Extraction produces substantive text or timed transcripts. JSON
+
+12
+00:00:57,142 --> 00:01:04,000
+Lines carry records between stages. Only the store component accesses the SQLite
+
+13
+00:01:04,000 --> 00:01:10,858
+evidence index. Filtering applies the thirty-day window. AI then selects sources, develops
+
+14
+00:01:10,858 --> 00:01:17,715
+briefs, and drafts articles and video scripts. Checks precede human review. Packaging
+
+15
+00:01:17,715 --> 00:01:24,572
+requires an approval fingerprint that matches the reviewed content. The architecture diagram
+
+16
+00:01:24,572 --> 00:01:31,430
+and component contracts are preserved in the repository.
+
+17
+00:01:31,430 --> 00:01:37,024
+Here is one published claim. Article one says Crayon describes access to
+
+18
+00:01:37,024 --> 00:01:42,618
+underlying text and source links. The saved source passage says, Ask for
+
+19
+00:01:42,618 --> 00:01:48,211
+more and you get the full text and source link. The evidence
+
+20
+00:01:48,211 --> 00:01:53,805
+record has a stable item identifier and an immutable version identifier. Its
+
+21
+00:01:53,805 --> 00:01:59,399
+editorial decision is accept, and brief claim zero one C zero one
+
+22
+00:01:59,399 --> 00:02:04,992
+carries the supporting citation. The published article attributes this capability to the
+
+23
+00:02:04,992 --> 00:02:10,586
+vendor. It does not turn the announcement into independent proof of accuracy,
+
+24
+00:02:10,586 --> 00:02:16,180
+affordability, or business effectiveness. The claim-trace document links the exact retained files.
+
+25
+00:02:16,180 --> 00:02:21,600
+The published October tenth series used thirty-nine eligible items from nine publishers.
+
+26
+00:02:21,600 --> 00:02:27,020
+The final October sixteenth run used sixty eligible items, also from nine
+
+27
+00:02:27,020 --> 00:02:32,440
+publishers, and produced another three articles and scripts. Those later drafts are
+
+28
+00:02:32,440 --> 00:02:37,860
+retained separately from the published series. Its immediate collection batch recorded two
+
+29
+00:02:37,860 --> 00:02:43,280
+new and thirty-eight unchanged records; those counts are not the comparison against
+
+30
+00:02:43,280 --> 00:02:48,700
+October tenth. The saved comparison documents changes in evidence and editorial decisions.
+
+31
+00:02:48,700 --> 00:02:54,120
+Because the date window, sources, model provider, and policy changed together, the
+
+32
+00:02:54,120 --> 00:02:59,540
+comparison cannot isolate a policy effect. October sixteenth was after the supplied
+
+33
+00:02:59,540 --> 00:03:04,960
+deadline.
+
+34
+00:03:04,960 --> 00:03:11,031
+The duplicate demonstration re-ingested exactly twenty-eight saved items. Every record was unchanged,
+
+35
+00:03:11,031 --> 00:03:17,103
+the store still held twenty-eight logical items, and the latest versions stayed
+
+36
+00:03:17,103 --> 00:03:23,174
+identical. This is explicitly labeled a replay, not another live collection day.
+
+37
+00:03:23,174 --> 00:03:29,245
+Failure records are preserved too. YouTube subtitle throttling motivated local audio transcription,
+
+38
+00:03:29,245 --> 00:03:35,316
+with Deno and FFmpeg supporting media extraction. An unsupported Parley model alias
+
+39
+00:03:35,316 --> 00:03:41,388
+failed before a supported model identifier was configured. A later run also
+
+40
+00:03:41,388 --> 00:03:47,459
+stopped briefing because no YouTube source had been accepted. Adding a relevant
+
+41
+00:03:47,459 --> 00:03:53,530
+webinar enabled the next attempt without weakening that coverage check.
+
+42
+00:03:53,530 --> 00:03:59,403
+The student supplied three accept judgments and three defer judgments. They favored
+
+43
+00:03:59,403 --> 00:04:05,277
+practical workflows, inspectable competitor evidence, and a concrete multi-agent checking process. They
+
+44
+00:04:05,277 --> 00:04:11,150
+requested stronger evidence for frameworks, measured baselines for speed and cost claims,
+
+45
+00:04:11,150 --> 00:04:17,023
+and tested workflows behind announcements. Policy version three records that revision. The
+
+46
+00:04:17,023 --> 00:04:22,897
+October sixteenth generation still needed assistance: invalid quotations remained after an automated
+
+47
+00:04:22,897 --> 00:04:28,770
+repair, and documented assistant edits corrected their source attribution. Original and corrected
+
+48
+00:04:28,770 --> 00:04:34,643
+outputs are retained. These assistant corrections are not presented as student corrections
+
+49
+00:04:34,643 --> 00:04:40,517
+or final approval. Mechanical checks passing still leaves source interpretation for human
+
+50
+00:04:40,517 --> 00:04:46,390
+review.
+
+51
+00:04:46,390 --> 00:04:52,717
+The main architectural tradeoff is inspectability versus operational complexity. Separate Bash interfaces
+
+52
+00:04:52,717 --> 00:04:59,043
+make each stage easy to inspect and replay; Python handles parsing, model
+
+53
+00:04:59,043 --> 00:05:05,370
+calls, and storage. Immutable evidence preserves provenance, but a fresh clone must
+
+54
+00:05:05,370 --> 00:05:11,697
+reconstruct the ignored SQLite index. Media caching reduces repeated downloads and transcription,
+
+55
+00:05:11,697 --> 00:05:18,023
+while silent source edits may require an explicit refresh. Actual model dollar
+
+56
+00:05:18,023 --> 00:05:24,350
+cost remains unknown where the provider did not report it. The submission
+
+57
+00:05:24,350 --> 00:05:30,677
+links the six publications, all retained attempts, and this demonstration. Remaining requirements
+
+58
+00:05:30,677 --> 00:05:37,003
+include Google Vids or HeyGen production evidence, final human verification, and the
+
+59
+00:05:37,003 --> 00:05:43,330
+student reflection. This AI-generated walkthrough is ready for the student to review.

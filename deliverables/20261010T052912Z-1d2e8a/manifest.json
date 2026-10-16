@@ -1,34 +1,37 @@
 {
   "source_run": "20261010T052912Z-1d2e8a",
   "review_id": "463614923a8aa538ce525f8b4003f68bc342babee8344813dc6c7d3fe77f12de",
-  "status": "local review copies; see publication_links for reported uploads; Google Vids/HeyGen production pending",
+  "status": "Published article/video links recorded; local production; Google Vids/HeyGen evidence and final human approval outstanding",
   "publication_links": [
     {
       "piece_id": "01",
-      "substack_url": null,
+      "substack_url": "https://mingxiwang.substack.com/p/pilot-the-evidence-trail-before-automating",
       "youtube_url": "https://youtu.be/qWxMqmFNnIw",
       "youtube_title": "AI for Competitor Research: Check the Evidence Before You Automate",
       "reported_by": "student",
       "checked_on": "2026-10-16",
-      "verification": "YouTube oEmbed returned matching title and channel Harris Wang without authentication; full playback and visibility setting not independently checked."
+      "verification": "YouTube oEmbed returned matching title and channel Harris Wang without authentication; full playback and visibility setting not independently checked.",
+      "substack_verification": "Full article body retrieved without authentication on 2026-10-16; matching YouTube link, as-of date and references present."
     },
     {
       "piece_id": "02",
-      "substack_url": null,
+      "substack_url": "https://mingxiwang.substack.com/p/make-ai-research-earn-its-place-with",
       "youtube_url": "https://youtu.be/Ej1c8o_LTf8",
       "youtube_title": "Can You Trust AI Research? How to Check Its Claims",
       "reported_by": "student",
       "checked_on": "2026-10-16",
-      "verification": "YouTube oEmbed returned matching title and channel Harris Wang without authentication; full playback and visibility setting not independently checked."
+      "verification": "YouTube oEmbed returned matching title and channel Harris Wang without authentication; full playback and visibility setting not independently checked.",
+      "substack_verification": "Full article body retrieved without authentication on 2026-10-16; matching YouTube link, as-of date and references present."
     },
     {
       "piece_id": "03",
-      "substack_url": null,
+      "substack_url": "https://mingxiwang.substack.com/p/pilot-one-customer-question-and-count",
       "youtube_url": "https://youtu.be/oUOU5CditYM",
       "youtube_title": "Is AI Research Worth the Effort? Run a Small-Business Pilot",
       "reported_by": "student",
       "checked_on": "2026-10-16",
-      "verification": "YouTube oEmbed returned matching title and channel Harris Wang without authentication; full playback and visibility setting not independently checked."
+      "verification": "YouTube oEmbed returned matching title and channel Harris Wang without authentication; full playback and visibility setting not independently checked.",
+      "substack_verification": "Full article body retrieved without authentication on 2026-10-16; matching YouTube link, as-of date and references present."
     }
   ],
   "files": [
@@ -49,8 +52,8 @@
     },
     {
       "file": "01-youtube-description.md",
-      "bytes": 1172,
-      "sha256": "49817a6ac99a57fe16808b3249b2fcea0d9dd0047b219eb4331e8b8cc9b6e632"
+      "bytes": 1248,
+      "sha256": "7d8433c369bb6bf3b8cd3c9cfbcd16d234900b7c309a29b86e19f7186f792171"
     },
     {
       "file": "02-article.md",
@@ -69,8 +72,8 @@
     },
     {
       "file": "02-youtube-description.md",
-      "bytes": 1164,
-      "sha256": "f8123064d1afdc6a8f99c497dc5ab2fbf3dedff229487cc377617fdbdb870683"
+      "bytes": 1232,
+      "sha256": "098ba03420f5c4fc874a1083376ab0433b0edf333dc927b1aa06b8da34358994"
     },
     {
       "file": "03-article.md",
@@ -89,8 +92,8 @@
     },
     {
       "file": "03-youtube-description.md",
-      "bytes": 1923,
-      "sha256": "333e5187e9849337a9055c96c7e679037ad0554e34dde94c01ee9c4ab6cf2161"
+      "bytes": 1999,
+      "sha256": "ad159e804c93603483154e5933b77a4bc58c0d5e2e98aadcbbffa49816ee9c77"
     },
     {
       "file": "01-article.html",

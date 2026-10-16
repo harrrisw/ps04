@@ -1,0 +1,43 @@
+{
+  "checked_on": "2026-10-16",
+  "method": "Anonymous urllib HTTP retrieval and article-body HTML parsing; no account or cookies",
+  "articles": [
+    {
+      "piece_id": "01",
+      "url": "https://mingxiwang.substack.com/p/pilot-the-evidence-trail-before-automating",
+      "http_status": 200,
+      "anonymous_body_retrieved": true,
+      "as_of_date_present": true,
+      "matching_youtube_link": true,
+      "ai_disclosure_present": true,
+      "body_text_sha256": "ebb1ee0708294896bc73a57e53940ceb38cf3fc09d4d5fd25853841822f1c1e8",
+      "approx_words_before_references": 703
+    },
+    {
+      "piece_id": "02",
+      "url": "https://mingxiwang.substack.com/p/make-ai-research-earn-its-place-with",
+      "http_status": 200,
+      "anonymous_body_retrieved": true,
+      "as_of_date_present": true,
+      "matching_youtube_link": true,
+      "ai_disclosure_present": true,
+      "body_text_sha256": "a03023d6b7c684e035501053f4b69b6910bde0edf87f0bea3effde651da6a8b9",
+      "approx_words_before_references": 742
+    },
+    {
+      "piece_id": "03",
+      "url": "https://mingxiwang.substack.com/p/pilot-one-customer-question-and-count",
+      "http_status": 200,
+      "anonymous_body_retrieved": true,
+      "as_of_date_present": true,
+      "matching_youtube_link": true,
+      "ai_disclosure_present": true,
+      "body_text_sha256": "d56e39b70f536d53d238460dc20ef0a7d6e9833df55a4a2771a444a5c5ffc451",
+      "approx_words_before_references": 740
+    }
+  ],
+  "limitations": [
+    "YouTube descriptions were not edited remotely.",
+    "Google Vids/HeyGen production is not established by uploaded videos."
+  ]
+}

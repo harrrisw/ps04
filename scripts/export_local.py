@@ -46,18 +46,23 @@ def main():
                 target.write_text(text,encoding='utf-8')
             exported.append(dict(file=target.name, bytes=target.stat().st_size,
                                  sha256=hashlib.sha256(target.read_bytes()).hexdigest()))
+    for pattern in ['*-article.docx', '*-article.html', '*-article.txt']:
+        for target in sorted(destination.glob(pattern)):
+            exported.append(dict(file=target.name, bytes=target.stat().st_size,
+                                 sha256=hashlib.sha256(target.read_bytes()).hexdigest()))
     manifest = dict(source_run=run.name, review_id=review['review_id'],
                     status='local review copies; see publication_links for reported uploads; Google Vids/HeyGen production pending',
                     publication_links=links,
                     files=exported)
     (destination / 'manifest.json').write_text(json.dumps(manifest, indent=2)+'\n', encoding='utf-8')
-    table = '| Piece | Article | Local video | Runtime | YouTube |\n| --- | --- | --- | --- | --- |\n'
+    table = '| Piece | Article | Local video | Runtime | YouTube | Substack |\n| --- | --- | --- | --- | --- | --- |\n'
     for video in videos:
         pid = video['piece_id']
         seconds = round(video['duration_seconds'])
         table += (f'| {pid} | [Read article]({pid}-article.md) | '
-                  f'[Watch MP4]({pid}-video.mp4) | {seconds//60}:{seconds%60:02d} | '
-                  + (f"[Watch on YouTube]({by_piece[pid]['youtube_url']})" if by_piece.get(pid,{}).get('youtube_url') else 'Pending')+' |\n')
+                  f'`{pid}-video.mp4` | {seconds//60}:{seconds%60:02d} | '
+                  + (f"[Watch on YouTube]({by_piece[pid]['youtube_url']})" if by_piece.get(pid,{}).get('youtube_url') else 'Pending')+' | '
+                  + (f"[Read on Substack]({by_piece[pid]['substack_url']})" if by_piece.get(pid,{}).get('substack_url') else 'Pending')+' |\n')
     (destination / 'README.md').write_text(
         '# The Small Business Research Brief — local files\n\n'
         f'Source run: `{run.name}`. Evidence retains its original as-of date.\n\n'
@@ -65,7 +70,7 @@ def main():
         'files in a video player. Each numbered article matches the same-numbered '
         'video. Separate SRT captions and source descriptions are included.\n\n'+table+'\n'+
         'These are AI-assisted review copies with synthetic narration. Student-reported '
-        'YouTube uploads are linked above; article publication and final editorial approval remain pending. '
+        'publication links are included above where available; final editorial approval remains pending. '
         'The videos were rendered locally, not in '
         'Google Vids/HeyGen. Review source quotations and caption timing before '
         'final production. The large media and ZIP are saved locally and ignored by Git.\n',
@@ -73,7 +78,7 @@ def main():
     archive = ROOT / 'deliverables' / (run.name+'.zip')
     with zipfile.ZipFile(archive, 'w', compression=zipfile.ZIP_DEFLATED) as bundle:
         for file in sorted(destination.iterdir()):
-            if file.is_file():
+            if file.is_file() and not file.name.startswith('~$'):
                 bundle.write(file, arcname=destination.name+'/'+file.name)
     with zipfile.ZipFile(archive) as bundle:
         if bundle.testzip() is not None:

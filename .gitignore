@@ -16,4 +16,6 @@ runs/*/video_previews/segments/
 runs/*/video_previews/*.mp4
 deliverables/**/*.mp4
 deliverables/*.zip
+~$*.docx
 
+!deliverables/technical-demo/technical-demo.mp4

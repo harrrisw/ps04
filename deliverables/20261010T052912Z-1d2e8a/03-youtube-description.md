@@ -2,7 +2,7 @@ Can AI help a small business synthesize customer research with evidence reliable
 
 As of 2026-10-10. This pilot design is an editorial inference, not a tested intervention. The sources reviewed here do not establish small-business savings, ROI, or AI effectiveness.
 
-Article: [ARTICLE LINK]
+Article: https://mingxiwang.substack.com/p/pilot-one-customer-question-and-count
 
 Sources:
 - [Empathy Mapping: The First Step in Design Thinking](https://www.nngroup.com/articles/empathy-mapping)
