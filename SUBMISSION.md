@@ -6,7 +6,7 @@
 
 **Deadline supplied:** Tuesday, October 13, 2026
 
-**Status:** Pipeline implemented and tested; three October 10 article drafts and matching scripts pass mechanical checks, and the student has uploaded all three videos to YouTube (links below). Student feedback is recorded and implemented in policy version 3. Live collection ran again on October 16. All three Substack articles are published and accessible without sign-in. A 5:43 AI-narrated technical walkthrough is included. Final source verification, Google Vids/HeyGen production evidence, editorial approval, and student reflection remain outstanding. October 16 work is after the supplied October 13 deadline.
+**Status:** Pipeline implemented and tested; three October 10 article drafts and matching scripts pass mechanical checks, and the student has uploaded all three videos to YouTube (links below). Student feedback is recorded and implemented in policy version 3. Live collection ran again on October 16. All three Substack articles are published and accessible without sign-in. A 5:43 AI-narrated technical walkthrough is included. Final source verification, Google Vids/HeyGen production evidence, and editorial approval remain outstanding. October 16 work is after the supplied October 13 deadline.
 
 The original course requirements are retained in [docs/ASSIGNMENT.md](docs/ASSIGNMENT.md),
 and the required contracts remain in [ARCHITECTURE.md](ARCHITECTURE.md).
@@ -24,18 +24,22 @@ and the required contracts remain in [ARCHITECTURE.md](ARCHITECTURE.md).
 
 ## Published Series
 
-The student supplied all three YouTube upload links on October 16, 2026. YouTube's
-oEmbed endpoint returned the matching titles and channel **Harris Wang** without
-authentication for all three. Unlisted YouTube videos are acceptable; public
-listing is not required. Full playback has not been independently checked.
-All three Substack article bodies were accessible without sign-in on October 16 and link to their matching videos. See [access checks](docs/audit/publication_checks.json).
+The student supplied replacement YouTube links on October 17, 2026 for the
+Chatterbox voice-cloned revisions. Anonymous YouTube oEmbed checks returned all
+three titles and channel **Harris Wang**. Unlisted uploads are acceptable; full
+external playback has not been independently checked.
 
-[Three narrated MP4 review copies and matching articles](docs/VIDEO_REVIEW.md) are available locally. The videos
-run 4:43, 4:12, and 4:31 and passed full audio/video decoding. They were rendered
-locally with synthetic narration; Google Vids/HeyGen production is still pending.
-The student subsequently requested local delivery. The six files, captions, source
-descriptions, and checksums are saved in [the local delivery folder](deliverables/20261010T052912Z-1d2e8a/)
-and the local-only ZIP `deliverables/20261010T052912Z-1d2e8a.zip`. The six external publication links follow.
+The revised local videos run **4:21, 4:28, and 4:08** and passed full audio/video
+decoding. Narration is AI-generated using the student's supplied voice recording.
+Captions, scripts, upload descriptions, and checksums are in the
+[revised delivery folder](deliverables/20261017-chatterbox/README.md).
+Google Vids/HeyGen production remains undocumented.
+
+The three Substack articles were accessible without sign-in on October 16.
+Those earlier [access checks](docs/audit/publication_checks.json) verified links
+to the original uploads. **Update the embedded video or video link in each
+Substack article to the replacement URL below.** The local video revision retains
+the October 10 evidence date and does not constitute another research run.
 
 The [current review packet](runs/20261010T052912Z-1d2e8a/REVIEW.md) links all six
 drafts and their supporting passages. [Assistant copy edits](runs/20261010T052912Z-1d2e8a/assistant_edits/20261010-copy-edit/README.md)
@@ -43,12 +47,12 @@ preserve original outputs and diffs; they are not student corrections or approva
 
 | Piece | Purpose | Substack article | YouTube video |
 | --- | --- | --- | --- |
-| 01 | What changed and why it matters | [Read article 01](https://mingxiwang.substack.com/p/pilot-the-evidence-trail-before-automating) | [AI for Competitor Research: Check the Evidence Before You Automate](https://youtu.be/qWxMqmFNnIw) |
-| 02 | Which claims withstand scrutiny | [Read article 02](https://mingxiwang.substack.com/p/make-ai-research-earn-its-place-with) | [Can You Trust AI Research? How to Check Its Claims](https://youtu.be/Ej1c8o_LTf8) |
-| 03 | Implications and what to watch | [Read article 03](https://mingxiwang.substack.com/p/pilot-one-customer-question-and-count) | [Is AI Research Worth the Effort? Run a Small-Business Pilot](https://youtu.be/oUOU5CditYM) |
+| 01 | What changed and why it matters | [Read article 01](https://mingxiwang.substack.com/p/pilot-the-evidence-trail-before-automating) | [Pilot the Evidence Trail Before Automating Competitor Research](https://youtu.be/IDsybf7UwEE) |
+| 02 | Which claims withstand scrutiny | [Read article 02](https://mingxiwang.substack.com/p/make-ai-research-earn-its-place-with) | [Make AI Research Earn Its Place With Evidence You Can Check](https://youtu.be/7iR-6_BBqYQ) |
+| 03 | Implications and what to watch | [Read article 03](https://mingxiwang.substack.com/p/pilot-one-customer-question-and-count) | [Pilot One Customer Question and Count the Work Needed to Trust the Answer](https://youtu.be/8oNRSNaHDDU) |
 
 The upload mapping and verification scope are retained in
-[publication_links.json](runs/20261010T052912Z-1d2e8a/publication_links.json).
+[current publication_links.json](deliverables/20261017-chatterbox/publication_links.json); the historical mapping remains preserved with the October 10 run.
 Uploading the local renders does not by itself document Google Vids/HeyGen production.
 
 **Separate technical demonstration:** [Watch/download the 5:43 AI-narrated walkthrough](deliverables/technical-demo/technical-demo.mp4). [Script, captions, storyboard, and validation](deliverables/technical-demo/README.md) are included. This is a walkthrough of saved artifacts, not a live run; student review is pending.
@@ -87,11 +91,58 @@ exclude hardware, electricity, and any existing account subscription.
 
 ## Architecture and Manual Handoffs
 
-The [implemented architecture diagram](docs/IMPLEMENTATION.md) shows the complete flow. The component contracts are in [ARCHITECTURE.md](ARCHITECTURE.md). All 16 required
-Bash entry points are implemented. The two workflows only coordinate their stages.
-Each substantive component has its own focused Python implementation. Only
-`data/store.sh` and its owning implementation read/write the persistent index.
-JSON Lines connect stages, including a real pipe from candidates to extraction.
+The following diagram describes this project's implemented research pipeline and
+its October 17 Chatterbox production path. Run it with **`bash run.sh`**. All 16
+required Bash interfaces are shown. Their focused Python implementations handle
+processing; the two workflows coordinate stages. JSON Lines carry records between
+components, and only `data/store.sh` and its implementation access the SQLite index.
+
+```mermaid
+flowchart TD
+    CFG["Topic, source lists, editorial policy and prompt snapshots"] --> R["run.sh: dated run and receipts"]
+    R --> CW["workflows/collect_sources.sh"]
+    CW --> F["collectors/fetch_feeds.sh"]
+    CW --> Y["collectors/fetch_youtube.sh"]
+    CW --> P["collectors/fetch_podcasts.sh"]
+    F --> E["processing/extract_content.sh: full text or timed Whisper transcripts"]
+    Y --> E
+    P --> E
+    E --> D["data/store.sh: versioned evidence and SQLite index"]
+    D --> W["processing/filter_items.sh: actual 30-day window"]
+    W --> SW["workflows/create_series.sh"]
+    R --> SW
+    SW --> S["editorial/select_items.sh: accept, reject or defer"]
+    S --> B["editorial/create_briefs.sh: claims and exact evidence"]
+    B --> A["content/write_articles.sh"]
+    B --> V["content/write_video_scripts.sh"]
+    A --> Q["review/check_content.sh: references, coverage and consistency"]
+    V --> Q
+    Q --> H["Human review and matching approval fingerprint"]
+    H --> K["publishing/prepare_package.sh"]
+    R --> SUM["reporting/summarize_run.sh: counts, usage and failures"]
+    LLM["Recorded AI calls: Oct 10 Codex; Oct 16 MIT Parley gpt-5.4-mini"] -.-> S
+    LLM -.-> B
+    LLM -.-> A
+    LLM -.-> V
+    V -. "Separate local revision path; not approval" .-> CB["Chatterbox Nano: generated voice narration"]
+    REF["Private student voice sample; ignored by Git"] --> CB
+    CB --> ASR["Whisper back-transcription screening"]
+    CB --> FF["FFmpeg: visual scenes, audio and captions"]
+    VIS["Original article visuals and updated technical diagram"] --> FF
+    ASR --> PR["Playback and human production review"]
+    FF --> PR
+    K --> GP["Google Vids or HeyGen handoff: evidence outstanding"]
+    PR --> GP
+    PR -. "Student-reported local-render uploads" .-> PUB["Substack articles and YouTube videos"]
+    GP --> PUB
+```
+
+The private voice recording, model weights, downloaded media, and SQLite index
+stay local. Immutable source text/transcripts and run records remain in the repo.
+The Chatterbox branch revises narration from saved scripts; it does not recollect
+sources or imply that the formal approval/package gate was completed. The
+[implementation notes](docs/IMPLEMENTATION.md) and unchanged
+[course contracts](ARCHITECTURE.md) provide additional detail.
 
 AI is called during selection, briefing, article drafting, and script drafting.
 Exact requests, responses, JSON schemas, and usage events live in each run's
@@ -114,43 +165,54 @@ through `bash scripts/restore_evidence.sh`. Large downloads in `data/media/` are
 ignored; retrieve written pages and YouTube media from each record's `url`, and
 podcast audio from `media_url`.
 
-| Attempt | Actual UTC date | Artifacts | Result |
-| --- | --- | --- | --- |
-| Initial live attempt | 2026-10-10 | [Run 21091d](runs/20261010T051736Z-21091d/) | 25 extracted items; channel, transcription-library, and sandbox-login failures preserved. |
-| First completed editorial selection | 2026-10-10 | [Run 15fd8c](runs/20261010T052041Z-15fd8c/) | 28 distinct items, seven producers, two videos and two podcasts. Three accepted, 21 rejected, four deferred. Insufficient accepted media blocked briefs. |
-| Revised sources and proposed policy | 2026-10-10 | [Run 1d2e8a](runs/20261010T052912Z-1d2e8a/) | 39 eligible items, nine publishers; 35 written, two videos, two podcasts. 13 accepted, 23 rejected, three deferred. Three article/script pairs pass mechanical checks; student review pending. |
-| October 16 Parley attempt | 2026-10-16 | [Run b61328](runs/20261016T043111Z-b61328/) | Collection completed: 55 eligible items, eight publishers, two videos and two podcasts. Initially lacked the key; a later retry reached MIT but rejected the unsupported `openai` alias. |
-| October 16 Codex fallback | 2026-10-16 | [Run bdfa88](runs/20261016T043723Z-bdfa88/) | Collection completed; editorial selection stopped at the account usage limit. This is a failed attempt, not a completed series. |
-| Parley selection with supported model | 2026-10-16 | [Run 4d1cfc](runs/20261016T153150Z-4d1cfc/) | 58 eligible items; 13 accepted, 30 rejected, 15 deferred. No accepted YouTube item, so briefing was correctly blocked. |
-| Parley series with relevant webinar | 2026-10-16 | [Run 231399](runs/20261016T153525Z-231399/REVIEW.md) | 60 eligible items, nine publishers; 15 accepted, 30 rejected, 15 deferred. Three articles and scripts pass checks after documented assistant citation and copy edits. Nine items from six publishers contribute, including all three input kinds. |
+### Two principal runs
 
-These are genuinely different-day live collections from the October 10 runs.
-They occurred after the supplied deadline and do not establish completion within
-the original assignment week. The final Parley series required assisted recovery;
-[brief corrections](runs/20261016T153525Z-231399/assistant_edits/brief_repair/README.md)
-and [content edits](runs/20261016T153525Z-231399/assistant_edits/content_copy_edit/README.md)
-preserve the original outputs and the reasons for changes. Its new scripts have
-not been rendered; the local delivery bundle retains the October 10 matching pairs.
+These are the two completed editorial runs used to demonstrate the system.
+The first supplies the published series; the second demonstrates a genuinely
+different-day collection and the revised policy with MIT Parley.
 
-[The October 10-to-16 comparison](runs/20261016T153525Z-231399/feedback_comparison.md)
-records changed eligible evidence, decisions, policy, and arguments. Source coverage,
-model provider, date window, and policy all changed; the comparison cannot isolate
-the policy's causal effect.
+| Measure | Run 1 — October 10, 2026 | Run 2 — October 16, 2026 |
+| --- | --- | --- |
+| Run ID | `20261010T052912Z-1d2e8a` | `20261016T153525Z-231399` |
+| Role | Evidence and briefs for the three published pairs; narration revised October 17 | Later validation and editorial rerun; drafts retained separately, not published |
+| AI provider | Codex | MIT Parley, `gpt-5.4-mini` |
+| Editorial policy | Version 2, before the student's October 16 feedback | Version 3, implementing the six student judgments |
+| Eligible evidence | 39 distinct items, 9 publishers | 60 distinct items, 9 publishers |
+| Input mix | 35 written, 2 YouTube, 2 podcast | 55 written, 3 YouTube, 2 podcast |
+| Decisions | 13 accept / 23 reject / 3 defer | 15 accept / 30 reject / 15 defer |
+| Ingestion outcomes | 11 new / 0 changed / 28 unchanged | 2 new / 0 changed / 38 unchanged |
+| Freshness exclusions | 30 records | 35 records |
+| Outputs | 3 articles and 3 scripts; structural checks passed after documented copy edits | 3 articles and 3 scripts; structural checks passed after documented citation and copy edits |
+| Active stage time | 672.327 seconds | 559.25 seconds |
+| Actual model dollar cost | Unknown | Unknown |
+| Summary | [Run 1 summary](runs/20261010T052912Z-1d2e8a/summary.json) | [Run 2 summary](runs/20261016T153525Z-231399/summary.json) |
+| Review packet | [Run 1 review](runs/20261010T052912Z-1d2e8a/REVIEW.md) | [Run 2 review](runs/20261016T153525Z-231399/REVIEW.md) |
+| Decisions and briefs | [Decisions](runs/20261010T052912Z-1d2e8a/decisions.jsonl) · [Briefs](runs/20261010T052912Z-1d2e8a/briefs.jsonl) | [Decisions](runs/20261016T153525Z-231399/decisions.jsonl) · [Briefs](runs/20261016T153525Z-231399/briefs.jsonl) |
+| Retained provenance | [Inputs, prompts, model calls, logs and edits](runs/20261010T052912Z-1d2e8a/) | [Inputs, prompts, model calls, logs and edits](runs/20261016T153525Z-231399/) |
 
-The first two attempts took approximately 47 seconds and 433 seconds respectively;
-see their summaries and per-stage receipts for details. Paid API spending was not
-enabled. The revised run used approximately 672 seconds of active stage time,
-including retries; its longer wall span includes a pause between work sessions.
-Unreported account usage costs are marked unknown, not zero.
+**How to interpret the comparison:** Ingestion counts are relative to the index
+at the start of each attempt, including intervening collections. They are not
+the October 10-to-16 difference. The [explicit comparison](runs/20261016T153525Z-231399/feedback_comparison.md)
+records changed eligible evidence, decisions, policy and arguments. Source lists,
+date window, model provider and policy all changed, so it cannot isolate a causal
+policy effect. Active time includes retries and excludes pauses; unknown costs
+are not treated as zero. October 16 falls after the supplied October 13 deadline.
 
-[The unchanged replay](runs/20261010T052041Z-15fd8c/replays/store-e46554b8/replay.json)
-re-ingested all 28 retained items: every result was unchanged, the store retained
-28 logical items, and latest versions were identical. This is labeled replay, not
-a second live run. Each run retains mechanical date exclusions. Actual collection
-failures and recovery are recorded in receipts. The tests use clearly fictional
-data in disposable isolated copies and do not count as live evidence.
+**Duplicate handling:** A separately labeled [28-item replay](runs/20261010T052041Z-15fd8c/replays/store-e46554b8/replay.json)
+returned every item unchanged, retained 28 logical items, and preserved identical
+latest versions. This demonstrates replay behavior and is not a third live date.
 
-**Published claim trace:** [Crayon source → acceptance → brief 01-C01 → published article](docs/CLAIM_TRACE.md). The trace retains the exact source quote and version identifier, and distinguishes a vendor capability claim from evidence of effectiveness.
+**Failure and recovery:** Earlier attempts preserved collection/authentication
+failures and a briefing stop when no YouTube item was accepted. The final Parley
+run still required [assistant citation repairs](runs/20261016T153525Z-231399/assistant_edits/brief_repair/README.md)
+and [copy edits](runs/20261016T153525Z-231399/assistant_edits/content_copy_edit/README.md).
+Original outputs and reasons are retained; this was assisted recovery, not
+unattended success or student approval. [All nine attempts](docs/RUNS.md), including
+partial runs, remain preserved without crowding the two-run comparison.
+
+**Published claim trace:** [Crayon source → acceptance → brief 01-C01 → published article](docs/CLAIM_TRACE.md).
+The trace preserves the exact quote and version, distinguishing a vendor
+capability claim from evidence of effectiveness.
 
 ## Editorial Review
 
@@ -251,11 +313,12 @@ factual corrections, and final series approval remain pending. The earlier
 October 10 comparison is preserved as prior work, not a rerun caused by this
 October 16 feedback.
 
-## Reflection — student to complete
+## Reflection
 
-- **One insight the system produced:** Explain a supported synthesis after reviewing the actual briefs and sources.
-- **One editorial failure or limitation:** Consider the initial mismatch between the evidence standard and attributed interview claims, the commercially weighted sources, or a limitation you identify yourself.
-- **Next improvement:** Explain which change would most improve the system and why.
-- **Architectural tradeoff:** Explain why separate Bash interfaces plus focused Python components and a versioned SQLite store suit this project, including the cost of rebuilding the local index and verifying media-cache freshness.
+One insight that I found while producing this system is that reliable AI-generated research depends as much on evidence management and review as on text generation. Preserving source versions, editorial decisions, and intermediate outputs made it possible to trace claims and identify where errors entered the pipeline. One limitation was that generated briefs still contained inaccurate or misattributed quotations after an automated correction attempt, showing that successful execution does not guarantee trustworthy content. My next improvement would be to strengthen claim-level validation before drafting, so unsupported claims are flagged earlier and require less downstream correction. Architecturally, separate Bash interfaces make stages independently runnable and easier to debug, while focused Python components handle processing and a versioned SQLite store supports deduplication and traceability. The tradeoff is additional maintenance, as a fresh clone must rebuild the local index, and cached media needs freshness checks to prevent outdated material from being reused.
 
 See [docs/DEMONSTRATION.md](docs/DEMONSTRATION.md) for the completed AI walkthrough and the remaining repeatability requirements.
+
+## Local voice-narration revision ? October 17
+
+[Four revised Chatterbox videos and production records](deliverables/20261017-chatterbox/README.md) are saved locally: three matching audience videos and a 5:29 architecture/technical walkthrough. Narration is AI-generated using the student-provided voice recording. The updated architecture includes the local speech-generation and rendering path. The three replacement audience-video links supplied October 17 are listed above. A separate upload link for the revised technical walkthrough has not been supplied. These revisions do not establish Google Vids/HeyGen production or final editorial approval.

@@ -1,0 +1,54 @@
+[
+  {
+    "piece_id": "01",
+    "file": "01-video.mp4",
+    "duration_seconds": 261.48,
+    "tempo": 1,
+    "sha256": "3e55fa6f063caded5e2a6e91ac738042aa61a5534a0c7c17f0b2c68e4267bfdf",
+    "bytes": 4047706,
+    "full_decode": "passed",
+    "narration": "Chatterbox Nano; AI-generated using student-supplied voice",
+    "captions": "Chunk-based approximate timing; playback review advised",
+    "publication": "local revision, not uploaded",
+    "source_run": "20261010T052912Z-1d2e8a"
+  },
+  {
+    "piece_id": "02",
+    "file": "02-video.mp4",
+    "duration_seconds": 268.2,
+    "tempo": 1,
+    "sha256": "4076a69aa6c2f1d8ece22fc71997b10a1cb17219c8b55e6153738ece5593ef01",
+    "bytes": 4120543,
+    "full_decode": "passed",
+    "narration": "Chatterbox Nano; AI-generated using student-supplied voice",
+    "captions": "Chunk-based approximate timing; playback review advised",
+    "publication": "local revision, not uploaded",
+    "source_run": "20261010T052912Z-1d2e8a"
+  },
+  {
+    "piece_id": "03",
+    "file": "03-video.mp4",
+    "duration_seconds": 247.92,
+    "tempo": 1,
+    "sha256": "e3622908b6c814d99ff485d449df6471d6c9b9f0bccc735e2e2cdf486a6cfb2e",
+    "bytes": 3919463,
+    "full_decode": "passed",
+    "narration": "Chatterbox Nano; AI-generated using student-supplied voice",
+    "captions": "Chunk-based approximate timing; playback review advised",
+    "publication": "local revision, not uploaded",
+    "source_run": "20261010T052912Z-1d2e8a"
+  },
+  {
+    "piece_id": "04",
+    "file": "04-video.mp4",
+    "duration_seconds": 328.92,
+    "tempo": 1,
+    "sha256": "d9c071d74bb726590b3aa4c6961c99e00283cf50c6d7a52cf942a9c4b0d8d396",
+    "bytes": 5479378,
+    "full_decode": "passed",
+    "narration": "Chatterbox Nano; AI-generated using student-supplied voice",
+    "captions": "Chunk-based approximate timing; playback review advised",
+    "publication": "local revision, not uploaded",
+    "source_run": "Saved October 10 and October 16 records; architecture as of October 17"
+  }
+]

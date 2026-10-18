@@ -1,5 +1,8 @@
 # Repeatability evidence and technical demonstration
 
+To record your own version, use the [recording directions and screen sequence](TECH_DEMO_RECORDING_GUIDE.md)
+and [read-aloud script](TECH_DEMO_SCRIPT.md). The existing AI video stays linked until a replacement is supplied.
+
 Completed AI version: [5:43 technical walkthrough, script, captions, and storyboard](../deliverables/technical-demo/README.md). This shows saved artifacts, not a new live execution. Student review remains pending.
 
 Deadline supplied: Tuesday, October 13, 2026. Live runs must occur during the

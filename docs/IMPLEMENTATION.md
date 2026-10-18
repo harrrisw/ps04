@@ -55,3 +55,27 @@ create or backdate approval.
 
 See [all retained runs](RUNS.md), [published claim traces](CLAIM_TRACE.md),
 [setup](SETUP.md), and [evaluation audit](EVALUATION.md).
+
+## Local voice-cloned video revision — October 17
+
+The [Chatterbox production workflow](CHATTERBOX_PRODUCTION.md) adds a local media
+revision path after the saved scripts. It does not change the sixteen research
+components, modify the historical evidence, or create editorial approval.
+
+```mermaid
+flowchart LR
+    S[Saved scripts and visual scenes] --> C[Chatterbox Nano on CPU]
+    V[Private student voice recording] --> C
+    C --> A[Generated speech chunks with Perth watermark]
+    A --> Q[Whisper back-transcription screening]
+    A --> F[FFmpeg scenes and captions]
+    S --> F
+    Q --> H[Playback and human review]
+    F --> H
+    H --> L[Four local revised MP4s]
+    L --> P[Google Vids or HeyGen handoff and manual upload]
+```
+
+The reference recording and model files remain in ignored `.tools/`; large video
+revisions remain local. Synthetic voice narration is disclosed. Original public
+uploads retain their existing links until replacement uploads are provided.
