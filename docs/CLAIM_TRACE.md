@@ -30,4 +30,4 @@ Follow this retained chain in `runs/20261010T052912Z-1d2e8a`:
 The [publication checks](audit/publication_checks.json) record anonymous retrieval
 of all three Substack article bodies and their matching YouTube links on October
 16. This confirms access and cross-links, not the independent truth of source
-claims. Student source verification and final approval remain unrecorded.
+claims. Student source/submission approval was recorded on October 18 in the run approval files.

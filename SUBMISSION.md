@@ -2,7 +2,7 @@
 
 The course instructions remain in [README.md](README.md) and the required contracts in [ARCHITECTURE.md](ARCHITECTURE.md).
 
-**Student:** To complete
+**Student:** Mingxi Wang
 
 **GitHub repository:** https://github.com/harrrisw/ps04
 
@@ -23,9 +23,9 @@ The course instructions remain in [README.md](README.md) and the required contra
 | 2 | Make AI Research Earn Its Place With Evidence You Can Check | [Read article](https://mingxiwang.substack.com/p/make-ai-research-earn-its-place-with) | [Watch video](https://youtu.be/7iR-6_BBqYQ) |
 | 3 | Pilot One Customer Question and Count the Work Needed to Trust the Answer | [Read article](https://mingxiwang.substack.com/p/pilot-one-customer-question-and-count) | [Watch video](https://youtu.be/8oNRSNaHDDU) |
 
-The replacement videos use Chatterbox narration generated from my supplied voice recording and run 4:21, 4:28, and 4:08. Their titles and channel were verified through anonymous YouTube oEmbed on October 17; full external playback was not independently checked. The articles were accessible without sign-in on October 16. Their links to the **replacement** videos still need updating or verification. [Publication mapping](deliverables/20261017-chatterbox/publication_links.json).
+The three videos use Chatterbox narration generated from my supplied voice recording and run 4:21, 4:28, and 4:08. I selected Chatterbox as the production tool in place of Google Vids/HeyGen. The original course instructions are preserved; this records my implementation choice. The article/video URLs are retained in the [publication mapping](deliverables/20261017-chatterbox/publication_links.json). On October 18, all three free-access article bodies and their replacement-video links were verified, alongside YouTube titles and channel metadata. [Access checks](docs/audit/final_publication_checks.json).
 
-**Separate technical demonstration video:** [Watch/download the available 5:43 walkthrough](deliverables/technical-demo/technical-demo.mp4). A revised 5:29 Chatterbox version with the updated architecture is saved locally as `deliverables/20261017-chatterbox/04-video.mp4`; its upload link has not yet been supplied. Both demonstrate saved artifacts rather than a new live run.
+**Separate technical demonstration video:** [Watch/download my recorded 5:52 demonstration](deliverables/recorded-demo/technical-demo.mp4). This combines my two screen recordings, with navigation/repeated transitions trimmed and pitch-preserving speed adjustment. It replaces the AI-narrated demonstration as the submitted version. [Edit record and video details](deliverables/recorded-demo/README.md).
 
 ## Setup and Execution
 
@@ -39,7 +39,7 @@ python -m pip install -r requirements.txt -r requirements-media.txt
 export PIPELINE_PYTHON="$(command -v python)"
 ```
 
-Set the credential environment variable **`PARLEY_API_KEY`** using the [Parley setup instructions](docs/PARLEY.md). The current provider is MIT Parley with `gpt-5.4-mini`; the October 10 run used Codex. Parley account credits and unreported dollar costs are not assumed free. Local transcription uses faster-whisper `base.en`; yt-dlp, Deno, and FFmpeg support media extraction. [Tested dependency versions](requirements-lock.txt) and [full setup instructions](docs/SETUP.md) are retained.
+Set the credential environment variable **`PARLEY_API_KEY`** using the [Parley setup instructions](docs/PARLEY.md). The current provider is MIT Parley with `gpt-5.4-mini`; the October 10 run used Codex. The October 16 Parley run cost **$0.80**, as reported by me; the [cost record](runs/20261016T153525Z-231399/cost_report.json) distinguishes this amount from provider telemetry. Local transcription uses faster-whisper `base.en`; yt-dlp, Deno, and FFmpeg support media extraction. [Tested dependency versions](requirements-lock.txt) and [full setup instructions](docs/SETUP.md) are retained.
 
 Set topic, audience, provider, and collection options in [config/project.json](config/project.json); edit [config/sources.json](config/sources.json), [config/editorial_policy.md](config/editorial_policy.md), and the four [prompts](prompts/) for the intended sources and editorial rules. Each run snapshots these settings.
 
@@ -48,7 +48,7 @@ bash run.sh
 bash run.sh --package runs/RUN_ID
 ```
 
-For the published series, replace `RUN_ID` with `20261010T052912Z-1d2e8a`. Packaging requires a matching human approval record; it does not publish automatically. On a fresh clone, `bash scripts/restore_evidence.sh` rebuilds the local index from retained ingestion records. `python tests/test_pipeline.py` runs the offline checks. [Local Chatterbox production](docs/CHATTERBOX_PRODUCTION.md) uses a separate environment.
+For the published series, replace `RUN_ID` with `20261010T052912Z-1d2e8a`. Both retained runs have matching student approval records, and their publication packages have been generated. Packaging does not publish automatically. On a fresh clone, `bash scripts/restore_evidence.sh` rebuilds the local index from retained ingestion records. `python tests/test_pipeline.py` runs the offline checks. [Local Chatterbox production](docs/CHATTERBOX_PRODUCTION.md) uses a separate environment.
 
 ## Architecture and Manual Handoffs
 
@@ -69,7 +69,7 @@ flowchart TD
 
 `run.sh` coordinates the sixteen Bash interfaces through collection and editorial workflows. Focused Python helpers handle parsing, transcription, model calls, and validation. Only the store component accesses the SQLite index; immutable text and transcripts are retained in `data/assets/`. AI calls occur during selection, briefing, article drafting, and script drafting, with requests and responses saved per run. [Component-level implementation](docs/IMPLEMENTATION.md).
 
-Human review uses `REVIEW.md`, `briefs.jsonl`, article/script files, source passages, and `review.json`; a matching `approval.json` permits `prepare_package.sh` to assemble the handoff. Final approval is not yet recorded. The local video path takes saved scripts, visuals, and a private voice sample into Chatterbox and FFmpeg, producing MP4s, captions, and descriptions in the [delivery folder](deliverables/20261017-chatterbox/README.md). It does not establish approval. Google Vids/HeyGen production remains undocumented. Substack and YouTube publication is manual; the resulting links appear above. The voice sample and model weights remain outside Git.
+Human review uses `REVIEW.md`, `briefs.jsonl`, article/script files, source passages, and `review.json`. I approved the sources and final submission on October 18. Matching approval records are saved for [the published series](runs/20261010T052912Z-1d2e8a/approval.json) and [the Parley rerun](runs/20261016T153525Z-231399/approval.json); the resulting [published-series package](runs/20261010T052912Z-1d2e8a/package/) contains articles, scripts, and source notes. Chatterbox and FFmpeg turn saved scripts, visuals, and my private voice sample into MP4s, captions, and descriptions in the [delivery folder](deliverables/20261017-chatterbox/README.md). I chose this local production path instead of Google Vids/HeyGen. Substack and YouTube publication was manual; the resulting links appear above. The reference recording and model weights remain outside Git.
 
 ## Evidence and Runs
 
@@ -78,7 +78,7 @@ Retained [source text and timestamped transcripts](data/assets/) support the ign
 | Run | Actual date | Run artifacts and logs | Elapsed time | Approximate cost |
 | --- | --- | --- | --- | --- |
 | First principal live run — published series | October 10, 2026 | [Run 1d2e8a](runs/20261010T052912Z-1d2e8a/) · [Summary](runs/20261010T052912Z-1d2e8a/summary.json) | 672.327 seconds | Unknown; provider dollar cost unreported |
-| Second principal live run — Parley rerun | October 16, 2026 | [Run 231399](runs/20261016T153525Z-231399/) · [Summary](runs/20261016T153525Z-231399/summary.json) | 559.25 seconds | Unknown; provider dollar cost unreported |
+| Second principal live run — Parley rerun | October 16, 2026 | [Run 231399](runs/20261016T153525Z-231399/) · [Summary](runs/20261016T153525Z-231399/summary.json) | 559.25 seconds | **$0.80**, student-reported |
 
 Elapsed times sum active stage work, including retries, rather than pauses between sessions. October 16 work is after the supplied October 13 deadline. Earlier and partial attempts remain in the [complete run inventory](docs/RUNS.md).
 
@@ -106,7 +106,7 @@ The [six-item review record](runs/20261010T052912Z-1d2e8a/human_review_sample.md
 
 Compare the [before policy](runs/20261010T052912Z-1d2e8a/config/editorial_policy.md) with the [after policy](runs/20261016T153525Z-231399/config/editorial_policy.md). Version 3 implements my October 16 feedback: favor inspectable workflows, distinguish attributed capabilities from measured outcomes, and require baselines for speed/cost claims. Exact prompts are retained in [Run 1](runs/20261010T052912Z-1d2e8a/prompts/) and [Run 2](runs/20261016T153525Z-231399/prompts/); the [comparison](runs/20261016T153525Z-231399/feedback_comparison.md) records affected decisions and arguments.
 
-[Assistant citation corrections](runs/20261016T153525Z-231399/assistant_edits/brief_repair/README.md) and [copy edits](runs/20261016T153525Z-231399/assistant_edits/content_copy_edit/README.md) preserve original and corrected outputs. They are separate from my source judgments. Commercially weighted, English-language evidence limits generalization to small businesses. Source/audio verification and final approval remain unrecorded; passing mechanical checks and uploading videos do not substitute for those steps. [Approval procedure](docs/HUMAN_REVIEW.md).
+[Assistant citation corrections](runs/20261016T153525Z-231399/assistant_edits/brief_repair/README.md) and [copy edits](runs/20261016T153525Z-231399/assistant_edits/content_copy_edit/README.md) preserve original and corrected outputs. They are separate from my source judgments. Commercially weighted, English-language evidence limits generalization to small businesses. My October 18 source and submission approval is recorded in the linked approval files. Mechanical checks and assistant corrections remain documented separately from my editorial judgment. [Approval procedure and records](docs/HUMAN_REVIEW.md).
 
 ## Reflection
 

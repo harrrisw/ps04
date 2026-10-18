@@ -19,3 +19,5 @@ deliverables/*.zip
 ~$*.docx
 
 !deliverables/technical-demo/technical-demo.mp4
+
+!deliverables/recorded-demo/technical-demo.mp4

@@ -1,0 +1,82 @@
+# What changed in AI research tools for small-business teams
+
+**As of:** 2026-10-16
+
+## Scene timing plan
+- **0:00–0:35** Hook: the shift from generic AI output to source-linked research workflows
+- **0:35–1:35** What actually changed for small teams: connected files, traceable outputs, visible gaps
+- **1:35–2:35** What this means for customer, competitor, and market research work
+- **2:35–3:25** What still needs validation and where to be skeptical
+- **3:25–4:00** Practical takeaway and close
+
+## Narration
+
+**Narration:**
+AI research tools are changing in a way that matters to small businesses: they’re moving from “write me something” toward “read this source material and show your work.” That shift is the main story here, not bigger promises about automation.
+
+For a small team, that matters because the real bottleneck is usually not drafting a summary. It’s finding the right files, keeping the evidence visible, and making sure the result can be checked later. Crayon’s SharePoint announcement and its Insights API both point in that direction: tools are being built to pull from internal repositories and return source-linked outputs.
+
+Nielsen Norman Group’s guidance reinforces the same principle from a research-methods angle. Their empathy-mapping article says every note should trace back to a specific research artifact, and their Siri article argues that an assistant should answer from information already available to it rather than forcing users to re-enter it.
+
+So the practical change is this: for customer, competitor, and market research, AI is becoming more useful as a retrieval-and-checking layer before synthesis. That means asking it to gather context, identify what’s missing, and point back to the source material before you decide what the story is.
+
+A good way to picture it is a simple workflow: **source files → AI retrieval → visible citations or links → human review → decision-ready summary**. This is an illustrative diagram, but it matches the evidence-backed pattern in the sources. The common thread is traceability, not magic.
+
+For small-business research teams, that opens a narrow but real pilot opportunity. Use AI where it can help with desk research, competitor monitoring, and synthesis of interviews or surveys — especially when the task is to pull in context from approved files or connected apps and then surface contradictions or gaps.
+
+The caution is just as important. These sources are mostly vendor announcements and practitioner guidance, not controlled field trials. Crayon’s statements are attributed product claims; they do not prove market-wide performance or ROI. And the tutorial examples show possible workflows, not measured speedups or accuracy against a baseline.
+
+So the right question is not, “Has AI research replaced the researcher?” It hasn’t. The better question is, “Can this tool reduce search and organization time while preserving enough evidence traceability to support a decision?” That is the threshold a small business can test without overcommitting.
+
+My bottom line: the meaningful novelty is not just faster text generation. It’s better retrieval, better source linkage, and clearer visibility into what the model could not see. If a tool can do that inside a narrow workflow, it may be worth a pilot. If it can’t show its sources or limits, the claim still needs validation.
+
+## Visual
+
+- **Opening visual:** title card over a simple split-screen graphic: left side “generic AI output,” right side “source-linked workflow.”
+- **Illustrative diagram:** a horizontal pipeline with five labeled boxes: “Approved files / notes” → “AI reads context” → “Citations / links” → “Human checks gaps” → “Decision or summary.” Add a small note: “Illustrative, based on cited guidance.”
+- **Evidence callouts:** small lower-third labels that appear beside the diagram with source names and short claims.
+- **Closing visual:** checklist card titled “Pilot or pause?” with three bullets: “Traceable sources,” “Narrow workflow,” “Human review required.”
+
+## On-screen source lines
+
+- **Crayon — SharePoint Integration: Turn Docs into Competitive Intel** — “Crayon now connects to SharePoint…” and “Each document becomes an insight… and links back to the original file.” https://www.crayon.co/blog/sharepoint-integration
+- **Crayon — Insights API Blog** — “You also get the full detail behind each insight, not just a headline.” https://www.crayon.co/blog/insights-api
+- **Nielsen Norman Group — Empathy Mapping: The First Step in Design Thinking** — “Every sticky note on the finished map should trace back to a specific research artifact.” https://www.nngroup.com/articles/empathy-mapping
+- **Nielsen Norman Group — The New Siri’s Biggest Strength Is Not Intelligence** — “An AI agent should answer questions about information that is already on the user’s phone…” https://www.nngroup.com/articles/ai-assistant-context
+- **NewMR (YouTube) — 5 AI Tips – September 2026** — “point the AI at the relevant files” and “ask it where it got that information from.” https://www.youtube.com/watch?v=XCmsCJcD0Kw&t=251s ; https://www.youtube.com/watch?v=XCmsCJcD0Kw&t=279s ; https://www.youtube.com/watch?v=XCmsCJcD0Kw&t=285s
+
+## AI assistance disclosure
+
+This video script was drafted with AI assistance and should be reviewed by the student before publishing. Claims, wording, and source matches must be verified against the cited source passages.
+
+## Draft YouTube description
+
+AI research tools for small businesses are shifting from generic generation toward source-linked workflows that can read approved files, surface gaps, and support human review. In this video, we summarize what changed, what evidence supports the shift, and where the claims still need validation.
+
+Read the article: [unpublished article link]
+
+Sources:
+- Crayon, “SharePoint Integration: Turn Docs into Competitive Intel” — https://www.crayon.co/blog/sharepoint-integration
+- Crayon, “Insights API Blog” — https://www.crayon.co/blog/insights-api
+- Nielsen Norman Group, “Empathy Mapping: The First Step in Design Thinking” — https://www.nngroup.com/articles/empathy-mapping
+- Nielsen Norman Group, “The New Siri’s Biggest Strength Is Not Intelligence” — https://www.nngroup.com/articles/ai-assistant-context
+- NewMR, “5 AI Tips – September 2026” — https://www.youtube.com/watch?v=XCmsCJcD0Kw&t=251s
+
+## Production notes
+
+- Student task: build the video in Google Vids using the scene timing plan above.
+- Student task: add a simple evidence-backed diagram or clearly labeled illustrative visual; no avatar required.
+- Student task: verify every on-screen citation line and correct any quote truncation before export.
+- Student task: compare the final cut against the brief and the cited source passages.
+- Pending review: confirm that no tool demos, prices, results, or personal experiences were added.
+- Pending review: ensure the AI assistance disclosure remains visible in the final package.
+- Pending review: replace the unpublished article placeholder link before publication.
+
+
+## Source links
+
+- [SharePoint Integration: Turn Docs into Competitive Intel](https://www.crayon.co/blog/sharepoint-integration)
+- [Empathy Mapping: The First Step in Design Thinking](https://www.nngroup.com/articles/empathy-mapping)
+- [Insights API Blog](https://www.crayon.co/blog/insights-api)
+- [The New Siri’s Biggest Strength Is Not Intelligence](https://www.nngroup.com/articles/ai-assistant-context)
+- [NewMR  - 5 AI Tips  - September 2026](https://www.youtube.com/watch?v=XCmsCJcD0Kw)

@@ -54,5 +54,4 @@ not judge speaker similarity or replace listening.
 
 Output goes to `deliverables/20261017-chatterbox/`. Large MP4s remain local under
 the existing Git ignore rules. The historical videos and public links remain
-unchanged until replacement uploads are supplied. These local renders do not
-establish Google Vids/HeyGen production or final editorial approval.
+unchanged until replacement uploads are supplied. Mingxi Wang selected Chatterbox as the production tool instead of Google Vids/HeyGen and approved the sources and submission on October 18. The final technical demo uses the student’s recorded speech.

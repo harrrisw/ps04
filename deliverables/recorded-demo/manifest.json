@@ -1,0 +1,137 @@
+{
+  "created_on": "2026-10-18",
+  "narrator": "Mingxi Wang; student-recorded speech",
+  "source_files": [
+    {
+      "part": 1,
+      "file": "MicrosoftTeams-video.mp4",
+      "sha256": "e4d7efb21ddd3f36d211352b069ad5a25a48ae8d7dcf444e23a69c9a3a56a05e"
+    },
+    {
+      "part": 2,
+      "file": "MicrosoftTeams-video (1).mp4",
+      "sha256": "f2fb16cf9b03cb030c5a791a0e5deecee36dc0fec9a38703762aec6911551f14"
+    }
+  ],
+  "editing": "Navigation/repeated transitions removed; original speech and screen sequence retained; pitch-preserving speed adjustment and volume normalization",
+  "playback_speed": 1.2654545454545454,
+  "duration_seconds": 352.0,
+  "timeline": [
+    {
+      "part": 1,
+      "input_start": 0.8,
+      "input_end": 41.8,
+      "output_start": 0,
+      "output_duration": 32.399,
+      "section": "Project and audience"
+    },
+    {
+      "part": 1,
+      "input_start": 48.0,
+      "input_end": 128.8,
+      "output_start": 32.399,
+      "output_duration": 63.851,
+      "section": "Architecture and entry point"
+    },
+    {
+      "part": 1,
+      "input_start": 149.6,
+      "input_end": 170.5,
+      "output_start": 96.25,
+      "output_duration": 16.516,
+      "section": "Published claim and evidence trail"
+    },
+    {
+      "part": 1,
+      "input_start": 171.0,
+      "input_end": 212.9,
+      "output_start": 112.766,
+      "output_duration": 33.111,
+      "section": "Published claim and evidence trail"
+    },
+    {
+      "part": 1,
+      "input_start": 231.4,
+      "input_end": 257.8,
+      "output_start": 145.876,
+      "output_duration": 20.862,
+      "section": "Two runs | Parley cost: $0.80, student reported"
+    },
+    {
+      "part": 1,
+      "input_start": 267.5,
+      "input_end": 288.95,
+      "output_start": 166.739,
+      "output_duration": 16.95,
+      "section": "Two runs | Parley cost: $0.80, student reported"
+    },
+    {
+      "part": 2,
+      "input_start": 11.75,
+      "input_end": 60.6,
+      "output_start": 183.689,
+      "output_duration": 38.603,
+      "section": "Duplicate handling and assisted recovery"
+    },
+    {
+      "part": 2,
+      "input_start": 86.0,
+      "input_end": 128.0,
+      "output_start": 222.292,
+      "output_duration": 33.19,
+      "section": "Student feedback and policy revision"
+    },
+    {
+      "part": 2,
+      "input_start": 136.5,
+      "input_end": 159.6,
+      "output_start": 255.481,
+      "output_duration": 18.254,
+      "section": "Student feedback and policy revision"
+    },
+    {
+      "part": 2,
+      "input_start": 165.0,
+      "input_end": 173.64,
+      "output_start": 273.736,
+      "output_duration": 6.828,
+      "section": "Architectural tradeoff and reflection"
+    },
+    {
+      "part": 2,
+      "input_start": 175.8,
+      "input_end": 176.95,
+      "output_start": 280.563,
+      "output_duration": 0.909,
+      "section": "Architectural tradeoff and reflection"
+    },
+    {
+      "part": 2,
+      "input_start": 179.4,
+      "input_end": 215.95,
+      "output_start": 281.472,
+      "output_duration": 28.883,
+      "section": "Architectural tradeoff and reflection"
+    },
+    {
+      "part": 2,
+      "input_start": 216.5,
+      "input_end": 247.5,
+      "output_start": 310.355,
+      "output_duration": 24.497,
+      "section": "Architectural tradeoff and reflection"
+    },
+    {
+      "part": 2,
+      "input_start": 248.3,
+      "input_end": 270.0,
+      "output_start": 334.852,
+      "output_duration": 17.148,
+      "section": "Source approval confirmed by the student"
+    }
+  ],
+  "sha256": "8215352ae82ed0389cf1c39cac4a3084cd82ce39b78af6d29cc28a890280b9c4",
+  "bytes": 10364270,
+  "full_decode": "passed",
+  "captions": "Optional automatic Whisper captions; may contain recognition errors"
+}

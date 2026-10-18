@@ -1,0 +1,431 @@
+1
+00:00:00,190 --> 00:00:03,619
+Hello, everyone. My name is Mingxi Wang, and here's my
+
+2
+00:00:03,619 --> 00:00:07,997
+project, which is about kind of a research pipeline for
+
+3
+00:00:07,997 --> 00:00:11,885
+small business research grief, for market researchers working with small
+
+4
+00:00:11,885 --> 00:00:14,651
+business budgets. And the question that we have here is
+
+5
+00:00:14,651 --> 00:00:18,381
+where AI tools offer really useful research capabilities and what
+
+6
+00:00:18,381 --> 00:00:20,499
+kind of evidence do we need before trusting the results.
+
+7
+00:00:20,499 --> 00:00:25,114
+And the results output that we see here is three
+
+8
+00:00:25,114 --> 00:00:29,128
+connected sub stack articles along with matching YouTube videos. And
+
+9
+00:00:29,128 --> 00:00:32,068
+here I'll be demonstrating the architecture and evidence trail using
+
+10
+00:00:32,068 --> 00:00:32,241
+this
+
+11
+00:00:32,526 --> 00:00:35,876
+the architecture and manual handle fly. So the entry point
+
+12
+00:00:35,876 --> 00:00:40,365
+here is the bashrun.sh, which is 16 bash interfaces,
+
+13
+00:00:40,902 --> 00:00:46,450
+separate orchestration, collection, storage, editorial work, checking, and packaging. And
+
+14
+00:00:46,450 --> 00:00:50,717
+the focus Python components implement the detail processing here. And
+
+15
+00:00:50,717 --> 00:00:55,616
+the collectors discover written sources, into videos and podcasts, and
+
+16
+00:00:55,616 --> 00:00:59,631
+then the extraction produces full text or time transcripts. And
+
+17
+00:00:59,631 --> 00:01:03,108
+then the JSON lines has records between the stages. And
+
+18
+00:01:03,108 --> 00:01:07,059
+only the store components accesses the persistent like SQLite
+
+19
+00:01:07,059 --> 00:01:10,536
+index. And after kind of the freshness filtering that we
+
+20
+00:01:10,536 --> 00:01:13,618
+have here, the AI will select the sources, creates briefs
+
+21
+00:01:13,618 --> 00:01:16,305
+as well as drafts the articles and the scripts. And
+
+22
+00:01:16,305 --> 00:01:19,371
+then the checks lead to the relevant human review that
+
+23
+00:01:19,371 --> 00:01:22,358
+I have here. And packaging require kind of an approval
+
+24
+00:01:22,358 --> 00:01:26,404
+from myself, matching the reviewed content that we have. And
+
+25
+00:01:26,404 --> 00:01:29,375
+the separate video branch uses the chatterbox here to generate
+
+26
+00:01:29,375 --> 00:01:32,662
+narration from my supplied voice sample, then kind of combines
+
+27
+00:01:32,662 --> 00:01:36,155
+with the visuals and captions. Yeah, so we'll
+
+28
+00:01:36,250 --> 00:01:39,585
+for the crayon article, retain source text as like ask
+
+29
+00:01:39,585 --> 00:01:41,608
+for more, and you kind of get the full text
+
+30
+00:01:41,608 --> 00:01:44,263
+and source link, the source record has kind of a
+
+31
+00:01:44,263 --> 00:01:49,731
+stable record, a kind of like immutable version identifier. And
+
+32
+00:01:49,731 --> 00:01:51,928
+then search that item in the decisions file shows it
+
+33
+00:01:51,928 --> 00:01:52,624
+was kind of accepted.
+
+34
+00:01:52,829 --> 00:01:58,598
+And the brief claims, zero one sees zero one C
+
+35
+00:01:58,598 --> 00:02:01,806
+zero one connects the claim to this exact quotation and
+
+36
+00:02:01,806 --> 00:02:04,556
+the source vision here. And in the public, in the
+
+37
+00:02:04,556 --> 00:02:06,895
+published article, the claim appears under like kind of what
+
+38
+00:02:06,895 --> 00:02:10,483
+source access changes, which is explicitly kind of attributed to
+
+39
+00:02:10,483 --> 00:02:13,754
+crayo. And this article does not treat the vendors announcement
+
+40
+00:02:13,754 --> 00:02:16,947
+as more of an independent proof or accuracy or kind
+
+41
+00:02:16,947 --> 00:02:20,582
+of its affordability problem that distinction is really important as
+
+42
+00:02:20,582 --> 00:02:23,063
+kind of a traceable quotation supports with the vendors that
+
+43
+00:02:23,063 --> 00:02:25,718
+not every conclusion about the product itself.
+
+44
+00:02:25,924 --> 00:02:29,670
+there are 39 eligible items from nine publishers. The final
+
+45
+00:02:29,670 --> 00:02:32,578
+run had like 60 also kind of nine from nine
+
+46
+00:02:32,578 --> 00:02:34,932
+publishers and produce another like three articles and the scripts
+
+47
+00:02:34,932 --> 00:02:37,730
+here. Those later drafts are separated from the earlier ones.
+
+48
+00:02:37,761 --> 00:02:39,595
+And the first one use codex and the second one
+
+49
+00:02:39,595 --> 00:02:42,392
+use kind of the MIT partly with the with the
+
+50
+00:02:42,392 --> 00:02:46,454
+revised policies and the comparison records changes in kind of
+
+51
+00:02:46,454 --> 00:02:46,612
+the
+
+52
+00:02:46,833 --> 00:02:49,694
+And the later collection bash shows that kind of like
+
+53
+00:02:49,694 --> 00:02:52,760
+two new and 38 on change records relative to store.
+
+54
+00:02:53,345 --> 00:02:55,937
+At that point, those are not the differences against the
+
+55
+00:02:55,937 --> 00:02:58,513
+first one. And in which like the date the sources
+
+56
+00:02:58,513 --> 00:03:01,216
+provide our policy change kind of together. So this is
+
+57
+00:03:01,216 --> 00:03:03,507
+not really a controlled policy experiment.
+
+58
+00:03:03,697 --> 00:03:07,427
+So this replay kind of like readjust the 20A saved
+
+59
+00:03:07,427 --> 00:03:10,651
+items and every result was unchanged in this case and
+
+60
+00:03:10,651 --> 00:03:14,981
+the logical item contained can stay at 28 and kind
+
+61
+00:03:14,981 --> 00:03:17,716
+of the latest versions remain identical. It is labeled as
+
+62
+00:03:17,716 --> 00:03:21,714
+a replay now the live collection date and recovery records
+
+63
+00:03:21,714 --> 00:03:24,353
+are also kind of preserved in this case. The latest
+
+64
+00:03:24,353 --> 00:03:27,909
+briefs contain the invalid quotations even after a band that
+
+65
+00:03:27,909 --> 00:03:31,023
+automated repair and the assistance corrections retain kind of the
+
+66
+00:03:31,023 --> 00:03:33,726
+before and after records and explain kind of the source
+
+67
+00:03:33,726 --> 00:03:38,467
+attribution fixes. This is more of an assisted recovery rather
+
+68
+00:03:38,467 --> 00:03:42,149
+than just the unattended successes that we have here.
+
+69
+00:03:42,339 --> 00:03:46,069
+So here we have kind of the editorial reviews preserves
+
+70
+00:03:46,069 --> 00:03:49,056
+my comments as well as my judgments kind of like
+
+71
+00:03:49,056 --> 00:03:52,802
+accepted sources that connected the mutual practical workflows and provided
+
+72
+00:03:52,802 --> 00:03:55,994
+more like concrete competitive research capabilities or described and kind
+
+73
+00:03:55,994 --> 00:03:59,155
+of like you know like inspectable like multi-agent checking
+
+74
+00:03:59,155 --> 00:04:02,332
+process and I defer some of the sources that I
+
+75
+00:04:02,332 --> 00:04:06,220
+have whose frameworks needed a little bit just more evidence
+
+76
+00:04:06,220 --> 00:04:08,954
+in a sense and whose speeds cause kind and and
+
+77
+00:04:08,954 --> 00:04:11,499
+cause claim kind of lack the comparisons or remain like
+
+78
+00:04:11,499 --> 00:04:15,434
+hypothetical. And the policy version three implements these judgments
+
+79
+00:04:15,545 --> 00:04:17,931
+And for the performance claims it asks for like the
+
+80
+00:04:17,931 --> 00:04:20,934
+same research questions and materials against the name baseline including
+
+81
+00:04:20,934 --> 00:04:24,759
+the preparation and checking and the actual cost. And I
+
+82
+00:04:24,759 --> 00:04:27,714
+think the useful method that we have here can still
+
+83
+00:04:27,714 --> 00:04:30,954
+be discussed without the unsupported savings. And here are some
+
+84
+00:04:30,954 --> 00:04:33,688
+of the editorial adjustments that I have here.
+
+85
+00:04:33,751 --> 00:04:36,011
+conclusion that we have here as I realize that the
+
+86
+00:04:36,011 --> 00:04:40,152
+architectural trade-off is probably like just the inspectability versus
+
+87
+00:04:40,152 --> 00:04:40,563
+the
+
+88
+00:04:40,563 --> 00:04:41,417
+operational complexity
+
+89
+00:04:41,519 --> 00:04:45,344
+separating the bash interfaces makes the stages easier to inspect
+
+90
+00:04:45,344 --> 00:04:48,347
+and replay while Python is better at handling parsing and
+
+91
+00:04:48,347 --> 00:04:52,219
+the storage. And the versioned evidence also preserves a more
+
+92
+00:04:52,219 --> 00:04:54,479
+clear like reasoning trail in a sense. But you know
+
+93
+00:04:54,479 --> 00:04:57,624
+like a more like fresh clone needs to kind of
+
+94
+00:04:57,624 --> 00:05:01,907
+reconstruct the local SQLite index. And I realize that the
+
+95
+00:05:01,907 --> 00:05:05,542
+caching avoids a lot of the repeated transcription while you
+
+96
+00:05:05,542 --> 00:05:08,055
+know changes kind of the source media may need a
+
+97
+00:05:08,055 --> 00:05:10,284
+more explicit refresh in a sense. And
+
+98
+00:05:10,529 --> 00:05:13,911
+takeaway will be that the more for more reliable AI
+
+99
+00:05:13,911 --> 00:05:18,226
+research depends on evidence management and review on as on
+
+100
+00:05:18,226 --> 00:05:21,244
+kind of the text generation. And my next improvement would
+
+101
+00:05:21,244 --> 00:05:24,231
+be able to like strengthen the claim level validation before
+
+102
+00:05:24,231 --> 00:05:28,214
+kind of like drafting so the more unsupported claims are
+
+103
+00:05:28,214 --> 00:05:32,908
+caught like much earlier than they usually are. And this
+
+104
+00:05:32,908 --> 00:05:34,789
+links kind of like publish series
+
+105
+00:05:34,907 --> 00:05:37,997
+and retained some of like the field alongside the successful
+
+106
+00:05:37,997 --> 00:05:42,375
+outputs and kind of the final source verification that we
+
+107
+00:05:42,375 --> 00:05:46,168
+have here and the approvals right and have been done
+
+108
+00:05:46,168 --> 00:05:51,526
+as well. So thank you.

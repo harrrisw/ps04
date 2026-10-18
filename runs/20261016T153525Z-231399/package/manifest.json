@@ -1,0 +1,56 @@
+{
+  "review_id": "88fb51953979564157d3a009397cd45994a89b75693f059fb2161262ce249386",
+  "assets": [
+    {
+      "piece_id": "01",
+      "kind": "article",
+      "path": "runs/20261016T153525Z-231399/package/01-article.md"
+    },
+    {
+      "piece_id": "02",
+      "kind": "article",
+      "path": "runs/20261016T153525Z-231399/package/02-article.md"
+    },
+    {
+      "piece_id": "03",
+      "kind": "article",
+      "path": "runs/20261016T153525Z-231399/package/03-article.md"
+    },
+    {
+      "piece_id": "01",
+      "kind": "video_script",
+      "path": "runs/20261016T153525Z-231399/package/01-video_script.md"
+    },
+    {
+      "piece_id": "02",
+      "kind": "video_script",
+      "path": "runs/20261016T153525Z-231399/package/02-video_script.md"
+    },
+    {
+      "piece_id": "03",
+      "kind": "video_script",
+      "path": "runs/20261016T153525Z-231399/package/03-video_script.md"
+    },
+    {
+      "piece_id": "01",
+      "kind": "source_notes",
+      "path": "runs/20261016T153525Z-231399/package/01-sources.md"
+    },
+    {
+      "piece_id": "02",
+      "kind": "source_notes",
+      "path": "runs/20261016T153525Z-231399/package/02-sources.md"
+    },
+    {
+      "piece_id": "03",
+      "kind": "source_notes",
+      "path": "runs/20261016T153525Z-231399/package/03-sources.md"
+    }
+  ],
+  "manual_steps": [],
+  "publication_links_path": "runs/20261016T153525Z-231399/package/publication_links.json",
+  "status": "approved_validation_run_not_selected_for_publication",
+  "finalized_on": "2026-10-18",
+  "production_tool": "Chatterbox Nano and FFmpeg, selected by the student instead of Google Vids/HeyGen",
+  "technical_demo": "deliverables/recorded-demo/technical-demo.mp4"
+}

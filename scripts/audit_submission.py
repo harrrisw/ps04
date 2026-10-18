@@ -3,6 +3,7 @@
 Writes a hash inventory and reports; never changes historical run artifacts.
 """
 import hashlib
+from datetime import datetime, timezone
 import json
 from pathlib import Path
 import re
@@ -52,7 +53,7 @@ def main():
             if link.startswith(('http:','https:','#','mailto:')): continue
             target=(path.parent/link.split('#')[0]).resolve()
             if not target.exists(): navigation.append(dict(file=str(path.relative_to(ROOT)),target=link))
-    report=dict(checked_on='2026-10-16',retained_runs=len(runs),retained_hashed_files=len(inventory),referenced_evidence_files=len(referenced),missing_evidence=sorted(set(missing)),untracked_evidence=sorted(referenced-tracked),broken_local_links=navigation,possible_parley_key_files=sorted(set(secret_findings)),scope='Local structural audit; not semantic source verification, external playback, or a grading prediction')
+    report=dict(checked_on=datetime.now(timezone.utc).date().isoformat(),retained_runs=len(runs),retained_hashed_files=len(inventory),referenced_evidence_files=len(referenced),missing_evidence=sorted(set(missing)),untracked_evidence=sorted(referenced-tracked),broken_local_links=navigation,possible_parley_key_files=sorted(set(secret_findings)),scope='Local structural audit; not semantic source verification, external playback, or a grading prediction')
     (OUT/'artifact_inventory.json').write_text(json.dumps(inventory,indent=2)+'\n',encoding='utf-8')
     (OUT/'repository_checks.json').write_text(json.dumps(report,indent=2)+'\n',encoding='utf-8')
     print(json.dumps(report,indent=2))

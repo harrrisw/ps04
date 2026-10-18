@@ -1,0 +1,38 @@
+[
+  {
+    "piece_id": "01",
+    "substack_url": "https://mingxiwang.substack.com/p/pilot-the-evidence-trail-before-automating",
+    "youtube_url": "https://youtu.be/IDsybf7UwEE",
+    "youtube_title": "Pilot the Evidence Trail Before Automating Competitor Research",
+    "previous_youtube_url": "https://youtu.be/qWxMqmFNnIw",
+    "reported_by": "student",
+    "checked_on": "2026-10-18",
+    "verification": "Anonymous YouTube oEmbed returned the title/channel; the free-access Substack article body includes this replacement video link. Full external playback was not independently tested.",
+    "source_run": "20261010T052912Z-1d2e8a",
+    "production": "Local Chatterbox Nano voice-cloned revision"
+  },
+  {
+    "piece_id": "02",
+    "substack_url": "https://mingxiwang.substack.com/p/make-ai-research-earn-its-place-with",
+    "youtube_url": "https://youtu.be/7iR-6_BBqYQ",
+    "youtube_title": "Make AI Research Earn Its Place With Evidence You Can Check",
+    "previous_youtube_url": "https://youtu.be/Ej1c8o_LTf8",
+    "reported_by": "student",
+    "checked_on": "2026-10-18",
+    "verification": "Anonymous YouTube oEmbed returned the title/channel; the free-access Substack article body includes this replacement video link. Full external playback was not independently tested.",
+    "source_run": "20261010T052912Z-1d2e8a",
+    "production": "Local Chatterbox Nano voice-cloned revision"
+  },
+  {
+    "piece_id": "03",
+    "substack_url": "https://mingxiwang.substack.com/p/pilot-one-customer-question-and-count",
+    "youtube_url": "https://youtu.be/8oNRSNaHDDU",
+    "youtube_title": "Pilot One Customer Question and Count the Work Needed to Trust the Answer",
+    "previous_youtube_url": "https://youtu.be/oUOU5CditYM",
+    "reported_by": "student",
+    "checked_on": "2026-10-18",
+    "verification": "Anonymous YouTube oEmbed returned the title/channel; the free-access Substack article body includes this replacement video link. Full external playback was not independently tested.",
+    "source_run": "20261010T052912Z-1d2e8a",
+    "production": "Local Chatterbox Nano voice-cloned revision"
+  }
+]

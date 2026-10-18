@@ -1,5 +1,7 @@
 # Student editorial review
 
+Final source/submission approval was supplied by Mingxi Wang on October 18, 2026 and recorded for [the published series](../runs/20261010T052912Z-1d2e8a/approval.json) and [the Parley rerun](../runs/20261016T153525Z-231399/approval.json). The procedure below describes the approval mechanism.
+
 These are real student decisions. Templates and AI suggestions are not approval.
 
 1. Read the three articles, scripts, briefs, source notes, and `review.json`.

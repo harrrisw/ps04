@@ -1,6 +1,7 @@
 # Technical demonstration — read-aloud script
 
-Approximately five to six minutes with brief navigation pauses. Read only the
+Updated October 18, 2026 to match the simplified SUBMISSION.md and replacement
+video uploads. Target five to six minutes with brief navigation pauses. Read only the
 quoted narration; the screen cues are directions. Replace `[your name]` and
 rephrase anything you would not naturally say. This is an AI-assisted script
 based on the saved records, not a statement that you personally performed every
@@ -8,7 +9,7 @@ implementation or verification step.
 
 ## 1. Project and audience — 0:00
 
-**Screen:** SUBMISSION: topic and publication links.
+**Screen:** [SUBMISSION.md](../SUBMISSION.md): Topic and Audience, then Published Series. Show the current three YouTube links.
 
 > Hi, I'm [your name]. This project is the Small Business Research Brief, a
 > research pipeline for market researchers working with small-business budgets.
@@ -19,7 +20,7 @@ implementation or verification step.
 
 ## 2. Architecture and entry point — 0:30
 
-**Screen:** Rendered diagram; switch to run.sh and point to its workflow calls.
+**Screen:** The simplified diagram embedded in SUBMISSION.md under Architecture and Manual Handoffs. Then show [run.sh](../run.sh). Display `bash run.sh`; do not imply you executed it if you only show the command.
 
 > The entry point is bash run dot sh. Sixteen Bash interfaces separate orchestration,
 > collection, storage, editorial work, checking, and packaging. Focused Python
@@ -30,10 +31,15 @@ implementation or verification step.
 > sources, creates briefs, and drafts articles and scripts. Checks lead to human
 > review, and packaging requires an approval matching the reviewed content.
 
-## 3. One source into a published claim — 1:15
+> The separate video branch uses Chatterbox to generate narration from my supplied
+> voice sample, then combines it with visuals and captions. The voice is
+> AI-generated. I chose Chatterbox for video production
+> in place of Google Vids or HeyGen. My source approval is recorded separately.
+
+## 3. One source into a published claim — 1:25
 
 **Screen:** Show the source quote, matching decision, brief claim, and published
-article, in that order. Use the guide's search strings.
+article, in that order. Open them from [CLAIM_TRACE.md](CLAIM_TRACE.md). Search the source for `Ask for more`, decisions for `feed:32944883b9dff85a7148008d`, and briefs for `01-C01`.
 
 > Here is a complete claim trace. Crayon's retained source text says, “Ask for more
 > and you get the full text and source link.” The source record has a stable item
@@ -45,23 +51,24 @@ article, in that order. Use the guide's search strings.
 > proof of accuracy or affordability. That distinction is important: a traceable
 > quotation supports what the vendor said, not every conclusion about the product.
 
-## 4. The second run — 2:15
+## 4. The second run — 2:20
 
-**Screen:** October 10 and October 16 summaries, then feedback_comparison.md.
+**Screen:** SUBMISSION.md → Evidence and Runs. Show the two-row run table, open the linked summaries, then the run comparison.
 
 > The October tenth run had thirty-nine eligible items from nine publishers. The
 > final October sixteenth run had sixty, also from nine publishers, and produced
 > another three articles and scripts. Those later drafts are separate from the
-> published October tenth series. The comparison records changes in eligible
+> published October tenth series. The first used Codex, and the second used MIT
+> Parley with the revised policy. The comparison records changes in eligible
 > evidence, decisions, policy, and arguments. The later collection batch shows
 > two new and thirty-eight unchanged records relative to the store at that point;
 > those are not the differences against October tenth. Date, sources, provider,
 > and policy changed together, so this is not a controlled policy experiment.
 > The later run also occurred after the supplied deadline.
 
-## 5. Duplicate handling and recovery — 3:00
+## 5. Duplicate handling and recovery — 3:05
 
-**Screen:** replay.json, then assistant brief-repair README.
+**Screen:** Open Duplicate handling and Failure and recovery links from SUBMISSION.md. In replay.json, point to `all_unchanged` and `same_latest_versions`; then show the brief-repair README.
 
 > This replay re-ingested twenty-eight saved items. Every result was unchanged,
 > the logical item count stayed at twenty-eight, and the latest versions remained
@@ -72,9 +79,9 @@ article, in that order. Use the guide's search strings.
 > This is assisted recovery, not an unattended success. Mechanical checks can
 > detect invalid references, but human interpretation still matters.
 
-## 6. My feedback and the policy revision — 3:40
+## 6. My feedback and the policy revision — 3:45
 
-**Screen:** human_review_sample.md, then the baseline paragraph in policy v3.
+**Screen:** SUBMISSION.md → Editorial Review. Show your six judgments, then the linked before/after policy and the baseline paragraph in version 3.
 
 > My feedback accepted sources that connected theory to practical workflows,
 > provided concrete competitor-research capabilities, or described an inspectable
@@ -86,17 +93,18 @@ article, in that order. Use the guide's search strings.
 > A useful method can still be discussed without accepting unsupported savings.
 > These are editorial judgments; they do not establish that I ran that benchmark.
 
-## 7. Tradeoff and conclusion — 4:30
+## 7. Tradeoff and conclusion — 4:40
 
-**Screen:** Architecture and evaluation checklist; finish on publication links.
+**Screen:** SUBMISSION.md → Reflection. Finish on Published Series. The section times are pacing guides; allow extra time for the Chatterbox explanation and stay under six minutes overall.
 
 > The architectural tradeoff is inspectability versus operational complexity.
 > Separate Bash interfaces make stages easier to inspect and replay, while Python
 > handles parsing and storage. Versioned evidence preserves the reasoning trail,
 > but a fresh clone needs to reconstruct the local SQLite index. Media caching
 > avoids repeated transcription, while changed source media may need an explicit
-> refresh. My main takeaway is that accessible evidence does not automatically
-> produce reliable research: verification and maintenance are part of the workflow.
-> The repository links the publications and retains the failed attempts as well
-> as successful outputs. Its checklist identifies remaining review and production
-> requirements rather than presenting them as completed.
+> refresh. My main takeaway is that reliable AI research depends as much on evidence
+> management and review as on text generation. My next improvement would strengthen
+> claim-level validation before drafting, so unsupported claims are caught earlier.
+> The submission links the published series and retains failures alongside successful
+> outputs. My source approval is recorded, and I selected Chatterbox
+> as the production tool for the final published videos.

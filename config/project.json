@@ -8,7 +8,7 @@
   "voice": "Practical, accessible, analytically skeptical, specific about evidence and uncertainty",
   "return_value": "A repeatable check on which new capabilities merit a small pilot and which claims still need validation",
   "deadline": "2026-10-13",
-  "video_tool": "Google Vids",
+  "video_tool": "Chatterbox Nano + FFmpeg",
   "ai": {
     "provider": "parley",
     "model": "gpt-5.4-mini",

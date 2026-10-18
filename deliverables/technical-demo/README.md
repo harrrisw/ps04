@@ -1,3 +1,7 @@
+# Earlier AI demonstration — archived
+
+The final submission uses the [student-recorded technical demo](../recorded-demo/README.md). Files in this folder preserve the earlier AI walkthrough and its production records.
+
 # AI technical demonstration
 
 [Watch/download the MP4](technical-demo.mp4) — **5:43**, approximately 5.3 MB.

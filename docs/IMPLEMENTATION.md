@@ -24,7 +24,7 @@ flowchart TD
     V --> K
     K --> H[Student editorial review and approval]
     H --> X[publishing/prepare_package.sh]
-    X --> M[Google Vids or HeyGen and platform publication]
+    X --> M[Chatterbox production and platform publication]
     R --> T[reporting/summarize_run.sh]
 ```
 
@@ -73,9 +73,11 @@ flowchart LR
     Q --> H[Playback and human review]
     F --> H
     H --> L[Four local revised MP4s]
-    L --> P[Google Vids or HeyGen handoff and manual upload]
+    L --> P[Student-approved Chatterbox production and manual upload]
 ```
 
 The reference recording and model files remain in ignored `.tools/`; large video
 revisions remain local. Synthetic voice narration is disclosed. Original public
 uploads retain their existing links until replacement uploads are provided.
+
+Finalization: Mingxi Wang approved the sources and submission on October 18, selected Chatterbox instead of Google Vids/HeyGen, and supplied the [recorded technical demo](../deliverables/recorded-demo/README.md). Historical run snapshots preserve their original settings.

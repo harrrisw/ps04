@@ -5,6 +5,11 @@ and your voice. A face camera is optional. Use the
 [read-aloud script](TECH_DEMO_SCRIPT.md), adapting it to wording you can explain.
 The script was prepared with AI assistance from the repository's actual records.
 
+Updated October 18: use **SUBMISSION.md as your main screen**. Its simplified
+embedded diagram, two-run table, editorial-review table, and reflection now provide
+the demonstration's structure. Open detailed evidence only when tracing the claim
+or showing replay/recovery. The read-aloud script includes Chatterbox voice production.
+
 ## Before recording
 
 1. Use your screen recorder with microphone audio enabled. Choose a 1080p screen
@@ -26,12 +31,12 @@ The times are pacing targets, not measured narration durations.
 | Time | Show | Action |
 | --- | --- | --- |
 | 0:00–0:30 | [SUBMISSION.md](../SUBMISSION.md) | Show topic/audience, then the three article/video pairs. |
-| 0:30–1:15 | [Rendered architecture](https://github.com/harrrisw/ps04/blob/main/docs/IMPLEMENTATION.md), then [run.sh](../run.sh) | Show the diagram, then point to collection, series creation, and reporting calls. Explain `bash run.sh`. |
-| 1:15–2:15 | [Claim trace](CLAIM_TRACE.md), [source text](../data/assets/c3df7e6b65257849c66ba049/b192c0ca1da12bd242489506681f276f83473000ed4152d9795eac13ccc33ed1/text.txt), [decisions](../runs/20261010T052912Z-1d2e8a/decisions.jsonl), [briefs](../runs/20261010T052912Z-1d2e8a/briefs.jsonl), [published article](https://mingxiwang.substack.com/p/pilot-the-evidence-trail-before-automating) | Locate the quote, the acceptance, claim `01-C01`, and the article's “What source access changes” section. |
-| 2:15–3:00 | [Run inventory](RUNS.md), [October 10 summary](../runs/20261010T052912Z-1d2e8a/summary.json), [October 16 summary](../runs/20261016T153525Z-231399/summary.json), [comparison](../runs/20261016T153525Z-231399/feedback_comparison.md) | Show eligible counts and actual dates. Briefly show how the saved comparison records editorial changes. |
-| 3:00–3:40 | [Duplicate replay](../runs/20261010T052041Z-15fd8c/replays/store-e46554b8/replay.json), [repair record](../runs/20261016T153525Z-231399/assistant_edits/brief_repair/README.md) | Highlight `all_unchanged`, `same_latest_versions`, and the documented invalid-quotation recovery. |
-| 3:40–4:30 | [Your feedback](../runs/20261010T052912Z-1d2e8a/human_review_sample.md), [policy v3](../config/editorial_policy.md) | Show an accept and a defer judgment; highlight the rule requiring a measured baseline for speed/cost claims. |
-| 4:30–5:30 | [Architecture](IMPLEMENTATION.md), then [evaluation checklist](EVALUATION.md) | Explain the tradeoff, published outputs, and remaining limits. |
+| 0:30–1:25 | [Submission architecture](../SUBMISSION.md#architecture-and-manual-handoffs), then [run.sh](../run.sh) | Follow the simplified diagram, explain `bash run.sh`, and point to the separate Chatterbox branch. |
+| 1:25–2:20 | [Claim trace](CLAIM_TRACE.md), [source text](../data/assets/c3df7e6b65257849c66ba049/b192c0ca1da12bd242489506681f276f83473000ed4152d9795eac13ccc33ed1/text.txt), [decisions](../runs/20261010T052912Z-1d2e8a/decisions.jsonl), [briefs](../runs/20261010T052912Z-1d2e8a/briefs.jsonl), [published article](https://mingxiwang.substack.com/p/pilot-the-evidence-trail-before-automating) | Locate the quote, the acceptance, claim `01-C01`, and the article's “What source access changes” section. |
+| 2:20–3:05 | [Submission run table](../SUBMISSION.md#evidence-and-runs), [October 10 summary](../runs/20261010T052912Z-1d2e8a/summary.json), [October 16 summary](../runs/20261016T153525Z-231399/summary.json), [comparison](../runs/20261016T153525Z-231399/feedback_comparison.md) | Show the two principal runs, counts, dates, and changed provider/policy. |
+| 3:05–3:45 | [Duplicate replay](../runs/20261010T052041Z-15fd8c/replays/store-e46554b8/replay.json), [repair record](../runs/20261016T153525Z-231399/assistant_edits/brief_repair/README.md) | Highlight `all_unchanged`, `same_latest_versions`, and the documented invalid-quotation recovery. |
+| 3:45–4:40 | [Your feedback](../runs/20261010T052912Z-1d2e8a/human_review_sample.md), [policy v3](../config/editorial_policy.md) | Show an accept and a defer judgment; highlight the rule requiring a measured baseline for speed/cost claims. |
+| 4:40–5:50 | [Your reflection](../SUBMISSION.md#reflection), then the publication table | Explain the tradeoff, earlier claim validation as the next improvement, and remaining limits. |
 
 ### Search strings for the claim trace
 

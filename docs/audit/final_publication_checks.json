@@ -1,0 +1,50 @@
+{
+  "checked_on": "2026-10-18",
+  "method": "Anonymous article-body retrieval and YouTube oEmbed; not full external video playback",
+  "publications": [
+    {
+      "piece_id": "01",
+      "substack_url": "https://mingxiwang.substack.com/p/pilot-the-evidence-trail-before-automating",
+      "youtube_url": "https://youtu.be/IDsybf7UwEE",
+      "youtube_status": 200,
+      "title": "Pilot the Evidence Trail Before Automating Competitor Research",
+      "channel": "Harris Wang",
+      "article_status": 200,
+      "article_body_words": 719,
+      "article_video_links": [
+        "https://youtu.be/IDsybf7UwEE"
+      ]
+    },
+    {
+      "piece_id": "02",
+      "substack_url": "https://mingxiwang.substack.com/p/make-ai-research-earn-its-place-with",
+      "youtube_url": "https://youtu.be/7iR-6_BBqYQ",
+      "youtube_status": 200,
+      "title": "Make AI Research Earn Its Place With Evidence You Can Check",
+      "channel": "Harris Wang",
+      "article_status": 200,
+      "article_body_words": 763,
+      "article_video_links": [
+        "https://youtu.be/7iR-6_BBqYQ"
+      ]
+    },
+    {
+      "piece_id": "03",
+      "substack_url": "https://mingxiwang.substack.com/p/pilot-one-customer-question-and-count",
+      "youtube_url": "https://youtu.be/8oNRSNaHDDU",
+      "youtube_status": 200,
+      "title": "Pilot One Customer Question and Count the Work Needed to Trust the Answer",
+      "channel": "Harris Wang",
+      "article_status": 200,
+      "article_body_words": 762,
+      "article_video_links": [
+        "https://www.youtube.com/watch?v=Z4Coq_GIcpo&t=378s",
+        "https://www.youtube.com/watch?v=Z4Coq_GIcpo&t=380s",
+        "https://www.youtube.com/watch?v=Z4Coq_GIcpo&t=979s",
+        "https://www.youtube.com/watch?v=Z4Coq_GIcpo&t=967s",
+        "https://youtu.be/8oNRSNaHDDU",
+        "https://www.youtube.com/watch?v=Z4Coq_GIcpo&t=375s"
+      ]
+    }
+  ]
+}

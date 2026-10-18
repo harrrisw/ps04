@@ -1,9 +1,6 @@
-# Repeatability evidence and technical demonstration
+# Technical demonstration
 
-To record your own version, use the [recording directions and screen sequence](TECH_DEMO_RECORDING_GUIDE.md)
-and [read-aloud script](TECH_DEMO_SCRIPT.md). The existing AI video stays linked until a replacement is supplied.
-
-Completed AI version: [5:43 technical walkthrough, script, captions, and storyboard](../deliverables/technical-demo/README.md). This shows saved artifacts, not a new live execution. Student review remains pending.
+The final submission uses [Mingxi Wang’s recorded 5:52 walkthrough](../deliverables/recorded-demo/technical-demo.mp4), combined from two supplied recordings. [Edit details](../deliverables/recorded-demo/README.md). Earlier AI versions are retained as production history.
 
 Deadline supplied: Tuesday, October 13, 2026. Live runs must occur during the
 assignment week, on two different actual days. Multiple runs on October 10 are

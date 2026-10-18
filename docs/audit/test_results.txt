@@ -14,3 +14,8 @@ recording. No new paid model generation was used for this submission audit.
 
 Technical demo: 343.33 seconds; FFmpeg full audio/video decode passed.
 All seven storyboard scenes were visually inspected for readability and clipping.
+
+Final validation, October 18, 2026: 27 tests passed in 19.870 seconds.
+Both retained runs passed fresh content assessment; matching student approvals
+were recorded and both publication packages were generated successfully.
+The student-recorded technical demo passed full audio/video decode (5:52).
